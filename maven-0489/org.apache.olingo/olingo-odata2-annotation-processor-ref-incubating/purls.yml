@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.olingo/olingo-odata2-annotation-processor-ref-incubating@1.1.0
+- pkg:maven/org.apache.olingo/olingo-odata2-annotation-processor-ref-incubating@1.1.0?classifier=sources

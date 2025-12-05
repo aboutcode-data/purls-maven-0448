@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.collections-generic@4.01_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.collections-generic@4.01_1?classifier=sources

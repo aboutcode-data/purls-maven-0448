@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cassandra.deps/avro@1.4.0-cassandra-1
+- pkg:maven/org.apache.cassandra.deps/avro@1.4.0-cassandra-1?classifier=sources

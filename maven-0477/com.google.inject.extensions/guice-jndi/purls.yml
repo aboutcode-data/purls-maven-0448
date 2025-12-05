@@ -1,0 +1,9 @@
+- pkg:maven/com.google.inject.extensions/guice-jndi@2.0
+- pkg:maven/com.google.inject.extensions/guice-jndi@3.0
+- pkg:maven/com.google.inject.extensions/guice-jndi@3.0-rc2
+- pkg:maven/com.google.inject.extensions/guice-jndi@3.0-rc2?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-jndi@3.0-rc3
+- pkg:maven/com.google.inject.extensions/guice-jndi@3.0-rc3?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-jndi@3.0?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-jndi@4.0-beta
+- pkg:maven/com.google.inject.extensions/guice-jndi@4.0-beta?classifier=sources

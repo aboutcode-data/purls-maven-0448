@@ -1,0 +1,2 @@
+- pkg:maven/jp.go.aist.six.oval/six-oval@1.5.2
+- pkg:maven/jp.go.aist.six.oval/six-oval@1.5.2?classifier=sources

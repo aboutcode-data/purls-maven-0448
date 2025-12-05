@@ -1,0 +1,2 @@
+- pkg:maven/org.mule.modules/mule-module-activiti@3.1.1
+- pkg:maven/org.mule.modules/mule-module-activiti@3.1.1?classifier=sources

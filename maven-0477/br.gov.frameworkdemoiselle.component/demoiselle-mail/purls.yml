@@ -1,0 +1,2 @@
+- pkg:maven/br.gov.frameworkdemoiselle.component/demoiselle-mail@2.1.0
+- pkg:maven/br.gov.frameworkdemoiselle.component/demoiselle-mail@2.1.0?classifier=sources

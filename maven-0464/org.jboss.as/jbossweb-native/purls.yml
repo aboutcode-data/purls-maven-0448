@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.as/jbossweb-native@2.0.10.Beta1
+- pkg:maven/org.jboss.as/jbossweb-native@2.0.10.Beta1?classifier=sources
+- pkg:maven/org.jboss.as/jbossweb-native@2.0.10.Final
+- pkg:maven/org.jboss.as/jbossweb-native@2.0.10.Final?classifier=sources

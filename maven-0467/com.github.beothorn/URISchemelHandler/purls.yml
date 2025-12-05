@@ -1,0 +1,2 @@
+- pkg:maven/com.github.beothorn/URISchemelHandler@1.4
+- pkg:maven/com.github.beothorn/URISchemelHandler@1.4?classifier=sources

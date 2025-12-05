@@ -1,0 +1,8 @@
+- pkg:maven/com.googlecode.jinahya/ocap-dvr@I05
+- pkg:maven/com.googlecode.jinahya/ocap-dvr@I05?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ocap-dvr@I07
+- pkg:maven/com.googlecode.jinahya/ocap-dvr@I07?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ocap-dvr@I08
+- pkg:maven/com.googlecode.jinahya/ocap-dvr@I08?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ocap-dvr@I09
+- pkg:maven/com.googlecode.jinahya/ocap-dvr@I09?classifier=sources

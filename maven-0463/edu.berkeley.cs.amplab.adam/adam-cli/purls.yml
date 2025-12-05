@@ -1,0 +1,2 @@
+- pkg:maven/edu.berkeley.cs.amplab.adam/adam-cli@0.7.1
+- pkg:maven/edu.berkeley.cs.amplab.adam/adam-cli@0.7.1?classifier=sources

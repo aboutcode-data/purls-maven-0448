@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sling.samples/org.apache.sling.samples.webloader.service@2.0.2-incubator
+- pkg:maven/org.apache.sling.samples/org.apache.sling.samples.webloader.service@2.0.2-incubator?classifier=sources

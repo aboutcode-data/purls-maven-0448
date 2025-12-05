@@ -1,0 +1,2 @@
+- pkg:maven/com.threerings/signals@0.3
+- pkg:maven/com.threerings/signals@0.3?classifier=sources

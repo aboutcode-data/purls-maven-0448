@@ -1,0 +1,2 @@
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.11
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.11?classifier=sources

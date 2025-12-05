@@ -1,0 +1,2 @@
+- pkg:maven/it.unimi.dsi/mg4j@4.0.3
+- pkg:maven/it.unimi.dsi/mg4j@4.0.3?classifier=sources

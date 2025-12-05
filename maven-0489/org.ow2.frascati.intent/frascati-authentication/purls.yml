@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.frascati.intent/frascati-authentication@1.4
+- pkg:maven/org.ow2.frascati.intent/frascati-authentication@1.4?classifier=sources

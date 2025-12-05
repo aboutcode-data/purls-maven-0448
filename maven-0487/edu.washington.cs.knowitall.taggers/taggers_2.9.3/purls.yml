@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.knowitall.taggers/taggers_2.9.3@0.1
+- pkg:maven/edu.washington.cs.knowitall.taggers/taggers_2.9.3@0.1?classifier=sources

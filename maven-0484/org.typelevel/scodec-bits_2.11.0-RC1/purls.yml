@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/scodec-bits_2.11.0-RC1@1.0.0-RC2
+- pkg:maven/org.typelevel/scodec-bits_2.11.0-RC1@1.0.0-RC2?classifier=sources

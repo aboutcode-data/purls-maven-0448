@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.sorcerer/sorcerer-javac@0.7
+- pkg:maven/org.jvnet.sorcerer/sorcerer-javac@0.7?classifier=sources
+- pkg:maven/org.jvnet.sorcerer/sorcerer-javac@0.8
+- pkg:maven/org.jvnet.sorcerer/sorcerer-javac@0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cloudhopper/ch-jetty@1.0.2
+- pkg:maven/com.cloudhopper/ch-jetty@1.0.2?classifier=sources

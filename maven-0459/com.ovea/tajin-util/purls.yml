@@ -1,0 +1,10 @@
+- pkg:maven/com.ovea/tajin-util@1.57.ga
+- pkg:maven/com.ovea/tajin-util@1.57.ga?classifier=sources
+- pkg:maven/com.ovea/tajin-util@1.58.ga
+- pkg:maven/com.ovea/tajin-util@1.58.ga?classifier=sources
+- pkg:maven/com.ovea/tajin-util@1.59.ga
+- pkg:maven/com.ovea/tajin-util@1.59.ga?classifier=sources
+- pkg:maven/com.ovea/tajin-util@1.60.ga
+- pkg:maven/com.ovea/tajin-util@1.60.ga?classifier=sources
+- pkg:maven/com.ovea/tajin-util@1.61.ga
+- pkg:maven/com.ovea/tajin-util@1.61.ga?classifier=sources

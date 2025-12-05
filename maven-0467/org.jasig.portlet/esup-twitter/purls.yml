@@ -1,0 +1,3 @@
+- pkg:maven/org.jasig.portlet/esup-twitter@0.8?classifier=sources
+- pkg:maven/org.jasig.portlet/esup-twitter@0.8?type=war
+- pkg:maven/org.jasig.portlet/esup-twitter@0.9?type=war

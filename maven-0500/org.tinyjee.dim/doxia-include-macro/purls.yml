@@ -1,0 +1,10 @@
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.0.7
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.0.7?classifier=sources
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.1
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.1-alpha
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.1-alpha2
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.1-alpha2?classifier=sources
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.1-alpha?classifier=sources
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.1-beta
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.1-beta?classifier=sources
+- pkg:maven/org.tinyjee.dim/doxia-include-macro@1.1?classifier=sources

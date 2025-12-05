@@ -1,0 +1,2 @@
+- pkg:maven/com.yasudanetwork.struts2/flush-scope-plugin@0.1.4
+- pkg:maven/com.yasudanetwork.struts2/flush-scope-plugin@0.1.4?classifier=sources

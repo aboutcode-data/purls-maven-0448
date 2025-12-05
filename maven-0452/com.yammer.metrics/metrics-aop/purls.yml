@@ -1,0 +1,2 @@
+- pkg:maven/com.yammer.metrics/metrics-aop@2.0.0-BETA18
+- pkg:maven/com.yammer.metrics/metrics-aop@2.0.0-BETA18?classifier=sources

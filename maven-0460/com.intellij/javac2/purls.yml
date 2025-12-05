@@ -1,0 +1,4 @@
+- pkg:maven/com.intellij/javac2@5.1
+- pkg:maven/com.intellij/javac2@6.0.3
+- pkg:maven/com.intellij/javac2@6.0.5
+- pkg:maven/com.intellij/javac2@7.0.3

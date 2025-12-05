@@ -1,0 +1,4 @@
+- pkg:maven/javax.xml.registry/javax.xml.registry-api@1.0.4
+- pkg:maven/javax.xml.registry/javax.xml.registry-api@1.0.4?classifier=sources
+- pkg:maven/javax.xml.registry/javax.xml.registry-api@1.0.5
+- pkg:maven/javax.xml.registry/javax.xml.registry-api@1.0.5?classifier=sources

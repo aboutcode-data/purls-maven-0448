@@ -1,0 +1,2 @@
+- pkg:maven/javax.jdo/jdo@1.0.1?classifier=sources
+- pkg:maven/javax.jdo/jdo@2.0-20050809.1515

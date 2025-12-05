@@ -1,0 +1,5 @@
+- pkg:maven/org.jvnet.hudson.plugins/bulk-builder@0.1-snapshot?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/bulk-builder@0.2.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/bulk-builder@0.3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/bulk-builder@0.4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/bulk-builder@0.5?classifier=sources

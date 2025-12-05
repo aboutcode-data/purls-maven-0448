@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.aries.samples.blog/org.apache.aries.samples.blog.jpa.eba@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.aries.samples.blog/org.apache.aries.samples.blog.jpa.eba@0.2-incubating?classifier=sources
+- pkg:maven/org.apache.aries.samples.blog/org.apache.aries.samples.blog.jpa.eba@0.3?classifier=sources
+- pkg:maven/org.apache.aries.samples.blog/org.apache.aries.samples.blog.jpa.eba@1.0.0?classifier=sources

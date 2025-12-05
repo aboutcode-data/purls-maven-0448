@@ -1,0 +1,2 @@
+- pkg:maven/org.netpreserve.openwayback/openwayback-core@2.0.0.BETA.1
+- pkg:maven/org.netpreserve.openwayback/openwayback-core@2.0.0.BETA.1?classifier=sources

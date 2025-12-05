@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.synapse/synapse-extensions@1.0
+- pkg:maven/org.apache.synapse/synapse-extensions@1.1
+- pkg:maven/org.apache.synapse/synapse-extensions@1.1.1
+- pkg:maven/org.apache.synapse/synapse-extensions@1.1.2
+- pkg:maven/org.apache.synapse/synapse-extensions@2.1.0
+- pkg:maven/org.apache.synapse/synapse-extensions@2.1.0?classifier=sources

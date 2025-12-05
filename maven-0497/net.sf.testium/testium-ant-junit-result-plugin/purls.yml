@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.testium/testium-ant-junit-result-plugin@0.0.3
+- pkg:maven/net.sf.testium/testium-ant-junit-result-plugin@0.0.3?classifier=sources

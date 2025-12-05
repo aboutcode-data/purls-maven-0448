@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.fabric3.spec/sca-taglib-r0.9@0.5ALPHA2
+- pkg:maven/org.codehaus.fabric3.spec/sca-taglib-r0.9@0.5ALPHA2?classifier=sources
+- pkg:maven/org.codehaus.fabric3.spec/sca-taglib-r0.9@0.5BETA1
+- pkg:maven/org.codehaus.fabric3.spec/sca-taglib-r0.9@0.5BETA1?classifier=sources

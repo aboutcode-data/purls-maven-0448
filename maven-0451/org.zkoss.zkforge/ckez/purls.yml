@@ -1,0 +1,2 @@
+- pkg:maven/org.zkoss.zkforge/ckez@3.6.0.0
+- pkg:maven/org.zkoss.zkforge/ckez@3.6.0.0?classifier=sources

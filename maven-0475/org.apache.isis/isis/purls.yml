@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.isis/isis@0.1.2-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis/isis@0.2.0-incubating?classifier=source-release&type=zip

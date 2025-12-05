@@ -1,0 +1,12 @@
+- pkg:maven/com.github.gkutiel/flip-apt@1-RELEASE
+- pkg:maven/com.github.gkutiel/flip-apt@1-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-apt@2-RELEASE
+- pkg:maven/com.github.gkutiel/flip-apt@2-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-apt@3-RELEASE
+- pkg:maven/com.github.gkutiel/flip-apt@3-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-apt@4-RELEASE
+- pkg:maven/com.github.gkutiel/flip-apt@4-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-apt@4.1-RELEASE
+- pkg:maven/com.github.gkutiel/flip-apt@4.1-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-apt@5-RELEASE
+- pkg:maven/com.github.gkutiel/flip-apt@5-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.twentyeleven.skysail/com.jayway.rest-assured-osgi@1.6.2
+- pkg:maven/de.twentyeleven.skysail/com.jayway.rest-assured-osgi@1.6.2?classifier=sources

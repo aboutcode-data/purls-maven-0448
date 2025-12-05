@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@0.24
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@0.24?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@0.26
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@0.26?classifier=sources

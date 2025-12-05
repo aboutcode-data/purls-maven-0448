@@ -1,0 +1,2 @@
+- pkg:maven/dk.apaq.crud.jpa/crud-jpa@1.0.7
+- pkg:maven/dk.apaq.crud.jpa/crud-jpa@1.0.7?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.almende.eve/eve-gae-demo@1.0.1?type=war
+- pkg:maven/com.almende.eve/eve-gae-demo@1.0.2?classifier=sources
+- pkg:maven/com.almende.eve/eve-gae-demo@1.0.2?type=war

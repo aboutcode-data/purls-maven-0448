@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-wordnet-uw_2.10@2.4.4
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-wordnet-uw_2.10@2.4.4?classifier=sources

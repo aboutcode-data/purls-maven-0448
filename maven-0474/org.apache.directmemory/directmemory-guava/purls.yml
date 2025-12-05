@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.directmemory/directmemory-guava@0.2
+- pkg:maven/org.apache.directmemory/directmemory-guava@0.2?classifier=sources

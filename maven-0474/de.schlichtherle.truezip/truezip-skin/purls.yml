@@ -1,0 +1,13 @@
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@1
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@2
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@2?classifier=sources
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@3
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@3?classifier=sources
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@4
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@4?classifier=sources
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@5
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@5?classifier=sources
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@6
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@6?classifier=sources
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@7
+- pkg:maven/de.schlichtherle.truezip/truezip-skin@7?classifier=sources

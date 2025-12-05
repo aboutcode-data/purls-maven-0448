@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.geronimo.samples.javaee5/chat-tomcat@3.0.0?classifier=sources

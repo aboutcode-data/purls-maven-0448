@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.osgi.dev/lqmg-maven-plugin@1.0.0
+- pkg:maven/org.everit.osgi.dev/lqmg-maven-plugin@1.0.0?classifier=sources

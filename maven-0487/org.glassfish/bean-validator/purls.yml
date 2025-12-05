@@ -1,0 +1,16 @@
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.0.Alpha3-b01
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.0.Beta1-b01
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.0.Beta2-b02
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.0.Beta3
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.0.Beta3A
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.0.Beta3A?classifier=sources
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.1
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.1?classifier=sources
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.1_01
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.1_01?classifier=sources
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.1_03
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.1_03?classifier=sources
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.2
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.2_02
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.2_02?classifier=sources
+- pkg:maven/org.glassfish/bean-validator@3.0-JBoss-4.0.2_03

@@ -1,0 +1,4 @@
+- pkg:maven/net.lightoze.errbit/errbit-logger@2.3.0
+- pkg:maven/net.lightoze.errbit/errbit-logger@2.3.0?classifier=sources
+- pkg:maven/net.lightoze.errbit/errbit-logger@2.3.1
+- pkg:maven/net.lightoze.errbit/errbit-logger@2.3.1?classifier=sources

@@ -1,0 +1,7 @@
+- pkg:maven/org.webjars/jasny-bootstrap@2.3.0-j5
+- pkg:maven/org.webjars/jasny-bootstrap@2.3.0-j5-1
+- pkg:maven/org.webjars/jasny-bootstrap@2.3.0-j5-1?classifier=sources
+- pkg:maven/org.webjars/jasny-bootstrap@3.0.1-p7
+- pkg:maven/org.webjars/jasny-bootstrap@3.0.1-p7-1
+- pkg:maven/org.webjars/jasny-bootstrap@3.0.1-p7-1?classifier=sources
+- pkg:maven/org.webjars/jasny-bootstrap@3.0.1-p7?classifier=sources

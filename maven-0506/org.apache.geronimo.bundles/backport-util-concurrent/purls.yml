@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.geronimo.bundles/backport-util-concurrent@2.2_1
+- pkg:maven/org.apache.geronimo.bundles/backport-util-concurrent@2.2_1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/backport-util-concurrent@2.2_1?classifier=sources

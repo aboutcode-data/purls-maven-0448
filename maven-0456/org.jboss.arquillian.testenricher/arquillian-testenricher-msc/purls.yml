@@ -1,0 +1,12 @@
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP10
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP10?classifier=sources
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP5
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP5?classifier=sources
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP6
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP6?classifier=sources
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP7
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP7?classifier=sources
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP8
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP8?classifier=sources
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP9
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-msc@1.0.0.Alpha4.SP9?classifier=sources

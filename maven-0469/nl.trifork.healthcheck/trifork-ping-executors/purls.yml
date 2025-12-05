@@ -1,0 +1,2 @@
+- pkg:maven/nl.trifork.healthcheck/trifork-ping-executors@0.5.1
+- pkg:maven/nl.trifork.healthcheck/trifork-ping-executors@0.5.1?classifier=sources

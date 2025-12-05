@@ -1,0 +1,2 @@
+- pkg:maven/org.hobsoft.symmetry/symmetry-support-io@0.2.0
+- pkg:maven/org.hobsoft.symmetry/symmetry-support-io@0.2.0?classifier=sources

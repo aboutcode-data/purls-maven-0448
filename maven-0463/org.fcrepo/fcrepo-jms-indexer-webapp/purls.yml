@@ -1,0 +1,4 @@
+- pkg:maven/org.fcrepo/fcrepo-jms-indexer-webapp@4.0.0-alpha-2?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-jms-indexer-webapp@4.0.0-alpha-2?type=war
+- pkg:maven/org.fcrepo/fcrepo-jms-indexer-webapp@4.0.0-alpha-3?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-jms-indexer-webapp@4.0.0-alpha-3?type=war

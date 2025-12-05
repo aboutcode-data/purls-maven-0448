@@ -1,0 +1,6 @@
+- pkg:maven/com.eed3si9n/treehugger_2.10@0.2.1
+- pkg:maven/com.eed3si9n/treehugger_2.10@0.2.1?classifier=sources
+- pkg:maven/com.eed3si9n/treehugger_2.10@0.2.3
+- pkg:maven/com.eed3si9n/treehugger_2.10@0.2.3?classifier=sources
+- pkg:maven/com.eed3si9n/treehugger_2.10@0.3.0
+- pkg:maven/com.eed3si9n/treehugger_2.10@0.3.0?classifier=sources

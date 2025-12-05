@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.siena/play-siena@2.0.7
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.siena/play-siena@2.0.7?classifier=sources

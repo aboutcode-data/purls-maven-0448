@@ -1,0 +1,10 @@
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.1.0
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.1.0?classifier=sources
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.1.1
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.1.1?classifier=sources
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.2.0
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.2.0?classifier=sources
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.2.1
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.2.1?classifier=sources
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.3.0
+- pkg:maven/fi.reaktor/sqltyped_2.10@0.3.0?classifier=sources

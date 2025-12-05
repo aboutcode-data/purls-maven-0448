@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.spark/spark-streaming-flume_2.10@0.9.0-incubating
+- pkg:maven/org.apache.spark/spark-streaming-flume_2.10@0.9.0-incubating?classifier=sources

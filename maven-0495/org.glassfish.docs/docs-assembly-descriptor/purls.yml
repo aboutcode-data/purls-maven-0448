@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.docs/docs-assembly-descriptor@1.0
+- pkg:maven/org.glassfish.docs/docs-assembly-descriptor@1.0?classifier=sources

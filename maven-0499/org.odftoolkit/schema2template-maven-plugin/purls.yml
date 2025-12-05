@@ -1,0 +1,4 @@
+- pkg:maven/org.odftoolkit/schema2template-maven-plugin@0.8.6
+- pkg:maven/org.odftoolkit/schema2template-maven-plugin@0.8.6?classifier=sources
+- pkg:maven/org.odftoolkit/schema2template-maven-plugin@0.8.7
+- pkg:maven/org.odftoolkit/schema2template-maven-plugin@0.8.7?classifier=sources

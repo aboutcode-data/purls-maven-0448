@@ -1,0 +1,3 @@
+- pkg:maven/net.sf.saxon/saxon@7.9.1
+- pkg:maven/net.sf.saxon/saxon@8.5.1
+- pkg:maven/net.sf.saxon/saxon@8.7

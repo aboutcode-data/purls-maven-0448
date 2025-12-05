@@ -1,0 +1,2 @@
+- pkg:maven/com.github.richardwill98.elasticsearch/elasticsearch-river-mongodb@1.6.2?classifier=sources
+- pkg:maven/com.github.richardwill98.elasticsearch/elasticsearch-river-mongodb@1.6.2?type=zip

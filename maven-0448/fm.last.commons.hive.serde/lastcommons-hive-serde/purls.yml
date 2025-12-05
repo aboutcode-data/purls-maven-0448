@@ -1,0 +1,4 @@
+- pkg:maven/fm.last.commons.hive.serde/lastcommons-hive-serde@1.0.2
+- pkg:maven/fm.last.commons.hive.serde/lastcommons-hive-serde@1.0.2?classifier=sources
+- pkg:maven/fm.last.commons.hive.serde/lastcommons-hive-serde@2.0.0
+- pkg:maven/fm.last.commons.hive.serde/lastcommons-hive-serde@2.0.0?classifier=sources

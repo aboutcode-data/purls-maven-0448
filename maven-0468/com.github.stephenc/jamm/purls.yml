@@ -1,0 +1,6 @@
+- pkg:maven/com.github.stephenc/jamm@0.2.2
+- pkg:maven/com.github.stephenc/jamm@0.2.2?classifier=sources
+- pkg:maven/com.github.stephenc/jamm@0.2.4
+- pkg:maven/com.github.stephenc/jamm@0.2.4?classifier=sources
+- pkg:maven/com.github.stephenc/jamm@0.2.5
+- pkg:maven/com.github.stephenc/jamm@0.2.5?classifier=sources

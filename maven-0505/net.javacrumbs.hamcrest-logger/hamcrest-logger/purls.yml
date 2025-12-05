@@ -1,0 +1,2 @@
+- pkg:maven/net.javacrumbs.hamcrest-logger/hamcrest-logger@0.0.1
+- pkg:maven/net.javacrumbs.hamcrest-logger/hamcrest-logger@0.0.1?classifier=sources

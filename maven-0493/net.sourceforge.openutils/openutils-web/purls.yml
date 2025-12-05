@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.openutils/openutils-web@0.1
+- pkg:maven/net.sourceforge.openutils/openutils-web@0.1?classifier=sources

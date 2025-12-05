@@ -1,0 +1,2 @@
+- pkg:maven/com.reubenpeeris.maven/lombok-eclipse-compiler@1.1
+- pkg:maven/com.reubenpeeris.maven/lombok-eclipse-compiler@1.1?classifier=sources

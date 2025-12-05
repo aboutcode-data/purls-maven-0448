@@ -1,0 +1,3 @@
+- pkg:maven/org.ow2.frascati.examples/helloworld-osgi-felix@1.3
+- pkg:maven/org.ow2.frascati.examples/helloworld-osgi-felix@1.3?classifier=sources
+- pkg:maven/org.ow2.frascati.examples/helloworld-osgi-felix@1.4

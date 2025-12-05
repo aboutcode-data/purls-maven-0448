@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.ogc/ogc-tools-gml-jts@1.0.2
+- pkg:maven/org.jvnet.ogc/ogc-tools-gml-jts@1.0.2?classifier=sources
+- pkg:maven/org.jvnet.ogc/ogc-tools-gml-jts@1.0.3
+- pkg:maven/org.jvnet.ogc/ogc-tools-gml-jts@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.teatrove/package-info-maven-plugin@4.1.2
+- pkg:maven/org.teatrove/package-info-maven-plugin@4.1.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/leaflet@0.6.4
+- pkg:maven/org.webjars/leaflet@0.7
+- pkg:maven/org.webjars/leaflet@0.7.1
+- pkg:maven/org.webjars/leaflet@0.7.2

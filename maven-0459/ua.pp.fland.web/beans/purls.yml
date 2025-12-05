@@ -1,0 +1,4 @@
+- pkg:maven/ua.pp.fland.web/beans@0.9.0pa
+- pkg:maven/ua.pp.fland.web/beans@0.9.0pa?classifier=sources
+- pkg:maven/ua.pp.fland.web/beans@0.9.1pa
+- pkg:maven/ua.pp.fland.web/beans@0.9.1pa?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@1.6.0
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@1.6.0?classifier=sources
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@1.7.0
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@1.7.0?classifier=sources
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@1.8.0
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@1.8.0?classifier=sources
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@2.0.0
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@2.0.0?classifier=sources
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@2.0.1
+- pkg:maven/de.sciss/lucrestm-bdb_2.10@2.0.1?classifier=sources

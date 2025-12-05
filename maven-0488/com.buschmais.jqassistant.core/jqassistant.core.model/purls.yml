@@ -1,0 +1,2 @@
+- pkg:maven/com.buschmais.jqassistant.core/jqassistant.core.model@1.0.0-M1
+- pkg:maven/com.buschmais.jqassistant.core/jqassistant.core.model@1.0.0-M1?classifier=sources

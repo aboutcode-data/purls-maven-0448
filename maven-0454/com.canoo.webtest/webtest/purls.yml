@@ -1,0 +1,2 @@
+- pkg:maven/com.canoo.webtest/webtest@3.0
+- pkg:maven/com.canoo.webtest/webtest@3.0?classifier=sources

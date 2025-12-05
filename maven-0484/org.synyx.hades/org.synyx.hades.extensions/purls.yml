@@ -1,0 +1,10 @@
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.0.RC3
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.0.RC3?classifier=sources
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.0.RELEASE
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.0.RELEASE?classifier=sources
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.1.RELEASE
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.1.RELEASE?classifier=sources
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.2.RELEASE
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.2.RELEASE?classifier=sources
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.3.RELEASE
+- pkg:maven/org.synyx.hades/org.synyx.hades.extensions@2.0.3.RELEASE?classifier=sources

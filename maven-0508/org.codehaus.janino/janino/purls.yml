@@ -1,0 +1,6 @@
+- pkg:maven/org.codehaus.janino/janino@2.5.15
+- pkg:maven/org.codehaus.janino/janino@2.5.15?classifier=sources
+- pkg:maven/org.codehaus.janino/janino@2.5.16
+- pkg:maven/org.codehaus.janino/janino@2.5.16?classifier=sources
+- pkg:maven/org.codehaus.janino/janino@2.6.1
+- pkg:maven/org.codehaus.janino/janino@2.6.1?classifier=sources

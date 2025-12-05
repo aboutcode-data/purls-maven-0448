@@ -1,0 +1,14 @@
+- pkg:maven/org.chorusbdd/chorus-tools@0.3.6
+- pkg:maven/org.chorusbdd/chorus-tools@0.3.6?classifier=sources
+- pkg:maven/org.chorusbdd/chorus-tools@0.3.7
+- pkg:maven/org.chorusbdd/chorus-tools@0.3.7?classifier=sources
+- pkg:maven/org.chorusbdd/chorus-tools@1.3.8
+- pkg:maven/org.chorusbdd/chorus-tools@1.3.8?classifier=sources
+- pkg:maven/org.chorusbdd/chorus-tools@1.3.9
+- pkg:maven/org.chorusbdd/chorus-tools@1.3.9?classifier=sources
+- pkg:maven/org.chorusbdd/chorus-tools@1.4.10
+- pkg:maven/org.chorusbdd/chorus-tools@1.4.10?classifier=sources
+- pkg:maven/org.chorusbdd/chorus-tools@1.4.11
+- pkg:maven/org.chorusbdd/chorus-tools@1.4.11?classifier=sources
+- pkg:maven/org.chorusbdd/chorus-tools@1.4.12
+- pkg:maven/org.chorusbdd/chorus-tools@1.4.12?classifier=sources

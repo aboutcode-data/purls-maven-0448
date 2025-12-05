@@ -1,0 +1,2 @@
+- pkg:maven/se.vgregion.liferay-user-associations/liferay-user-associations-core-bc-module-portlet@1.0?classifier=sources
+- pkg:maven/se.vgregion.liferay-user-associations/liferay-user-associations-core-bc-module-portlet@1.0?type=war

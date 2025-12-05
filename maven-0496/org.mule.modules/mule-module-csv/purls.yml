@@ -1,0 +1,2 @@
+- pkg:maven/org.mule.modules/mule-module-csv@1.4-RC1
+- pkg:maven/org.mule.modules/mule-module-csv@1.4-RC1?classifier=sources

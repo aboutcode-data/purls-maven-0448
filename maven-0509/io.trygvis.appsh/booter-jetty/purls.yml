@@ -1,0 +1,8 @@
+- pkg:maven/io.trygvis.appsh/booter-jetty@8.1.11.v20130520%2B1
+- pkg:maven/io.trygvis.appsh/booter-jetty@8.1.11.v20130520%2B1?classifier=sources
+- pkg:maven/io.trygvis.appsh/booter-jetty@8.1.7.v20120910%2B1
+- pkg:maven/io.trygvis.appsh/booter-jetty@8.1.7.v20120910%2B1?classifier=sources
+- pkg:maven/io.trygvis.appsh/booter-jetty@8.1.8.v20121106%2B1
+- pkg:maven/io.trygvis.appsh/booter-jetty@8.1.8.v20121106%2B1?classifier=sources
+- pkg:maven/io.trygvis.appsh/booter-jetty@8.1.8.v20121106%2B2
+- pkg:maven/io.trygvis.appsh/booter-jetty@8.1.8.v20121106%2B2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.badlogicgames.jlayer/jlayer@1.0.1-gdx
+- pkg:maven/com.badlogicgames.jlayer/jlayer@1.0.1-gdx?classifier=sources
+- pkg:maven/com.badlogicgames.jlayer/jlayer@1.0.2-gdx
+- pkg:maven/com.badlogicgames.jlayer/jlayer@1.0.2-gdx?classifier=sources

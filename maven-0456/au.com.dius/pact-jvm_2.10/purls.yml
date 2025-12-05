@@ -1,0 +1,6 @@
+- pkg:maven/au.com.dius/pact-jvm_2.10@1.0
+- pkg:maven/au.com.dius/pact-jvm_2.10@1.0?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm_2.10@1.2
+- pkg:maven/au.com.dius/pact-jvm_2.10@1.2?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm_2.10@1.6
+- pkg:maven/au.com.dius/pact-jvm_2.10@1.6?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.sun.portal.portletcontainer/portletcontainercontext@1.0
+- pkg:maven/com.sun.portal.portletcontainer/portletcontainercontext@2.0-m2
+- pkg:maven/com.sun.portal.portletcontainer/portletcontainercontext@2.0-m3
+- pkg:maven/com.sun.portal.portletcontainer/portletcontainercontext@2.0-m4

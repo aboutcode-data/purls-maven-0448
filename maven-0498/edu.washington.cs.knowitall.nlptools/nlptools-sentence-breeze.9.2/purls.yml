@@ -1,0 +1,10 @@
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.1
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.1?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.2
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.2?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.3
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.3?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.4
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.4?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.5
+- pkg:maven/edu.washington.cs.knowitall.nlptools/nlptools-sentence-breeze.9.2@2.2.5?classifier=sources

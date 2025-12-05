@@ -1,0 +1,2 @@
+- pkg:maven/org.deephacks.tools4j/config-admin-jaxrs@0.0.1?classifier=sources
+- pkg:maven/org.deephacks.tools4j/config-admin-jaxrs@0.0.1?type=war

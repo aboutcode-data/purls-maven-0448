@@ -1,0 +1,4 @@
+- pkg:maven/com.codecommit/anti-xml_2.9.1@0.2
+- pkg:maven/com.codecommit/anti-xml_2.9.1@0.2?classifier=sources
+- pkg:maven/com.codecommit/anti-xml_2.9.1@0.3
+- pkg:maven/com.codecommit/anti-xml_2.9.1@0.3?classifier=sources

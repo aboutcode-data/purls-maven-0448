@@ -1,0 +1,2 @@
+- pkg:maven/de.malkusch.spring-lib/spring-lib@0.0.1
+- pkg:maven/de.malkusch.spring-lib/spring-lib@0.0.1?classifier=sources

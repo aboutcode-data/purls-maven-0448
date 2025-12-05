@@ -1,0 +1,2 @@
+- pkg:maven/edu.berkeley.cs.shark/hive-beeline@0.11.0-shark
+- pkg:maven/edu.berkeley.cs.shark/hive-beeline@0.11.0-shark?classifier=sources

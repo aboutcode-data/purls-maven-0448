@@ -1,0 +1,8 @@
+- pkg:maven/org.dasein/dasein-cloud-rackspace@2012.02
+- pkg:maven/org.dasein/dasein-cloud-rackspace@2012.02?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-rackspace@2012.04
+- pkg:maven/org.dasein/dasein-cloud-rackspace@2012.04?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-rackspace@2012.09
+- pkg:maven/org.dasein/dasein-cloud-rackspace@2012.09?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-rackspace@2013.02
+- pkg:maven/org.dasein/dasein-cloud-rackspace@2013.02?classifier=sources

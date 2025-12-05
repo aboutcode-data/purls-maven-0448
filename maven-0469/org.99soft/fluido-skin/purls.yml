@@ -1,0 +1,2 @@
+- pkg:maven/org.99soft/fluido-skin@1
+- pkg:maven/org.99soft/fluido-skin@1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.sourceforge.testxng/command-line@0.7.99.1
+- pkg:maven/net.sourceforge.testxng/command-line@0.7.99.1?classifier=sources
+- pkg:maven/net.sourceforge.testxng/command-line@0.7.99.2
+- pkg:maven/net.sourceforge.testxng/command-line@0.7.99.2?classifier=sources

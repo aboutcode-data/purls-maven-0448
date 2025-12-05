@@ -1,0 +1,14 @@
+- pkg:maven/org.jfxtras/jfxtras-labs@0.1
+- pkg:maven/org.jfxtras/jfxtras-labs@0.1?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r1
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r1?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r2
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r2?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r3
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r3?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r4
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r4?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r5
+- pkg:maven/org.jfxtras/jfxtras-labs@2.2-r5?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-labs@8.0-r1
+- pkg:maven/org.jfxtras/jfxtras-labs@8.0-r1?classifier=sources

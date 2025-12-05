@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.seam.xml/seam-xml-config@3.0.0.Alpha2
+- pkg:maven/org.jboss.seam.xml/seam-xml-config@3.0.0.Alpha2?classifier=sources

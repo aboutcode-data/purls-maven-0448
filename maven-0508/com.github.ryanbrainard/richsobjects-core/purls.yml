@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ryanbrainard/richsobjects-core@0.1-BETA
+- pkg:maven/com.github.ryanbrainard/richsobjects-core@0.1-BETA?classifier=sources
+- pkg:maven/com.github.ryanbrainard/richsobjects-core@0.2-BETA
+- pkg:maven/com.github.ryanbrainard/richsobjects-core@0.2-BETA?classifier=sources

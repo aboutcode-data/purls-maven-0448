@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.techblue/docusign-restclient@1.0.1
+- pkg:maven/uk.co.techblue/docusign-restclient@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.liftmodules/aws-sns_2.5_2.9.1@1.0.2
+- pkg:maven/net.liftmodules/aws-sns_2.5_2.9.1@1.0.2?classifier=sources

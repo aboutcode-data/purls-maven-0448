@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.xdoclet/maven2-xdoclet2-plugin@2.0.5
+- pkg:maven/org.codehaus.xdoclet/maven2-xdoclet2-plugin@2.0.6
+- pkg:maven/org.codehaus.xdoclet/maven2-xdoclet2-plugin@2.0.7
+- pkg:maven/org.codehaus.xdoclet/maven2-xdoclet2-plugin@2.0.7?classifier=sources

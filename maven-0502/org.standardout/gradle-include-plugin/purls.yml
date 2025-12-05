@@ -1,0 +1,2 @@
+- pkg:maven/org.standardout/gradle-include-plugin@0.1
+- pkg:maven/org.standardout/gradle-include-plugin@0.1?classifier=sources

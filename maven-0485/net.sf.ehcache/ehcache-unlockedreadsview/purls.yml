@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.ehcache/ehcache-unlockedreadsview@1.0.0
+- pkg:maven/net.sf.ehcache/ehcache-unlockedreadsview@1.0.0-beta
+- pkg:maven/net.sf.ehcache/ehcache-unlockedreadsview@1.0.0-beta?classifier=sources
+- pkg:maven/net.sf.ehcache/ehcache-unlockedreadsview@1.0.0?classifier=sources
+- pkg:maven/net.sf.ehcache/ehcache-unlockedreadsview@1.0.1
+- pkg:maven/net.sf.ehcache/ehcache-unlockedreadsview@1.0.1?classifier=sources

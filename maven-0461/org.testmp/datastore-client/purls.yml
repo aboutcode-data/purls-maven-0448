@@ -1,0 +1,2 @@
+- pkg:maven/org.testmp/datastore-client@1.0.0
+- pkg:maven/org.testmp/datastore-client@1.0.0?classifier=sources

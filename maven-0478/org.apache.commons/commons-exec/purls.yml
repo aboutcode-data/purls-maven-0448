@@ -1,0 +1,16 @@
+- pkg:maven/org.apache.commons/commons-exec@1.0
+- pkg:maven/org.apache.commons/commons-exec@1.0.1
+- pkg:maven/org.apache.commons/commons-exec@1.0.1?classifier=sources
+- pkg:maven/org.apache.commons/commons-exec@1.0.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-exec@1.0.1?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-exec@1.0?classifier=sources
+- pkg:maven/org.apache.commons/commons-exec@1.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-exec@1.0?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-exec@1.1
+- pkg:maven/org.apache.commons/commons-exec@1.1?classifier=sources
+- pkg:maven/org.apache.commons/commons-exec@1.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-exec@1.1?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-exec@1.2
+- pkg:maven/org.apache.commons/commons-exec@1.2?classifier=sources
+- pkg:maven/org.apache.commons/commons-exec@1.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-exec@1.2?classifier=src&type=zip

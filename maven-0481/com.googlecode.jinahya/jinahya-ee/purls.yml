@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.jinahya/jinahya-ee@1.0-alpha-3
+- pkg:maven/com.googlecode.jinahya/jinahya-ee@1.0-alpha-3?classifier=sources
+- pkg:maven/com.googlecode.jinahya/jinahya-ee@1.0-alpha-4
+- pkg:maven/com.googlecode.jinahya/jinahya-ee@1.0-alpha-4?classifier=sources

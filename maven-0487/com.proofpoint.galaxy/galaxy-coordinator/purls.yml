@@ -1,0 +1,2 @@
+- pkg:maven/com.proofpoint.galaxy/galaxy-coordinator@0.7?classifier=sources
+- pkg:maven/com.proofpoint.galaxy/galaxy-coordinator@0.8?classifier=sources

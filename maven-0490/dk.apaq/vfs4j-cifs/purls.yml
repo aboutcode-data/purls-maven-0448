@@ -1,0 +1,2 @@
+- pkg:maven/dk.apaq/vfs4j-cifs@1.0
+- pkg:maven/dk.apaq/vfs4j-cifs@1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.pingel/axle-languages_2.10@0.1-M10
+- pkg:maven/org.pingel/axle-languages_2.10@0.1-M10?classifier=sources
+- pkg:maven/org.pingel/axle-languages_2.10@0.1-M11
+- pkg:maven/org.pingel/axle-languages_2.10@0.1-M11?classifier=sources
+- pkg:maven/org.pingel/axle-languages_2.10@0.1-M9
+- pkg:maven/org.pingel/axle-languages_2.10@0.1-M9?classifier=sources

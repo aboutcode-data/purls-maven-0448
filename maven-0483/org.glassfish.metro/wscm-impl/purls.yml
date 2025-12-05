@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.metro/wscm-impl@2.1-b16
+- pkg:maven/org.glassfish.metro/wscm-impl@2.1-b16?classifier=sources
+- pkg:maven/org.glassfish.metro/wscm-impl@2.1-b17
+- pkg:maven/org.glassfish.metro/wscm-impl@2.1-b17?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/eu.agrosense.client/lib-geotools@10.0-NB72?classifier=sources
+- pkg:maven/eu.agrosense.client/lib-geotools@10.1-NB72?classifier=sources
+- pkg:maven/eu.agrosense.client/lib-geotools@10.2-NB72?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/no.uis.studinfo/studinfo-solr@2.1.5?classifier=sources
+- pkg:maven/no.uis.studinfo/studinfo-solr@2.1.5?type=war

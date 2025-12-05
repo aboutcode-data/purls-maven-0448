@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tuscany.sca/tuscany-bundle-plugin@1.0.8
+- pkg:maven/org.apache.tuscany.sca/tuscany-bundle-plugin@1.0.8?classifier=sources

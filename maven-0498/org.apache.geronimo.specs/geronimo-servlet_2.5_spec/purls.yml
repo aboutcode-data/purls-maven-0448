@@ -1,0 +1,9 @@
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.1
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.1-M1
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.1-M1?classifier=sources
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.1.1
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.1.2
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.1.2?classifier=sources
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.1?classifier=sources
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.2
+- pkg:maven/org.apache.geronimo.specs/geronimo-servlet_2.5_spec@1.2?classifier=sources

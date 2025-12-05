@@ -1,0 +1,4 @@
+- pkg:maven/org.scalautils/scalautils_2.10.0@2.0.M6-SNAP4
+- pkg:maven/org.scalautils/scalautils_2.10.0@2.0.M6-SNAP4?classifier=sources
+- pkg:maven/org.scalautils/scalautils_2.10.0@2.0.M6-SNAP5
+- pkg:maven/org.scalautils/scalautils_2.10.0@2.0.M6-SNAP5?classifier=sources

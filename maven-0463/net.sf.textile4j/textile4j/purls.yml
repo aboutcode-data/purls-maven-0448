@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.textile4j/textile4j@1.2
+- pkg:maven/net.sf.textile4j/textile4j@1.2?classifier=sources

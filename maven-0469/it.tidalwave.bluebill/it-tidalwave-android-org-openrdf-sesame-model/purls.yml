@@ -1,0 +1,2 @@
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-android-org-openrdf-sesame-model@2.2.3.8
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-android-org-openrdf-sesame-model@2.2.3.8?classifier=sources

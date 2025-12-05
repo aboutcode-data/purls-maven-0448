@@ -1,0 +1,4 @@
+- pkg:maven/org.soitoolkit.tools.encryption.web/soitoolkit-encryption-web-tool@0.6.1-M2?classifier=sources
+- pkg:maven/org.soitoolkit.tools.encryption.web/soitoolkit-encryption-web-tool@0.6.1-M3?classifier=sources
+- pkg:maven/org.soitoolkit.tools.encryption.web/soitoolkit-encryption-web-tool@0.6.1-M4?classifier=sources
+- pkg:maven/org.soitoolkit.tools.encryption.web/soitoolkit-encryption-web-tool@0.6.1?classifier=sources

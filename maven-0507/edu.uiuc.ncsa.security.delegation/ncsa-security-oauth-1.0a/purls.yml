@@ -1,0 +1,4 @@
+- pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-oauth-1.0a@1.0.6
+- pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-oauth-1.0a@1.0.6?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-oauth-1.0a@1.0.7
+- pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-oauth-1.0a@1.0.7?classifier=sources

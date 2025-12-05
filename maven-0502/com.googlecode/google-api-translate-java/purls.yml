@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode/google-api-translate-java@0.92
+- pkg:maven/com.googlecode/google-api-translate-java@0.92?classifier=sources

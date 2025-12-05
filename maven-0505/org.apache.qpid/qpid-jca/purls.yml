@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.qpid/qpid-jca@0.22
+- pkg:maven/org.apache.qpid/qpid-jca@0.22?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-jca@0.24
+- pkg:maven/org.apache.qpid/qpid-jca@0.24?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-jca@0.26
+- pkg:maven/org.apache.qpid/qpid-jca@0.26?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.zulily.dropship/dropship@1.0
+- pkg:maven/com.zulily.dropship/dropship@1.0?classifier=sources

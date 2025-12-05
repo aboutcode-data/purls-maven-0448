@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.directory.mina/mina-filter-compression@0.9.3
+- pkg:maven/org.apache.directory.mina/mina-filter-compression@0.9.4
+- pkg:maven/org.apache.directory.mina/mina-filter-compression@0.9.5
+- pkg:maven/org.apache.directory.mina/mina-filter-compression@0.9.5?classifier=sources

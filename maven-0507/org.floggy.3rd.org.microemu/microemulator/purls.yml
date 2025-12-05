@@ -1,0 +1,2 @@
+- pkg:maven/org.floggy.3rd.org.microemu/microemulator@3.0.0-r2474
+- pkg:maven/org.floggy.3rd.org.microemu/microemulator@3.0.0-r2474?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty@6.1.25_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty@6.1.25_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty@6.1.25_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty@6.1.26_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty@6.1.26_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty@6.1.26_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty@6.1.26_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jetty@6.1.26_4?classifier=sources

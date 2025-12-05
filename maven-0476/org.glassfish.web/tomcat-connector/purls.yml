@@ -1,0 +1,13 @@
+- pkg:maven/org.glassfish.web/tomcat-connector@10.0-b28?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-Prelude-Embedded-b10?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-Prelude-Embedded-b11?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-Prelude-Embedded-b12?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-Prelude-Embedded-b13?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-Prelude-Embedded-b14?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-Prelude-Embedded-m2?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-Prelude-b28b?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-Prelude?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-b29?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-b30?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-b31?classifier=sources
+- pkg:maven/org.glassfish.web/tomcat-connector@3.0-b32?classifier=sources

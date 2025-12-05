@@ -1,0 +1,2 @@
+- pkg:maven/org.mockwire/mockwire-spring3@7.2
+- pkg:maven/org.mockwire/mockwire-spring3@7.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.geomajas.widget/geomajas-widget-featureinfo-gwt-example-jar@1.0.0-M2
+- pkg:maven/org.geomajas.widget/geomajas-widget-featureinfo-gwt-example-jar@1.0.0-M2?classifier=sources

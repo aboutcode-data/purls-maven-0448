@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.plexus/plexus-logging-provider-test@1.0-alpha-2
+- pkg:maven/org.codehaus.plexus/plexus-logging-provider-test@1.0-alpha-2?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-logging-provider-test@1.0.4
+- pkg:maven/org.codehaus.plexus/plexus-logging-provider-test@1.0.4?classifier=sources

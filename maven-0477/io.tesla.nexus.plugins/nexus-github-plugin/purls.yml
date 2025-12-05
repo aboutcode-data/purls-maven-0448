@@ -1,0 +1,1 @@
+- pkg:maven/io.tesla.nexus.plugins/nexus-github-plugin@0.0.1?classifier=sources

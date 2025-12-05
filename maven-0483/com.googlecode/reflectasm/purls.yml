@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode/reflectasm@1.01
+- pkg:maven/com.googlecode/reflectasm@1.01?classifier=sources

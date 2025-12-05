@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sstone/akka-amqp-proxies_2.10.1@1.2
+- pkg:maven/com.github.sstone/akka-amqp-proxies_2.10.1@1.2?classifier=sources

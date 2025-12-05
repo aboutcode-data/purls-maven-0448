@@ -1,0 +1,4 @@
+- pkg:maven/ch.inftec.test/hello-world@0.0.1-11
+- pkg:maven/ch.inftec.test/hello-world@0.0.1-11?classifier=sources
+- pkg:maven/ch.inftec.test/hello-world@0.0.1-9
+- pkg:maven/ch.inftec.test/hello-world@0.0.1-9?classifier=sources

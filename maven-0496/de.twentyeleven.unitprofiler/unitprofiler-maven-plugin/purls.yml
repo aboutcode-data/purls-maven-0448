@@ -1,0 +1,4 @@
+- pkg:maven/de.twentyeleven.unitprofiler/unitprofiler-maven-plugin@0.0.22
+- pkg:maven/de.twentyeleven.unitprofiler/unitprofiler-maven-plugin@0.0.22?classifier=sources
+- pkg:maven/de.twentyeleven.unitprofiler/unitprofiler-maven-plugin@0.0.23
+- pkg:maven/de.twentyeleven.unitprofiler/unitprofiler-maven-plugin@0.0.23?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.java-xmlbuilder@0.3_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.java-xmlbuilder@0.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.java-xmlbuilder@0.4_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.java-xmlbuilder@0.4_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.java-xmlbuilder@0.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.java-xmlbuilder@0.6_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.java-xmlbuilder@0.6_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.java-xmlbuilder@0.6_1?classifier=src&type=zip

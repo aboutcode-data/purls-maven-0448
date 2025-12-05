@@ -1,0 +1,2 @@
+- pkg:maven/com.augusttechgroup/ratpack-core@0.5
+- pkg:maven/com.augusttechgroup/ratpack-core@0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/edu.stanford.protege/bioportal-services-lib@1.0.0
+- pkg:maven/edu.stanford.protege/bioportal-services-lib@1.0.0?classifier=sources
+- pkg:maven/edu.stanford.protege/bioportal-services-lib@1.0.1
+- pkg:maven/edu.stanford.protege/bioportal-services-lib@1.0.1?classifier=sources

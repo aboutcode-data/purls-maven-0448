@@ -1,0 +1,8 @@
+- pkg:maven/plexus/plexus-formica@1.0-alpha-5
+- pkg:maven/plexus/plexus-formica@1.0-beta-1
+- pkg:maven/plexus/plexus-formica@1.0-beta-3
+- pkg:maven/plexus/plexus-formica@1.0-beta-4
+- pkg:maven/plexus/plexus-formica@1.0-beta-4?classifier=sources
+- pkg:maven/plexus/plexus-formica@1.0-beta-5
+- pkg:maven/plexus/plexus-formica@1.0-beta-5?classifier=sources
+- pkg:maven/plexus/plexus-formica@1.0-beta-6

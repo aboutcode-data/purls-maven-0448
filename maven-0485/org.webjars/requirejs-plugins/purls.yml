@@ -1,0 +1,3 @@
+- pkg:maven/org.webjars/requirejs-plugins@1.0.2
+- pkg:maven/org.webjars/requirejs-plugins@1.0.2?classifier=sources
+- pkg:maven/org.webjars/requirejs-plugins@3ff54566f8

@@ -1,0 +1,6 @@
+- pkg:maven/org.codeartisans.asadmin/multi-example-web@0.10?type=war
+- pkg:maven/org.codeartisans.asadmin/multi-example-web@0.11?type=war
+- pkg:maven/org.codeartisans.asadmin/multi-example-web@0.12?type=war
+- pkg:maven/org.codeartisans.asadmin/multi-example-web@0.7?type=war
+- pkg:maven/org.codeartisans.asadmin/multi-example-web@0.8?type=war
+- pkg:maven/org.codeartisans.asadmin/multi-example-web@0.9?type=war

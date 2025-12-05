@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cometd-java-server@1.0.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cometd-java-server@1.0.1_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cometd-java-server@1.0.1_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cometd-java-server@2.1.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cometd-java-server@2.3.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cometd-java-server@2.3.1_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.cometd-java-server@2.3.1_2?classifier=sources

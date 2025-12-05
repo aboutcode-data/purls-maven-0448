@@ -1,0 +1,9 @@
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.14-2
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.14-vaadin1
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.14-vaadin2
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.14.vaadin2
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.14.vaadin3
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.14.vaadin4
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.18.vaadin1
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.18.vaadin2
+- pkg:maven/com.vaadin.external.atmosphere/integration-cpr@1.0.18.vaadin3

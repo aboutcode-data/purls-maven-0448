@@ -1,0 +1,2 @@
+- pkg:maven/org.zeroturnaround/javarebel-optional-check-plugin@1.0
+- pkg:maven/org.zeroturnaround/javarebel-optional-check-plugin@1.0?classifier=sources

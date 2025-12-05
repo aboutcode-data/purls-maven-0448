@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.james/apache-james-mailbox@0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.james/apache-james-mailbox@0.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.james/apache-james-mailbox@0.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.james/apache-james-mailbox@0.5?classifier=source-release&type=zip

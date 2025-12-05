@@ -1,0 +1,2 @@
+- pkg:maven/se.jguru.nazgul.test.bundles.hello.client.blueprint/nazgul-test-hello-client-blueprint@3.0.2
+- pkg:maven/se.jguru.nazgul.test.bundles.hello.client.blueprint/nazgul-test-hello-client-blueprint@3.0.2?classifier=sources

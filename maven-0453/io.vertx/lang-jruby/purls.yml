@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/lang-jruby@2.0.0-final
+- pkg:maven/io.vertx/lang-jruby@2.0.0-final?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.2-RC2?classifier=sources
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.2?classifier=sources
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.4?classifier=sources
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.5.1?classifier=sources
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.5?classifier=sources
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.6?classifier=sources
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.7
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.7.1
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.7.1?classifier=sources
+- pkg:maven/com.googlecode.androidannotations/androidannotations@2.7?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.intellij/openapi@4.5.4
+- pkg:maven/com.intellij/openapi@5.0
+- pkg:maven/com.intellij/openapi@6.0.5
+- pkg:maven/com.intellij/openapi@7.0.3

@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-oracle-queue-spi@0.4.2
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-oracle-queue-spi@0.4.2?classifier=sources
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-oracle-queue-spi@0.9.0
+- pkg:maven/org.codehaus.service-conduit/sca4j-binding-oracle-queue-spi@0.9.0?classifier=sources

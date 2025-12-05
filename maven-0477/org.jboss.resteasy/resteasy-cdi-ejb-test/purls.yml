@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.resteasy/resteasy-cdi-ejb-test@3.0-beta-2
+- pkg:maven/org.jboss.resteasy/resteasy-cdi-ejb-test@3.0-beta-2?classifier=sources

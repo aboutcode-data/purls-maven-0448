@@ -1,0 +1,7 @@
+- pkg:maven/berkeleydb/je@1.7.1
+- pkg:maven/berkeleydb/je@2.0.83
+- pkg:maven/berkeleydb/je@2.0.83?classifier=sources
+- pkg:maven/berkeleydb/je@2.1.30
+- pkg:maven/berkeleydb/je@2.1.30?classifier=sources
+- pkg:maven/berkeleydb/je@3.2.44
+- pkg:maven/berkeleydb/je@3.2.76

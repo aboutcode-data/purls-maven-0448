@@ -1,0 +1,2 @@
+- pkg:maven/com.mindscapehq/raygun4java-play2@0.4.3?classifier=sources
+- pkg:maven/com.mindscapehq/raygun4java-play2@0.4.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/spice/spice-netserve@1.0-b1
+- pkg:maven/spice/spice-netserve@1.1-b1
+- pkg:maven/spice/spice-netserve@1.1-b2
+- pkg:maven/spice/spice-netserve@1.1-b3?classifier=src&type=tar.gz
+- pkg:maven/spice/spice-netserve@1.1-b3?classifier=src&type=zip
+- pkg:maven/spice/spice-netserve@20031201.225111

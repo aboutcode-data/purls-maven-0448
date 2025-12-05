@@ -1,0 +1,2 @@
+- pkg:maven/ca.carleton.gcrc/nunaliit2-security@2.1.5
+- pkg:maven/ca.carleton.gcrc/nunaliit2-security@2.1.5?classifier=sources

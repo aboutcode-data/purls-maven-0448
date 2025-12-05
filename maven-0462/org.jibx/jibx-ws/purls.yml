@@ -1,0 +1,3 @@
+- pkg:maven/org.jibx/jibx-ws@0.9-beta
+- pkg:maven/org.jibx/jibx-ws@0.9.1
+- pkg:maven/org.jibx/jibx-ws@0.9.1?classifier=sources

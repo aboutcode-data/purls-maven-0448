@@ -1,0 +1,4 @@
+- pkg:maven/org.dspace.dependencies.jmockit/dspace-jmockit@0.999.3
+- pkg:maven/org.dspace.dependencies.jmockit/dspace-jmockit@0.999.3?classifier=sources
+- pkg:maven/org.dspace.dependencies.jmockit/dspace-jmockit@0.999.4
+- pkg:maven/org.dspace.dependencies.jmockit/dspace-jmockit@0.999.4?classifier=sources

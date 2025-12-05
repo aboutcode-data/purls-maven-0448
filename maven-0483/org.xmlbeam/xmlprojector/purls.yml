@@ -1,0 +1,4 @@
+- pkg:maven/org.xmlbeam/xmlprojector@1.0
+- pkg:maven/org.xmlbeam/xmlprojector@1.0?classifier=sources
+- pkg:maven/org.xmlbeam/xmlprojector@1.1.0
+- pkg:maven/org.xmlbeam/xmlprojector@1.1.0?classifier=sources

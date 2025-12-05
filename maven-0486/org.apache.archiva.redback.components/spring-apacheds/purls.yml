@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.archiva.redback.components/spring-apacheds@2.0
+- pkg:maven/org.apache.archiva.redback.components/spring-apacheds@2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.archiva.redback.components/spring-apacheds@2.0?classifier=sources
+- pkg:maven/org.apache.archiva.redback.components/spring-apacheds@2.1
+- pkg:maven/org.apache.archiva.redback.components/spring-apacheds@2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.archiva.redback.components/spring-apacheds@2.1?classifier=sources

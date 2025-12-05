@@ -1,0 +1,7 @@
+- pkg:maven/us.joshuatreesoftware/commander@1.0-RC29?classifier=sources
+- pkg:maven/us.joshuatreesoftware/commander@1.0-RC30?classifier=sources
+- pkg:maven/us.joshuatreesoftware/commander@1.0-RC31?classifier=sources
+- pkg:maven/us.joshuatreesoftware/commander@1.0-RC32?classifier=sources
+- pkg:maven/us.joshuatreesoftware/commander@1.0-RC33?classifier=sources
+- pkg:maven/us.joshuatreesoftware/commander@1.0-RC34?classifier=sources
+- pkg:maven/us.joshuatreesoftware/commander@1.0-RC35?classifier=sources

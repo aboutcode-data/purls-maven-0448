@@ -1,0 +1,6 @@
+- pkg:maven/org.ancoron.postgresql/org.ancoron.postgresql.jpa.test@8.4.702.jdbc4.1-rc5?classifier=sources
+- pkg:maven/org.ancoron.postgresql/org.ancoron.postgresql.jpa.test@8.4.702.jdbc4.1-rc6?classifier=sources
+- pkg:maven/org.ancoron.postgresql/org.ancoron.postgresql.jpa.test@8.4.702.jdbc4.1-rc7?classifier=sources
+- pkg:maven/org.ancoron.postgresql/org.ancoron.postgresql.jpa.test@9.1.901.jdbc4.1-rc7?classifier=sources
+- pkg:maven/org.ancoron.postgresql/org.ancoron.postgresql.jpa.test@9.1.901.jdbc4.1-rc8?classifier=sources
+- pkg:maven/org.ancoron.postgresql/org.ancoron.postgresql.jpa.test@9.1.901.jdbc4.1-rc9?classifier=sources

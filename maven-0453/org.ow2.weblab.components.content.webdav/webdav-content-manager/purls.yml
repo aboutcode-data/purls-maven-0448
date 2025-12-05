@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.weblab.components.content.webdav/webdav-content-manager@0.0.1
+- pkg:maven/org.ow2.weblab.components.content.webdav/webdav-content-manager@0.0.1?classifier=sources
+- pkg:maven/org.ow2.weblab.components.content.webdav/webdav-content-manager@0.0.2
+- pkg:maven/org.ow2.weblab.components.content.webdav/webdav-content-manager@0.0.2-SNASHOT
+- pkg:maven/org.ow2.weblab.components.content.webdav/webdav-content-manager@0.0.2-SNASHOT?classifier=sources
+- pkg:maven/org.ow2.weblab.components.content.webdav/webdav-content-manager@0.0.2?classifier=sources

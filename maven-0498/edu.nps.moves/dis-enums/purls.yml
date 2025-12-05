@@ -1,0 +1,2 @@
+- pkg:maven/edu.nps.moves/dis-enums@1.1
+- pkg:maven/edu.nps.moves/dis-enums@1.1?classifier=sources

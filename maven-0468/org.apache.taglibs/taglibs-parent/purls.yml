@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.taglibs/taglibs-parent@1?classifier=source-release&type=zip
+- pkg:maven/org.apache.taglibs/taglibs-parent@3?classifier=source-release&type=zip

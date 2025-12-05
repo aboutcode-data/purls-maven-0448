@@ -1,0 +1,4 @@
+- pkg:maven/com.jayway.forest/forest-samples-bank-jersey@0.3.0.M1?classifier=sources
+- pkg:maven/com.jayway.forest/forest-samples-bank-jersey@0.3.0.M1?type=war
+- pkg:maven/com.jayway.forest/forest-samples-bank-jersey@0.3.0.M2?classifier=sources
+- pkg:maven/com.jayway.forest/forest-samples-bank-jersey@0.3.0.M2?type=war

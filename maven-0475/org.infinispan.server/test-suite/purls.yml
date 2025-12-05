@@ -1,0 +1,5 @@
+- pkg:maven/org.infinispan.server/test-suite@6.0.0.Beta2
+- pkg:maven/org.infinispan.server/test-suite@6.0.0.CR1
+- pkg:maven/org.infinispan.server/test-suite@6.0.0.Final
+- pkg:maven/org.infinispan.server/test-suite@6.0.1.Final
+- pkg:maven/org.infinispan.server/test-suite@7.0.0.Alpha1

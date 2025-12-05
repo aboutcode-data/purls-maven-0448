@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.maven-har/maven-har-plugin@0.9
+- pkg:maven/net.sf.maven-har/maven-har-plugin@0.9?classifier=sources
+- pkg:maven/net.sf.maven-har/maven-har-plugin@1.0
+- pkg:maven/net.sf.maven-har/maven-har-plugin@1.0?classifier=sources

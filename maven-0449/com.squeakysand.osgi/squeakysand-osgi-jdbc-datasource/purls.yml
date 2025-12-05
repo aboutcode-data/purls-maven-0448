@@ -1,0 +1,2 @@
+- pkg:maven/com.squeakysand.osgi/squeakysand-osgi-jdbc-datasource@0.5.0
+- pkg:maven/com.squeakysand.osgi/squeakysand-osgi-jdbc-datasource@0.5.0?classifier=sources

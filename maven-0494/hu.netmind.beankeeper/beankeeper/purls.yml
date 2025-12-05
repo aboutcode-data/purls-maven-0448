@@ -1,0 +1,2 @@
+- pkg:maven/hu.netmind.beankeeper/beankeeper@2.6.3
+- pkg:maven/hu.netmind.beankeeper/beankeeper@2.6.3?classifier=sources

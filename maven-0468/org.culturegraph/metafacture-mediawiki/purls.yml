@@ -1,0 +1,2 @@
+- pkg:maven/org.culturegraph/metafacture-mediawiki@0.0.0
+- pkg:maven/org.culturegraph/metafacture-mediawiki@0.0.0?classifier=sources

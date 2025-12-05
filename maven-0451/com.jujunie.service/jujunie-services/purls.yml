@@ -1,0 +1,2 @@
+- pkg:maven/com.jujunie.service/jujunie-services@1.01.01
+- pkg:maven/com.jujunie.service/jujunie-services@1.01.01?classifier=sources

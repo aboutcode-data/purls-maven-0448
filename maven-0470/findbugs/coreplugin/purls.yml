@@ -1,0 +1,6 @@
+- pkg:maven/findbugs/coreplugin@0.8.4
+- pkg:maven/findbugs/coreplugin@0.9.1
+- pkg:maven/findbugs/coreplugin@0.9.3
+- pkg:maven/findbugs/coreplugin@0.9.4
+- pkg:maven/findbugs/coreplugin@0.9.6
+- pkg:maven/findbugs/coreplugin@1.0.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.unboundedprime.tapioca/tapioca-utilities@1.0.0
+- pkg:maven/com.unboundedprime.tapioca/tapioca-utilities@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/httpcomponents-httpcore/httpcore-niossl@4.0-alpha5
+- pkg:maven/httpcomponents-httpcore/httpcore-niossl@4.0-alpha6

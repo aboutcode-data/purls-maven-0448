@@ -1,0 +1,2 @@
+- pkg:maven/org.unitils.selenium/unitils-selenium@1.0.1
+- pkg:maven/org.unitils.selenium/unitils-selenium@1.0.1?classifier=sources

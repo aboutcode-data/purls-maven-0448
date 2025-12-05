@@ -1,0 +1,12 @@
+- pkg:maven/ch.sf.htt/jhttrunner@0.0.1
+- pkg:maven/ch.sf.htt/jhttrunner@0.0.1?classifier=sources
+- pkg:maven/ch.sf.htt/jhttrunner@0.0.2
+- pkg:maven/ch.sf.htt/jhttrunner@0.0.2?classifier=sources
+- pkg:maven/ch.sf.htt/jhttrunner@0.0.3
+- pkg:maven/ch.sf.htt/jhttrunner@0.0.3?classifier=sources
+- pkg:maven/ch.sf.htt/jhttrunner@0.1.0
+- pkg:maven/ch.sf.htt/jhttrunner@0.1.0?classifier=sources
+- pkg:maven/ch.sf.htt/jhttrunner@0.1.1
+- pkg:maven/ch.sf.htt/jhttrunner@0.1.1?classifier=sources
+- pkg:maven/ch.sf.htt/jhttrunner@0.1.2
+- pkg:maven/ch.sf.htt/jhttrunner@0.1.2?classifier=sources

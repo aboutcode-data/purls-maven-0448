@@ -1,0 +1,16 @@
+- pkg:maven/org.jdom/jdom2@0.0.2-BETA
+- pkg:maven/org.jdom/jdom2@0.0.2-BETA?classifier=sources
+- pkg:maven/org.jdom/jdom2@0.0.3-BETA
+- pkg:maven/org.jdom/jdom2@0.0.3-BETA?classifier=sources
+- pkg:maven/org.jdom/jdom2@0.0.4-BETA
+- pkg:maven/org.jdom/jdom2@0.0.4-BETA?classifier=sources
+- pkg:maven/org.jdom/jdom2@0.0.5-BETA
+- pkg:maven/org.jdom/jdom2@0.0.5-BETA?classifier=sources
+- pkg:maven/org.jdom/jdom2@0.0.6-BETA
+- pkg:maven/org.jdom/jdom2@0.0.6-BETA?classifier=sources
+- pkg:maven/org.jdom/jdom2@2.0.3
+- pkg:maven/org.jdom/jdom2@2.0.3?classifier=sources
+- pkg:maven/org.jdom/jdom2@2.0.4
+- pkg:maven/org.jdom/jdom2@2.0.4?classifier=sources
+- pkg:maven/org.jdom/jdom2@2.0.5
+- pkg:maven/org.jdom/jdom2@2.0.5?classifier=sources

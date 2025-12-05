@@ -1,0 +1,2 @@
+- pkg:maven/nl.orange11.hippo.common/hippo-jcr-mocks@1.0.0
+- pkg:maven/nl.orange11.hippo.common/hippo-jcr-mocks@1.0.0?classifier=sources

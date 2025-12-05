@@ -1,0 +1,2 @@
+- pkg:maven/net.java.dev.vcc/vcc-vmware-esx-impl@0.0.3
+- pkg:maven/net.java.dev.vcc/vcc-vmware-esx-impl@0.0.3?classifier=sources

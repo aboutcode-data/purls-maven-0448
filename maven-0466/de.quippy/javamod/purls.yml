@@ -1,0 +1,2 @@
+- pkg:maven/de.quippy/javamod@2.2
+- pkg:maven/de.quippy/javamod@2.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.google.code.play2-maven-plugin/play2-provider-api@1.0.0-alpha3
+- pkg:maven/com.google.code.play2-maven-plugin/play2-provider-api@1.0.0-alpha3?classifier=sources
+- pkg:maven/com.google.code.play2-maven-plugin/play2-provider-api@1.0.0-alpha4
+- pkg:maven/com.google.code.play2-maven-plugin/play2-provider-api@1.0.0-alpha4?classifier=sources
+- pkg:maven/com.google.code.play2-maven-plugin/play2-provider-api@1.0.0-alpha5
+- pkg:maven/com.google.code.play2-maven-plugin/play2-provider-api@1.0.0-alpha5?classifier=sources

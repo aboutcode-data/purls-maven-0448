@@ -1,0 +1,4 @@
+- pkg:maven/org.cloudhoist/stevedore@0.7.3
+- pkg:maven/org.cloudhoist/stevedore@0.7.3?classifier=sources
+- pkg:maven/org.cloudhoist/stevedore@0.8.0-alpha.1
+- pkg:maven/org.cloudhoist/stevedore@0.8.0-alpha.1?classifier=sources

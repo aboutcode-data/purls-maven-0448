@@ -1,0 +1,2 @@
+- pkg:maven/de.felixschulze.android.test/JUnitInstrumentationTestRunner@1.0
+- pkg:maven/de.felixschulze.android.test/JUnitInstrumentationTestRunner@1.0?classifier=sources

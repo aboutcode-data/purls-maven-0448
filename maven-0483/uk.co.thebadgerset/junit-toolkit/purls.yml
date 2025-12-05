@@ -1,0 +1,8 @@
+- pkg:maven/uk.co.thebadgerset/junit-toolkit@0.3
+- pkg:maven/uk.co.thebadgerset/junit-toolkit@0.4
+- pkg:maven/uk.co.thebadgerset/junit-toolkit@0.5
+- pkg:maven/uk.co.thebadgerset/junit-toolkit@0.5?classifier=sources
+- pkg:maven/uk.co.thebadgerset/junit-toolkit@0.6.1
+- pkg:maven/uk.co.thebadgerset/junit-toolkit@0.6.1?classifier=sources
+- pkg:maven/uk.co.thebadgerset/junit-toolkit@0.7
+- pkg:maven/uk.co.thebadgerset/junit-toolkit@0.7?classifier=sources

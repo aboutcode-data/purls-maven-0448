@@ -1,0 +1,2 @@
+- pkg:maven/org.papoose.osgi/OSGi_R4_v4.1_core_spec@4.1.0.build-200702212030
+- pkg:maven/org.papoose.osgi/OSGi_R4_v4.1_core_spec@4.1.0.build-200702212030?classifier=sources

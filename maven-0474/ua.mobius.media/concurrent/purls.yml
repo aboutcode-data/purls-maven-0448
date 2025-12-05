@@ -1,0 +1,2 @@
+- pkg:maven/ua.mobius.media/concurrent@4.0.0
+- pkg:maven/ua.mobius.media/concurrent@4.0.0?classifier=sources

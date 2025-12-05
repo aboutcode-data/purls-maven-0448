@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.bcprov-jdk16@1.46_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.bcprov-jdk16@1.46_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.bcprov-jdk16@1.46_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.bcprov-jdk16@1.46_3?classifier=sources

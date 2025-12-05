@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.cdi/gf-cdi-porting-package-tck11@1.0
+- pkg:maven/org.glassfish.cdi/gf-cdi-porting-package-tck11@1.0?classifier=sources

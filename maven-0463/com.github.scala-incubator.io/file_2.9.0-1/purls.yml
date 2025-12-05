@@ -1,0 +1,2 @@
+- pkg:maven/com.github.scala-incubator.io/file_2.9.0-1@0.1.2
+- pkg:maven/com.github.scala-incubator.io/file_2.9.0-1@0.1.2?classifier=sources

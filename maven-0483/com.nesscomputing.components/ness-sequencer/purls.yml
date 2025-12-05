@@ -1,0 +1,2 @@
+- pkg:maven/com.nesscomputing.components/ness-sequencer@0.0.2
+- pkg:maven/com.nesscomputing.components/ness-sequencer@0.0.2?classifier=sources

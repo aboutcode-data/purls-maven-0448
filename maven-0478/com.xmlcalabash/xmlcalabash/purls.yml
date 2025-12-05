@@ -1,0 +1,4 @@
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.0.13-94
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.0.13-94?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.0.9
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.0.9?classifier=sources

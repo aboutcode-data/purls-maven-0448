@@ -1,0 +1,8 @@
+- pkg:maven/io.apigee.trireme/trireme-shell@0.6.7
+- pkg:maven/io.apigee.trireme/trireme-shell@0.6.7?classifier=sources
+- pkg:maven/io.apigee.trireme/trireme-shell@0.6.8
+- pkg:maven/io.apigee.trireme/trireme-shell@0.6.8?classifier=sources
+- pkg:maven/io.apigee.trireme/trireme-shell@0.6.9
+- pkg:maven/io.apigee.trireme/trireme-shell@0.6.9?classifier=sources
+- pkg:maven/io.apigee.trireme/trireme-shell@0.7.0
+- pkg:maven/io.apigee.trireme/trireme-shell@0.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kohsuke/xml-patcher@0.1
+- pkg:maven/org.kohsuke/xml-patcher@0.1?classifier=sources

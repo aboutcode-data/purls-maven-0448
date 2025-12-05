@@ -1,0 +1,2 @@
+- pkg:maven/net.vz.play.statsd/play-statsd_2.9.1@1.0.0-rc.1
+- pkg:maven/net.vz.play.statsd/play-statsd_2.9.1@1.0.0-rc.1?classifier=sources

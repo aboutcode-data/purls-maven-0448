@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo.groovy.support/ant-1.7.0@1.0-beta-3
+- pkg:maven/org.codehaus.mojo.groovy.support/ant-1.7.0@1.0-beta-3?classifier=sources

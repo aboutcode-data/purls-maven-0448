@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.aima-java/aima-core@0.10.5
+- pkg:maven/com.googlecode.aima-java/aima-core@0.10.5?classifier=sources

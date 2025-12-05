@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.javaee/jboss-transaction-api_1.0@1.0-alpha-1
+- pkg:maven/org.jboss.javaee/jboss-transaction-api_1.0@1.0-alpha-1?classifier=sources

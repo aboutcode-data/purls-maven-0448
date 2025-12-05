@@ -1,0 +1,4 @@
+- pkg:maven/net.kencochrane.raven/raven-getsentry@3.1.2
+- pkg:maven/net.kencochrane.raven/raven-getsentry@3.1.2?classifier=sources
+- pkg:maven/net.kencochrane.raven/raven-getsentry@4.1.2
+- pkg:maven/net.kencochrane.raven/raven-getsentry@4.1.2?classifier=sources

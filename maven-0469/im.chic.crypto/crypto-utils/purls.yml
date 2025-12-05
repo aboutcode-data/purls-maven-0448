@@ -1,0 +1,4 @@
+- pkg:maven/im.chic.crypto/crypto-utils@1.0.0
+- pkg:maven/im.chic.crypto/crypto-utils@1.0.0?classifier=sources
+- pkg:maven/im.chic.crypto/crypto-utils@1.0.1
+- pkg:maven/im.chic.crypto/crypto-utils@1.0.1?classifier=sources

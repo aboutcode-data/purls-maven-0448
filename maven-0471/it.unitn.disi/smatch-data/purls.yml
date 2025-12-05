@@ -1,0 +1,2 @@
+- pkg:maven/it.unitn.disi/smatch-data@1.0
+- pkg:maven/it.unitn.disi/smatch-data@1.0?classifier=sources

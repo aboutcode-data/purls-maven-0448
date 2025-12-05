@@ -1,0 +1,8 @@
+- pkg:maven/org.nosceon.natrolite/natrolite@1.0.0
+- pkg:maven/org.nosceon.natrolite/natrolite@1.0.0.Alpha1
+- pkg:maven/org.nosceon.natrolite/natrolite@1.0.0.Alpha1?classifier=sources
+- pkg:maven/org.nosceon.natrolite/natrolite@1.0.0.Alpha2
+- pkg:maven/org.nosceon.natrolite/natrolite@1.0.0.Alpha2?classifier=sources
+- pkg:maven/org.nosceon.natrolite/natrolite@1.0.0.Alpha3
+- pkg:maven/org.nosceon.natrolite/natrolite@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.nosceon.natrolite/natrolite@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/jboss/jbossmq-client@3.2.3
+- pkg:maven/jboss/jbossmq-client@4.0.2

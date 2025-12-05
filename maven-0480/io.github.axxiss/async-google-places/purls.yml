@@ -1,0 +1,2 @@
+- pkg:maven/io.github.axxiss/async-google-places@0.3.2?classifier=sources
+- pkg:maven/io.github.axxiss/async-google-places@0.3.2?type=aar

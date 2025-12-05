@@ -1,0 +1,8 @@
+- pkg:maven/net.dataforte.cassandra/cassandra-connection-pool@0.7.1
+- pkg:maven/net.dataforte.cassandra/cassandra-connection-pool@0.7.1?classifier=sources
+- pkg:maven/net.dataforte.cassandra/cassandra-connection-pool@0.8.0
+- pkg:maven/net.dataforte.cassandra/cassandra-connection-pool@0.8.0?classifier=sources
+- pkg:maven/net.dataforte.cassandra/cassandra-connection-pool@0.8.1
+- pkg:maven/net.dataforte.cassandra/cassandra-connection-pool@0.8.1?classifier=sources
+- pkg:maven/net.dataforte.cassandra/cassandra-connection-pool@1.0.0.CR1
+- pkg:maven/net.dataforte.cassandra/cassandra-connection-pool@1.0.0.CR1?classifier=sources

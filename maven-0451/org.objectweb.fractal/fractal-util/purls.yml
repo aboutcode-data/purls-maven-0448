@@ -1,0 +1,4 @@
+- pkg:maven/org.objectweb.fractal/fractal-util@1.0
+- pkg:maven/org.objectweb.fractal/fractal-util@1.1
+- pkg:maven/org.objectweb.fractal/fractal-util@1.1.1
+- pkg:maven/org.objectweb.fractal/fractal-util@1.1.2
