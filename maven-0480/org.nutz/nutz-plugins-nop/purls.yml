@@ -1,0 +1,2 @@
+- pkg:maven/org.nutz/nutz-plugins-nop@1.r.58
+- pkg:maven/org.nutz/nutz-plugins-nop@1.r.58?classifier=sources

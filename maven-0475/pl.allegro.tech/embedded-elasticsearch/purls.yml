@@ -1,0 +1,2 @@
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@1.0.0
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@1.0.0?classifier=sources

@@ -8,6 +8,12 @@
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.13?classifier=sources
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.14
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.14?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.15
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.15?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.16
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.16?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.17
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.17?classifier=sources
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.8
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.8?classifier=sources
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-java@1.9

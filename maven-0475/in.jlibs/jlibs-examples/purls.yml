@@ -1,2 +1,4 @@
 - pkg:maven/in.jlibs/jlibs-examples@2.1
 - pkg:maven/in.jlibs/jlibs-examples@2.1?classifier=sources
+- pkg:maven/in.jlibs/jlibs-examples@2.2.1
+- pkg:maven/in.jlibs/jlibs-examples@2.2.1?classifier=sources

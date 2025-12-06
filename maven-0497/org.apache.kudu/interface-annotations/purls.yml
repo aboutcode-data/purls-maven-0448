@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.kudu/interface-annotations@0.10.0
+- pkg:maven/org.apache.kudu/interface-annotations@0.10.0?classifier=sources
+- pkg:maven/org.apache.kudu/interface-annotations@1.0.0
+- pkg:maven/org.apache.kudu/interface-annotations@1.0.0?classifier=sources
+- pkg:maven/org.apache.kudu/interface-annotations@1.0.1
+- pkg:maven/org.apache.kudu/interface-annotations@1.0.1?classifier=sources

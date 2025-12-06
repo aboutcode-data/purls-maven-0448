@@ -1,0 +1,2 @@
+- pkg:maven/co.cask.hydrator/python-evaluator-transform@1.2.0
+- pkg:maven/co.cask.hydrator/python-evaluator-transform@1.2.0?classifier=sources

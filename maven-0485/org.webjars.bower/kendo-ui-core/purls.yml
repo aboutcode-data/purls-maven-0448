@@ -1,2 +1,14 @@
 - pkg:maven/org.webjars.bower/kendo-ui-core@2015.2.902%2BSP2
 - pkg:maven/org.webjars.bower/kendo-ui-core@2015.2.902%2BSP2?classifier=sources
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.1.112%2BOfficial
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.1.112%2BOfficial?classifier=sources
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.504%2BOfficial
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.504%2BOfficial?classifier=sources
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.523
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.523?classifier=sources
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.630
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.630?classifier=sources
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.714%2BSP2
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.714%2BSP2?classifier=sources
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.812
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.812?classifier=sources

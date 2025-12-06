@@ -1,0 +1,7 @@
+- pkg:maven/net.oauth.core/oauth-consumer@20090531
+- pkg:maven/net.oauth.core/oauth-consumer@20090531?classifier=sources
+- pkg:maven/net.oauth.core/oauth-consumer@20090617
+- pkg:maven/net.oauth.core/oauth-consumer@20090617?classifier=sources
+- pkg:maven/net.oauth.core/oauth-consumer@20090823
+- pkg:maven/net.oauth.core/oauth-consumer@20100527
+- pkg:maven/net.oauth.core/oauth-consumer@20100527?classifier=sources

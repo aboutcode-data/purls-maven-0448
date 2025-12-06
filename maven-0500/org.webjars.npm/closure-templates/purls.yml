@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/closure-templates@20140422.0.0
+- pkg:maven/org.webjars.npm/closure-templates@20140422.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/closure-templates@20141017.0.1
+- pkg:maven/org.webjars.npm/closure-templates@20141017.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/closure-templates@20150605.0.0
+- pkg:maven/org.webjars.npm/closure-templates@20150605.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/closure-templates@20151008.0.0
+- pkg:maven/org.webjars.npm/closure-templates@20151008.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/eu.inn/java-raml1-parser@0.0.30
+- pkg:maven/eu.inn/java-raml1-parser@0.0.30?classifier=sources
+- pkg:maven/eu.inn/java-raml1-parser@0.0.31
+- pkg:maven/eu.inn/java-raml1-parser@0.0.31?classifier=sources
+- pkg:maven/eu.inn/java-raml1-parser@0.0.32
+- pkg:maven/eu.inn/java-raml1-parser@0.0.32?classifier=sources

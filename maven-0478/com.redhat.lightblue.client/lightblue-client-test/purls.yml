@@ -12,3 +12,11 @@
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-test@1.8.1?classifier=sources
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-test@1.9.0
 - pkg:maven/com.redhat.lightblue.client/lightblue-client-test@1.9.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-test@2.0.0
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-test@2.0.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-test@2.1.0
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-test@2.1.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-test@2.2.0
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-test@2.2.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-test@3.0.0
+- pkg:maven/com.redhat.lightblue.client/lightblue-client-test@3.0.0?classifier=sources

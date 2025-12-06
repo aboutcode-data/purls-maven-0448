@@ -1,0 +1,2 @@
+- pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.6.0
+- pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.6.0?classifier=sources

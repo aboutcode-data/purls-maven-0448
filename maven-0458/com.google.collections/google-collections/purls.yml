@@ -2,7 +2,15 @@
 - pkg:maven/com.google.collections/google-collections@0.8?classifier=sources
 - pkg:maven/com.google.collections/google-collections@0.9
 - pkg:maven/com.google.collections/google-collections@0.9?classifier=sources
+- pkg:maven/com.google.collections/google-collections@1.0
 - pkg:maven/com.google.collections/google-collections@1.0-rc1
 - pkg:maven/com.google.collections/google-collections@1.0-rc1?classifier=sources
 - pkg:maven/com.google.collections/google-collections@1.0-rc2
 - pkg:maven/com.google.collections/google-collections@1.0-rc2?classifier=sources
+- pkg:maven/com.google.collections/google-collections@1.0-rc3
+- pkg:maven/com.google.collections/google-collections@1.0-rc3?classifier=sources
+- pkg:maven/com.google.collections/google-collections@1.0-rc4
+- pkg:maven/com.google.collections/google-collections@1.0-rc4?classifier=sources
+- pkg:maven/com.google.collections/google-collections@1.0-rc5
+- pkg:maven/com.google.collections/google-collections@1.0-rc5?classifier=sources
+- pkg:maven/com.google.collections/google-collections@1.0?classifier=sources

@@ -1,0 +1,7 @@
+- pkg:maven/org.bitbucket.samuel8mille/samulib@0.0.1?classifier=sources
+- pkg:maven/org.bitbucket.samuel8mille/samulib@1.0.0.?classifier=sources
+- pkg:maven/org.bitbucket.samuel8mille/samulib@1.0.0?classifier=sources
+- pkg:maven/org.bitbucket.samuel8mille/samulib@1.0.1?classifier=sources
+- pkg:maven/org.bitbucket.samuel8mille/samulib@1.0.1?type=aar
+- pkg:maven/org.bitbucket.samuel8mille/samulib@1.1.2?classifier=sources
+- pkg:maven/org.bitbucket.samuel8mille/samulib@1.1.2?type=aar

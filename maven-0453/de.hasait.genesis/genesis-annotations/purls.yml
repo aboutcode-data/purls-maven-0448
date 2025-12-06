@@ -1,0 +1,4 @@
+- pkg:maven/de.hasait.genesis/genesis-annotations@0.3.11
+- pkg:maven/de.hasait.genesis/genesis-annotations@0.3.11?classifier=sources
+- pkg:maven/de.hasait.genesis/genesis-annotations@0.4.0
+- pkg:maven/de.hasait.genesis/genesis-annotations@0.4.0?classifier=sources

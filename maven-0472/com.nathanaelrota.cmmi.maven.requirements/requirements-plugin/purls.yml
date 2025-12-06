@@ -1,0 +1,6 @@
+- pkg:maven/com.nathanaelrota.cmmi.maven.requirements/requirements-plugin@2.0.0
+- pkg:maven/com.nathanaelrota.cmmi.maven.requirements/requirements-plugin@2.0.0?classifier=sources
+- pkg:maven/com.nathanaelrota.cmmi.maven.requirements/requirements-plugin@2.2.0
+- pkg:maven/com.nathanaelrota.cmmi.maven.requirements/requirements-plugin@2.2.0?classifier=sources
+- pkg:maven/com.nathanaelrota.cmmi.maven.requirements/requirements-plugin@2.3.0
+- pkg:maven/com.nathanaelrota.cmmi.maven.requirements/requirements-plugin@2.3.0?classifier=sources

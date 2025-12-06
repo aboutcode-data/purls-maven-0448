@@ -58,3 +58,5 @@
 - pkg:maven/ru.yandex.qatools.allure/allure-maven-plugin@2.3?classifier=sources
 - pkg:maven/ru.yandex.qatools.allure/allure-maven-plugin@2.4
 - pkg:maven/ru.yandex.qatools.allure/allure-maven-plugin@2.4?classifier=sources
+- pkg:maven/ru.yandex.qatools.allure/allure-maven-plugin@2.5
+- pkg:maven/ru.yandex.qatools.allure/allure-maven-plugin@2.5?classifier=sources

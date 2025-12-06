@@ -27,6 +27,10 @@
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl@21?classifier=sources
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl@22
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl@22?classifier=sources
+- pkg:maven/org.kevoree.kcl/org.kevoree.kcl@23
+- pkg:maven/org.kevoree.kcl/org.kevoree.kcl@23?classifier=sources
+- pkg:maven/org.kevoree.kcl/org.kevoree.kcl@24
+- pkg:maven/org.kevoree.kcl/org.kevoree.kcl@24?classifier=sources
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl@2?classifier=sources
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl@3
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl@3?classifier=sources

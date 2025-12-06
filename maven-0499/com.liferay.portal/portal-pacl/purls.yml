@@ -24,4 +24,8 @@
 - pkg:maven/com.liferay.portal/portal-pacl@6.2.2?classifier=sources
 - pkg:maven/com.liferay.portal/portal-pacl@6.2.3
 - pkg:maven/com.liferay.portal/portal-pacl@6.2.3?classifier=sources
+- pkg:maven/com.liferay.portal/portal-pacl@6.2.4
+- pkg:maven/com.liferay.portal/portal-pacl@6.2.4?classifier=sources
+- pkg:maven/com.liferay.portal/portal-pacl@6.2.5
+- pkg:maven/com.liferay.portal/portal-pacl@6.2.5?classifier=sources
 - pkg:maven/com.liferay.portal/portal-pacl@7.0.0-nightly

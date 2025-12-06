@@ -88,3 +88,5 @@
 - pkg:maven/ro.isdc.wro4j/wro4j-maven-plugin@1.7.8?classifier=sources
 - pkg:maven/ro.isdc.wro4j/wro4j-maven-plugin@1.7.9
 - pkg:maven/ro.isdc.wro4j/wro4j-maven-plugin@1.7.9?classifier=sources
+- pkg:maven/ro.isdc.wro4j/wro4j-maven-plugin@1.8.0
+- pkg:maven/ro.isdc.wro4j/wro4j-maven-plugin@1.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/au.net.causal.maven.plugins/docker-image-archive-maven-plugin@1.0
+- pkg:maven/au.net.causal.maven.plugins/docker-image-archive-maven-plugin@1.0?classifier=sources

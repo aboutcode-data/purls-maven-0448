@@ -21,4 +21,8 @@
 - pkg:maven/org.deeplearning4j/deeplearning4j-nlp-yarn@0.4-rc3.4?classifier=sources
 - pkg:maven/org.deeplearning4j/deeplearning4j-nlp-yarn@0.4-rc3.6
 - pkg:maven/org.deeplearning4j/deeplearning4j-nlp-yarn@0.4-rc3.6?classifier=sources
+- pkg:maven/org.deeplearning4j/deeplearning4j-nlp-yarn@0.4-rc3.7
+- pkg:maven/org.deeplearning4j/deeplearning4j-nlp-yarn@0.4-rc3.7?classifier=sources
+- pkg:maven/org.deeplearning4j/deeplearning4j-nlp-yarn@0.4-rc3.8
+- pkg:maven/org.deeplearning4j/deeplearning4j-nlp-yarn@0.4-rc3.8?classifier=sources
 - pkg:maven/org.deeplearning4j/deeplearning4j-nlp-yarn@0.4-rc3?classifier=sources

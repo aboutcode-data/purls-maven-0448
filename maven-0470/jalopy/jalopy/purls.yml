@@ -1,0 +1,7 @@
+- pkg:maven/jalopy/jalopy@1.0b10
+- pkg:maven/jalopy/jalopy@1.0b11
+- pkg:maven/jalopy/jalopy@1.0b8
+- pkg:maven/jalopy/jalopy@1.5b3
+- pkg:maven/jalopy/jalopy@1.5b5
+- pkg:maven/jalopy/jalopy@1.5rc1?classifier=sources
+- pkg:maven/jalopy/jalopy@1.5rc3

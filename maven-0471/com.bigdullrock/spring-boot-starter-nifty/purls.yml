@@ -1,0 +1,2 @@
+- pkg:maven/com.bigdullrock/spring-boot-starter-nifty@0.3.0
+- pkg:maven/com.bigdullrock/spring-boot-starter-nifty@0.3.0?classifier=sources

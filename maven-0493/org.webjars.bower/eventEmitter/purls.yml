@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/eventEmitter@4.3.0
+- pkg:maven/org.webjars.bower/eventEmitter@4.3.0?classifier=sources
+- pkg:maven/org.webjars.bower/eventEmitter@5.0.0
+- pkg:maven/org.webjars.bower/eventEmitter@5.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/eventEmitter@5.1.0
+- pkg:maven/org.webjars.bower/eventEmitter@5.1.0?classifier=sources

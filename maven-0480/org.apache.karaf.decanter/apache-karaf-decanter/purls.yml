@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@1.1.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@1.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@1.2.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@1.2.0?classifier=src&type=zip

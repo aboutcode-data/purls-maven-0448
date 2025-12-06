@@ -1,0 +1,3 @@
+- pkg:maven/se.skltp.patch.mule.transport.http/mule-without-patch-test@1.0
+- pkg:maven/se.skltp.patch.mule.transport.http/mule-without-patch-test@1.0-RC1
+- pkg:maven/se.skltp.patch.mule.transport.http/mule-without-patch-test@1.1

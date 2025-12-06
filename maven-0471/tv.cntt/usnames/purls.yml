@@ -1,0 +1,2 @@
+- pkg:maven/tv.cntt/usnames@1.0.0
+- pkg:maven/tv.cntt/usnames@1.0.0?classifier=sources

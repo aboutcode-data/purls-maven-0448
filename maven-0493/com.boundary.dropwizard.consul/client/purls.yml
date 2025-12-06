@@ -1,0 +1,8 @@
+- pkg:maven/com.boundary.dropwizard.consul/client@0.16
+- pkg:maven/com.boundary.dropwizard.consul/client@0.16?classifier=sources
+- pkg:maven/com.boundary.dropwizard.consul/client@0.17
+- pkg:maven/com.boundary.dropwizard.consul/client@0.17?classifier=sources
+- pkg:maven/com.boundary.dropwizard.consul/client@0.18
+- pkg:maven/com.boundary.dropwizard.consul/client@0.18?classifier=sources
+- pkg:maven/com.boundary.dropwizard.consul/client@0.19
+- pkg:maven/com.boundary.dropwizard.consul/client@0.19?classifier=sources

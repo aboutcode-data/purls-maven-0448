@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-manolo-highcharts-dist@4.2.5
+- pkg:maven/org.webjars.bower/github-com-manolo-highcharts-dist@4.2.5?classifier=sources

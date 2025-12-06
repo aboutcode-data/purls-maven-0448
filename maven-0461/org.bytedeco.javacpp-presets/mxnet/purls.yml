@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco.javacpp-presets/mxnet@master-1.2
+- pkg:maven/org.bytedeco.javacpp-presets/mxnet@master-1.2?classifier=sources

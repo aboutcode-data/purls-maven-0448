@@ -1,0 +1,2 @@
+- pkg:maven/org.nuiton/scmwebeditor-scm-api@0.7
+- pkg:maven/org.nuiton/scmwebeditor-scm-api@0.7?classifier=sources

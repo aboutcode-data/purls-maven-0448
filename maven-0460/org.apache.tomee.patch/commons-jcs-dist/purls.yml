@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tomee.patch/commons-jcs-dist@2.0-M1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.tomee.patch/commons-jcs-dist@2.0-M1?classifier=src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/ca.mestevens.java/dynamic-role-filter@1.0
+- pkg:maven/ca.mestevens.java/dynamic-role-filter@1.0?classifier=sources

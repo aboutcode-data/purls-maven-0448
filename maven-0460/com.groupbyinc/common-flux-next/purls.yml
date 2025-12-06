@@ -1,0 +1,2 @@
+- pkg:maven/com.groupbyinc/common-flux-next@45
+- pkg:maven/com.groupbyinc/common-flux-next@45?classifier=sources

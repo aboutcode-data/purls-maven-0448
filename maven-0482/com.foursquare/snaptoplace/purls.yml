@@ -1,0 +1,4 @@
+- pkg:maven/com.foursquare/snaptoplace@0.5.4?classifier=sources
+- pkg:maven/com.foursquare/snaptoplace@0.5.4?type=aar
+- pkg:maven/com.foursquare/snaptoplace@0.5.5?classifier=sources
+- pkg:maven/com.foursquare/snaptoplace@0.5.5?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.stormpath.spring.boot.samza/samza-api@0.2.2
+- pkg:maven/com.stormpath.spring.boot.samza/samza-api@0.2.2?classifier=sources

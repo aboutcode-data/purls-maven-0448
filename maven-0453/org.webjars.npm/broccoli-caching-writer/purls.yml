@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/broccoli-caching-writer@2.2.1
+- pkg:maven/org.webjars.npm/broccoli-caching-writer@2.2.1?classifier=sources

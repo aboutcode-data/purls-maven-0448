@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/dr-svg-sprites@0.9.32
+- pkg:maven/org.webjars.npm/dr-svg-sprites@0.9.32?classifier=sources

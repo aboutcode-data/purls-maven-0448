@@ -1,0 +1,8 @@
+- pkg:maven/org.rajawali3d/rajawali@1.0.325?classifier=sources
+- pkg:maven/org.rajawali3d/rajawali@1.0.325?type=aar
+- pkg:maven/org.rajawali3d/rajawali@1.1.337?classifier=sources
+- pkg:maven/org.rajawali3d/rajawali@1.1.337?type=aar
+- pkg:maven/org.rajawali3d/rajawali@1.1.610?classifier=sources
+- pkg:maven/org.rajawali3d/rajawali@1.1.610?type=aar
+- pkg:maven/org.rajawali3d/rajawali@1.1.668?classifier=sources
+- pkg:maven/org.rajawali3d/rajawali@1.1.668?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.inneex.www.customfonts/customfonts@1.0.0?classifier=sources
+- pkg:maven/com.inneex.www.customfonts/customfonts@1.0.0?type=aar

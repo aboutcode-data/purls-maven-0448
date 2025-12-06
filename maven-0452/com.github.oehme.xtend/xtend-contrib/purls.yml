@@ -24,3 +24,7 @@
 - pkg:maven/com.github.oehme.xtend/xtend-contrib@0.5.3?classifier=sources
 - pkg:maven/com.github.oehme.xtend/xtend-contrib@0.6.0
 - pkg:maven/com.github.oehme.xtend/xtend-contrib@0.6.0?classifier=sources
+- pkg:maven/com.github.oehme.xtend/xtend-contrib@1.0.0
+- pkg:maven/com.github.oehme.xtend/xtend-contrib@1.0.0?classifier=sources
+- pkg:maven/com.github.oehme.xtend/xtend-contrib@1.1.0
+- pkg:maven/com.github.oehme.xtend/xtend-contrib@1.1.0?classifier=sources

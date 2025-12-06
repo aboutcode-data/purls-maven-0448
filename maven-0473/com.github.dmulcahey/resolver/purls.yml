@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dmulcahey/resolver@0.0.2
+- pkg:maven/com.github.dmulcahey/resolver@0.0.2?classifier=sources

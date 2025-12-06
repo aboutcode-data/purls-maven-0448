@@ -1,2 +1,12 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-core@251
 - pkg:maven/org.jmxtrans/jmxtrans-output-core@251?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@252
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@252?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@253
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@253?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@254
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@254?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@256
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@256?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@259
+- pkg:maven/org.jmxtrans/jmxtrans-output-core@259?classifier=sources

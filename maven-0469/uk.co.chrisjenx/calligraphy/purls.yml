@@ -18,3 +18,5 @@
 - pkg:maven/uk.co.chrisjenx/calligraphy@2.0.2?type=aar
 - pkg:maven/uk.co.chrisjenx/calligraphy@2.1.0?classifier=sources
 - pkg:maven/uk.co.chrisjenx/calligraphy@2.1.0?type=aar
+- pkg:maven/uk.co.chrisjenx/calligraphy@2.2.0?classifier=sources
+- pkg:maven/uk.co.chrisjenx/calligraphy@2.2.0?type=aar

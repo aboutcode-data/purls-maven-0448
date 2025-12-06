@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud/gcloud-java-translate@0.2.8
+- pkg:maven/com.google.cloud/gcloud-java-translate@0.2.8?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/de.tsystems.mms.apm/performance-signature@1.5.2-1?classifier=sources
 - pkg:maven/de.tsystems.mms.apm/performance-signature@1.5.2?classifier=sources
+- pkg:maven/de.tsystems.mms.apm/performance-signature@1.6.3?classifier=sources
+- pkg:maven/de.tsystems.mms.apm/performance-signature@2.0.0?classifier=sources
+- pkg:maven/de.tsystems.mms.apm/performance-signature@2.1.0?classifier=sources

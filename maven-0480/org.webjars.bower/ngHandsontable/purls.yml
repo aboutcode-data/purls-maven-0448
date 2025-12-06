@@ -1,2 +1,12 @@
+- pkg:maven/org.webjars.bower/ngHandsontable@0.10.0
+- pkg:maven/org.webjars.bower/ngHandsontable@0.10.0?classifier=sources
+- pkg:maven/org.webjars.bower/ngHandsontable@0.12.0
+- pkg:maven/org.webjars.bower/ngHandsontable@0.12.0?classifier=sources
+- pkg:maven/org.webjars.bower/ngHandsontable@0.7.0
 - pkg:maven/org.webjars.bower/ngHandsontable@0.7.0-beta3
 - pkg:maven/org.webjars.bower/ngHandsontable@0.7.0-beta3?classifier=sources
+- pkg:maven/org.webjars.bower/ngHandsontable@0.7.0?classifier=sources
+- pkg:maven/org.webjars.bower/ngHandsontable@0.8.0
+- pkg:maven/org.webjars.bower/ngHandsontable@0.8.0?classifier=sources
+- pkg:maven/org.webjars.bower/ngHandsontable@0.9.0
+- pkg:maven/org.webjars.bower/ngHandsontable@0.9.0?classifier=sources

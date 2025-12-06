@@ -1,0 +1,2 @@
+- pkg:maven/com.yo1000/dbspock-dbunit@2.1.0.RELEASE
+- pkg:maven/com.yo1000/dbspock-dbunit@2.1.0.RELEASE?classifier=sources

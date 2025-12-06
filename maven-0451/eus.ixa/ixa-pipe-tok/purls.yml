@@ -6,3 +6,5 @@
 - pkg:maven/eus.ixa/ixa-pipe-tok@1.8.2?classifier=sources
 - pkg:maven/eus.ixa/ixa-pipe-tok@1.8.3
 - pkg:maven/eus.ixa/ixa-pipe-tok@1.8.3?classifier=sources
+- pkg:maven/eus.ixa/ixa-pipe-tok@1.8.5
+- pkg:maven/eus.ixa/ixa-pipe-tok@1.8.5?classifier=sources

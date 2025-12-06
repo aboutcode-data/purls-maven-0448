@@ -1,0 +1,2 @@
+- pkg:maven/io.onetapbeyond/renjin-spark-executor_2.10@1.0
+- pkg:maven/io.onetapbeyond/renjin-spark-executor_2.10@1.0?classifier=sources

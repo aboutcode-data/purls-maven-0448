@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.analytics/spring-analytics@1.0.0.RELEASE
+- pkg:maven/org.springframework.analytics/spring-analytics@1.0.0.RELEASE?classifier=sources

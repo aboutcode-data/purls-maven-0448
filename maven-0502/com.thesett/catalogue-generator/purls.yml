@@ -25,6 +25,8 @@
 - pkg:maven/com.thesett/catalogue-generator@0.8.20?classifier=sources
 - pkg:maven/com.thesett/catalogue-generator@0.8.21
 - pkg:maven/com.thesett/catalogue-generator@0.8.21?classifier=sources
+- pkg:maven/com.thesett/catalogue-generator@0.8.22
+- pkg:maven/com.thesett/catalogue-generator@0.8.22?classifier=sources
 - pkg:maven/com.thesett/catalogue-generator@0.8.2?classifier=sources
 - pkg:maven/com.thesett/catalogue-generator@0.8.3
 - pkg:maven/com.thesett/catalogue-generator@0.8.3?classifier=sources
@@ -40,3 +42,7 @@
 - pkg:maven/com.thesett/catalogue-generator@0.8.8?classifier=sources
 - pkg:maven/com.thesett/catalogue-generator@0.8.9
 - pkg:maven/com.thesett/catalogue-generator@0.8.9?classifier=sources
+- pkg:maven/com.thesett/catalogue-generator@0.9.65
+- pkg:maven/com.thesett/catalogue-generator@0.9.65?classifier=sources
+- pkg:maven/com.thesett/catalogue-generator@0.9.86
+- pkg:maven/com.thesett/catalogue-generator@0.9.86?classifier=sources

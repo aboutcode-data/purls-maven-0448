@@ -12,3 +12,9 @@
 - pkg:maven/com.perforce/p4java@2015.1.1067177?classifier=sources
 - pkg:maven/com.perforce/p4java@2015.1.1210280
 - pkg:maven/com.perforce/p4java@2015.1.1210280?classifier=sources
+- pkg:maven/com.perforce/p4java@2015.2.1312871
+- pkg:maven/com.perforce/p4java@2015.2.1312871?classifier=sources
+- pkg:maven/com.perforce/p4java@2015.2.1365272
+- pkg:maven/com.perforce/p4java@2015.2.1365272?classifier=sources
+- pkg:maven/com.perforce/p4java@2015.2.1365273
+- pkg:maven/com.perforce/p4java@2015.2.1365273?classifier=sources

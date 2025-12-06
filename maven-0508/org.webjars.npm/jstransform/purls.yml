@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/jstransform@10.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/jstransform@11.0.1
 - pkg:maven/org.webjars.npm/jstransform@11.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/jstransform@3.0.0
+- pkg:maven/org.webjars.npm/jstransform@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/jstransform@6.1.0
 - pkg:maven/org.webjars.npm/jstransform@6.1.0?classifier=sources

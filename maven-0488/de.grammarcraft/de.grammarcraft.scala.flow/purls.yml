@@ -1,0 +1,2 @@
+- pkg:maven/de.grammarcraft/de.grammarcraft.scala.flow@0.1.2
+- pkg:maven/de.grammarcraft/de.grammarcraft.scala.flow@0.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.codecommit/emm-scalaz_2.11@0.1-8ce4a7c
+- pkg:maven/com.codecommit/emm-scalaz_2.11@0.1-8ce4a7c?classifier=sources

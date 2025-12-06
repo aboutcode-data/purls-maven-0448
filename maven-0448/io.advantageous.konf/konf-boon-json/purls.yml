@@ -1,0 +1,2 @@
+- pkg:maven/io.advantageous.konf/konf-boon-json@1.0.1.RELEASE
+- pkg:maven/io.advantageous.konf/konf-boon-json@1.0.1.RELEASE?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.auth.bitbucket/sonar-auth-bitbucket-plugin@1.0?classifier=sources

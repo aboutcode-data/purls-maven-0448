@@ -1,6 +1,8 @@
 - pkg:maven/org.mock-server/mockserver-client-ruby@3.10.0
 - pkg:maven/org.mock-server/mockserver-client-ruby@3.10.1
 - pkg:maven/org.mock-server/mockserver-client-ruby@3.10.2
+- pkg:maven/org.mock-server/mockserver-client-ruby@3.10.3
+- pkg:maven/org.mock-server/mockserver-client-ruby@3.10.4
 - pkg:maven/org.mock-server/mockserver-client-ruby@3.3
 - pkg:maven/org.mock-server/mockserver-client-ruby@3.4
 - pkg:maven/org.mock-server/mockserver-client-ruby@3.5

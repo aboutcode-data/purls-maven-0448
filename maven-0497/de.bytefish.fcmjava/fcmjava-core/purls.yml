@@ -1,0 +1,2 @@
+- pkg:maven/de.bytefish.fcmjava/fcmjava-core@0.1
+- pkg:maven/de.bytefish.fcmjava/fcmjava-core@0.1?classifier=sources

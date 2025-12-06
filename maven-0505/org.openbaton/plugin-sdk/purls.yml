@@ -1,0 +1,4 @@
+- pkg:maven/org.openbaton/plugin-sdk@2.1.2
+- pkg:maven/org.openbaton/plugin-sdk@2.1.2?classifier=sources
+- pkg:maven/org.openbaton/plugin-sdk@2.2.0
+- pkg:maven/org.openbaton/plugin-sdk@2.2.0?classifier=sources

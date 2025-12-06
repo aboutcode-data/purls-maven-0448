@@ -1,0 +1,2 @@
+- pkg:maven/org.fosstrak.hal/hal-impl-impinj@0.5.0
+- pkg:maven/org.fosstrak.hal/hal-impl-impinj@0.5.0?classifier=sources

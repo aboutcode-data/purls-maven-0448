@@ -1,0 +1,2 @@
+- pkg:maven/edu.iris.dmc/java-seed@3.8.5
+- pkg:maven/edu.iris.dmc/java-seed@3.8.5?classifier=sources

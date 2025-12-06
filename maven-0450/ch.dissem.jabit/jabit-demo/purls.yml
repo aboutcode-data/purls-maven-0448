@@ -1,2 +1,12 @@
 - pkg:maven/ch.dissem.jabit/jabit-demo@0.2.0
 - pkg:maven/ch.dissem.jabit/jabit-demo@0.2.0?classifier=sources
+- pkg:maven/ch.dissem.jabit/jabit-demo@1.0.0
+- pkg:maven/ch.dissem.jabit/jabit-demo@1.0.0?classifier=sources
+- pkg:maven/ch.dissem.jabit/jabit-demo@1.0.1
+- pkg:maven/ch.dissem.jabit/jabit-demo@1.0.1?classifier=sources
+- pkg:maven/ch.dissem.jabit/jabit-demo@2.0.0
+- pkg:maven/ch.dissem.jabit/jabit-demo@2.0.0?classifier=sources
+- pkg:maven/ch.dissem.jabit/jabit-demo@2.0.1
+- pkg:maven/ch.dissem.jabit/jabit-demo@2.0.1?classifier=sources
+- pkg:maven/ch.dissem.jabit/jabit-demo@2.0.2
+- pkg:maven/ch.dissem.jabit/jabit-demo@2.0.2?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@0.5.0
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@0.6.0
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@0.7.0
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@0.8.0
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@0.9.0

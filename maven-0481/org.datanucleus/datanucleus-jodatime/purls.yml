@@ -78,3 +78,9 @@
 - pkg:maven/org.datanucleus/datanucleus-jodatime@4.1.0-release?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-jodatime@4.1.1
 - pkg:maven/org.datanucleus/datanucleus-jodatime@4.1.1?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-jodatime@4.1.2
+- pkg:maven/org.datanucleus/datanucleus-jodatime@4.1.2?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-jodatime@5.0.0-m1
+- pkg:maven/org.datanucleus/datanucleus-jodatime@5.0.0-m1?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-jodatime@5.0.0-release
+- pkg:maven/org.datanucleus/datanucleus-jodatime@5.0.0-release?classifier=sources

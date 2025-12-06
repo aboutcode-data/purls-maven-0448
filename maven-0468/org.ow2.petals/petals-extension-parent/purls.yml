@@ -1,2 +1,4 @@
 - pkg:maven/org.ow2.petals/petals-extension-parent@1.0.0.1?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-extension-parent@1.0.1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-extension-parent@1.0.2?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-extension-parent@1.0.3?classifier=source-release&type=zip

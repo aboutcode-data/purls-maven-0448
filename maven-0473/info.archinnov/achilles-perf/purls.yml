@@ -52,3 +52,7 @@
 - pkg:maven/info.archinnov/achilles-perf@3.2.2?classifier=sources
 - pkg:maven/info.archinnov/achilles-perf@3.2.3
 - pkg:maven/info.archinnov/achilles-perf@3.2.3?classifier=sources
+- pkg:maven/info.archinnov/achilles-perf@3.2.4-Libon
+- pkg:maven/info.archinnov/achilles-perf@3.2.4-Libon?classifier=sources
+- pkg:maven/info.archinnov/achilles-perf@3.2.4-Zeppelin
+- pkg:maven/info.archinnov/achilles-perf@3.2.4-Zeppelin?classifier=sources

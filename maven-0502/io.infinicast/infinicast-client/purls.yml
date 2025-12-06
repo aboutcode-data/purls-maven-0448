@@ -1,0 +1,6 @@
+- pkg:maven/io.infinicast/infinicast-client@1.0.15
+- pkg:maven/io.infinicast/infinicast-client@1.0.15?classifier=sources
+- pkg:maven/io.infinicast/infinicast-client@1.0.16
+- pkg:maven/io.infinicast/infinicast-client@1.0.16-Java7
+- pkg:maven/io.infinicast/infinicast-client@1.0.16-Java7?classifier=sources
+- pkg:maven/io.infinicast/infinicast-client@1.0.16?classifier=sources

@@ -1,4 +1,12 @@
 - pkg:maven/tec.uom/uom-se@0.7
 - pkg:maven/tec.uom/uom-se@0.7?classifier=sources
+- pkg:maven/tec.uom/uom-se@0.8
 - pkg:maven/tec.uom/uom-se@0.8-RC1
 - pkg:maven/tec.uom/uom-se@0.8-RC1?classifier=sources
+- pkg:maven/tec.uom/uom-se@0.8?classifier=sources
+- pkg:maven/tec.uom/uom-se@0.9
+- pkg:maven/tec.uom/uom-se@0.9?classifier=sources
+- pkg:maven/tec.uom/uom-se@1.0
+- pkg:maven/tec.uom/uom-se@1.0.1
+- pkg:maven/tec.uom/uom-se@1.0.1?classifier=sources
+- pkg:maven/tec.uom/uom-se@1.0?classifier=sources

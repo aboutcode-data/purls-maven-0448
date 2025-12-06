@@ -4,3 +4,7 @@
 - pkg:maven/com.kcthota/emoji4j@2.0?classifier=sources
 - pkg:maven/com.kcthota/emoji4j@3.0
 - pkg:maven/com.kcthota/emoji4j@3.0?classifier=sources
+- pkg:maven/com.kcthota/emoji4j@4.0
+- pkg:maven/com.kcthota/emoji4j@4.0?classifier=sources
+- pkg:maven/com.kcthota/emoji4j@5.0
+- pkg:maven/com.kcthota/emoji4j@5.0?classifier=sources

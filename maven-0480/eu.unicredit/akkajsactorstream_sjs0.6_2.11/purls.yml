@@ -1,0 +1,8 @@
+- pkg:maven/eu.unicredit/akkajsactorstream_sjs0.6_2.11@0.2.0
+- pkg:maven/eu.unicredit/akkajsactorstream_sjs0.6_2.11@0.2.0?classifier=sources
+- pkg:maven/eu.unicredit/akkajsactorstream_sjs0.6_2.11@0.2.4.10
+- pkg:maven/eu.unicredit/akkajsactorstream_sjs0.6_2.11@0.2.4.10?classifier=sources
+- pkg:maven/eu.unicredit/akkajsactorstream_sjs0.6_2.11@0.2.4.11
+- pkg:maven/eu.unicredit/akkajsactorstream_sjs0.6_2.11@0.2.4.11?classifier=sources
+- pkg:maven/eu.unicredit/akkajsactorstream_sjs0.6_2.11@0.2.4.9
+- pkg:maven/eu.unicredit/akkajsactorstream_sjs0.6_2.11@0.2.4.9?classifier=sources

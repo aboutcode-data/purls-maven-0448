@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.gee/g-db@1.0.7
+- pkg:maven/net.sf.gee/g-db@1.0.7?classifier=sources
+- pkg:maven/net.sf.gee/g-db@1.1.0
+- pkg:maven/net.sf.gee/g-db@1.1.0?classifier=sources

@@ -8,3 +8,11 @@
 - pkg:maven/net.jodah/recurrent@0.3.3?classifier=sources
 - pkg:maven/net.jodah/recurrent@0.4.0
 - pkg:maven/net.jodah/recurrent@0.4.0?classifier=sources
+- pkg:maven/net.jodah/recurrent@0.5.0
+- pkg:maven/net.jodah/recurrent@0.5.0?classifier=sources
+- pkg:maven/net.jodah/recurrent@0.6.0
+- pkg:maven/net.jodah/recurrent@0.6.0?classifier=sources
+- pkg:maven/net.jodah/recurrent@0.7.0
+- pkg:maven/net.jodah/recurrent@0.7.0?classifier=sources
+- pkg:maven/net.jodah/recurrent@0.7.1
+- pkg:maven/net.jodah/recurrent@0.7.1?classifier=sources

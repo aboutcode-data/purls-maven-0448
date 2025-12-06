@@ -22,3 +22,7 @@
 - pkg:maven/de.knutwalker/typed-actors_2.11@1.5.1-a24
 - pkg:maven/de.knutwalker/typed-actors_2.11@1.5.1-a24?classifier=sources
 - pkg:maven/de.knutwalker/typed-actors_2.11@1.5.1?classifier=sources
+- pkg:maven/de.knutwalker/typed-actors_2.11@1.6.0
+- pkg:maven/de.knutwalker/typed-actors_2.11@1.6.0-a24
+- pkg:maven/de.knutwalker/typed-actors_2.11@1.6.0-a24?classifier=sources
+- pkg:maven/de.knutwalker/typed-actors_2.11@1.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.ck35.monitoring/request-tagging-integration-filter@1.0.0
+- pkg:maven/de.ck35.monitoring/request-tagging-integration-filter@1.0.0?classifier=sources

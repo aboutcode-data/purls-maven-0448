@@ -1,3 +1,5 @@
+- pkg:maven/org.opengis.cite/ets-kml22@1.12
+- pkg:maven/org.opengis.cite/ets-kml22@1.12?classifier=sources
 - pkg:maven/org.opengis.cite/ets-kml22@2.2-r10
 - pkg:maven/org.opengis.cite/ets-kml22@2.2-r10?classifier=sources
 - pkg:maven/org.opengis.cite/ets-kml22@2.2-r11

@@ -4,3 +4,11 @@
 - pkg:maven/de.sciss/mellite_2.10@0.5.0?classifier=sources
 - pkg:maven/de.sciss/mellite_2.10@0.8.0
 - pkg:maven/de.sciss/mellite_2.10@0.8.0?classifier=sources
+- pkg:maven/de.sciss/mellite_2.10@2.3.0
+- pkg:maven/de.sciss/mellite_2.10@2.3.0?classifier=sources
+- pkg:maven/de.sciss/mellite_2.10@2.4.0
+- pkg:maven/de.sciss/mellite_2.10@2.4.0?classifier=sources
+- pkg:maven/de.sciss/mellite_2.10@2.5.0
+- pkg:maven/de.sciss/mellite_2.10@2.5.0?classifier=sources
+- pkg:maven/de.sciss/mellite_2.10@2.6.0
+- pkg:maven/de.sciss/mellite_2.10@2.6.0?classifier=sources

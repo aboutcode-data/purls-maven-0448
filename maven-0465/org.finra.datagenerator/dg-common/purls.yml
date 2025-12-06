@@ -1,0 +1,2 @@
+- pkg:maven/org.finra.datagenerator/dg-common@2.2
+- pkg:maven/org.finra.datagenerator/dg-common@2.2?classifier=sources

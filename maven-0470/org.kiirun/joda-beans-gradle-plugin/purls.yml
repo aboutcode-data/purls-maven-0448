@@ -1,0 +1,2 @@
+- pkg:maven/org.kiirun/joda-beans-gradle-plugin@1.0.2
+- pkg:maven/org.kiirun/joda-beans-gradle-plugin@1.0.2?classifier=sources

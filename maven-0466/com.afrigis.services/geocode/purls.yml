@@ -1,0 +1,2 @@
+- pkg:maven/com.afrigis.services/geocode@2.0.2
+- pkg:maven/com.afrigis.services/geocode@2.0.2?classifier=sources

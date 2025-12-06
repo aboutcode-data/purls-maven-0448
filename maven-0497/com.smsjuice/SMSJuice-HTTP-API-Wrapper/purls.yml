@@ -1,0 +1,2 @@
+- pkg:maven/com.smsjuice/SMSJuice-HTTP-API-Wrapper@1.0.0
+- pkg:maven/com.smsjuice/SMSJuice-HTTP-API-Wrapper@1.0.0?classifier=sources

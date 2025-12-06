@@ -1,0 +1,2 @@
+- pkg:maven/br.com.objectos.way/lazy-api@0.5.0
+- pkg:maven/br.com.objectos.way/lazy-api@0.5.0?classifier=sources

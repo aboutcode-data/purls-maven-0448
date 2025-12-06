@@ -8,3 +8,5 @@
 - pkg:maven/se.skltp.tools.agt-gen/agt-generator@1.0.0-M6?classifier=sources
 - pkg:maven/se.skltp.tools.agt-gen/agt-generator@1.0.0-M7
 - pkg:maven/se.skltp.tools.agt-gen/agt-generator@1.0.0-M7?classifier=sources
+- pkg:maven/se.skltp.tools.agt-gen/agt-generator@1.0.0-M8
+- pkg:maven/se.skltp.tools.agt-gen/agt-generator@1.0.0-M8?classifier=sources

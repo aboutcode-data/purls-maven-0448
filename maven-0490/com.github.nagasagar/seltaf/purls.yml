@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nagasagar/seltaf@1.0-SAPSHOT
+- pkg:maven/com.github.nagasagar/seltaf@1.0-SAPSHOT?classifier=sources

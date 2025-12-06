@@ -22,6 +22,14 @@
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.19.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.20.0
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.20.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.21.0
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.21.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.22.0
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.22.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.23.0
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.23.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.24.0
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.24.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@6.7.0
@@ -42,3 +50,11 @@
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@7.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@8.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-editable-grid@8.0.0-M1?classifier=sources

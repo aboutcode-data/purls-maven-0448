@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-scroll-header-panel@1.0.12
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-scroll-header-panel@1.0.12?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-scroll-header-panel@1.0.15
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-scroll-header-panel@1.0.15?classifier=sources
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-scroll-header-panel@1.0.8
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-scroll-header-panel@1.0.8?classifier=sources

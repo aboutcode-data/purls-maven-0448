@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.bower/adapter.js@0.2.9
+- pkg:maven/org.webjars.bower/adapter.js@0.2.9?classifier=sources
+- pkg:maven/org.webjars.bower/adapter.js@1.4.0
+- pkg:maven/org.webjars.bower/adapter.js@1.4.0?classifier=sources
+- pkg:maven/org.webjars.bower/adapter.js@2.0.0
+- pkg:maven/org.webjars.bower/adapter.js@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/adapter.js@2.0.3
+- pkg:maven/org.webjars.bower/adapter.js@2.0.3?classifier=sources

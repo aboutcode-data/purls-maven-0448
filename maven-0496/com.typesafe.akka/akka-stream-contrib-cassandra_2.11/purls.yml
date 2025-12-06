@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-stream-contrib-cassandra_2.11@0.4
+- pkg:maven/com.typesafe.akka/akka-stream-contrib-cassandra_2.11@0.4?classifier=sources

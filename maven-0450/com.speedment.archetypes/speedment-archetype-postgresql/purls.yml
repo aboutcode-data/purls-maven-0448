@@ -1,0 +1,3 @@
+- pkg:maven/com.speedment.archetypes/speedment-archetype-postgresql@3.0.0-EA
+- pkg:maven/com.speedment.archetypes/speedment-archetype-postgresql@3.0.0-EA2
+- pkg:maven/com.speedment.archetypes/speedment-archetype-postgresql@3.0.0-EA?classifier=sources

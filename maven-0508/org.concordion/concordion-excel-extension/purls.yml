@@ -14,3 +14,7 @@
 - pkg:maven/org.concordion/concordion-excel-extension@1.0.6?classifier=sources
 - pkg:maven/org.concordion/concordion-excel-extension@1.0.7
 - pkg:maven/org.concordion/concordion-excel-extension@1.0.7?classifier=sources
+- pkg:maven/org.concordion/concordion-excel-extension@2.0.0
+- pkg:maven/org.concordion/concordion-excel-extension@2.0.0?classifier=sources
+- pkg:maven/org.concordion/concordion-excel-extension@2.0.2
+- pkg:maven/org.concordion/concordion-excel-extension@2.0.2?classifier=sources

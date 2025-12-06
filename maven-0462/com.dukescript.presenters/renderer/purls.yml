@@ -1,0 +1,2 @@
+- pkg:maven/com.dukescript.presenters/renderer@1.0
+- pkg:maven/com.dukescript.presenters/renderer@1.0?classifier=sources

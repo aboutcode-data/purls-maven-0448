@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/angularjs-nvd3-directives@0.0.6
+- pkg:maven/org.webjars.bower/angularjs-nvd3-directives@0.0.6?classifier=sources
+- pkg:maven/org.webjars.bower/angularjs-nvd3-directives@0.0.7
+- pkg:maven/org.webjars.bower/angularjs-nvd3-directives@0.0.7?classifier=sources

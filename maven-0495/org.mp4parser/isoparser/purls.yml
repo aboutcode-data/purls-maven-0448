@@ -1,0 +1,2 @@
+- pkg:maven/org.mp4parser/isoparser@1.9.27
+- pkg:maven/org.mp4parser/isoparser@1.9.27?classifier=sources

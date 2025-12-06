@@ -1,0 +1,2 @@
+- pkg:maven/org.osgi/org.eclipse.equinox.metatype@1.4.100.v20150408-1437
+- pkg:maven/org.osgi/org.eclipse.equinox.metatype@1.4.100.v20150408-1437?classifier=sources

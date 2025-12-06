@@ -4,3 +4,7 @@
 - pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.11?classifier=sources
 - pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.16
 - pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.16?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.18
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.18.2
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.18.2?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.18?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bower/ngCordova@0.1.14-alpha
 - pkg:maven/org.webjars.bower/ngCordova@0.1.14-alpha?classifier=sources
+- pkg:maven/org.webjars.bower/ngCordova@0.1.26-alpha
+- pkg:maven/org.webjars.bower/ngCordova@0.1.26-alpha?classifier=sources
+- pkg:maven/org.webjars.bower/ngCordova@0.1.27-alpha
+- pkg:maven/org.webjars.bower/ngCordova@0.1.27-alpha?classifier=sources

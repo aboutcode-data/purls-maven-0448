@@ -1,0 +1,6 @@
+- pkg:maven/org.daisy.pipeline.modules.braille/build-helper@1.0.0
+- pkg:maven/org.daisy.pipeline.modules.braille/build-helper@1.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/build-helper@1.1.0
+- pkg:maven/org.daisy.pipeline.modules.braille/build-helper@1.1.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/build-helper@1.1.1
+- pkg:maven/org.daisy.pipeline.modules.braille/build-helper@1.1.1?classifier=sources

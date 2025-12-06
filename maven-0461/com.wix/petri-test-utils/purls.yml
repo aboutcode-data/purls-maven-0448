@@ -1,0 +1,2 @@
+- pkg:maven/com.wix/petri-test-utils@0.6.0
+- pkg:maven/com.wix/petri-test-utils@0.6.0?classifier=sources

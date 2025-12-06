@@ -1,0 +1,2 @@
+- pkg:maven/com.connexta.arbitro.samples.hierarchical.resource/heirarchical-resource-sample@1.0.0
+- pkg:maven/com.connexta.arbitro.samples.hierarchical.resource/heirarchical-resource-sample@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-search/scaps-api_2.10@0.4
+- pkg:maven/org.scala-search/scaps-api_2.10@0.4?classifier=sources

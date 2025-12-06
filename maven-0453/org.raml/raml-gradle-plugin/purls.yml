@@ -1,0 +1,2 @@
+- pkg:maven/org.raml/raml-gradle-plugin@1.3.4
+- pkg:maven/org.raml/raml-gradle-plugin@1.3.4?classifier=sources

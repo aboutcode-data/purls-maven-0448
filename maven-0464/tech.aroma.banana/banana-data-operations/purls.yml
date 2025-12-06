@@ -1,0 +1,2 @@
+- pkg:maven/tech.aroma.banana/banana-data-operations@1.0
+- pkg:maven/tech.aroma.banana/banana-data-operations@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.92tonywills/com.github.tonywills.droidbase@0.1.0?classifier=sources
+- pkg:maven/com.github.92tonywills/com.github.tonywills.droidbase@0.1.0?type=aar

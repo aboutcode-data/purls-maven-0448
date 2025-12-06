@@ -27,3 +27,5 @@
 - pkg:maven/org.jboss.maven.plugins/qstools@1.6.1.Final?classifier=sources
 - pkg:maven/org.jboss.maven.plugins/qstools@1.6.2.Final
 - pkg:maven/org.jboss.maven.plugins/qstools@1.6.2.Final?classifier=sources
+- pkg:maven/org.jboss.maven.plugins/qstools@1.6.3.Final
+- pkg:maven/org.jboss.maven.plugins/qstools@1.6.3.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.donaldblodgett.io/WritableStream@1.0
+- pkg:maven/com.donaldblodgett.io/WritableStream@1.0?classifier=sources

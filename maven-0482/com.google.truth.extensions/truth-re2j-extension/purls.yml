@@ -1,0 +1,6 @@
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.28
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.28?classifier=sources
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.29
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.29?classifier=sources
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.30
+- pkg:maven/com.google.truth.extensions/truth-re2j-extension@0.30?classifier=sources

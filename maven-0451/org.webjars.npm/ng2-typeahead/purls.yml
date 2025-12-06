@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/ng2-typeahead@0.5.17
+- pkg:maven/org.webjars.npm/ng2-typeahead@0.5.17?classifier=sources
+- pkg:maven/org.webjars.npm/ng2-typeahead@1.0.0
+- pkg:maven/org.webjars.npm/ng2-typeahead@1.0.0?classifier=sources

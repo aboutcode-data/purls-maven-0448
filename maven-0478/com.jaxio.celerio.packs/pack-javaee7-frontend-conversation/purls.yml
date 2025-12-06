@@ -1,0 +1,2 @@
+- pkg:maven/com.jaxio.celerio.packs/pack-javaee7-frontend-conversation@1.0.0
+- pkg:maven/com.jaxio.celerio.packs/pack-javaee7-frontend-conversation@1.0.0?classifier=sources

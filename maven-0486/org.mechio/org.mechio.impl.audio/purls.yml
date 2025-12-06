@@ -10,3 +10,4 @@
 - pkg:maven/org.mechio/org.mechio.impl.audio@1.0.4?classifier=sources
 - pkg:maven/org.mechio/org.mechio.impl.audio@1.0.5
 - pkg:maven/org.mechio/org.mechio.impl.audio@1.0.5?classifier=sources
+- pkg:maven/org.mechio/org.mechio.impl.audio@1.0.6

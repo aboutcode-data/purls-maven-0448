@@ -42,3 +42,5 @@
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1415243874?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1415375795
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1415375795?classifier=sources
+- pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1464025210
+- pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1464025210?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.hawkular/hawkular-redhat-access-integration-backend@1.0.0.Alpha5?type=war
 - pkg:maven/org.hawkular/hawkular-redhat-access-integration-backend@1.0.0.Alpha6?classifier=sources
 - pkg:maven/org.hawkular/hawkular-redhat-access-integration-backend@1.0.0.Alpha6?type=war
+- pkg:maven/org.hawkular/hawkular-redhat-access-integration-backend@1.0.0.Alpha7?classifier=sources
+- pkg:maven/org.hawkular/hawkular-redhat-access-integration-backend@1.0.0.Alpha7?type=war

@@ -10,3 +10,5 @@
 - pkg:maven/com.byoutline.androidstubserver/stubserver@1.4.0?classifier=sources
 - pkg:maven/com.byoutline.androidstubserver/stubserver@1.4.1
 - pkg:maven/com.byoutline.androidstubserver/stubserver@1.4.1?classifier=sources
+- pkg:maven/com.byoutline.androidstubserver/stubserver@2.0.0-beta1
+- pkg:maven/com.byoutline.androidstubserver/stubserver@2.0.0-beta1?classifier=sources

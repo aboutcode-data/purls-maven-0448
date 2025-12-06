@@ -1,0 +1,2 @@
+- pkg:maven/net.neoremind/simple-zk-client@1.0.0
+- pkg:maven/net.neoremind/simple-zk-client@1.0.0?classifier=sources

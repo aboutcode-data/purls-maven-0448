@@ -15,6 +15,15 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.18?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.2-incubator
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.2-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.22
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.22?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.22?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.24
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.24?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.24?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.26
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.26?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.26?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.4-incubator
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.4-incubator?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.6
@@ -23,3 +32,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.8
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.0.8?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.1.0
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.testing@2.1.0?classifier=sources

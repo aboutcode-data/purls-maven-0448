@@ -1,0 +1,2 @@
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.17
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.17?classifier=sources

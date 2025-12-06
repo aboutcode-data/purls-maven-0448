@@ -1,0 +1,2 @@
+- pkg:maven/org.osmdroid/osmdroid-mapsforge@5.2?classifier=sources
+- pkg:maven/org.osmdroid/osmdroid-mapsforge@5.2?type=aar

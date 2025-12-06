@@ -1,0 +1,2 @@
+- pkg:maven/net.mingsoft/ms-base@1.0.0
+- pkg:maven/net.mingsoft/ms-base@1.0.0?classifier=sources

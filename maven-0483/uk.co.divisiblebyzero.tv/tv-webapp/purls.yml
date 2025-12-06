@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.divisiblebyzero.tv/tv-webapp@1.27?classifier=sources
+- pkg:maven/uk.co.divisiblebyzero.tv/tv-webapp@1.27?type=war

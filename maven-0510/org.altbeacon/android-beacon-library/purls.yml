@@ -15,3 +15,9 @@
 - pkg:maven/org.altbeacon/android-beacon-library@2.5?type=aar
 - pkg:maven/org.altbeacon/android-beacon-library@2.6.1?type=aar
 - pkg:maven/org.altbeacon/android-beacon-library@2.6?type=aar
+- pkg:maven/org.altbeacon/android-beacon-library@2.7.1?type=aar
+- pkg:maven/org.altbeacon/android-beacon-library@2.7?type=aar
+- pkg:maven/org.altbeacon/android-beacon-library@2.8.1?type=aar
+- pkg:maven/org.altbeacon/android-beacon-library@2.8?type=aar
+- pkg:maven/org.altbeacon/android-beacon-library@2.9.1?type=aar
+- pkg:maven/org.altbeacon/android-beacon-library@2.9?type=aar

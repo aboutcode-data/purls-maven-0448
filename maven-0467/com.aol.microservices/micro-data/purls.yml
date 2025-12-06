@@ -12,3 +12,5 @@
 - pkg:maven/com.aol.microservices/micro-data@0.67?classifier=sources
 - pkg:maven/com.aol.microservices/micro-data@0.68
 - pkg:maven/com.aol.microservices/micro-data@0.68?classifier=sources
+- pkg:maven/com.aol.microservices/micro-data@0.69
+- pkg:maven/com.aol.microservices/micro-data@0.69?classifier=sources

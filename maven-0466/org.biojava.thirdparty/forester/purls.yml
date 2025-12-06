@@ -1,2 +1,4 @@
 - pkg:maven/org.biojava.thirdparty/forester@1.005
 - pkg:maven/org.biojava.thirdparty/forester@1.005?classifier=sources
+- pkg:maven/org.biojava.thirdparty/forester@1.038
+- pkg:maven/org.biojava.thirdparty/forester@1.038?classifier=sources

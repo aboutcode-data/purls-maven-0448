@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/turbolinks@5.0.0
+- pkg:maven/org.webjars.npm/turbolinks@5.0.0-beta5
+- pkg:maven/org.webjars.npm/turbolinks@5.0.0-beta5?classifier=sources
+- pkg:maven/org.webjars.npm/turbolinks@5.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/ch.racic.testing/maven-cm-plugin@0.13.2
 - pkg:maven/ch.racic.testing/maven-cm-plugin@0.13.2?classifier=sources
+- pkg:maven/ch.racic.testing/maven-cm-plugin@0.14.0
+- pkg:maven/ch.racic.testing/maven-cm-plugin@0.14.0?classifier=sources

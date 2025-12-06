@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bootstrap-datetimepicker@0.0.7
+- pkg:maven/org.webjars.npm/bootstrap-datetimepicker@0.0.7?classifier=sources

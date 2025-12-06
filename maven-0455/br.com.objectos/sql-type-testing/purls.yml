@@ -1,0 +1,2 @@
+- pkg:maven/br.com.objectos/sql-type-testing@0.11.1
+- pkg:maven/br.com.objectos/sql-type-testing@0.11.1?classifier=sources

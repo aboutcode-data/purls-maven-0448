@@ -44,3 +44,5 @@
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@3.2.0?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@4.0.0
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@4.0.0?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@6.0.0
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@6.0.0?classifier=sources

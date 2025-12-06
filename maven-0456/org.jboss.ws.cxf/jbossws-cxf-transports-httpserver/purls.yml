@@ -44,3 +44,5 @@
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-httpserver@4.3.4.Final?classifier=sources
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-httpserver@4.3.5.Final
 - pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-httpserver@4.3.5.Final?classifier=sources
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-httpserver@4.3.6.Final
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf-transports-httpserver@4.3.6.Final?classifier=sources

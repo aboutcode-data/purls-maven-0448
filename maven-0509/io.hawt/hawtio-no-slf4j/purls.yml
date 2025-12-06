@@ -75,7 +75,17 @@
 - pkg:maven/io.hawt/hawtio-no-slf4j@1.4.54?type=war
 - pkg:maven/io.hawt/hawtio-no-slf4j@1.4.55?type=war
 - pkg:maven/io.hawt/hawtio-no-slf4j@1.4.56?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.57?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.58?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.59?type=war
 - pkg:maven/io.hawt/hawtio-no-slf4j@1.4.5?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.60?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.61?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.62?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.63?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.64?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.65?type=war
+- pkg:maven/io.hawt/hawtio-no-slf4j@1.4.66?type=war
 - pkg:maven/io.hawt/hawtio-no-slf4j@1.4.6?type=war
 - pkg:maven/io.hawt/hawtio-no-slf4j@1.4.7?type=war
 - pkg:maven/io.hawt/hawtio-no-slf4j@1.4.8?type=war

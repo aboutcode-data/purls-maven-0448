@@ -1,3 +1,7 @@
 - pkg:maven/com.simpligility.maven/maven-repository-provisioner@0.2.0?classifier=sources
 - pkg:maven/com.simpligility.maven/maven-repository-provisioner@0.3.0?classifier=sources
 - pkg:maven/com.simpligility.maven/maven-repository-provisioner@0.4.0?classifier=sources
+- pkg:maven/com.simpligility.maven/maven-repository-provisioner@1.0.0?classifier=sources
+- pkg:maven/com.simpligility.maven/maven-repository-provisioner@1.1.0?classifier=sources
+- pkg:maven/com.simpligility.maven/maven-repository-provisioner@1.1.1?classifier=sources
+- pkg:maven/com.simpligility.maven/maven-repository-provisioner@1.1.2?classifier=sources

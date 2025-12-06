@@ -1,0 +1,2 @@
+- pkg:maven/org.hid4java/hid4java@0.4.0
+- pkg:maven/org.hid4java/hid4java@0.4.0?classifier=sources

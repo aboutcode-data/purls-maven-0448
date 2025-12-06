@@ -1,0 +1,2 @@
+- pkg:maven/ru.finnetrolle.tools/caching-container@0.1.3
+- pkg:maven/ru.finnetrolle.tools/caching-container@0.1.3?classifier=sources

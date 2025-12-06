@@ -64,6 +64,14 @@
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.2.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.20.0
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.20.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.21.0
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.21.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.22.0
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.22.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.23.0
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.23.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.24.0
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.24.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@6.4.0
@@ -88,3 +96,11 @@
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@7.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@8.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-javaee-inject@8.0.0-M1?classifier=sources

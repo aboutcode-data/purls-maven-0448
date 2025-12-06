@@ -1,0 +1,11 @@
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@1.2.0-RC1?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@1.2.0-RC2?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@1.2.0-RC3?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@1.2.0?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@1.2.1?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@2.0.0-RC1?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@2.0.0?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@2.0.1-RC1?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@2.0.1-RC2?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@2.0.1-RC3?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-badges@2.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.fabric3/test-nats@3.0.0
+- pkg:maven/org.fabric3/test-nats@3.0.0?classifier=sources

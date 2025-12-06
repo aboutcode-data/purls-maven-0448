@@ -4,3 +4,5 @@
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-joda-dialect@1.0.1?classifier=sources
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-joda-dialect@1.0.2
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-joda-dialect@1.0.2?classifier=sources
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-joda-dialect@2.0.0
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-joda-dialect@2.0.0?classifier=sources

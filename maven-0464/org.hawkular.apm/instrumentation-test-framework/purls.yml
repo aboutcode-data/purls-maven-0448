@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.apm/instrumentation-test-framework@0.10.0.Final
+- pkg:maven/org.hawkular.apm/instrumentation-test-framework@0.10.0.Final?classifier=sources
+- pkg:maven/org.hawkular.apm/instrumentation-test-framework@0.11.0.Final
+- pkg:maven/org.hawkular.apm/instrumentation-test-framework@0.11.0.Final?classifier=sources

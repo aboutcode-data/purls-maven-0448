@@ -1,0 +1,2 @@
+- pkg:maven/no.maddin.niofs/nio-fs-test-util@2.0.0
+- pkg:maven/no.maddin.niofs/nio-fs-test-util@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jekh.appenders/redis-appender-log4j@0.5
+- pkg:maven/org.jekh.appenders/redis-appender-log4j@0.5?classifier=sources

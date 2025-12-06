@@ -1,0 +1,2 @@
+- pkg:maven/org.redkale/redkale@1.0.0-beta
+- pkg:maven/org.redkale/redkale@1.0.0-beta?classifier=sources

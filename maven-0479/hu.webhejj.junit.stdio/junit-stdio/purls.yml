@@ -1,0 +1,2 @@
+- pkg:maven/hu.webhejj.junit.stdio/junit-stdio@1.0.0
+- pkg:maven/hu.webhejj.junit.stdio/junit-stdio@1.0.0?classifier=sources

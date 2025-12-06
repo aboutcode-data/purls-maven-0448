@@ -1,2 +1,4 @@
 - pkg:maven/com.flozano.metrics/metrics-core@0.2.1
 - pkg:maven/com.flozano.metrics/metrics-core@0.2.1?classifier=sources
+- pkg:maven/com.flozano.metrics/metrics-core@0.3.0
+- pkg:maven/com.flozano.metrics/metrics-core@0.3.0?classifier=sources

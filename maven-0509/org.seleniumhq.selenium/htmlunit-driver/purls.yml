@@ -1,0 +1,8 @@
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.20
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.20?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.21
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.21?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.22
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.22?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.23
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.23?classifier=sources

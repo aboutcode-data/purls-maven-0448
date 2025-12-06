@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudslang.content/cs-mail@0.0.32
+- pkg:maven/io.cloudslang.content/cs-mail@0.0.32?classifier=sources

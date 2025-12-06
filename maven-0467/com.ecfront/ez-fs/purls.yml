@@ -1,2 +1,4 @@
 - pkg:maven/com.ecfront/ez-fs@0.9
 - pkg:maven/com.ecfront/ez-fs@0.9?classifier=sources
+- pkg:maven/com.ecfront/ez-fs@1.0
+- pkg:maven/com.ecfront/ez-fs@1.0?classifier=sources

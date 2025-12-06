@@ -4,3 +4,5 @@
 - pkg:maven/net.flexmojos.oss/flexmojos-test-harness@7.0.0
 - pkg:maven/net.flexmojos.oss/flexmojos-test-harness@7.0.1
 - pkg:maven/net.flexmojos.oss/flexmojos-test-harness@7.0.1?classifier=sources
+- pkg:maven/net.flexmojos.oss/flexmojos-test-harness@7.1.0
+- pkg:maven/net.flexmojos.oss/flexmojos-test-harness@7.1.0?classifier=sources

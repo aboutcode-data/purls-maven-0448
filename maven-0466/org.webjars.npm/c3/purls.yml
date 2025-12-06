@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/c3@0.4.10
+- pkg:maven/org.webjars.npm/c3@0.4.10?classifier=sources
+- pkg:maven/org.webjars.npm/c3@0.4.11
+- pkg:maven/org.webjars.npm/c3@0.4.11?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars/bootstrap-tagsinput@0.3.9
 - pkg:maven/org.webjars/bootstrap-tagsinput@0.3.9-1
 - pkg:maven/org.webjars/bootstrap-tagsinput@0.5
+- pkg:maven/org.webjars/bootstrap-tagsinput@0.6.1
