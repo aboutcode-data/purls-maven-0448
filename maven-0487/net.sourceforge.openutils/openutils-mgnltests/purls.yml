@@ -2,3 +2,5 @@
 - pkg:maven/net.sourceforge.openutils/openutils-mgnltests@5.0.0?classifier=sources
 - pkg:maven/net.sourceforge.openutils/openutils-mgnltests@5.0.10
 - pkg:maven/net.sourceforge.openutils/openutils-mgnltests@5.0.10?classifier=sources
+- pkg:maven/net.sourceforge.openutils/openutils-mgnltests@5.2.0
+- pkg:maven/net.sourceforge.openutils/openutils-mgnltests@5.2.0?classifier=sources

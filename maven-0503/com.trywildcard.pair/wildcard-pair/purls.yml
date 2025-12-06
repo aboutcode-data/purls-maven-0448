@@ -1,0 +1,4 @@
+- pkg:maven/com.trywildcard.pair/wildcard-pair@0.3.1
+- pkg:maven/com.trywildcard.pair/wildcard-pair@0.3.1?classifier=sources
+- pkg:maven/com.trywildcard.pair/wildcard-pair@0.4.6
+- pkg:maven/com.trywildcard.pair/wildcard-pair@0.4.6?classifier=sources

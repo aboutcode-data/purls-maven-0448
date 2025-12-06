@@ -6,3 +6,9 @@
 - pkg:maven/ch.acra/acra@4.5.0RC2?classifier=sources
 - pkg:maven/ch.acra/acra@4.5.0RC3?classifier=sources
 - pkg:maven/ch.acra/acra@4.5.0RC?classifier=sources
+- pkg:maven/ch.acra/acra@4.6.0?classifier=sources
+- pkg:maven/ch.acra/acra@4.6.0RC1?classifier=sources
+- pkg:maven/ch.acra/acra@4.6.0RC2?classifier=sources
+- pkg:maven/ch.acra/acra@4.6.1?classifier=sources
+- pkg:maven/ch.acra/acra@4.6.2?classifier=sources
+- pkg:maven/ch.acra/acra@4.7.0-RC.1?classifier=sources

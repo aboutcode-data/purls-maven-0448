@@ -1,0 +1,2 @@
+- pkg:maven/co.fusionx/spotifymodel@0.1.0
+- pkg:maven/co.fusionx/spotifymodel@0.1.0?classifier=sources

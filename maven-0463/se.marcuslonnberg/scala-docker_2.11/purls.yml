@@ -1,0 +1,4 @@
+- pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.1.0
+- pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.1.0?classifier=sources
+- pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.2.0
+- pkg:maven/se.marcuslonnberg/scala-docker_2.11@0.2.0?classifier=sources

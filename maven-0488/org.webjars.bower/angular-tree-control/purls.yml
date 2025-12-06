@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-tree-control@0.2.9
+- pkg:maven/org.webjars.bower/angular-tree-control@0.2.9?classifier=sources

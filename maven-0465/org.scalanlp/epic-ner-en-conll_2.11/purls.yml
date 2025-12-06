@@ -1,0 +1,6 @@
+- pkg:maven/org.scalanlp/epic-ner-en-conll_2.11@2014.10.26
+- pkg:maven/org.scalanlp/epic-ner-en-conll_2.11@2014.10.26?classifier=sources
+- pkg:maven/org.scalanlp/epic-ner-en-conll_2.11@2015.1.25
+- pkg:maven/org.scalanlp/epic-ner-en-conll_2.11@2015.1.25?classifier=sources
+- pkg:maven/org.scalanlp/epic-ner-en-conll_2.11@2015.2.19
+- pkg:maven/org.scalanlp/epic-ner-en-conll_2.11@2015.2.19?classifier=sources

@@ -35,3 +35,9 @@
 - pkg:maven/org.apache.maven/maven-archiver@2.5
 - pkg:maven/org.apache.maven/maven-archiver@2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven/maven-archiver@2.5?classifier=sources
+- pkg:maven/org.apache.maven/maven-archiver@2.6
+- pkg:maven/org.apache.maven/maven-archiver@2.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven/maven-archiver@2.6?classifier=sources
+- pkg:maven/org.apache.maven/maven-archiver@3.0.0
+- pkg:maven/org.apache.maven/maven-archiver@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven/maven-archiver@3.0.0?classifier=sources

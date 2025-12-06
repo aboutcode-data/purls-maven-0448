@@ -1,0 +1,2 @@
+- pkg:maven/com.geeoz.travelport/travelport-api@8.0.0.57d1
+- pkg:maven/com.geeoz.travelport/travelport-api@8.0.0.57d1?classifier=sources

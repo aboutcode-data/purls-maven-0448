@@ -1,0 +1,4 @@
+- pkg:maven/me.biubiubiu.swipeactivity/library@1.1?classifier=sources
+- pkg:maven/me.biubiubiu.swipeactivity/library@1.1?type=aar
+- pkg:maven/me.biubiubiu.swipeactivity/library@1.2?classifier=sources
+- pkg:maven/me.biubiubiu.swipeactivity/library@1.2?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.htrace/htrace-webapp@4.0.0-incubating?classifier=sources
+- pkg:maven/org.apache.htrace/htrace-webapp@4.0.0-incubating?type=war
+- pkg:maven/org.apache.htrace/htrace-webapp@4.0.1-incubating?classifier=sources
+- pkg:maven/org.apache.htrace/htrace-webapp@4.0.1-incubating?type=war

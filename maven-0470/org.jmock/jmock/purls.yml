@@ -18,3 +18,7 @@
 - pkg:maven/org.jmock/jmock@2.6.0-RC2
 - pkg:maven/org.jmock/jmock@2.6.0-RC2?classifier=sources
 - pkg:maven/org.jmock/jmock@2.6.0?classifier=sources
+- pkg:maven/org.jmock/jmock@2.8.0
+- pkg:maven/org.jmock/jmock@2.8.0?classifier=sources
+- pkg:maven/org.jmock/jmock@2.8.1
+- pkg:maven/org.jmock/jmock@2.8.1?classifier=sources

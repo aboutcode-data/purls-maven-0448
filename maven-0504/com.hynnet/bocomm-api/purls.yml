@@ -1,0 +1,2 @@
+- pkg:maven/com.hynnet/bocomm-api@1.7.3
+- pkg:maven/com.hynnet/bocomm-api@1.7.3?classifier=sources

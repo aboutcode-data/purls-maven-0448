@@ -1,0 +1,2 @@
+- pkg:maven/org.bedework/bw-ical4j-cl@1.1.1
+- pkg:maven/org.bedework/bw-ical4j-cl@1.1.1?classifier=sources

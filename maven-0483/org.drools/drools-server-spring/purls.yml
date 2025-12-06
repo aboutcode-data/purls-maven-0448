@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-server-spring@5.1.0.M2
+- pkg:maven/org.drools/drools-server-spring@5.1.0.M2?classifier=sources

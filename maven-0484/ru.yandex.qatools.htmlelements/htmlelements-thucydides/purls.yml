@@ -1,2 +1,8 @@
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.11
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.11?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.12
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.12?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.13
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.13?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.14
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.14?classifier=sources

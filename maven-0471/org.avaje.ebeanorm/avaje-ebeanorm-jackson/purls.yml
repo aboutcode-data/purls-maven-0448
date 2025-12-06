@@ -1,0 +1,2 @@
+- pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-jackson@4.5.1
+- pkg:maven/org.avaje.ebeanorm/avaje-ebeanorm-jackson@4.5.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.uqbar/voodoo_2.11@1.3.3
+- pkg:maven/org.uqbar/voodoo_2.11@1.3.3?classifier=sources
+- pkg:maven/org.uqbar/voodoo_2.11@1.3.5
+- pkg:maven/org.uqbar/voodoo_2.11@1.3.5?classifier=sources

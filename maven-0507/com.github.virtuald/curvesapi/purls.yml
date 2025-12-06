@@ -1,0 +1,4 @@
+- pkg:maven/com.github.virtuald/curvesapi@1.02
+- pkg:maven/com.github.virtuald/curvesapi@1.02?classifier=sources
+- pkg:maven/com.github.virtuald/curvesapi@1.03
+- pkg:maven/com.github.virtuald/curvesapi@1.03?classifier=sources

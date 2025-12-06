@@ -1,0 +1,7 @@
+- pkg:maven/org.deeplearning4j/hadoop-yarn@0.0.3.2
+- pkg:maven/org.deeplearning4j/hadoop-yarn@0.0.3.2.1
+- pkg:maven/org.deeplearning4j/hadoop-yarn@0.0.3.2.2
+- pkg:maven/org.deeplearning4j/hadoop-yarn@0.0.3.2.4
+- pkg:maven/org.deeplearning4j/hadoop-yarn@0.0.3.2.5
+- pkg:maven/org.deeplearning4j/hadoop-yarn@0.0.3.2.6
+- pkg:maven/org.deeplearning4j/hadoop-yarn@0.0.3.2.7

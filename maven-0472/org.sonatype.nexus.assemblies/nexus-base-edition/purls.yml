@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-edition@3.0.0-b2015061001?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-edition@3.0.0-b2015091801?classifier=sources

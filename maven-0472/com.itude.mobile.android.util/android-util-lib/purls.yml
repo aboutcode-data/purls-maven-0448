@@ -1,0 +1,6 @@
+- pkg:maven/com.itude.mobile.android.util/android-util-lib@2.0.0?classifier=sources
+- pkg:maven/com.itude.mobile.android.util/android-util-lib@2.0.0?type=aar
+- pkg:maven/com.itude.mobile.android.util/android-util-lib@3.0.0?classifier=sources
+- pkg:maven/com.itude.mobile.android.util/android-util-lib@3.0.0?type=aar
+- pkg:maven/com.itude.mobile.android.util/android-util-lib@3.1.0?classifier=sources
+- pkg:maven/com.itude.mobile.android.util/android-util-lib@3.1.0?type=aar

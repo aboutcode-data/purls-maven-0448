@@ -1,0 +1,6 @@
+- pkg:maven/gr.grnet/cdmi-spec@0.4.0
+- pkg:maven/gr.grnet/cdmi-spec@0.4.0?classifier=sources
+- pkg:maven/gr.grnet/cdmi-spec@0.4.2
+- pkg:maven/gr.grnet/cdmi-spec@0.4.2?classifier=sources
+- pkg:maven/gr.grnet/cdmi-spec@0.4.3
+- pkg:maven/gr.grnet/cdmi-spec@0.4.3?classifier=sources

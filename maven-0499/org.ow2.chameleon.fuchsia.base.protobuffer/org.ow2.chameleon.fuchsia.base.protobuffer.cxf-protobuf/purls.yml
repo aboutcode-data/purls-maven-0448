@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.chameleon.fuchsia.base.protobuffer/org.ow2.chameleon.fuchsia.base.protobuffer.cxf-protobuf@0.0.2
+- pkg:maven/org.ow2.chameleon.fuchsia.base.protobuffer/org.ow2.chameleon.fuchsia.base.protobuffer.cxf-protobuf@0.0.2?classifier=sources
+- pkg:maven/org.ow2.chameleon.fuchsia.base.protobuffer/org.ow2.chameleon.fuchsia.base.protobuffer.cxf-protobuf@0.0.3
+- pkg:maven/org.ow2.chameleon.fuchsia.base.protobuffer/org.ow2.chameleon.fuchsia.base.protobuffer.cxf-protobuf@0.0.3?classifier=sources
+- pkg:maven/org.ow2.chameleon.fuchsia.base.protobuffer/org.ow2.chameleon.fuchsia.base.protobuffer.cxf-protobuf@0.0.4
+- pkg:maven/org.ow2.chameleon.fuchsia.base.protobuffer/org.ow2.chameleon.fuchsia.base.protobuffer.cxf-protobuf@0.0.4?classifier=sources

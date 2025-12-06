@@ -2,3 +2,10 @@
 - pkg:maven/org.languagetool/language-all@2.2
 - pkg:maven/org.languagetool/language-all@2.3.1
 - pkg:maven/org.languagetool/language-all@2.4
+- pkg:maven/org.languagetool/language-all@2.5
+- pkg:maven/org.languagetool/language-all@2.6
+- pkg:maven/org.languagetool/language-all@2.7
+- pkg:maven/org.languagetool/language-all@2.8
+- pkg:maven/org.languagetool/language-all@2.9
+- pkg:maven/org.languagetool/language-all@3.0
+- pkg:maven/org.languagetool/language-all@3.1

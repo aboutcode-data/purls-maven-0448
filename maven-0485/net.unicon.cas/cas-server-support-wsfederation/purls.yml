@@ -1,0 +1,2 @@
+- pkg:maven/net.unicon.cas/cas-server-support-wsfederation@1.0.0
+- pkg:maven/net.unicon.cas/cas-server-support-wsfederation@1.0.0?classifier=sources

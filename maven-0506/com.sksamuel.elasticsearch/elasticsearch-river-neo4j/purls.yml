@@ -8,3 +8,11 @@
 - pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@0.90.8.0?classifier=sources
 - pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@0.90.9.0
 - pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@0.90.9.0?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.0.2
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.0.2?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.1.0
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.1.0?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.1.1?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.1.1?type=zip
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.2.1.1?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-neo4j@1.2.1.1?type=zip

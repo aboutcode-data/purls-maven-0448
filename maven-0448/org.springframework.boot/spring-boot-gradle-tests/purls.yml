@@ -1,0 +1,8 @@
+- pkg:maven/org.springframework.boot/spring-boot-gradle-tests@1.1.11.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-gradle-tests@1.1.12.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-gradle-tests@1.2.2.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-gradle-tests@1.2.3.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-gradle-tests@1.2.4.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-gradle-tests@1.2.5.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-gradle-tests@1.2.6.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-gradle-tests@1.2.7.RELEASE

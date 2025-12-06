@@ -1,0 +1,4 @@
+- pkg:maven/org.i3xx.eclipse.test/workspace@0.1.4
+- pkg:maven/org.i3xx.eclipse.test/workspace@0.1.4?classifier=sources
+- pkg:maven/org.i3xx.eclipse.test/workspace@0.1.5
+- pkg:maven/org.i3xx.eclipse.test/workspace@0.1.5?classifier=sources

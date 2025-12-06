@@ -1,0 +1,2 @@
+- pkg:maven/co.cask.cdap/cdap-authentication-client-javascript@1.1.0
+- pkg:maven/co.cask.cdap/cdap-authentication-client-javascript@1.1.1

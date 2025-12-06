@@ -1,0 +1,2 @@
+- pkg:maven/com.sixdimensions.coe.util/ab-parser@0.1.0
+- pkg:maven/com.sixdimensions.coe.util/ab-parser@0.1.0?classifier=sources

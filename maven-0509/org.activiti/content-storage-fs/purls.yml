@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti/content-storage-fs@6.0.0.Beta1
+- pkg:maven/org.activiti/content-storage-fs@6.0.0.Beta1?classifier=sources

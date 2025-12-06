@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.magicgrouplayout/magicgrouplayout@0.5.beta
+- pkg:maven/net.sf.magicgrouplayout/magicgrouplayout@0.5.beta?classifier=sources

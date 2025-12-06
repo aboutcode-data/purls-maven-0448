@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dimovelev/metrics-sampler-extension-elasticsearch@0.7.3
+- pkg:maven/com.github.dimovelev/metrics-sampler-extension-elasticsearch@0.7.3?classifier=sources

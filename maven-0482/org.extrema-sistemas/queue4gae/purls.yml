@@ -10,3 +10,5 @@
 - pkg:maven/org.extrema-sistemas/queue4gae@1.2.3
 - pkg:maven/org.extrema-sistemas/queue4gae@1.2.3?classifier=sources
 - pkg:maven/org.extrema-sistemas/queue4gae@1.2?classifier=sources
+- pkg:maven/org.extrema-sistemas/queue4gae@1.4
+- pkg:maven/org.extrema-sistemas/queue4gae@1.4?classifier=sources

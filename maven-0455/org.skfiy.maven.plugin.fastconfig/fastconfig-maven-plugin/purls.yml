@@ -1,0 +1,2 @@
+- pkg:maven/org.skfiy.maven.plugin.fastconfig/fastconfig-maven-plugin@1.0
+- pkg:maven/org.skfiy.maven.plugin.fastconfig/fastconfig-maven-plugin@1.0?classifier=sources

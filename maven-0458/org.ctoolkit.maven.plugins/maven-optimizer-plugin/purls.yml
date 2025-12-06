@@ -1,0 +1,2 @@
+- pkg:maven/org.ctoolkit.maven.plugins/maven-optimizer-plugin@1.1
+- pkg:maven/org.ctoolkit.maven.plugins/maven-optimizer-plugin@1.1?classifier=sources

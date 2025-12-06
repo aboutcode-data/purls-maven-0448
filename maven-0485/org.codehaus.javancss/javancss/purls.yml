@@ -1,2 +1,4 @@
 - pkg:maven/org.codehaus.javancss/javancss@32.53
 - pkg:maven/org.codehaus.javancss/javancss@32.53?classifier=sources
+- pkg:maven/org.codehaus.javancss/javancss@33.54
+- pkg:maven/org.codehaus.javancss/javancss@33.54?classifier=sources

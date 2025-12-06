@@ -1,0 +1,2 @@
+- pkg:maven/com.amazon.carbonado/carbonado-sleepycat-je@1.2.4
+- pkg:maven/com.amazon.carbonado/carbonado-sleepycat-je@1.2.4?classifier=sources

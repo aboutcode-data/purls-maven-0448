@@ -1,0 +1,4 @@
+- pkg:maven/com.ToxicBakery.libs.jlibewf/jlibewf@1.0.56
+- pkg:maven/com.ToxicBakery.libs.jlibewf/jlibewf@1.0.56?classifier=sources
+- pkg:maven/com.ToxicBakery.libs.jlibewf/jlibewf@1.0.62
+- pkg:maven/com.ToxicBakery.libs.jlibewf/jlibewf@1.0.62?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/java_cup/java_cup@0.9e
+- pkg:maven/java_cup/java_cup@0.9e?classifier=sources

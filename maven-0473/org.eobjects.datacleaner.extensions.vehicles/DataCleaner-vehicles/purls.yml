@@ -1,0 +1,4 @@
+- pkg:maven/org.eobjects.datacleaner.extensions.vehicles/DataCleaner-vehicles@1.0
+- pkg:maven/org.eobjects.datacleaner.extensions.vehicles/DataCleaner-vehicles@1.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner.extensions.vehicles/DataCleaner-vehicles@1.1
+- pkg:maven/org.eobjects.datacleaner.extensions.vehicles/DataCleaner-vehicles@1.1?classifier=sources

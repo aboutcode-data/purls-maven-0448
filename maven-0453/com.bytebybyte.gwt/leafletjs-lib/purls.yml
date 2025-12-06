@@ -1,0 +1,2 @@
+- pkg:maven/com.bytebybyte.gwt/leafletjs-lib@0.7.3
+- pkg:maven/com.bytebybyte.gwt/leafletjs-lib@0.7.3?classifier=sources

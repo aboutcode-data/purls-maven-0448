@@ -1,0 +1,2 @@
+- pkg:maven/de.cit-ec.tcs.alignment/csv@2.1.2
+- pkg:maven/de.cit-ec.tcs.alignment/csv@2.1.2?classifier=sources

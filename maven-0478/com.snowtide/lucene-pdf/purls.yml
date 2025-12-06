@@ -1,0 +1,2 @@
+- pkg:maven/com.snowtide/lucene-pdf@3.0.0
+- pkg:maven/com.snowtide/lucene-pdf@3.0.0?classifier=sources

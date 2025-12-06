@@ -1,0 +1,6 @@
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-webxml-plugin_2.11@0.2.10
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-webxml-plugin_2.11@0.2.10?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-webxml-plugin_2.11@0.2.8
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-webxml-plugin_2.11@0.2.8?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-webxml-plugin_2.11@0.2.9
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-webxml-plugin_2.11@0.2.9?classifier=sources

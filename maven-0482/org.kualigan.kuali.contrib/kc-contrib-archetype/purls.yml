@@ -1,0 +1,2 @@
+- pkg:maven/org.kualigan.kuali.contrib/kc-contrib-archetype@1.1?classifier=sources
+- pkg:maven/org.kualigan.kuali.contrib/kc-contrib-archetype@1.2?classifier=sources

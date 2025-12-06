@@ -1,2 +1,6 @@
 - pkg:maven/com.googlecode.aima-java/aima-core@0.10.5
 - pkg:maven/com.googlecode.aima-java/aima-core@0.10.5?classifier=sources
+- pkg:maven/com.googlecode.aima-java/aima-core@0.11.0
+- pkg:maven/com.googlecode.aima-java/aima-core@0.11.0?classifier=sources
+- pkg:maven/com.googlecode.aima-java/aima-core@0.11.1
+- pkg:maven/com.googlecode.aima-java/aima-core@0.11.1?classifier=sources

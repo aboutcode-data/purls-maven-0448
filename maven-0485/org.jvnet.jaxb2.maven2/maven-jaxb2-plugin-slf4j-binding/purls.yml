@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-slf4j-binding@0.0.0
+- pkg:maven/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-slf4j-binding@0.0.0?classifier=sources

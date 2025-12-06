@@ -1,0 +1,4 @@
+- pkg:maven/net.csdn/csdn-common@1.0
+- pkg:maven/net.csdn/csdn-common@1.0?classifier=sources
+- pkg:maven/net.csdn/csdn-common@1.3
+- pkg:maven/net.csdn/csdn-common@1.3?classifier=sources

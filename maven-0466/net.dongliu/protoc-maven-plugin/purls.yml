@@ -1,0 +1,2 @@
+- pkg:maven/net.dongliu/protoc-maven-plugin@0.3.6
+- pkg:maven/net.dongliu/protoc-maven-plugin@0.3.6?classifier=sources

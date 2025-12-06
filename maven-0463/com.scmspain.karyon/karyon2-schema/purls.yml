@@ -1,0 +1,2 @@
+- pkg:maven/com.scmspain.karyon/karyon2-schema@0.1.0
+- pkg:maven/com.scmspain.karyon/karyon2-schema@0.1.0?classifier=sources

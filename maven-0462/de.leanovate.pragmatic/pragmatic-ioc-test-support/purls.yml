@@ -1,0 +1,2 @@
+- pkg:maven/de.leanovate.pragmatic/pragmatic-ioc-test-support@0.2
+- pkg:maven/de.leanovate.pragmatic/pragmatic-ioc-test-support@0.2?classifier=sources

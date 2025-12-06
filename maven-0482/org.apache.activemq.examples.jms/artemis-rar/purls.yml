@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.activemq.examples.jms/artemis-rar@1.0.0?classifier=sources

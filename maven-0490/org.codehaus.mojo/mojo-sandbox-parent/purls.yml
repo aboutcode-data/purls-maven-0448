@@ -3,6 +3,7 @@
 - pkg:maven/org.codehaus.mojo/mojo-sandbox-parent@12?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/mojo-sandbox-parent@13?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/mojo-sandbox-parent@14?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/mojo-sandbox-parent@15?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/mojo-sandbox-parent@6?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/mojo-sandbox-parent@7?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/mojo-sandbox-parent@8?classifier=source-release&type=zip

@@ -1,0 +1,11 @@
+- pkg:maven/org.zalando.stups/docs@0.4.10
+- pkg:maven/org.zalando.stups/docs@0.4.11
+- pkg:maven/org.zalando.stups/docs@0.4.12
+- pkg:maven/org.zalando.stups/docs@0.4.13
+- pkg:maven/org.zalando.stups/docs@0.4.14
+- pkg:maven/org.zalando.stups/docs@0.4.15
+- pkg:maven/org.zalando.stups/docs@0.4.15?classifier=sources
+- pkg:maven/org.zalando.stups/docs@0.4.16
+- pkg:maven/org.zalando.stups/docs@0.4.16?classifier=sources
+- pkg:maven/org.zalando.stups/docs@0.4.8
+- pkg:maven/org.zalando.stups/docs@0.4.9

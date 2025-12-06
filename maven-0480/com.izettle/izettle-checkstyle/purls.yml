@@ -1,0 +1,2 @@
+- pkg:maven/com.izettle/izettle-checkstyle@2.1.14
+- pkg:maven/com.izettle/izettle-checkstyle@2.1.14?classifier=sources

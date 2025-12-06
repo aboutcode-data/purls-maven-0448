@@ -1,0 +1,2 @@
+- pkg:maven/de.hhu.stups/infolog-parser@0.1.0
+- pkg:maven/de.hhu.stups/infolog-parser@0.1.0?classifier=sources

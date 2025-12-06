@@ -1,0 +1,2 @@
+- pkg:maven/com.noctarius.discovery/hazelcast-kubernetes-discovery@0.9.0
+- pkg:maven/com.noctarius.discovery/hazelcast-kubernetes-discovery@0.9.0?classifier=sources

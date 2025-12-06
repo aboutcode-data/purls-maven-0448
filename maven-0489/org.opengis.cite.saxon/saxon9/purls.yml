@@ -1,0 +1,2 @@
+- pkg:maven/org.opengis.cite.saxon/saxon9@9.0.0.8
+- pkg:maven/org.opengis.cite.saxon/saxon9@9.0.0.8?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.pagerduty/fun-http-client_2.10@1.0.0
+- pkg:maven/com.pagerduty/fun-http-client_2.10@1.0.0?classifier=sources
+- pkg:maven/com.pagerduty/fun-http-client_2.10@2.0.0
+- pkg:maven/com.pagerduty/fun-http-client_2.10@2.0.0?classifier=sources
+- pkg:maven/com.pagerduty/fun-http-client_2.10@2.1.0
+- pkg:maven/com.pagerduty/fun-http-client_2.10@2.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cardatechnologies/aba.routing.transit.validator@1.0.1-FINAL
+- pkg:maven/com.cardatechnologies/aba.routing.transit.validator@1.0.1-FINAL?classifier=sources

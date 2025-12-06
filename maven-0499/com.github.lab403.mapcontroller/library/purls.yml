@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lab403.mapcontroller/library@1.15.7?classifier=sources
+- pkg:maven/com.github.lab403.mapcontroller/library@1.5.3?classifier=sources

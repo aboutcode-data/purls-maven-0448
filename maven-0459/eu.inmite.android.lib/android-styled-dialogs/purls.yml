@@ -5,3 +5,5 @@
 - pkg:maven/eu.inmite.android.lib/android-styled-dialogs@1.1.1?type=aar
 - pkg:maven/eu.inmite.android.lib/android-styled-dialogs@1.1.2?classifier=sources
 - pkg:maven/eu.inmite.android.lib/android-styled-dialogs@1.1?classifier=sources
+- pkg:maven/eu.inmite.android.lib/android-styled-dialogs@1.2.0?classifier=sources
+- pkg:maven/eu.inmite.android.lib/android-styled-dialogs@1.2.0?type=aar

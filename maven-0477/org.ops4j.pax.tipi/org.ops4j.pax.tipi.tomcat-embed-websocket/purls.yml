@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.tipi/org.ops4j.pax.tipi.tomcat-embed-websocket@8.0.14.1
+- pkg:maven/org.ops4j.pax.tipi/org.ops4j.pax.tipi.tomcat-embed-websocket@8.0.14.1?classifier=sources

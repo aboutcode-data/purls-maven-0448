@@ -1,0 +1,2 @@
+- pkg:maven/ch.maxant/genericconnector-bitronix-impl@2.1.0
+- pkg:maven/ch.maxant/genericconnector-bitronix-impl@2.1.0?classifier=sources

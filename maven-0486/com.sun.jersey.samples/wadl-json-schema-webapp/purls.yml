@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.jersey.samples/wadl-json-schema-webapp@1.19?classifier=sources
+- pkg:maven/com.sun.jersey.samples/wadl-json-schema-webapp@1.19?type=war

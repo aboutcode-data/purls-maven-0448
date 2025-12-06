@@ -1,0 +1,6 @@
+- pkg:maven/org.commonjava.aprox/aprox-depgraph-model-java@0.24.0
+- pkg:maven/org.commonjava.aprox/aprox-depgraph-model-java@0.24.0?classifier=sources
+- pkg:maven/org.commonjava.aprox/aprox-depgraph-model-java@0.25.0
+- pkg:maven/org.commonjava.aprox/aprox-depgraph-model-java@0.25.0?classifier=sources
+- pkg:maven/org.commonjava.aprox/aprox-depgraph-model-java@0.25.1
+- pkg:maven/org.commonjava.aprox/aprox-depgraph-model-java@0.25.1?classifier=sources

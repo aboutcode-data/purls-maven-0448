@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/dagre-d3@0.4.8
+- pkg:maven/org.webjars.bower/dagre-d3@0.4.8?classifier=sources

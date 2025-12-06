@@ -1,0 +1,4 @@
+- pkg:maven/eu.toolchain.async/tiny-async-examples@1.6.0
+- pkg:maven/eu.toolchain.async/tiny-async-examples@1.6.0?classifier=sources
+- pkg:maven/eu.toolchain.async/tiny-async-examples@1.7.0
+- pkg:maven/eu.toolchain.async/tiny-async-examples@1.7.0?classifier=sources

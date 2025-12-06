@@ -1,0 +1,6 @@
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.10.3.39
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.10.3.39?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.11
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.11?classifier=sources
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.16
+- pkg:maven/de.pfabulist.lindwurm/stellvertreter@0.16?classifier=sources

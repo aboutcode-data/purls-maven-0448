@@ -1,0 +1,6 @@
+- pkg:maven/com.mistraltech.smog/smog-core@1.0
+- pkg:maven/com.mistraltech.smog/smog-core@1.0-rc.2
+- pkg:maven/com.mistraltech.smog/smog-core@1.0-rc.2?classifier=sources
+- pkg:maven/com.mistraltech.smog/smog-core@1.0?classifier=sources
+- pkg:maven/com.mistraltech.smog/smog-core@1.1.0
+- pkg:maven/com.mistraltech.smog/smog-core@1.1.0?classifier=sources

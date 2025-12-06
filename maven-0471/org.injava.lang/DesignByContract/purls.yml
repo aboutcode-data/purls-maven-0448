@@ -1,0 +1,2 @@
+- pkg:maven/org.injava.lang/DesignByContract@0
+- pkg:maven/org.injava.lang/DesignByContract@0?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/eu.agrosense.api/field@14.01-beta?classifier=sources
+- pkg:maven/eu.agrosense.api/field@14.02-beta?classifier=sources
+- pkg:maven/eu.agrosense.api/field@14.04-beta?classifier=sources
+- pkg:maven/eu.agrosense.api/field@14.04.1-beta?classifier=sources
+- pkg:maven/eu.agrosense.api/field@14.06-beta?classifier=sources

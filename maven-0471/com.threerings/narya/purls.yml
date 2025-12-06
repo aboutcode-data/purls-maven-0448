@@ -9,6 +9,8 @@
 - pkg:maven/com.threerings/narya@1.13?classifier=sources
 - pkg:maven/com.threerings/narya@1.14
 - pkg:maven/com.threerings/narya@1.14?classifier=sources
+- pkg:maven/com.threerings/narya@1.15
+- pkg:maven/com.threerings/narya@1.15?classifier=sources
 - pkg:maven/com.threerings/narya@1.1?classifier=sources
 - pkg:maven/com.threerings/narya@1.2
 - pkg:maven/com.threerings/narya@1.2?classifier=sources

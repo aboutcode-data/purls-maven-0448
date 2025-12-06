@@ -1,0 +1,2 @@
+- pkg:maven/io.github.htools/htools@0.26
+- pkg:maven/io.github.htools/htools@0.26?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/br.com.caelum/vraptor-plugin-gae@3.5.2?classifier=sources
 - pkg:maven/br.com.caelum/vraptor-plugin-gae@3.5.3
 - pkg:maven/br.com.caelum/vraptor-plugin-gae@3.5.3?classifier=sources
+- pkg:maven/br.com.caelum/vraptor-plugin-gae@3.5.4
+- pkg:maven/br.com.caelum/vraptor-plugin-gae@3.5.4?classifier=sources
+- pkg:maven/br.com.caelum/vraptor-plugin-gae@3.5.5
+- pkg:maven/br.com.caelum/vraptor-plugin-gae@3.5.5?classifier=sources

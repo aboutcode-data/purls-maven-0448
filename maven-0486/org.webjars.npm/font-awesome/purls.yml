@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/font-awesome@4.1.0
+- pkg:maven/org.webjars.npm/font-awesome@4.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/font-awesome@4.2.0
+- pkg:maven/org.webjars.npm/font-awesome@4.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/font-awesome@4.3.0
+- pkg:maven/org.webjars.npm/font-awesome@4.3.0?classifier=sources

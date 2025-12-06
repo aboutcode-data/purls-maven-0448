@@ -1,0 +1,4 @@
+- pkg:maven/org.elasticsearch/rest-api-spec@2.0.0
+- pkg:maven/org.elasticsearch/rest-api-spec@2.0.0-beta1
+- pkg:maven/org.elasticsearch/rest-api-spec@2.0.0-beta2
+- pkg:maven/org.elasticsearch/rest-api-spec@2.0.0-rc1

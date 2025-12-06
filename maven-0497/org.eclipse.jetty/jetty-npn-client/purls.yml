@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty/jetty-npn-client@9.3.0.M0
+- pkg:maven/org.eclipse.jetty/jetty-npn-client@9.3.0.M0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-npn-client@9.3.0.M1
+- pkg:maven/org.eclipse.jetty/jetty-npn-client@9.3.0.M1?classifier=sources

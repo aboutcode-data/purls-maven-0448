@@ -1,0 +1,2 @@
+- pkg:maven/com.manywho.services/example-archetype@1.0.0?classifier=sources
+- pkg:maven/com.manywho.services/example-archetype@1.1.0?classifier=sources

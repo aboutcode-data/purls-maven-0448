@@ -1,0 +1,2 @@
+- pkg:maven/nl.fd/hamcrest-jsoup@0.1.11
+- pkg:maven/nl.fd/hamcrest-jsoup@0.1.11?classifier=sources

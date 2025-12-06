@@ -1,0 +1,4 @@
+- pkg:maven/ru.hh.oauth.subscribe/subscribe-core@3.3
+- pkg:maven/ru.hh.oauth.subscribe/subscribe-core@3.3?classifier=sources
+- pkg:maven/ru.hh.oauth.subscribe/subscribe-core@3.4
+- pkg:maven/ru.hh.oauth.subscribe/subscribe-core@3.4?classifier=sources

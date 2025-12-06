@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.ozark.test/csrf-property@1.0.0-m02?classifier=sources
+- pkg:maven/org.glassfish.ozark.test/csrf-property@1.0.0-m02?type=war

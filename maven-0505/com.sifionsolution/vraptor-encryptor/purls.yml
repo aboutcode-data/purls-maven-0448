@@ -1,0 +1,2 @@
+- pkg:maven/com.sifionsolution/vraptor-encryptor@1.0
+- pkg:maven/com.sifionsolution/vraptor-encryptor@1.0?classifier=sources

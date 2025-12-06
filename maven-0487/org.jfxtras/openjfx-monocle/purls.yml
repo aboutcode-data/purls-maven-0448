@@ -1,0 +1,2 @@
+- pkg:maven/org.jfxtras/openjfx-monocle@1.8.0_20
+- pkg:maven/org.jfxtras/openjfx-monocle@1.8.0_20?classifier=sources

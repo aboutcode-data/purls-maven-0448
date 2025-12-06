@@ -1,0 +1,2 @@
+- pkg:maven/com.selgp.opensauce/moladek-appium@14.08
+- pkg:maven/com.selgp.opensauce/moladek-appium@14.08?classifier=sources

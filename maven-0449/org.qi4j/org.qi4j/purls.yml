@@ -1,0 +1,2 @@
+- pkg:maven/org.qi4j/org.qi4j@2.1
+- pkg:maven/org.qi4j/org.qi4j@2.1?classifier=src&type=zip

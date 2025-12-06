@@ -1,0 +1,8 @@
+- pkg:maven/org.jruby/jruby-dist@9.0.0.0.pre1?classifier=src&type=zip
+- pkg:maven/org.jruby/jruby-dist@9.0.0.0.pre2?classifier=src&type=zip
+- pkg:maven/org.jruby/jruby-dist@9.0.0.0.rc1?classifier=src&type=zip
+- pkg:maven/org.jruby/jruby-dist@9.0.0.0.rc2?classifier=src&type=zip
+- pkg:maven/org.jruby/jruby-dist@9.0.0.0?classifier=src&type=zip
+- pkg:maven/org.jruby/jruby-dist@9.0.1.0?classifier=src&type=zip
+- pkg:maven/org.jruby/jruby-dist@9.0.2.0?classifier=src&type=zip
+- pkg:maven/org.jruby/jruby-dist@9.0.3.0?classifier=src&type=zip

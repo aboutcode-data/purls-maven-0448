@@ -1,0 +1,2 @@
+- pkg:maven/com.gregmarut.commons/network@0.1-RELEASE
+- pkg:maven/com.gregmarut.commons/network@0.1-RELEASE?classifier=sources

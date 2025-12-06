@@ -34,3 +34,7 @@
 - pkg:maven/com.cedarsoft.serialization.generator/jackson@4.1.5?classifier=sources
 - pkg:maven/com.cedarsoft.serialization.generator/jackson@5.0.0
 - pkg:maven/com.cedarsoft.serialization.generator/jackson@5.0.0?classifier=sources
+- pkg:maven/com.cedarsoft.serialization.generator/jackson@6.0.0
+- pkg:maven/com.cedarsoft.serialization.generator/jackson@6.0.0?classifier=sources
+- pkg:maven/com.cedarsoft.serialization.generator/jackson@6.1.0
+- pkg:maven/com.cedarsoft.serialization.generator/jackson@6.1.0?classifier=sources

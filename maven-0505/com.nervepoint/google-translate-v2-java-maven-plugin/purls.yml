@@ -1,2 +1,4 @@
 - pkg:maven/com.nervepoint/google-translate-v2-java-maven-plugin@0.0.2
 - pkg:maven/com.nervepoint/google-translate-v2-java-maven-plugin@0.0.2?classifier=sources
+- pkg:maven/com.nervepoint/google-translate-v2-java-maven-plugin@0.0.3
+- pkg:maven/com.nervepoint/google-translate-v2-java-maven-plugin@0.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/async-http-client@1.9.0-BETA6-gatling-1
+- pkg:maven/io.gatling/async-http-client@1.9.0-BETA6-gatling-1?classifier=sources

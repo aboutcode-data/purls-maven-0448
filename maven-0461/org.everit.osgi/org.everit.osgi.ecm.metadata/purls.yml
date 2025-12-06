@@ -1,0 +1,6 @@
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.metadata@1.0.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.metadata@1.0.0?classifier=sources
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.metadata@2.0.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.metadata@2.0.0?classifier=sources
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.metadata@2.1.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.ecm.metadata@2.1.0?classifier=sources

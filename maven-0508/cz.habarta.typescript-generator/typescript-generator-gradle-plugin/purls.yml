@@ -1,0 +1,4 @@
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@1.2.108
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@1.2.108?classifier=sources
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@1.2.109
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@1.2.109?classifier=sources

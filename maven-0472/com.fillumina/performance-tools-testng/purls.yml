@@ -1,0 +1,2 @@
+- pkg:maven/com.fillumina/performance-tools-testng@1.1
+- pkg:maven/com.fillumina/performance-tools-testng@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/jp.t2v/action-zipper_2.10@0.1.0
+- pkg:maven/jp.t2v/action-zipper_2.10@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.logging/client-errors-logging@1.1
+- pkg:maven/nz.ac.auckland.logging/client-errors-logging@1.1?classifier=sources

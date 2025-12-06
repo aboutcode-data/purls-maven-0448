@@ -1,0 +1,2 @@
+- pkg:maven/me.id.sdk/SDK@1.0?classifier=sources
+- pkg:maven/me.id.sdk/SDK@1.0?type=aar

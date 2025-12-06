@@ -1,0 +1,2 @@
+- pkg:maven/org.kaazing/amqp.client.java.demo@5.1.0.4
+- pkg:maven/org.kaazing/amqp.client.java.demo@5.1.0.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.sejda/sejda-io@1.0.0.M3
+- pkg:maven/org.sejda/sejda-io@1.0.0.M3?classifier=sources
+- pkg:maven/org.sejda/sejda-io@1.0.0.M4
+- pkg:maven/org.sejda/sejda-io@1.0.0.M4?classifier=sources
+- pkg:maven/org.sejda/sejda-io@1.0.0.RELEASE
+- pkg:maven/org.sejda/sejda-io@1.0.0.RELEASE?classifier=sources

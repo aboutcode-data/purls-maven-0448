@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bijukunjummen/governator-junit-runner@0.2.RELEASE
+- pkg:maven/com.github.bijukunjummen/governator-junit-runner@0.2.RELEASE?classifier=sources

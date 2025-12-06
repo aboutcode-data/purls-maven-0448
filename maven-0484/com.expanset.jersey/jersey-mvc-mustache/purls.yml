@@ -1,0 +1,2 @@
+- pkg:maven/com.expanset.jersey/jersey-mvc-mustache@1.0.1
+- pkg:maven/com.expanset.jersey/jersey-mvc-mustache@1.0.1?classifier=sources

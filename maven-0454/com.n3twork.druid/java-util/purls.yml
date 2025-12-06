@@ -1,0 +1,4 @@
+- pkg:maven/com.n3twork.druid/java-util@0.25.1
+- pkg:maven/com.n3twork.druid/java-util@0.25.1?classifier=sources
+- pkg:maven/com.n3twork.druid/java-util@0.25.5
+- pkg:maven/com.n3twork.druid/java-util@0.25.5?classifier=sources

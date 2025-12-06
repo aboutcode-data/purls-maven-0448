@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/json-zipper-scalacheck-binding_2.10@0.2
+- pkg:maven/com.gu/json-zipper-scalacheck-binding_2.10@0.2?classifier=sources

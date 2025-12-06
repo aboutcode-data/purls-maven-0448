@@ -1,0 +1,2 @@
+- pkg:maven/org.nutz/nutz-qrcode@1.b.53
+- pkg:maven/org.nutz/nutz-qrcode@1.b.53?classifier=sources

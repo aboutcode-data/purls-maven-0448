@@ -1,0 +1,2 @@
+- pkg:maven/com.jexbox.connector/jexbox-tapestry@0.0.1
+- pkg:maven/com.jexbox.connector/jexbox-tapestry@0.0.1?classifier=sources

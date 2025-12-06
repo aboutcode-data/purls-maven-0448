@@ -1,1 +1,4 @@
 - pkg:maven/eu.agrosense.client/io-dbf@14.01-beta?classifier=sources
+- pkg:maven/eu.agrosense.client/io-dbf@14.02-beta?classifier=sources
+- pkg:maven/eu.agrosense.client/io-dbf@14.04-beta?classifier=sources
+- pkg:maven/eu.agrosense.client/io-dbf@14.06-beta?classifier=sources

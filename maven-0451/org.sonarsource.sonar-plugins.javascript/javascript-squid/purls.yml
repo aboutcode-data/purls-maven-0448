@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sonar-plugins.javascript/javascript-squid@2.7
+- pkg:maven/org.sonarsource.sonar-plugins.javascript/javascript-squid@2.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/be.fluid-it.shiro.jee/shiro-jee-authc@0.1-1
+- pkg:maven/be.fluid-it.shiro.jee/shiro-jee-authc@0.1-1?classifier=sources

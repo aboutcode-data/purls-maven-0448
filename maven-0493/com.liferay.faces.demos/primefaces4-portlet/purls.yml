@@ -1,6 +1,14 @@
 - pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.0.4-ga5?classifier=sources
 - pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.0.4-ga5?type=war
+- pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.0.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.0.5-ga6?type=war
 - pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.1.4-ga5?classifier=sources
 - pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.1.4-ga5?type=war
+- pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.1.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.1.5-ga6?type=war
 - pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.2.4-ga5?classifier=sources
 - pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.2.4-ga5?type=war
+- pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces.demos/primefaces4-portlet@3.2.5-ga6?type=war
+- pkg:maven/com.liferay.faces.demos/primefaces4-portlet@4.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces.demos/primefaces4-portlet@4.2.5-ga6?type=war

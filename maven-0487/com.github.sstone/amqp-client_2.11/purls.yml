@@ -1,0 +1,4 @@
+- pkg:maven/com.github.sstone/amqp-client_2.11@1.4
+- pkg:maven/com.github.sstone/amqp-client_2.11@1.4?classifier=sources
+- pkg:maven/com.github.sstone/amqp-client_2.11@1.5
+- pkg:maven/com.github.sstone/amqp-client_2.11@1.5?classifier=sources

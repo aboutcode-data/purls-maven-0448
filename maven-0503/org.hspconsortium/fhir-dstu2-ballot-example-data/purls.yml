@@ -1,0 +1,2 @@
+- pkg:maven/org.hspconsortium/fhir-dstu2-ballot-example-data@0.8
+- pkg:maven/org.hspconsortium/fhir-dstu2-ballot-example-data@0.8?classifier=sources

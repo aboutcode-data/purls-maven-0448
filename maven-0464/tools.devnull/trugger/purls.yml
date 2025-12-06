@@ -1,0 +1,6 @@
+- pkg:maven/tools.devnull/trugger@4.4
+- pkg:maven/tools.devnull/trugger@4.4?classifier=sources
+- pkg:maven/tools.devnull/trugger@5.1
+- pkg:maven/tools.devnull/trugger@5.1.1
+- pkg:maven/tools.devnull/trugger@5.1.1?classifier=sources
+- pkg:maven/tools.devnull/trugger@5.1?classifier=sources

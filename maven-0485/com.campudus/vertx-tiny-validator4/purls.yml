@@ -1,0 +1,2 @@
+- pkg:maven/com.campudus/vertx-tiny-validator4@1.0.0
+- pkg:maven/com.campudus/vertx-tiny-validator4@1.0.0?classifier=sources

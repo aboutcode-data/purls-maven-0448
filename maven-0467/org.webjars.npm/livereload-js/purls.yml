@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/livereload-js@2.2.2
+- pkg:maven/org.webjars.npm/livereload-js@2.2.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/marked@0.2.10
+- pkg:maven/org.webjars.npm/marked@0.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/marked@0.3.5
+- pkg:maven/org.webjars.npm/marked@0.3.5?classifier=sources

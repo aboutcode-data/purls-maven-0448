@@ -1,0 +1,2 @@
+- pkg:maven/org.stackbox.archetypes/webapp-ssm-basic@0.0.2-RELEASE
+- pkg:maven/org.stackbox.archetypes/webapp-ssm-basic@0.0.2-RELEASE?classifier=sources

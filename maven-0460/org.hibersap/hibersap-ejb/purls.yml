@@ -1,0 +1,4 @@
+- pkg:maven/org.hibersap/hibersap-ejb@1.2.0
+- pkg:maven/org.hibersap/hibersap-ejb@1.2.0-Beta03
+- pkg:maven/org.hibersap/hibersap-ejb@1.2.0-Beta03?classifier=sources
+- pkg:maven/org.hibersap/hibersap-ejb@1.2.0?classifier=sources

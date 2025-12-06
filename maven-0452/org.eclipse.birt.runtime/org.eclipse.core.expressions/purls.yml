@@ -6,3 +6,7 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.expressions@3.4.401.v20120912-155018?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.expressions@3.4.500.v20130515-1343
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.expressions@3.4.500.v20130515-1343?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.expressions@3.4.600.v20140128-0851
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.expressions@3.4.600.v20140128-0851?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.expressions@3.5.0.v20150421-2214
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.expressions@3.5.0.v20150421-2214?classifier=sources

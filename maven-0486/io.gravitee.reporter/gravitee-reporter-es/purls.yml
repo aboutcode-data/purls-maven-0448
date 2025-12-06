@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.reporter/gravitee-reporter-es@0.1.0?classifier=sources
+- pkg:maven/io.gravitee.reporter/gravitee-reporter-es@0.1.0?type=zip
+- pkg:maven/io.gravitee.reporter/gravitee-reporter-es@0.2.0?classifier=sources
+- pkg:maven/io.gravitee.reporter/gravitee-reporter-es@0.2.0?type=zip

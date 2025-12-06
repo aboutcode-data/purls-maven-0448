@@ -1,0 +1,5 @@
+- pkg:maven/eu.lestard/easy-di@0.1.0
+- pkg:maven/eu.lestard/easy-di@0.1.0?classifier=sources
+- pkg:maven/eu.lestard/easy-di@0.2.0
+- pkg:maven/eu.lestard/easy-di@0.2.0?classifier=sources
+- pkg:maven/eu.lestard/easy-di@0.3.0?classifier=sources

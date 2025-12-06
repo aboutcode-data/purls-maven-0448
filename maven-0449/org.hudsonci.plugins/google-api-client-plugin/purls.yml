@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/google-api-client-plugin@1.0.1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/google-api-client-plugin@2.0-1.20.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.pristine/libjingle-peerconnection@6888
+- pkg:maven/io.pristine/libjingle-peerconnection@6888?classifier=sources
+- pkg:maven/io.pristine/libjingle-peerconnection@6896
+- pkg:maven/io.pristine/libjingle-peerconnection@6896?classifier=sources

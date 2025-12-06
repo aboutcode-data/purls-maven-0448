@@ -2,3 +2,7 @@
 - pkg:maven/net.sourceforge.rapidprops/rapidprops@1.0?classifier=sources
 - pkg:maven/net.sourceforge.rapidprops/rapidprops@1.1
 - pkg:maven/net.sourceforge.rapidprops/rapidprops@1.1?classifier=sources
+- pkg:maven/net.sourceforge.rapidprops/rapidprops@2.0.java5
+- pkg:maven/net.sourceforge.rapidprops/rapidprops@2.0.java5?classifier=sources
+- pkg:maven/net.sourceforge.rapidprops/rapidprops@2.0.java8
+- pkg:maven/net.sourceforge.rapidprops/rapidprops@2.0.java8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.pivotal.spring.cloud/cloudfoundry-certificate-truster@1.0.1.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/cloudfoundry-certificate-truster@1.0.1.RELEASE?classifier=sources

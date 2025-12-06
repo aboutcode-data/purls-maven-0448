@@ -2,3 +2,5 @@
 - pkg:maven/fm.last/coverartarchive-api@1.0.0?classifier=sources
 - pkg:maven/fm.last/coverartarchive-api@2.0.0
 - pkg:maven/fm.last/coverartarchive-api@2.0.0?classifier=sources
+- pkg:maven/fm.last/coverartarchive-api@2.1.0
+- pkg:maven/fm.last/coverartarchive-api@2.1.0?classifier=sources

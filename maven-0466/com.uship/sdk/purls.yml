@@ -1,0 +1,2 @@
+- pkg:maven/com.uship/sdk@0.0.1-beta
+- pkg:maven/com.uship/sdk@0.0.1-beta?classifier=sources

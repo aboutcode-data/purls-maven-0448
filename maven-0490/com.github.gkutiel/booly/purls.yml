@@ -1,0 +1,6 @@
+- pkg:maven/com.github.gkutiel/booly@0-RELEASE
+- pkg:maven/com.github.gkutiel/booly@0-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/booly@1-RELEASE
+- pkg:maven/com.github.gkutiel/booly@1-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/booly@2-RELEASE
+- pkg:maven/com.github.gkutiel/booly@2-RELEASE?classifier=sources

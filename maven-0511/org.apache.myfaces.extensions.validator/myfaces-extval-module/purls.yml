@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.myfaces.extensions.validator/myfaces-extval-module@2.0.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.extensions.validator/myfaces-extval-module@2.0.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.extensions.validator/myfaces-extval-module@2.0.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.extensions.validator/myfaces-extval-module@2.0.8?classifier=source-release&type=zip

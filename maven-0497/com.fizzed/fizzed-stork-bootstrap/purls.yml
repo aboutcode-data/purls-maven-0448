@@ -1,0 +1,4 @@
+- pkg:maven/com.fizzed/fizzed-stork-bootstrap@1.2.2
+- pkg:maven/com.fizzed/fizzed-stork-bootstrap@1.2.2?classifier=sources
+- pkg:maven/com.fizzed/fizzed-stork-bootstrap@1.2.3
+- pkg:maven/com.fizzed/fizzed-stork-bootstrap@1.2.3?classifier=sources

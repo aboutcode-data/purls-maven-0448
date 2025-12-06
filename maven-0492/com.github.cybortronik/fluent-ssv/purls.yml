@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cybortronik/fluent-ssv@0.1
+- pkg:maven/com.github.cybortronik/fluent-ssv@0.1?classifier=sources

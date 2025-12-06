@@ -1,0 +1,4 @@
+- pkg:maven/com.jenzz.noop/annotation@1.0.0
+- pkg:maven/com.jenzz.noop/annotation@1.0.0?classifier=sources
+- pkg:maven/com.jenzz.noop/annotation@1.1.0
+- pkg:maven/com.jenzz.noop/annotation@1.1.0?classifier=sources

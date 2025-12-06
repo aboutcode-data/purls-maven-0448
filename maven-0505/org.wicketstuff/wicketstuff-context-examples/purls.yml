@@ -1,0 +1,10 @@
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.16.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.17.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.17.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.18.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.18.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.19.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.19.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.20.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-context-examples@6.20.0?type=war

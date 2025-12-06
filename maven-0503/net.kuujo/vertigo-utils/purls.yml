@@ -1,0 +1,2 @@
+- pkg:maven/net.kuujo/vertigo-utils@0.7.0-beta1
+- pkg:maven/net.kuujo/vertigo-utils@0.7.0-beta1?classifier=sources

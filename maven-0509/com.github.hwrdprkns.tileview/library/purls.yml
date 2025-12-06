@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hwrdprkns.tileview/library@1.0.14?classifier=sources
+- pkg:maven/com.github.hwrdprkns.tileview/library@1.0.14?type=aar

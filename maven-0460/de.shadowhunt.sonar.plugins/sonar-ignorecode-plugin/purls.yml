@@ -1,0 +1,2 @@
+- pkg:maven/de.shadowhunt.sonar.plugins/sonar-ignorecode-plugin@4.3.0?classifier=sources
+- pkg:maven/de.shadowhunt.sonar.plugins/sonar-ignorecode-plugin@4.3.1?classifier=sources

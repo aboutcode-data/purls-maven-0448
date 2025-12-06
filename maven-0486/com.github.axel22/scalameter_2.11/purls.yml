@@ -1,0 +1,2 @@
+- pkg:maven/com.github.axel22/scalameter_2.11@0.5-M2
+- pkg:maven/com.github.axel22/scalameter_2.11@0.5-M2?classifier=sources

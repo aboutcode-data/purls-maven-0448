@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.openjpa/openjpa-parent@2.2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.openjpa/openjpa-parent@2.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.openjpa/openjpa-parent@2.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.openjpa/openjpa-parent@2.4.0?classifier=source-release&type=zip

@@ -2,6 +2,8 @@
 - pkg:maven/org.eclipse.jetty.npn/npn-api@1.0.0.v20120402?classifier=sources
 - pkg:maven/org.eclipse.jetty.npn/npn-api@1.1.0.v20120525
 - pkg:maven/org.eclipse.jetty.npn/npn-api@1.1.0.v20120525?classifier=sources
+- pkg:maven/org.eclipse.jetty.npn/npn-api@1.1.1.v20141010
+- pkg:maven/org.eclipse.jetty.npn/npn-api@1.1.1.v20141010?classifier=sources
 - pkg:maven/org.eclipse.jetty.npn/npn-api@7.6.2.v20120308
 - pkg:maven/org.eclipse.jetty.npn/npn-api@7.6.2.v20120308?classifier=sources
 - pkg:maven/org.eclipse.jetty.npn/npn-api@8.1.2.v20120308

@@ -1,0 +1,2 @@
+- pkg:maven/ca.szc.configparser/java-configparser@0.1
+- pkg:maven/ca.szc.configparser/java-configparser@0.1?classifier=sources

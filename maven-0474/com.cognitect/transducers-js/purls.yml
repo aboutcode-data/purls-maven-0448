@@ -1,0 +1,8 @@
+- pkg:maven/com.cognitect/transducers-js@0.4.169
+- pkg:maven/com.cognitect/transducers-js@0.4.169?classifier=sources
+- pkg:maven/com.cognitect/transducers-js@0.4.172
+- pkg:maven/com.cognitect/transducers-js@0.4.172?classifier=sources
+- pkg:maven/com.cognitect/transducers-js@0.4.174
+- pkg:maven/com.cognitect/transducers-js@0.4.174?classifier=sources
+- pkg:maven/com.cognitect/transducers-js@0.4.180
+- pkg:maven/com.cognitect/transducers-js@0.4.180?classifier=sources

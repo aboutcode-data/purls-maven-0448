@@ -1,0 +1,2 @@
+- pkg:maven/com.github.molecule-labs/molecule-parsers_2.11@0.5.4
+- pkg:maven/com.github.molecule-labs/molecule-parsers_2.11@0.5.4?classifier=sources

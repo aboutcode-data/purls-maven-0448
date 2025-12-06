@@ -1,0 +1,2 @@
+- pkg:maven/com.github.asaas/pebble-spring-translate@1.0
+- pkg:maven/com.github.asaas/pebble-spring-translate@1.0?classifier=sources

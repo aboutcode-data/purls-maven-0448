@@ -1,0 +1,4 @@
+- pkg:maven/fr.braindead/websocket-client@1.0.0
+- pkg:maven/fr.braindead/websocket-client@1.0.0?classifier=sources
+- pkg:maven/fr.braindead/websocket-client@1.0.1
+- pkg:maven/fr.braindead/websocket-client@1.0.1?classifier=sources

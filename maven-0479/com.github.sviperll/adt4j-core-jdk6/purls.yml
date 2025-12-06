@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sviperll/adt4j-core-jdk6@0.7
+- pkg:maven/com.github.sviperll/adt4j-core-jdk6@0.7?classifier=sources

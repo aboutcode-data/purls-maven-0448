@@ -1,0 +1,4 @@
+- pkg:maven/com.phloc/phloc-poi@2.8.2
+- pkg:maven/com.phloc/phloc-poi@2.8.2?classifier=sources
+- pkg:maven/com.phloc/phloc-poi@2.9.0
+- pkg:maven/com.phloc/phloc-poi@2.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.atlas/atlas-webapp@0.5-incubating?classifier=sources
+- pkg:maven/org.apache.atlas/atlas-webapp@0.5-incubating?type=war

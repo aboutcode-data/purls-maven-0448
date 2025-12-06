@@ -1,0 +1,2 @@
+- pkg:maven/com.kuassivi.view/progressprofile@1.0.3?classifier=sources
+- pkg:maven/com.kuassivi.view/progressprofile@1.0.3?type=aar

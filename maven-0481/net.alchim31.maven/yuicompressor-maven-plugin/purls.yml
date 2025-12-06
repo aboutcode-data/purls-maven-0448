@@ -12,3 +12,7 @@
 - pkg:maven/net.alchim31.maven/yuicompressor-maven-plugin@1.3.3?classifier=sources
 - pkg:maven/net.alchim31.maven/yuicompressor-maven-plugin@1.4.0
 - pkg:maven/net.alchim31.maven/yuicompressor-maven-plugin@1.4.0?classifier=sources
+- pkg:maven/net.alchim31.maven/yuicompressor-maven-plugin@1.5.0
+- pkg:maven/net.alchim31.maven/yuicompressor-maven-plugin@1.5.0?classifier=sources
+- pkg:maven/net.alchim31.maven/yuicompressor-maven-plugin@1.5.1
+- pkg:maven/net.alchim31.maven/yuicompressor-maven-plugin@1.5.1?classifier=sources

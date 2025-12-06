@@ -1,0 +1,6 @@
+- pkg:maven/fr.jcgay.maven/maven-profiler@2.2
+- pkg:maven/fr.jcgay.maven/maven-profiler@2.2?classifier=sources
+- pkg:maven/fr.jcgay.maven/maven-profiler@2.3
+- pkg:maven/fr.jcgay.maven/maven-profiler@2.3?classifier=sources
+- pkg:maven/fr.jcgay.maven/maven-profiler@2.4
+- pkg:maven/fr.jcgay.maven/maven-profiler@2.4?classifier=sources

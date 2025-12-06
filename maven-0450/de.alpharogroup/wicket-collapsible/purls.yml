@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/wicket-collapsible@7.0.0
+- pkg:maven/de.alpharogroup/wicket-collapsible@7.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.citytechinc.aem.prosper/prosper@3.0.0
+- pkg:maven/com.citytechinc.aem.prosper/prosper@3.0.0?classifier=sources
+- pkg:maven/com.citytechinc.aem.prosper/prosper@4.0.0
+- pkg:maven/com.citytechinc.aem.prosper/prosper@4.0.0?classifier=sources
+- pkg:maven/com.citytechinc.aem.prosper/prosper@5.0.0
+- pkg:maven/com.citytechinc.aem.prosper/prosper@5.0.0?classifier=sources

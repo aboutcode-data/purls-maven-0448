@@ -1,0 +1,6 @@
+- pkg:maven/com.diffplug.jscriptbox/jscriptbox@1.0.0
+- pkg:maven/com.diffplug.jscriptbox/jscriptbox@1.0.0?classifier=sources
+- pkg:maven/com.diffplug.jscriptbox/jscriptbox@2.0.0
+- pkg:maven/com.diffplug.jscriptbox/jscriptbox@2.0.0?classifier=sources
+- pkg:maven/com.diffplug.jscriptbox/jscriptbox@3.0.0
+- pkg:maven/com.diffplug.jscriptbox/jscriptbox@3.0.0?classifier=sources

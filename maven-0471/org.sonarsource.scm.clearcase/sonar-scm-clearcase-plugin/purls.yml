@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.scm.clearcase/sonar-scm-clearcase-plugin@1.0?classifier=sources

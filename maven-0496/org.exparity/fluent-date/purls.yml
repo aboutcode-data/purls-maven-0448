@@ -1,0 +1,6 @@
+- pkg:maven/org.exparity/fluent-date@1.0.0
+- pkg:maven/org.exparity/fluent-date@1.0.0?classifier=sources
+- pkg:maven/org.exparity/fluent-date@1.0.1
+- pkg:maven/org.exparity/fluent-date@1.0.1?classifier=sources
+- pkg:maven/org.exparity/fluent-date@2.0.0
+- pkg:maven/org.exparity/fluent-date@2.0.0?classifier=sources

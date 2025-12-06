@@ -1,0 +1,6 @@
+- pkg:maven/uk.gov.hmrc/time_2.10@0.3.0
+- pkg:maven/uk.gov.hmrc/time_2.10@0.3.0?classifier=sources
+- pkg:maven/uk.gov.hmrc/time_2.10@0.4.0
+- pkg:maven/uk.gov.hmrc/time_2.10@0.4.0?classifier=sources
+- pkg:maven/uk.gov.hmrc/time_2.10@1.1.0
+- pkg:maven/uk.gov.hmrc/time_2.10@1.1.0?classifier=sources

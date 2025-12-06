@@ -2,7 +2,17 @@
 - pkg:maven/org.webjars/foundation@4.0.4
 - pkg:maven/org.webjars/foundation@4.2.2
 - pkg:maven/org.webjars/foundation@4.3.1
+- pkg:maven/org.webjars/foundation@4.3.2
 - pkg:maven/org.webjars/foundation@5.0.2
 - pkg:maven/org.webjars/foundation@5.0.2-1
 - pkg:maven/org.webjars/foundation@5.0.3
 - pkg:maven/org.webjars/foundation@5.1.1
+- pkg:maven/org.webjars/foundation@5.2.2
+- pkg:maven/org.webjars/foundation@5.3.0
+- pkg:maven/org.webjars/foundation@5.4.0
+- pkg:maven/org.webjars/foundation@5.4.5
+- pkg:maven/org.webjars/foundation@5.4.5-1
+- pkg:maven/org.webjars/foundation@5.4.7
+- pkg:maven/org.webjars/foundation@5.5.0
+- pkg:maven/org.webjars/foundation@5.5.1
+- pkg:maven/org.webjars/foundation@5.5.2

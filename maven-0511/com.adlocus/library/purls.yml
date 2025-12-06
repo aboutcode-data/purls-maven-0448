@@ -1,0 +1,10 @@
+- pkg:maven/com.adlocus/library@3.3.13
+- pkg:maven/com.adlocus/library@3.3.13?classifier=sources
+- pkg:maven/com.adlocus/library@3.3.14?type=aar
+- pkg:maven/com.adlocus/library@3.3.15?type=aar
+- pkg:maven/com.adlocus/library@3.3.16?type=aar
+- pkg:maven/com.adlocus/library@3.3.18?type=aar
+- pkg:maven/com.adlocus/library@3.3.19?type=aar
+- pkg:maven/com.adlocus/library@3.3.20?type=aar
+- pkg:maven/com.adlocus/library@3.3.21?type=aar
+- pkg:maven/com.adlocus/library@3.3.22?type=aar

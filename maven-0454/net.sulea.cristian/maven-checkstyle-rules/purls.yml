@@ -1,0 +1,2 @@
+- pkg:maven/net.sulea.cristian/maven-checkstyle-rules@1.0
+- pkg:maven/net.sulea.cristian/maven-checkstyle-rules@1.0?classifier=sources

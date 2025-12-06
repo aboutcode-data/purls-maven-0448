@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.archetypes/camel-spring-java-archetype@1.1.0.Beta6?classifier=sources
+- pkg:maven/io.fabric8.archetypes/camel-spring-java-archetype@1.1.0.CR1?classifier=sources

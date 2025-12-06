@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.ebi.beam/beam-func@0.8
+- pkg:maven/uk.ac.ebi.beam/beam-func@0.8?classifier=sources

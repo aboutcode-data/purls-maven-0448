@@ -1,0 +1,12 @@
+- pkg:maven/com.vectorprint/ReportQrSupport@5.1
+- pkg:maven/com.vectorprint/ReportQrSupport@5.1?classifier=sources
+- pkg:maven/com.vectorprint/ReportQrSupport@5.3
+- pkg:maven/com.vectorprint/ReportQrSupport@5.3?classifier=sources
+- pkg:maven/com.vectorprint/ReportQrSupport@6.1
+- pkg:maven/com.vectorprint/ReportQrSupport@6.1?classifier=sources
+- pkg:maven/com.vectorprint/ReportQrSupport@6.2
+- pkg:maven/com.vectorprint/ReportQrSupport@6.2?classifier=sources
+- pkg:maven/com.vectorprint/ReportQrSupport@7.1
+- pkg:maven/com.vectorprint/ReportQrSupport@7.1?classifier=sources
+- pkg:maven/com.vectorprint/ReportQrSupport@7.2
+- pkg:maven/com.vectorprint/ReportQrSupport@7.2?classifier=sources

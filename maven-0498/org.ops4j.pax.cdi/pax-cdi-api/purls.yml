@@ -1,5 +1,11 @@
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.1.0
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.1.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.10.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.10.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.11.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.11.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.12.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.12.0?classifier=sources
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.2.0
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.2.0?classifier=sources
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.3.0
@@ -10,3 +16,11 @@
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.5.0?classifier=sources
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.6.0
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.6.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.7.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.7.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.8.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.8.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.9.0
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@0.9.0?classifier=sources
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@1.0.0.RC1
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-api@1.0.0.RC1?classifier=sources

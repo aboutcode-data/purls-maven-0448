@@ -1,0 +1,2 @@
+- pkg:maven/com.qonceptual/swagger-play2_2.11@1.3.12_play24
+- pkg:maven/com.qonceptual/swagger-play2_2.11@1.3.12_play24?classifier=sources

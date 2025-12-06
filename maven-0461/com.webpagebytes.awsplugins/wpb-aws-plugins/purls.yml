@@ -1,0 +1,4 @@
+- pkg:maven/com.webpagebytes.awsplugins/wpb-aws-plugins@1.0
+- pkg:maven/com.webpagebytes.awsplugins/wpb-aws-plugins@1.0?classifier=sources
+- pkg:maven/com.webpagebytes.awsplugins/wpb-aws-plugins@1.1
+- pkg:maven/com.webpagebytes.awsplugins/wpb-aws-plugins@1.1?classifier=sources

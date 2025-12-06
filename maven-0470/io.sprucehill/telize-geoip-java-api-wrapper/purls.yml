@@ -1,0 +1,2 @@
+- pkg:maven/io.sprucehill/telize-geoip-java-api-wrapper@1.0.0
+- pkg:maven/io.sprucehill/telize-geoip-java-api-wrapper@1.0.0?classifier=sources
