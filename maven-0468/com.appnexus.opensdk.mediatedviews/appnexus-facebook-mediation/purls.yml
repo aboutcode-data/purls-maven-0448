@@ -23,3 +23,10 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@3.0-4.15.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@3.1-4.20.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@3.2-4.20.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@3.3-4.20.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@3.4-4.24.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@3.5-4.24.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@4.0-4.24.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@4.1-4.26.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@4.2-4.26.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-facebook-mediation@4.3-4.26.1?type=aar

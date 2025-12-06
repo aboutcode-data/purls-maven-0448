@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/vaadin-checkbox@1.0.0
+- pkg:maven/org.webjars.bower/vaadin-checkbox@1.0.0-alpha7
+- pkg:maven/org.webjars.bower/vaadin-checkbox@1.0.0-alpha7?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-checkbox@1.0.0-beta1
+- pkg:maven/org.webjars.bower/vaadin-checkbox@1.0.0-beta1?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-checkbox@1.0.0?classifier=sources

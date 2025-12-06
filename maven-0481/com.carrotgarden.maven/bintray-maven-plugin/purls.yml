@@ -1,0 +1,4 @@
+- pkg:maven/com.carrotgarden.maven/bintray-maven-plugin@1.0.20171128181137
+- pkg:maven/com.carrotgarden.maven/bintray-maven-plugin@1.0.20171128181137?classifier=sources
+- pkg:maven/com.carrotgarden.maven/bintray-maven-plugin@1.1.20171202224405
+- pkg:maven/com.carrotgarden.maven/bintray-maven-plugin@1.1.20171202224405?classifier=sources

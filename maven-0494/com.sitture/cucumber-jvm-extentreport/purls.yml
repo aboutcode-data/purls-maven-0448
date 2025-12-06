@@ -6,3 +6,11 @@
 - pkg:maven/com.sitture/cucumber-jvm-extentreport@2.0.0?classifier=sources
 - pkg:maven/com.sitture/cucumber-jvm-extentreport@2.0.1
 - pkg:maven/com.sitture/cucumber-jvm-extentreport@2.0.1?classifier=sources
+- pkg:maven/com.sitture/cucumber-jvm-extentreport@2.0.2
+- pkg:maven/com.sitture/cucumber-jvm-extentreport@2.0.2?classifier=sources
+- pkg:maven/com.sitture/cucumber-jvm-extentreport@3.0.0
+- pkg:maven/com.sitture/cucumber-jvm-extentreport@3.0.0?classifier=sources
+- pkg:maven/com.sitture/cucumber-jvm-extentreport@3.0.7
+- pkg:maven/com.sitture/cucumber-jvm-extentreport@3.0.7?classifier=sources
+- pkg:maven/com.sitture/cucumber-jvm-extentreport@3.1.0
+- pkg:maven/com.sitture/cucumber-jvm-extentreport@3.1.0?classifier=sources

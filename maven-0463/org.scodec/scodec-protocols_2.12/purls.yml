@@ -1,2 +1,14 @@
 - pkg:maven/org.scodec/scodec-protocols_2.12@1.0.2
 - pkg:maven/org.scodec/scodec-protocols_2.12@1.0.2?classifier=sources
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M2
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M2?classifier=sources
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M3
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M3?classifier=sources
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M4
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M4?classifier=sources
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M6
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M6?classifier=sources
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M8
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M8?classifier=sources
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M9
+- pkg:maven/org.scodec/scodec-protocols_2.12@1.1.0-M9?classifier=sources

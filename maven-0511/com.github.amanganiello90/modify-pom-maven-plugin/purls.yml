@@ -1,0 +1,2 @@
+- pkg:maven/com.github.amanganiello90/modify-pom-maven-plugin@1.0.1
+- pkg:maven/com.github.amanganiello90/modify-pom-maven-plugin@1.0.1?classifier=sources

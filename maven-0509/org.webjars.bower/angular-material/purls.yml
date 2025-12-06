@@ -86,3 +86,5 @@
 - pkg:maven/org.webjars.bower/angular-material@1.1.3?classifier=sources
 - pkg:maven/org.webjars.bower/angular-material@1.1.4
 - pkg:maven/org.webjars.bower/angular-material@1.1.4?classifier=sources
+- pkg:maven/org.webjars.bower/angular-material@1.1.5
+- pkg:maven/org.webjars.bower/angular-material@1.1.5?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.powertac/visualizer@1.4.2?type=war
 - pkg:maven/org.powertac/visualizer@1.4.3?classifier=sources
 - pkg:maven/org.powertac/visualizer@1.4.3?type=war
+- pkg:maven/org.powertac/visualizer@1.4.4?classifier=sources
+- pkg:maven/org.powertac/visualizer@1.4.4?type=war

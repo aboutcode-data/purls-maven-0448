@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/progress@1.1.8
 - pkg:maven/org.webjars.npm/progress@1.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/progress@2.0.0
+- pkg:maven/org.webjars.npm/progress@2.0.0?classifier=sources

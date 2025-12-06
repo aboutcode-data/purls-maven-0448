@@ -24,6 +24,16 @@
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.1?type=war
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.20?classifier=sources
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.20?type=war
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.21?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.21?type=war
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.23?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.23?type=war
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.24?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.24?type=war
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.25?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.25?type=war
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.26?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.0.26?type=war
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.2?classifier=sources
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.2?type=war
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.4?classifier=sources
@@ -38,3 +48,5 @@
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.8?type=war
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.9?classifier=sources
 - pkg:maven/com.github.endoscope/endoscope-example-war@2.0.9?type=war
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.1.0?classifier=sources
+- pkg:maven/com.github.endoscope/endoscope-example-war@2.1.0?type=war

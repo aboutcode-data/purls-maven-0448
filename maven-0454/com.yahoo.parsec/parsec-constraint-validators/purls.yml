@@ -34,3 +34,9 @@
 - pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.36?classifier=sources
 - pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.37
 - pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.37?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.40
+- pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.40?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.41
+- pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.41?classifier=sources
+- pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.42
+- pkg:maven/com.yahoo.parsec/parsec-constraint-validators@0.0.42?classifier=sources

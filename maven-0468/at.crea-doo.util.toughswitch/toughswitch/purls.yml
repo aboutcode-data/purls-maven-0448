@@ -2,3 +2,5 @@
 - pkg:maven/at.crea-doo.util.toughswitch/toughswitch@1.0.0?classifier=sources
 - pkg:maven/at.crea-doo.util.toughswitch/toughswitch@1.0.1
 - pkg:maven/at.crea-doo.util.toughswitch/toughswitch@1.0.1?classifier=sources
+- pkg:maven/at.crea-doo.util.toughswitch/toughswitch@1.0.2
+- pkg:maven/at.crea-doo.util.toughswitch/toughswitch@1.0.2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.antwerkz.sofia/sofia-maven@0.14?classifier=sources
 - pkg:maven/com.antwerkz.sofia/sofia-maven@0.15
 - pkg:maven/com.antwerkz.sofia/sofia-maven@0.15?classifier=sources
+- pkg:maven/com.antwerkz.sofia/sofia-maven@0.20
+- pkg:maven/com.antwerkz.sofia/sofia-maven@0.20?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars/leaflet@0.7.7
 - pkg:maven/org.webjars/leaflet@1.0.0
 - pkg:maven/org.webjars/leaflet@1.0.3
+- pkg:maven/org.webjars/leaflet@1.2.0

@@ -48,3 +48,7 @@
 - pkg:maven/gg.vain/flicker@4.0?classifier=sources
 - pkg:maven/gg.vain/flicker@4.1.0
 - pkg:maven/gg.vain/flicker@4.1.0?classifier=sources
+- pkg:maven/gg.vain/flicker@4.2.0
+- pkg:maven/gg.vain/flicker@4.2.0?classifier=sources
+- pkg:maven/gg.vain/flicker@4.3.0
+- pkg:maven/gg.vain/flicker@4.3.0?classifier=sources

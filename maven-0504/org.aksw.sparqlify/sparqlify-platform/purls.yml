@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.sparqlify/sparqlify-platform@0.8.3?classifier=sources
+- pkg:maven/org.aksw.sparqlify/sparqlify-platform@0.8.3?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/mxgraph@3.7.4
+- pkg:maven/org.webjars.bower/mxgraph@3.7.4?classifier=sources

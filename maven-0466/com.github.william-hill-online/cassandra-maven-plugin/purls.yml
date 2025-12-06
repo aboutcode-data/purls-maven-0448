@@ -1,0 +1,2 @@
+- pkg:maven/com.github.william-hill-online/cassandra-maven-plugin@1.2
+- pkg:maven/com.github.william-hill-online/cassandra-maven-plugin@1.2?classifier=sources

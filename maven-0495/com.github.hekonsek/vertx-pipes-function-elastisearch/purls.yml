@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hekonsek/vertx-pipes-function-elastisearch@0.0
+- pkg:maven/com.github.hekonsek/vertx-pipes-function-elastisearch@0.0?classifier=sources

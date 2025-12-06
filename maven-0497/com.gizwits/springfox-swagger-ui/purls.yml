@@ -1,0 +1,2 @@
+- pkg:maven/com.gizwits/springfox-swagger-ui@2.7.0
+- pkg:maven/com.gizwits/springfox-swagger-ui@2.7.0?classifier=sources

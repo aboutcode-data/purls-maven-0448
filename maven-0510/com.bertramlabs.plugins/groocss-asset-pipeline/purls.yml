@@ -1,0 +1,2 @@
+- pkg:maven/com.bertramlabs.plugins/groocss-asset-pipeline@2.14.7
+- pkg:maven/com.bertramlabs.plugins/groocss-asset-pipeline@2.14.7?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.github.workerframework/worker-store-cs@1.7.0-211?classifier=sources
 - pkg:maven/com.github.workerframework/worker-store-cs@1.8.0-249
 - pkg:maven/com.github.workerframework/worker-store-cs@1.8.0-249?classifier=sources
+- pkg:maven/com.github.workerframework/worker-store-cs@1.9.0-260
+- pkg:maven/com.github.workerframework/worker-store-cs@1.9.0-260?classifier=sources

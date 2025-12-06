@@ -3,3 +3,5 @@
 - pkg:maven/org.apache.carbondata/carbondata-parent@0.2.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.carbondata/carbondata-parent@1.0.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.carbondata/carbondata-parent@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.carbondata/carbondata-parent@1.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.carbondata/carbondata-parent@1.2.0?classifier=source-release&type=zip

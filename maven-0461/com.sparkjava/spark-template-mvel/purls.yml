@@ -1,0 +1,2 @@
+- pkg:maven/com.sparkjava/spark-template-mvel@2.7.1
+- pkg:maven/com.sparkjava/spark-template-mvel@2.7.1?classifier=sources

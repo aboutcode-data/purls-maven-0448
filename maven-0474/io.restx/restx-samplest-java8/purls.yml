@@ -8,3 +8,7 @@
 - pkg:maven/io.restx/restx-samplest-java8@0.34.1?type=war
 - pkg:maven/io.restx/restx-samplest-java8@0.34?classifier=sources
 - pkg:maven/io.restx/restx-samplest-java8@0.34?type=war
+- pkg:maven/io.restx/restx-samplest-java8@0.35-rc1?classifier=sources
+- pkg:maven/io.restx/restx-samplest-java8@0.35-rc1?type=war
+- pkg:maven/io.restx/restx-samplest-java8@0.35-rc2?classifier=sources
+- pkg:maven/io.restx/restx-samplest-java8@0.35-rc2?type=war

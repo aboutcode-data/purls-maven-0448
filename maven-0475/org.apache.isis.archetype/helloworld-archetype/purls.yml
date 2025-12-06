@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.isis.archetype/helloworld-archetype@1.15.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis.archetype/helloworld-archetype@1.15.0?classifier=sources
+- pkg:maven/org.apache.isis.archetype/helloworld-archetype@1.15.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis.archetype/helloworld-archetype@1.15.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.cidaas/oauth2-interceptor@1.1.36
+- pkg:maven/de.cidaas/oauth2-interceptor@1.1.36?classifier=sources

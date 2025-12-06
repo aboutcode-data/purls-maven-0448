@@ -27,9 +27,15 @@
 - pkg:maven/org.webjars/highcharts@5.0.10
 - pkg:maven/org.webjars/highcharts@5.0.11
 - pkg:maven/org.webjars/highcharts@5.0.12
+- pkg:maven/org.webjars/highcharts@5.0.13
+- pkg:maven/org.webjars/highcharts@5.0.14
 - pkg:maven/org.webjars/highcharts@5.0.3
 - pkg:maven/org.webjars/highcharts@5.0.4
 - pkg:maven/org.webjars/highcharts@5.0.5
 - pkg:maven/org.webjars/highcharts@5.0.6
 - pkg:maven/org.webjars/highcharts@5.0.7
 - pkg:maven/org.webjars/highcharts@5.0.8
+- pkg:maven/org.webjars/highcharts@6.0.1
+- pkg:maven/org.webjars/highcharts@6.0.2
+- pkg:maven/org.webjars/highcharts@6.0.3
+- pkg:maven/org.webjars/highcharts@6.0.4

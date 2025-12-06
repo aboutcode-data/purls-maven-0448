@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/canvas-5-polyfill@0.1.5
+- pkg:maven/org.webjars.bower/canvas-5-polyfill@0.1.5?classifier=sources

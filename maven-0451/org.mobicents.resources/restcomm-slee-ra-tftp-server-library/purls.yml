@@ -8,6 +8,8 @@
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@2.8.8
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@2.8.9
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@2.9.14
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@2.9.15
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@2.9.16
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@3.0.1
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@3.0.2
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@3.0.3
@@ -15,5 +17,6 @@
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@3.0.5
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@7.0.6
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@7.0.7
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@7.1.10
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@7.1.8
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-tftp-server-library@7.1.9

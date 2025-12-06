@@ -6,3 +6,9 @@
 - pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.12?classifier=sources
 - pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.13
 - pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.13?classifier=sources
+- pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.14
+- pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.14?classifier=sources
+- pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.15
+- pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.15?classifier=sources
+- pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.16
+- pkg:maven/org.scalaz/scalaz-typelevel_2.12@7.1.16?classifier=sources

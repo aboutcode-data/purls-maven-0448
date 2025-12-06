@@ -238,6 +238,8 @@
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.1.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.1.8.Final
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.1.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-nearcache-demo@8.1.9.Final
+- pkg:maven/org.infinispan/infinispan-nearcache-demo@8.1.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.0.Beta1
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.0.Beta2
@@ -258,5 +260,9 @@
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.6.Final
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.7.Final
+- pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.8.Final
+- pkg:maven/org.infinispan/infinispan-nearcache-demo@8.2.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@9.0.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-nearcache-demo@9.0.0.Alpha1?classifier=sources

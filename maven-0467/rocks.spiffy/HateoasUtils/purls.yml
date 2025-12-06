@@ -1,0 +1,2 @@
+- pkg:maven/rocks.spiffy/HateoasUtils@1.1.0
+- pkg:maven/rocks.spiffy/HateoasUtils@1.1.0?classifier=sources

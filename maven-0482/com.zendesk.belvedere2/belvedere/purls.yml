@@ -1,0 +1,2 @@
+- pkg:maven/com.zendesk.belvedere2/belvedere@2.0.0?classifier=sources
+- pkg:maven/com.zendesk.belvedere2/belvedere@2.0.0?type=aar

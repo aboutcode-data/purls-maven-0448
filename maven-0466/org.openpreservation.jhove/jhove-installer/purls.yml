@@ -1,2 +1,4 @@
 - pkg:maven/org.openpreservation.jhove/jhove-installer@1.16.5
 - pkg:maven/org.openpreservation.jhove/jhove-installer@1.16.6
+- pkg:maven/org.openpreservation.jhove/jhove-installer@1.16.7
+- pkg:maven/org.openpreservation.jhove/jhove-installer@1.18.1

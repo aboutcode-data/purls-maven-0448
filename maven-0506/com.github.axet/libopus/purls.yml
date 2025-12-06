@@ -1,0 +1,4 @@
+- pkg:maven/com.github.axet/libopus@1.1.5-1?type=aar
+- pkg:maven/com.github.axet/libopus@1.2-1?type=aar
+- pkg:maven/com.github.axet/libopus@1.2-2?type=aar
+- pkg:maven/com.github.axet/libopus@1.2-rc1-1?type=aar

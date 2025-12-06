@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.integretion.test.common.admin.extensions@4.4.19
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.integretion.test.common.admin.extensions@4.4.19?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.integretion.test.common.admin.extensions@4.4.20
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.integretion.test.common.admin.extensions@4.4.20?classifier=sources

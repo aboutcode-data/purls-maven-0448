@@ -1,2 +1,10 @@
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.0
 - pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc5
 - pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc5?classifier=sources
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc6
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc6?classifier=sources
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc7
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc7?classifier=sources
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc8
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc8?classifier=sources
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.0?classifier=sources

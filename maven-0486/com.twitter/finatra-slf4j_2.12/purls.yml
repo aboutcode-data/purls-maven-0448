@@ -2,5 +2,9 @@
 - pkg:maven/com.twitter/finatra-slf4j_2.12@2.10.0?classifier=sources
 - pkg:maven/com.twitter/finatra-slf4j_2.12@2.11.0
 - pkg:maven/com.twitter/finatra-slf4j_2.12@2.11.0?classifier=sources
+- pkg:maven/com.twitter/finatra-slf4j_2.12@2.12.0
+- pkg:maven/com.twitter/finatra-slf4j_2.12@2.12.0?classifier=sources
+- pkg:maven/com.twitter/finatra-slf4j_2.12@2.13.0
+- pkg:maven/com.twitter/finatra-slf4j_2.12@2.13.0?classifier=sources
 - pkg:maven/com.twitter/finatra-slf4j_2.12@2.9.0
 - pkg:maven/com.twitter/finatra-slf4j_2.12@2.9.0?classifier=sources

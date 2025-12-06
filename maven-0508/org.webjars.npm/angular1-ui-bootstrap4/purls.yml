@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular1-ui-bootstrap4@2.4.22
+- pkg:maven/org.webjars.npm/angular1-ui-bootstrap4@2.4.22?classifier=sources

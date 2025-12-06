@@ -1,0 +1,2 @@
+- pkg:maven/pl.zankowski/iextrading4j-hist-samples@1.0.0
+- pkg:maven/pl.zankowski/iextrading4j-hist-samples@1.0.0?classifier=sources

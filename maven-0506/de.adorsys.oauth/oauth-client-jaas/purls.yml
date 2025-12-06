@@ -18,3 +18,5 @@
 - pkg:maven/de.adorsys.oauth/oauth-client-jaas@0.28?classifier=sources
 - pkg:maven/de.adorsys.oauth/oauth-client-jaas@0.30?classifier=sources
 - pkg:maven/de.adorsys.oauth/oauth-client-jaas@0.31?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-client-jaas@0.34?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-client-jaas@0.35?classifier=sources

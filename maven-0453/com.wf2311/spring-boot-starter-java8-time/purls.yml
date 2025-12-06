@@ -1,0 +1,4 @@
+- pkg:maven/com.wf2311/spring-boot-starter-java8-time@0.1.0
+- pkg:maven/com.wf2311/spring-boot-starter-java8-time@0.1.0?classifier=sources
+- pkg:maven/com.wf2311/spring-boot-starter-java8-time@0.1.1
+- pkg:maven/com.wf2311/spring-boot-starter-java8-time@0.1.1?classifier=sources

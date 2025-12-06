@@ -1,0 +1,4 @@
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-example-ehcache@0.0.1
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-example-ehcache@0.0.1?classifier=sources
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-example-ehcache@0.0.2
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-example-ehcache@0.0.2?classifier=sources

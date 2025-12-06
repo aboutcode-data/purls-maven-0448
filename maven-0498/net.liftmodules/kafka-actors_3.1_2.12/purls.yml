@@ -1,0 +1,2 @@
+- pkg:maven/net.liftmodules/kafka-actors_3.1_2.12@0.1.0
+- pkg:maven/net.liftmodules/kafka-actors_3.1_2.12@0.1.0?classifier=sources

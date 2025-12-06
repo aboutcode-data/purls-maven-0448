@@ -1,0 +1,2 @@
+- pkg:maven/com.segment.analytics.android.integrations/adobe-analytics@1.0.0-beta
+- pkg:maven/com.segment.analytics.android.integrations/adobe-analytics@1.0.0-beta?classifier=sources

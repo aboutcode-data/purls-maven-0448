@@ -1,0 +1,2 @@
+- pkg:maven/io.leonis/subra-protocol@0.0.1
+- pkg:maven/io.leonis/subra-protocol@0.0.1?classifier=sources

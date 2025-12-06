@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sisyphsu/mybatis-generator-plugin@1.0.0
+- pkg:maven/com.github.sisyphsu/mybatis-generator-plugin@1.0.0?classifier=sources

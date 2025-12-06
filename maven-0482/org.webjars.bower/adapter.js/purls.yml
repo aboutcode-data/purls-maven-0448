@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.bower/adapter.js@3.4.3?classifier=sources
 - pkg:maven/org.webjars.bower/adapter.js@4.0.0
 - pkg:maven/org.webjars.bower/adapter.js@4.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/adapter.js@4.0.1
+- pkg:maven/org.webjars.bower/adapter.js@4.0.1?classifier=sources

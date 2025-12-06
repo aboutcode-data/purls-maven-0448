@@ -1,2 +1,5 @@
 - pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-connection@3.1.0-1
 - pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-connection@3.1.1-1
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-connection@3.3.0-1
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-connection@3.3.0-3
+- pkg:maven/org.aksw.jena-sparql-api/jena-sparql-api-connection@3.4.0-1

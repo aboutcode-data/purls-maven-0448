@@ -6,3 +6,5 @@
 - pkg:maven/ru.bartwell/exfilepicker@2.2?type=aar
 - pkg:maven/ru.bartwell/exfilepicker@2.3?classifier=sources
 - pkg:maven/ru.bartwell/exfilepicker@2.3?type=aar
+- pkg:maven/ru.bartwell/exfilepicker@2.4?classifier=sources
+- pkg:maven/ru.bartwell/exfilepicker@2.4?type=aar

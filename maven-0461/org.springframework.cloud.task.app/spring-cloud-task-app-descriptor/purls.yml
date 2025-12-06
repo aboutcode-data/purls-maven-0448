@@ -4,3 +4,4 @@
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-descriptor@1.0.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-descriptor@Addison.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-descriptor@Belmont.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-descriptor@Clark.RELEASE?classifier=sources

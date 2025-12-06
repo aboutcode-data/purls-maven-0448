@@ -1,0 +1,4 @@
+- pkg:maven/cn.networklab/requests@1.0.0
+- pkg:maven/cn.networklab/requests@1.0.0?classifier=sources
+- pkg:maven/cn.networklab/requests@1.0.1
+- pkg:maven/cn.networklab/requests@1.0.1?classifier=sources

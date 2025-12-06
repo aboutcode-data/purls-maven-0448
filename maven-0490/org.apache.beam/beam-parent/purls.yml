@@ -5,3 +5,5 @@
 - pkg:maven/org.apache.beam/beam-parent@0.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.beam/beam-parent@0.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.beam/beam-parent@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.beam/beam-parent@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.beam/beam-parent@2.2.0?classifier=source-release&type=zip

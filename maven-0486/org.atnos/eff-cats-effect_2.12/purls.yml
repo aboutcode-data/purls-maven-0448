@@ -1,0 +1,10 @@
+- pkg:maven/org.atnos/eff-cats-effect_2.12@4.6.1-20170908211523-bda81ae
+- pkg:maven/org.atnos/eff-cats-effect_2.12@4.6.1-20170908211523-bda81ae?classifier=sources
+- pkg:maven/org.atnos/eff-cats-effect_2.12@4.6.1-20170908220345-65de2ec
+- pkg:maven/org.atnos/eff-cats-effect_2.12@4.6.1-20170908220345-65de2ec?classifier=sources
+- pkg:maven/org.atnos/eff-cats-effect_2.12@5.0.0-20170929100326-b526890
+- pkg:maven/org.atnos/eff-cats-effect_2.12@5.0.0-20170929100326-b526890?classifier=sources
+- pkg:maven/org.atnos/eff-cats-effect_2.12@5.0.0-20171107064756-b526890
+- pkg:maven/org.atnos/eff-cats-effect_2.12@5.0.0-20171107064756-b526890?classifier=sources
+- pkg:maven/org.atnos/eff-cats-effect_2.12@5.0.0-RC1
+- pkg:maven/org.atnos/eff-cats-effect_2.12@5.0.0-RC1?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/com.mebigfatguy.central4j/central4j@0.2.0
 - pkg:maven/com.mebigfatguy.central4j/central4j@0.2.0?classifier=sources
+- pkg:maven/com.mebigfatguy.central4j/central4j@0.4.0
+- pkg:maven/com.mebigfatguy.central4j/central4j@0.4.0?classifier=sources
+- pkg:maven/com.mebigfatguy.central4j/central4j@0.6.0
+- pkg:maven/com.mebigfatguy.central4j/central4j@0.6.0?classifier=sources
+- pkg:maven/com.mebigfatguy.central4j/central4j@0.6.1
+- pkg:maven/com.mebigfatguy.central4j/central4j@0.6.1?classifier=sources

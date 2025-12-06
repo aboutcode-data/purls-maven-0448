@@ -1,3 +1,9 @@
+- pkg:maven/io.qameta.htmlelements/htmlelements@2.0-BETA14
+- pkg:maven/io.qameta.htmlelements/htmlelements@2.0-BETA14?classifier=sources
+- pkg:maven/io.qameta.htmlelements/htmlelements@2.0-BETA15
+- pkg:maven/io.qameta.htmlelements/htmlelements@2.0-BETA15?classifier=sources
+- pkg:maven/io.qameta.htmlelements/htmlelements@2.0-BETA16
+- pkg:maven/io.qameta.htmlelements/htmlelements@2.0-BETA16?classifier=sources
 - pkg:maven/io.qameta.htmlelements/htmlelements@2.0-RC1
 - pkg:maven/io.qameta.htmlelements/htmlelements@2.0-RC10
 - pkg:maven/io.qameta.htmlelements/htmlelements@2.0-RC10?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.litote/bson4jackson-fork@2.8.0
+- pkg:maven/org.litote/bson4jackson-fork@2.8.0?classifier=sources
+- pkg:maven/org.litote/bson4jackson-fork@2.9.0
+- pkg:maven/org.litote/bson4jackson-fork@2.9.0?classifier=sources

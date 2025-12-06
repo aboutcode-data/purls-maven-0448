@@ -1,0 +1,2 @@
+- pkg:maven/com.paritytrading.philadelphia/philadelphia-fixt11@0.6.0
+- pkg:maven/com.paritytrading.philadelphia/philadelphia-fixt11@0.6.0?classifier=sources

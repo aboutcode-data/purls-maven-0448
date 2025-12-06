@@ -2,3 +2,17 @@
 - pkg:maven/com.thorstenmarx.modules/modules-api@0.20.0?classifier=sources
 - pkg:maven/com.thorstenmarx.modules/modules-api@0.21.0
 - pkg:maven/com.thorstenmarx.modules/modules-api@0.21.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@0.22.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@0.22.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.0.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.0.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.1.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.1.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.2.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.2.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.3.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.3.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.4.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.4.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.6.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@1.6.0?classifier=sources

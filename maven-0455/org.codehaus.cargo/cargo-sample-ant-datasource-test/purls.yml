@@ -44,3 +44,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-datasource-test@1.6.1
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-datasource-test@1.6.2
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-datasource-test@1.6.3
+- pkg:maven/org.codehaus.cargo/cargo-sample-ant-datasource-test@1.6.4
+- pkg:maven/org.codehaus.cargo/cargo-sample-ant-datasource-test@1.6.5

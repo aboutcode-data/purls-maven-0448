@@ -1,0 +1,12 @@
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B3
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B3-RC1
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B3-RC1?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B3-RC2
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B3-RC2?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B3?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B4
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B4-RC1
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B4-RC1?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B4-RC2
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B4-RC2?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.12@1.2-P26-B4?classifier=sources

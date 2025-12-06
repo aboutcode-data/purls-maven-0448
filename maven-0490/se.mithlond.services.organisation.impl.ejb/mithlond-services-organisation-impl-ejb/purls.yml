@@ -1,0 +1,2 @@
+- pkg:maven/se.mithlond.services.organisation.impl.ejb/mithlond-services-organisation-impl-ejb@1.0.1
+- pkg:maven/se.mithlond.services.organisation.impl.ejb/mithlond-services-organisation-impl-ejb@1.0.1?classifier=sources

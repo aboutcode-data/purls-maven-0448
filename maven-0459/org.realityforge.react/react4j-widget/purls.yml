@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.react/react4j-widget@0.02
+- pkg:maven/org.realityforge.react/react4j-widget@0.02?classifier=sources

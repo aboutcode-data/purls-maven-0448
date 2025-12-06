@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mrharibo.micronet/mn-tools-yaml-utility@0.1.0
+- pkg:maven/com.github.mrharibo.micronet/mn-tools-yaml-utility@0.1.0?classifier=sources

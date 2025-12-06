@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-pages@1.0.4
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-pages@1.0.4?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-pages@2.0.0
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-pages@2.0.0?classifier=sources

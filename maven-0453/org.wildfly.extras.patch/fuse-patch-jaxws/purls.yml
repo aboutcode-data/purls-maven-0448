@@ -32,5 +32,15 @@
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-3?type=war
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-4?classifier=sources
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-4?type=war
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-5?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-5?type=war
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-6?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-6?type=war
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-7?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-7?type=war
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-8?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0.redhat-8?type=war
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0?classifier=sources
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0?type=war
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@3.0.0?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@3.0.0?type=war

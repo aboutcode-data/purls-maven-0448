@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.synapse/synapse-distribution@2.1.0?classifier=src&type=zip
 - pkg:maven/org.apache.synapse/synapse-distribution@3.0.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.synapse/synapse-distribution@3.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.synapse/synapse-distribution@3.0.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.synapse/synapse-distribution@3.0.1?classifier=src&type=zip

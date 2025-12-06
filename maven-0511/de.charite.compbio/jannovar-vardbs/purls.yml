@@ -10,3 +10,5 @@
 - pkg:maven/de.charite.compbio/jannovar-vardbs@0.21?classifier=sources
 - pkg:maven/de.charite.compbio/jannovar-vardbs@0.22
 - pkg:maven/de.charite.compbio/jannovar-vardbs@0.22?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.23
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.23?classifier=sources

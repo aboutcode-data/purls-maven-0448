@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/rc-dialog@6.5.0
 - pkg:maven/org.webjars.npm/rc-dialog@6.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-dialog@6.5.10
+- pkg:maven/org.webjars.npm/rc-dialog@6.5.10?classifier=sources

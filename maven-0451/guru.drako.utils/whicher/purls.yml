@@ -1,0 +1,2 @@
+- pkg:maven/guru.drako.utils/whicher@1.1
+- pkg:maven/guru.drako.utils/whicher@1.1?classifier=sources

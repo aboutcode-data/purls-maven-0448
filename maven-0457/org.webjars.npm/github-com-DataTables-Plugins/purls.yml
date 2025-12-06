@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-DataTables-Plugins@1.10.15
+- pkg:maven/org.webjars.npm/github-com-DataTables-Plugins@1.10.15?classifier=sources

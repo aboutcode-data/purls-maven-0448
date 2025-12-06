@@ -1,0 +1,2 @@
+- pkg:maven/org.saharsh/simple-mock@1.0
+- pkg:maven/org.saharsh/simple-mock@1.0?classifier=sources

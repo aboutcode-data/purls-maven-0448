@@ -1,3 +1,9 @@
+- pkg:maven/tools.devnull/trugger@0.0.0
+- pkg:maven/tools.devnull/trugger@0.0.0?classifier=sources
+- pkg:maven/tools.devnull/trugger@0.0.1
+- pkg:maven/tools.devnull/trugger@0.0.1?classifier=sources
+- pkg:maven/tools.devnull/trugger@0.0.2
+- pkg:maven/tools.devnull/trugger@0.0.2?classifier=sources
 - pkg:maven/tools.devnull/trugger@4.4
 - pkg:maven/tools.devnull/trugger@4.4?classifier=sources
 - pkg:maven/tools.devnull/trugger@5.1
@@ -12,3 +18,13 @@
 - pkg:maven/tools.devnull/trugger@5.3.0?classifier=sources
 - pkg:maven/tools.devnull/trugger@5.3.1
 - pkg:maven/tools.devnull/trugger@5.3.1?classifier=sources
+- pkg:maven/tools.devnull/trugger@5.4.0
+- pkg:maven/tools.devnull/trugger@5.4.0?classifier=sources
+- pkg:maven/tools.devnull/trugger@6.0.0
+- pkg:maven/tools.devnull/trugger@6.0.0?classifier=sources
+- pkg:maven/tools.devnull/trugger@6.1.0
+- pkg:maven/tools.devnull/trugger@6.1.0?classifier=sources
+- pkg:maven/tools.devnull/trugger@6.1.1
+- pkg:maven/tools.devnull/trugger@6.1.1?classifier=sources
+- pkg:maven/tools.devnull/trugger@6.2.0
+- pkg:maven/tools.devnull/trugger@6.2.0?classifier=sources

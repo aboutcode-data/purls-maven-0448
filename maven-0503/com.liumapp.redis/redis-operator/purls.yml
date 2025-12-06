@@ -1,0 +1,4 @@
+- pkg:maven/com.liumapp.redis/redis-operator@v1.0.0
+- pkg:maven/com.liumapp.redis/redis-operator@v1.0.0?classifier=sources
+- pkg:maven/com.liumapp.redis/redis-operator@v1.1.0
+- pkg:maven/com.liumapp.redis/redis-operator@v1.1.0?classifier=sources

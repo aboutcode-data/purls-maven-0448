@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-behaviors@1.0.17?classifier=sources
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-behaviors@1.0.8
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-behaviors@1.0.8?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-behaviors@2.0.0
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-iron-behaviors@2.0.0?classifier=sources

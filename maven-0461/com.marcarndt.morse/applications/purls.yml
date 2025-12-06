@@ -1,0 +1,2 @@
+- pkg:maven/com.marcarndt.morse/applications@1.0.1
+- pkg:maven/com.marcarndt.morse/applications@1.0.1?classifier=sources

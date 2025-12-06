@@ -14,3 +14,7 @@
 - pkg:maven/org.switchyard/switchyard-as7-standalone-dist@2.0.1.redhat-621169?type=zip
 - pkg:maven/org.switchyard/switchyard-as7-standalone-dist@2.0.1.redhat-621186?classifier=sources
 - pkg:maven/org.switchyard/switchyard-as7-standalone-dist@2.0.1.redhat-621186?type=zip
+- pkg:maven/org.switchyard/switchyard-as7-standalone-dist@2.0.1.redhat-621211?classifier=sources
+- pkg:maven/org.switchyard/switchyard-as7-standalone-dist@2.0.1.redhat-621211?type=zip
+- pkg:maven/org.switchyard/switchyard-as7-standalone-dist@2.0.1.redhat-621216?classifier=sources
+- pkg:maven/org.switchyard/switchyard-as7-standalone-dist@2.0.1.redhat-621216?type=zip

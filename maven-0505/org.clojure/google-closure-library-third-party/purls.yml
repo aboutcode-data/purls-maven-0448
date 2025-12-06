@@ -15,6 +15,8 @@
 - pkg:maven/org.clojure/google-closure-library-third-party@0.0-20160609-f42b4a24?classifier=sources
 - pkg:maven/org.clojure/google-closure-library-third-party@0.0-20170519-fa0499ef
 - pkg:maven/org.clojure/google-closure-library-third-party@0.0-20170519-fa0499ef?classifier=sources
+- pkg:maven/org.clojure/google-closure-library-third-party@0.0-20170809-b9c14c6b
+- pkg:maven/org.clojure/google-closure-library-third-party@0.0-20170809-b9c14c6b?classifier=sources
 - pkg:maven/org.clojure/google-closure-library-third-party@0.0-2029
 - pkg:maven/org.clojure/google-closure-library-third-party@0.0-2029-2
 - pkg:maven/org.clojure/google-closure-library-third-party@0.0-790

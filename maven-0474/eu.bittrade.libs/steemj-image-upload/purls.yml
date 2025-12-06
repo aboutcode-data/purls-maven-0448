@@ -1,0 +1,4 @@
+- pkg:maven/eu.bittrade.libs/steemj-image-upload@1.0.0
+- pkg:maven/eu.bittrade.libs/steemj-image-upload@1.0.0?classifier=sources
+- pkg:maven/eu.bittrade.libs/steemj-image-upload@1.0.0pre1
+- pkg:maven/eu.bittrade.libs/steemj-image-upload@1.0.0pre1?classifier=sources

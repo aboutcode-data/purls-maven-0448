@@ -1,0 +1,2 @@
+- pkg:maven/net.ibizsys.runtime/saibz5_all@5.0.0.0
+- pkg:maven/net.ibizsys.runtime/saibz5_all@5.0.0.0?classifier=sources

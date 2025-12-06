@@ -104,6 +104,10 @@
 - pkg:maven/com.netflix.metacat/metacat-server@0.1.8?type=war
 - pkg:maven/com.netflix.metacat/metacat-server@0.1.9?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-server@0.1.9?type=war
+- pkg:maven/com.netflix.metacat/metacat-server@1.0.10?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-server@1.0.10?type=war
+- pkg:maven/com.netflix.metacat/metacat-server@1.0.12?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-server@1.0.12?type=war
 - pkg:maven/com.netflix.metacat/metacat-server@1.0.1?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-server@1.0.1?type=war
 - pkg:maven/com.netflix.metacat/metacat-server@1.0.2?classifier=sources
@@ -120,3 +124,5 @@
 - pkg:maven/com.netflix.metacat/metacat-server@1.0.7?type=war
 - pkg:maven/com.netflix.metacat/metacat-server@1.0.8?classifier=sources
 - pkg:maven/com.netflix.metacat/metacat-server@1.0.8?type=war
+- pkg:maven/com.netflix.metacat/metacat-server@1.0.9?classifier=sources
+- pkg:maven/com.netflix.metacat/metacat-server@1.0.9?type=war

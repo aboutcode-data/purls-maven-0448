@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.openejb.patch/openejb-jstl@1.2
 - pkg:maven/org.apache.openejb.patch/openejb-jstl@1.2?classifier=sources
+- pkg:maven/org.apache.openejb.patch/openejb-jstl@4.7.5
+- pkg:maven/org.apache.openejb.patch/openejb-jstl@4.7.5?classifier=sources

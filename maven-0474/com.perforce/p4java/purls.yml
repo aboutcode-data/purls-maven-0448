@@ -28,3 +28,17 @@
 - pkg:maven/com.perforce/p4java@2017.1.1508395?classifier=sources
 - pkg:maven/com.perforce/p4java@2017.2.1520188
 - pkg:maven/com.perforce/p4java@2017.2.1520188?classifier=sources
+- pkg:maven/com.perforce/p4java@2017.2.1530813
+- pkg:maven/com.perforce/p4java@2017.2.1530813?classifier=sources
+- pkg:maven/com.perforce/p4java@2017.2.1531685
+- pkg:maven/com.perforce/p4java@2017.2.1531685?classifier=sources
+- pkg:maven/com.perforce/p4java@2017.2.1535715
+- pkg:maven/com.perforce/p4java@2017.2.1535715?classifier=sources
+- pkg:maven/com.perforce/p4java@2017.2.1560453
+- pkg:maven/com.perforce/p4java@2017.2.1560453?classifier=sources
+- pkg:maven/com.perforce/p4java@2017.2.1577651
+- pkg:maven/com.perforce/p4java@2017.2.1577651?classifier=sources
+- pkg:maven/com.perforce/p4java@2017.2.1595481
+- pkg:maven/com.perforce/p4java@2017.2.1595481?classifier=sources
+- pkg:maven/com.perforce/p4java@2017.2.1601181
+- pkg:maven/com.perforce/p4java@2017.2.1601181?classifier=sources

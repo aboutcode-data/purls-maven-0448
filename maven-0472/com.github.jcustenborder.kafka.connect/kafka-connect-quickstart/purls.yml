@@ -1,2 +1,6 @@
 - pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-quickstart@0.10.1.0-cp1
 - pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-quickstart@0.10.1.0-cp1?classifier=sources
+- pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-quickstart@0.10.2.1-cp2
+- pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-quickstart@0.10.2.1-cp2?classifier=sources
+- pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-quickstart@0.11.0.0-cp1
+- pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-quickstart@0.11.0.0-cp1?classifier=sources

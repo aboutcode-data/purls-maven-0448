@@ -1,0 +1,5 @@
+- pkg:maven/org.wildfly.swarm/web@2012.12.0
+- pkg:maven/org.wildfly.swarm/web@2017.10.1
+- pkg:maven/org.wildfly.swarm/web@2017.11.0
+- pkg:maven/org.wildfly.swarm/web@2017.12.0
+- pkg:maven/org.wildfly.swarm/web@2017.12.1

@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bower/angular-modal-service@0.12.1
+- pkg:maven/org.webjars.bower/angular-modal-service@0.12.1?classifier=sources
 - pkg:maven/org.webjars.bower/angular-modal-service@0.6.6
 - pkg:maven/org.webjars.bower/angular-modal-service@0.6.6?classifier=sources
 - pkg:maven/org.webjars.bower/angular-modal-service@0.6.9

@@ -20,3 +20,5 @@
 - pkg:maven/com.aoindustries/ao-taglib@2.2.0?classifier=sources
 - pkg:maven/com.aoindustries/ao-taglib@2.3.0
 - pkg:maven/com.aoindustries/ao-taglib@2.3.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-taglib@2.3.1
+- pkg:maven/com.aoindustries/ao-taglib@2.3.1?classifier=sources

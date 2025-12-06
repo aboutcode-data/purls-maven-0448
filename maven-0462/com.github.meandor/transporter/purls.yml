@@ -1,0 +1,2 @@
+- pkg:maven/com.github.meandor/transporter@0.2.2
+- pkg:maven/com.github.meandor/transporter@0.2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.keycloak/pax-keycloak-jaas@0.1.0
+- pkg:maven/org.ops4j.pax.keycloak/pax-keycloak-jaas@0.1.0?classifier=sources

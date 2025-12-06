@@ -1,0 +1,2 @@
+- pkg:maven/com.hurence.logisland/logisland-scripting-mvel@0.10.2
+- pkg:maven/com.hurence.logisland/logisland-scripting-mvel@0.10.2?classifier=sources

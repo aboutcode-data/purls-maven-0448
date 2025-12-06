@@ -1,0 +1,2 @@
+- pkg:maven/com.github.qiubowang/mavenlibrary@3.0.6?classifier=sources
+- pkg:maven/com.github.qiubowang/mavenlibrary@3.0.6?type=aar

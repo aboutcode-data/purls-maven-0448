@@ -1,0 +1,2 @@
+- pkg:maven/at.crea-doo.util.dovado/dovado@1.0.0
+- pkg:maven/at.crea-doo.util.dovado/dovado@1.0.0?classifier=sources

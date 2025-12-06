@@ -1,0 +1,6 @@
+- pkg:maven/com.questetra/bpms.client.swagger@11.5.0
+- pkg:maven/com.questetra/bpms.client.swagger@11.5.0.developing
+- pkg:maven/com.questetra/bpms.client.swagger@11.5.0.developing?classifier=sources
+- pkg:maven/com.questetra/bpms.client.swagger@11.5.0?classifier=sources
+- pkg:maven/com.questetra/bpms.client.swagger@11.5.1
+- pkg:maven/com.questetra/bpms.client.swagger@11.5.1?classifier=sources

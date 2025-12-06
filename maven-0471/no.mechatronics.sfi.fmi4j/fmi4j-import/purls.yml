@@ -1,0 +1,2 @@
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi4j-import@0.1-ALPHA-1
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi4j-import@0.1-ALPHA-1?classifier=sources

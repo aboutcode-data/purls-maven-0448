@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/tslint-microsoft-contrib@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/tslint-microsoft-contrib@4.0.0
 - pkg:maven/org.webjars.npm/tslint-microsoft-contrib@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/tslint-microsoft-contrib@5.0.1
+- pkg:maven/org.webjars.npm/tslint-microsoft-contrib@5.0.1?classifier=sources

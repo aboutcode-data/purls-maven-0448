@@ -18,3 +18,7 @@
 - pkg:maven/com.paypal.springboot/resteasy-spring-boot-starter@2.3.1-RELEASE?classifier=sources
 - pkg:maven/com.paypal.springboot/resteasy-spring-boot-starter@2.3.2-RELEASE
 - pkg:maven/com.paypal.springboot/resteasy-spring-boot-starter@2.3.2-RELEASE?classifier=sources
+- pkg:maven/com.paypal.springboot/resteasy-spring-boot-starter@2.3.3-RELEASE
+- pkg:maven/com.paypal.springboot/resteasy-spring-boot-starter@2.3.3-RELEASE?classifier=sources
+- pkg:maven/com.paypal.springboot/resteasy-spring-boot-starter@2.3.4-RELEASE
+- pkg:maven/com.paypal.springboot/resteasy-spring-boot-starter@2.3.4-RELEASE?classifier=sources

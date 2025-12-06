@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.esfinge/querybuilder-neo4j@1.7.0
+- pkg:maven/net.sf.esfinge/querybuilder-neo4j@1.7.0?classifier=sources

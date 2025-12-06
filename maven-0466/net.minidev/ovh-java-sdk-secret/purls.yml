@@ -1,0 +1,2 @@
+- pkg:maven/net.minidev/ovh-java-sdk-secret@0.9.10
+- pkg:maven/net.minidev/ovh-java-sdk-secret@0.9.10?classifier=sources

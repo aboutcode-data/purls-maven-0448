@@ -1,2 +1,6 @@
 - pkg:maven/ru.curs/celesta@6.0RC1
 - pkg:maven/ru.curs/celesta@6.0RC1?classifier=sources
+- pkg:maven/ru.curs/celesta@6.0RC2
+- pkg:maven/ru.curs/celesta@6.0RC2?classifier=sources
+- pkg:maven/ru.curs/celesta@6.0RC3
+- pkg:maven/ru.curs/celesta@6.0RC3?classifier=sources

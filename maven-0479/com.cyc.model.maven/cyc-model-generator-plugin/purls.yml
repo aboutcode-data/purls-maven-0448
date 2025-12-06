@@ -1,0 +1,2 @@
+- pkg:maven/com.cyc.model.maven/cyc-model-generator-plugin@1.0.0-rc6
+- pkg:maven/com.cyc.model.maven/cyc-model-generator-plugin@1.0.0-rc6?classifier=sources

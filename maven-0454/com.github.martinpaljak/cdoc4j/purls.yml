@@ -1,0 +1,16 @@
+- pkg:maven/com.github.martinpaljak/cdoc4j@0.0.6
+- pkg:maven/com.github.martinpaljak/cdoc4j@0.0.6?classifier=sources
+- pkg:maven/com.github.martinpaljak/cdoc4j@0.0.7
+- pkg:maven/com.github.martinpaljak/cdoc4j@0.0.7?classifier=sources
+- pkg:maven/com.github.martinpaljak/cdoc4j@0.0.8
+- pkg:maven/com.github.martinpaljak/cdoc4j@0.0.8?classifier=sources
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.26
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.26.1
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.26.1?classifier=sources
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.26.2
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.26.2?classifier=sources
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.26?classifier=sources
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.27
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.27.1
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.27.1?classifier=sources
+- pkg:maven/com.github.martinpaljak/cdoc4j@17.11.27?classifier=sources

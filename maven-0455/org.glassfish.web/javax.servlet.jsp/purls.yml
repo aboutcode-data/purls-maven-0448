@@ -9,6 +9,8 @@
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.2.6
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.2.6-b02
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.2.6-b02?classifier=sources
+- pkg:maven/org.glassfish.web/javax.servlet.jsp@2.2.6-b03
+- pkg:maven/org.glassfish.web/javax.servlet.jsp@2.2.6-b03?classifier=sources
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.2.6?classifier=sources
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.3.0
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.3.0?classifier=sources

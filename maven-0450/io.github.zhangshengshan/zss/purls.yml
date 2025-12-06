@@ -1,0 +1,10 @@
+- pkg:maven/io.github.zhangshengshan/zss@1.0
+- pkg:maven/io.github.zhangshengshan/zss@1.0?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@2.0
+- pkg:maven/io.github.zhangshengshan/zss@2.0?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@3.0
+- pkg:maven/io.github.zhangshengshan/zss@3.0?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@4.0
+- pkg:maven/io.github.zhangshengshan/zss@4.0?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@5.0
+- pkg:maven/io.github.zhangshengshan/zss@5.0?classifier=sources

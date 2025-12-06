@@ -12,3 +12,5 @@
 - pkg:maven/net.java.dev.jna/jna-platform@4.3.0?classifier=sources
 - pkg:maven/net.java.dev.jna/jna-platform@4.4.0
 - pkg:maven/net.java.dev.jna/jna-platform@4.4.0?classifier=sources
+- pkg:maven/net.java.dev.jna/jna-platform@4.5.0
+- pkg:maven/net.java.dev.jna/jna-platform@4.5.0?classifier=sources

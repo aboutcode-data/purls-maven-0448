@@ -42,3 +42,5 @@
 - pkg:maven/net.iot-solutions.graphdb/jcypher@3.6.0?classifier=sources
 - pkg:maven/net.iot-solutions.graphdb/jcypher@3.7.0
 - pkg:maven/net.iot-solutions.graphdb/jcypher@3.7.0?classifier=sources
+- pkg:maven/net.iot-solutions.graphdb/jcypher@3.8.0
+- pkg:maven/net.iot-solutions.graphdb/jcypher@3.8.0?classifier=sources

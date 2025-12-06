@@ -1,0 +1,2 @@
+- pkg:maven/com.salesforce.servicelibs/grpc-spring@0.6.1
+- pkg:maven/com.salesforce.servicelibs/grpc-spring@0.6.1?classifier=sources

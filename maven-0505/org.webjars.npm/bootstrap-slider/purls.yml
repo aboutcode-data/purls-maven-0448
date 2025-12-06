@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/bootstrap-slider@7.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap-slider@7.1.0
 - pkg:maven/org.webjars.npm/bootstrap-slider@7.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-slider@9.10.0
+- pkg:maven/org.webjars.npm/bootstrap-slider@9.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap-slider@9.7.2
 - pkg:maven/org.webjars.npm/bootstrap-slider@9.7.2?classifier=sources

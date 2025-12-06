@@ -1,0 +1,8 @@
+- pkg:maven/org.jline/jline-style@3.4.0
+- pkg:maven/org.jline/jline-style@3.4.0?classifier=sources
+- pkg:maven/org.jline/jline-style@3.5.0
+- pkg:maven/org.jline/jline-style@3.5.0?classifier=sources
+- pkg:maven/org.jline/jline-style@3.5.1
+- pkg:maven/org.jline/jline-style@3.5.1?classifier=sources
+- pkg:maven/org.jline/jline-style@3.5.2
+- pkg:maven/org.jline/jline-style@3.5.2?classifier=sources

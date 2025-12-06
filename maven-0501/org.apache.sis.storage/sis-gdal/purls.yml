@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sis.storage/sis-gdal@0.8
+- pkg:maven/org.apache.sis.storage/sis-gdal@0.8?classifier=sources

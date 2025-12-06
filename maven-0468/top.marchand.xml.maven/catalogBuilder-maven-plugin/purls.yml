@@ -12,3 +12,5 @@
 - pkg:maven/top.marchand.xml.maven/catalogBuilder-maven-plugin@1.0.4-RC4
 - pkg:maven/top.marchand.xml.maven/catalogBuilder-maven-plugin@1.0.4-RC4?classifier=sources
 - pkg:maven/top.marchand.xml.maven/catalogBuilder-maven-plugin@1.0.4?classifier=sources
+- pkg:maven/top.marchand.xml.maven/catalogBuilder-maven-plugin@1.0.5
+- pkg:maven/top.marchand.xml.maven/catalogBuilder-maven-plugin@1.0.5?classifier=sources

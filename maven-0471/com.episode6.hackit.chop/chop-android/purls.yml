@@ -12,3 +12,5 @@
 - pkg:maven/com.episode6.hackit.chop/chop-android@0.1.8.1?type=aar
 - pkg:maven/com.episode6.hackit.chop/chop-android@0.1.8?classifier=sources
 - pkg:maven/com.episode6.hackit.chop/chop-android@0.1.8?type=aar
+- pkg:maven/com.episode6.hackit.chop/chop-android@0.1.9?classifier=sources
+- pkg:maven/com.episode6.hackit.chop/chop-android@0.1.9?type=aar
