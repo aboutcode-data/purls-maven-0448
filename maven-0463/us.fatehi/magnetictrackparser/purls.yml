@@ -20,3 +20,5 @@
 - pkg:maven/us.fatehi/magnetictrackparser@1.9?classifier=sources
 - pkg:maven/us.fatehi/magnetictrackparser@2.01.01
 - pkg:maven/us.fatehi/magnetictrackparser@2.01.01?classifier=sources
+- pkg:maven/us.fatehi/magnetictrackparser@2.01.02
+- pkg:maven/us.fatehi/magnetictrackparser@2.01.02?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay/com.sun.syndication@1.0.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/com.sun.syndication@1.0.LIFERAY-PATCHED-1?classifier=sources

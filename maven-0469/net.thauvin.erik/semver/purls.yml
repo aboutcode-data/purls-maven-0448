@@ -10,3 +10,7 @@
 - pkg:maven/net.thauvin.erik/semver@0.9.5-beta?classifier=sources
 - pkg:maven/net.thauvin.erik/semver@0.9.6-beta
 - pkg:maven/net.thauvin.erik/semver@0.9.6-beta?classifier=sources
+- pkg:maven/net.thauvin.erik/semver@1.0.0
+- pkg:maven/net.thauvin.erik/semver@1.0.0?classifier=sources
+- pkg:maven/net.thauvin.erik/semver@1.0.1
+- pkg:maven/net.thauvin.erik/semver@1.0.1?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/com.adlocus/library@3.5.4?type=aar
 - pkg:maven/com.adlocus/library@3.5.5?type=aar
 - pkg:maven/com.adlocus/library@3.5.6?type=aar
+- pkg:maven/com.adlocus/library@3.5.7?type=aar

@@ -1,2 +1,15 @@
 - pkg:maven/org.redkale/redkale@1.0.0-beta
 - pkg:maven/org.redkale/redkale@1.0.0-beta?classifier=sources
+- pkg:maven/org.redkale/redkale@1.4.0
+- pkg:maven/org.redkale/redkale@1.4.0?classifier=sources
+- pkg:maven/org.redkale/redkale@1.5.0
+- pkg:maven/org.redkale/redkale@1.5.0?classifier=sources
+- pkg:maven/org.redkale/redkale@1.5.1
+- pkg:maven/org.redkale/redkale@1.5.1?classifier=sources
+- pkg:maven/org.redkale/redkale@1.6.0
+- pkg:maven/org.redkale/redkale@1.6.0?classifier=sources
+- pkg:maven/org.redkale/redkale@1.6.1
+- pkg:maven/org.redkale/redkale@1.6.1?classifier=sources
+- pkg:maven/org.redkale/redkale@1.7.0?classifier=sources
+- pkg:maven/org.redkale/redkale@1.8.0-rc1?classifier=sources
+- pkg:maven/org.redkale/redkale@1.8.0-rc2?classifier=sources

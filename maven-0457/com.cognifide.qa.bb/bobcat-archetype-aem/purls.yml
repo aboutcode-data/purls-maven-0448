@@ -1,2 +1,4 @@
 - pkg:maven/com.cognifide.qa.bb/bobcat-archetype-aem@0.9.2?classifier=sources
 - pkg:maven/com.cognifide.qa.bb/bobcat-archetype-aem@1.0.0?classifier=sources
+- pkg:maven/com.cognifide.qa.bb/bobcat-archetype-aem@1.0.1?classifier=sources
+- pkg:maven/com.cognifide.qa.bb/bobcat-archetype-aem@1.0.2?classifier=sources

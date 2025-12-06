@@ -8,3 +8,7 @@
 - pkg:maven/com.lynden/GMapsFX@2.0.8?classifier=sources
 - pkg:maven/com.lynden/GMapsFX@2.0.9
 - pkg:maven/com.lynden/GMapsFX@2.0.9?classifier=sources
+- pkg:maven/com.lynden/GMapsFX@2.10.0
+- pkg:maven/com.lynden/GMapsFX@2.10.0?classifier=sources
+- pkg:maven/com.lynden/GMapsFX@2.12.0
+- pkg:maven/com.lynden/GMapsFX@2.12.0?classifier=sources

@@ -1,1 +1,15 @@
 - pkg:maven/com.actelion.research/orbit-image-analysis@2.30
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.40
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.40?classifier=sources
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.41
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.41?classifier=sources
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.42
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.42?classifier=sources
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.43
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.43?classifier=sources
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.52
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.52?classifier=sources
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.53
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.53?classifier=sources
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.55
+- pkg:maven/com.actelion.research/orbit-image-analysis@2.55?classifier=sources

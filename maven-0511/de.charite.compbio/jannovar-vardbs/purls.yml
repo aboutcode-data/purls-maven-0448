@@ -1,2 +1,12 @@
 - pkg:maven/de.charite.compbio/jannovar-vardbs@0.17
 - pkg:maven/de.charite.compbio/jannovar-vardbs@0.17?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.18
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.18?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.19
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.19?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.20
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.20?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.21
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.21?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.22
+- pkg:maven/de.charite.compbio/jannovar-vardbs@0.22?classifier=sources

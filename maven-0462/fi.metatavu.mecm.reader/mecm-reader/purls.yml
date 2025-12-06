@@ -1,0 +1,6 @@
+- pkg:maven/fi.metatavu.mecm.reader/mecm-reader@0.0.2
+- pkg:maven/fi.metatavu.mecm.reader/mecm-reader@0.0.2?classifier=sources
+- pkg:maven/fi.metatavu.mecm.reader/mecm-reader@0.0.3
+- pkg:maven/fi.metatavu.mecm.reader/mecm-reader@0.0.3?classifier=sources
+- pkg:maven/fi.metatavu.mecm.reader/mecm-reader@0.0.4
+- pkg:maven/fi.metatavu.mecm.reader/mecm-reader@0.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.ide.application@1.1.101
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.ide.application@1.1.101?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.twitter/util-zk-common_2.12@6.39.0
+- pkg:maven/com.twitter/util-zk-common_2.12@6.39.0?classifier=sources
+- pkg:maven/com.twitter/util-zk-common_2.12@6.40.0
+- pkg:maven/com.twitter/util-zk-common_2.12@6.40.0?classifier=sources
+- pkg:maven/com.twitter/util-zk-common_2.12@6.41.0
+- pkg:maven/com.twitter/util-zk-common_2.12@6.41.0?classifier=sources
+- pkg:maven/com.twitter/util-zk-common_2.12@6.42.0
+- pkg:maven/com.twitter/util-zk-common_2.12@6.42.0?classifier=sources

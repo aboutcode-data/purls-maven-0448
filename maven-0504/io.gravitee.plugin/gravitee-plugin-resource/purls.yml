@@ -2,3 +2,7 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-resource@0.12.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-resource@0.13.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-resource@0.13.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-resource@1.0.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-resource@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-resource@1.1.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-resource@1.1.0?classifier=sources

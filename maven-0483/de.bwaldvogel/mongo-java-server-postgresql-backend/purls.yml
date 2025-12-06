@@ -1,0 +1,2 @@
+- pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.7.0
+- pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.agapsys/scanner-maven-plugin-lib@0.1.0-20170322
+- pkg:maven/com.agapsys/scanner-maven-plugin-lib@0.1.0-20170322?classifier=sources

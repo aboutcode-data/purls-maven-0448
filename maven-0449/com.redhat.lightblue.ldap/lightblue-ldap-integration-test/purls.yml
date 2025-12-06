@@ -2,6 +2,7 @@
 - pkg:maven/com.redhat.lightblue.ldap/lightblue-ldap-integration-test@0.9.1
 - pkg:maven/com.redhat.lightblue.ldap/lightblue-ldap-integration-test@0.9.2
 - pkg:maven/com.redhat.lightblue.ldap/lightblue-ldap-integration-test@1.10.0
+- pkg:maven/com.redhat.lightblue.ldap/lightblue-ldap-integration-test@1.11.0
 - pkg:maven/com.redhat.lightblue.ldap/lightblue-ldap-integration-test@1.6.0
 - pkg:maven/com.redhat.lightblue.ldap/lightblue-ldap-integration-test@1.7.0
 - pkg:maven/com.redhat.lightblue.ldap/lightblue-ldap-integration-test@1.8.0

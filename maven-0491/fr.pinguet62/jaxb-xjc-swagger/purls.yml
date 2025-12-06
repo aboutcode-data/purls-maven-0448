@@ -1,0 +1,2 @@
+- pkg:maven/fr.pinguet62/jaxb-xjc-swagger@1.0
+- pkg:maven/fr.pinguet62/jaxb-xjc-swagger@1.0?classifier=sources

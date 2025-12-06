@@ -1,2 +1,6 @@
 - pkg:maven/com.opentable.fork.segmentio/analytics@1.0.7-OT-3
 - pkg:maven/com.opentable.fork.segmentio/analytics@1.0.7-OT-3?classifier=sources
+- pkg:maven/com.opentable.fork.segmentio/analytics@1.0.7-OT-4
+- pkg:maven/com.opentable.fork.segmentio/analytics@1.0.7-OT-4?classifier=sources
+- pkg:maven/com.opentable.fork.segmentio/analytics@1.0.7-OT-5
+- pkg:maven/com.opentable.fork.segmentio/analytics@1.0.7-OT-5?classifier=sources

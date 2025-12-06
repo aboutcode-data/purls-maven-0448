@@ -110,3 +110,17 @@
 - pkg:maven/io.eels/eel-kafka_2.11@0.43.0?classifier=sources
 - pkg:maven/io.eels/eel-kafka_2.11@0.43.1
 - pkg:maven/io.eels/eel-kafka_2.11@0.43.1?classifier=sources
+- pkg:maven/io.eels/eel-kafka_2.11@1.1.0
+- pkg:maven/io.eels/eel-kafka_2.11@1.1.0?classifier=sources
+- pkg:maven/io.eels/eel-kafka_2.11@1.1.1
+- pkg:maven/io.eels/eel-kafka_2.11@1.1.1?classifier=sources
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M1
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M1?classifier=sources
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M2
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M2?classifier=sources
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M3
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M3?classifier=sources
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M4
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M4?classifier=sources
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M5
+- pkg:maven/io.eels/eel-kafka_2.11@1.2.0-M5?classifier=sources

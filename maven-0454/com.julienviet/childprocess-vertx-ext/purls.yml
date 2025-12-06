@@ -1,0 +1,6 @@
+- pkg:maven/com.julienviet/childprocess-vertx-ext@1.0.0
+- pkg:maven/com.julienviet/childprocess-vertx-ext@1.0.0?classifier=sources
+- pkg:maven/com.julienviet/childprocess-vertx-ext@1.1.0
+- pkg:maven/com.julienviet/childprocess-vertx-ext@1.1.0?classifier=sources
+- pkg:maven/com.julienviet/childprocess-vertx-ext@1.1.1
+- pkg:maven/com.julienviet/childprocess-vertx-ext@1.1.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.st-js.bridge/html@5.0.bv2?classifier=sources
 - pkg:maven/org.st-js.bridge/html@5.0.bv3
 - pkg:maven/org.st-js.bridge/html@5.0.bv3?classifier=sources
+- pkg:maven/org.st-js.bridge/html@5.0.bv6
+- pkg:maven/org.st-js.bridge/html@5.0.bv6?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat6-slf4j-logback@6.0.48
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat6-slf4j-logback@6.0.48?classifier=sources
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat6-slf4j-logback@6.0.51
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat6-slf4j-logback@6.0.51?classifier=sources

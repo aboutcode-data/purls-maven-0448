@@ -1,0 +1,2 @@
+- pkg:maven/tools.dynamia.chartjs/chartjs-zk@1.0.0
+- pkg:maven/tools.dynamia.chartjs/chartjs-zk@1.0.0?classifier=sources

@@ -1,2 +1,12 @@
 - pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.0?classifier=src&type=tar.gz
 - pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.0?classifier=src&type=zip
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.1-RELEASE?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.1-RELEASE?classifier=src&type=zip
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.2-RELEASE?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.2-RELEASE?classifier=src&type=zip
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.3-RELEASE?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.3-RELEASE?classifier=src&type=zip
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.4-RELEASE?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.4-RELEASE?classifier=src&type=zip
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.5?classifier=src&type=tar.gz
+- pkg:maven/com.processpuzzle.fitnesse/fitnesse-launcher-parent@1.6.5?classifier=src&type=zip

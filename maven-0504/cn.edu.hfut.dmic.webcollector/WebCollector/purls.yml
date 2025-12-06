@@ -20,3 +20,9 @@
 - pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.31?classifier=sources
 - pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.32
 - pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.32?classifier=sources
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.50-beta
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.50-beta?classifier=sources
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.51-beta
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.51-beta?classifier=sources
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.52
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.52?classifier=sources

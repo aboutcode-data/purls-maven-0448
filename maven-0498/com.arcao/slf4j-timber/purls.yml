@@ -12,3 +12,5 @@
 - pkg:maven/com.arcao/slf4j-timber@2.0?classifier=sources
 - pkg:maven/com.arcao/slf4j-timber@2.1
 - pkg:maven/com.arcao/slf4j-timber@2.1?classifier=sources
+- pkg:maven/com.arcao/slf4j-timber@3.0?classifier=sources
+- pkg:maven/com.arcao/slf4j-timber@3.0?type=aar

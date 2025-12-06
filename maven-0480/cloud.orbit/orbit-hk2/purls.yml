@@ -8,3 +8,7 @@
 - pkg:maven/cloud.orbit/orbit-hk2@0.9.1?classifier=sources
 - pkg:maven/cloud.orbit/orbit-hk2@0.9.2
 - pkg:maven/cloud.orbit/orbit-hk2@0.9.2?classifier=sources
+- pkg:maven/cloud.orbit/orbit-hk2@0.9.3
+- pkg:maven/cloud.orbit/orbit-hk2@0.9.3?classifier=sources
+- pkg:maven/cloud.orbit/orbit-hk2@0.9.4
+- pkg:maven/cloud.orbit/orbit-hk2@0.9.4?classifier=sources

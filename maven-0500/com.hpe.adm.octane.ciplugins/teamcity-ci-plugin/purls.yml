@@ -1,0 +1,2 @@
+- pkg:maven/com.hpe.adm.octane.ciplugins/teamcity-ci-plugin@1.1
+- pkg:maven/com.hpe.adm.octane.ciplugins/teamcity-ci-plugin@1.1?classifier=sources

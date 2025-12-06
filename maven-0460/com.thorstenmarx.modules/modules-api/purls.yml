@@ -1,0 +1,4 @@
+- pkg:maven/com.thorstenmarx.modules/modules-api@0.20.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@0.20.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@0.21.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@0.21.0?classifier=sources

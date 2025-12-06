@@ -1,0 +1,2 @@
+- pkg:maven/io.github.shuliga.dropwizard/dropwizard-weld-servlet@3.0
+- pkg:maven/io.github.shuliga.dropwizard/dropwizard-weld-servlet@3.0?classifier=sources

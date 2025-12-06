@@ -18,3 +18,11 @@
 - pkg:maven/com.virgilsecurity.sdk/client@3.2.4?classifier=sources
 - pkg:maven/com.virgilsecurity.sdk/client@4.0.0
 - pkg:maven/com.virgilsecurity.sdk/client@4.0.0?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/client@4.1.0
+- pkg:maven/com.virgilsecurity.sdk/client@4.1.0?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/client@4.1.1
+- pkg:maven/com.virgilsecurity.sdk/client@4.1.1?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/client@4.1.2
+- pkg:maven/com.virgilsecurity.sdk/client@4.1.2?classifier=sources
+- pkg:maven/com.virgilsecurity.sdk/client@4.2.0
+- pkg:maven/com.virgilsecurity.sdk/client@4.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.gateway/gateway-java-binding@1.1.0
+- pkg:maven/com.microsoft.azure.gateway/gateway-java-binding@1.1.0?classifier=sources

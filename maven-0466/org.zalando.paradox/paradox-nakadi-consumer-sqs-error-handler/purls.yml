@@ -1,0 +1,4 @@
+- pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-sqs-error-handler@0.3.0
+- pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-sqs-error-handler@0.3.0?classifier=sources
+- pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-sqs-error-handler@0.3.1
+- pkg:maven/org.zalando.paradox/paradox-nakadi-consumer-sqs-error-handler@0.3.1?classifier=sources

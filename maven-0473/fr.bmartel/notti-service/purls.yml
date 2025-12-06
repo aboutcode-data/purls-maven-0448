@@ -1,0 +1,2 @@
+- pkg:maven/fr.bmartel/notti-service@0.21?classifier=sources
+- pkg:maven/fr.bmartel/notti-service@0.21?type=aar

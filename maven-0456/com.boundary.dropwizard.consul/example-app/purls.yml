@@ -4,3 +4,7 @@
 - pkg:maven/com.boundary.dropwizard.consul/example-app@0.18?classifier=sources
 - pkg:maven/com.boundary.dropwizard.consul/example-app@0.19
 - pkg:maven/com.boundary.dropwizard.consul/example-app@0.19?classifier=sources
+- pkg:maven/com.boundary.dropwizard.consul/example-app@0.20
+- pkg:maven/com.boundary.dropwizard.consul/example-app@0.20?classifier=sources
+- pkg:maven/com.boundary.dropwizard.consul/example-app@0.21
+- pkg:maven/com.boundary.dropwizard.consul/example-app@0.21?classifier=sources

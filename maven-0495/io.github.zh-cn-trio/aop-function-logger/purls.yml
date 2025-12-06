@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zh-cn-trio/aop-function-logger@0.0.3
+- pkg:maven/io.github.zh-cn-trio/aop-function-logger@0.0.3?classifier=sources

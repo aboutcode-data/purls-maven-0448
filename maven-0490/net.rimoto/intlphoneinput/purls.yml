@@ -2,3 +2,7 @@
 - pkg:maven/net.rimoto/intlphoneinput@0.9.0?type=aar
 - pkg:maven/net.rimoto/intlphoneinput@0.9.1?classifier=sources
 - pkg:maven/net.rimoto/intlphoneinput@0.9.1?type=aar
+- pkg:maven/net.rimoto/intlphoneinput@0.9.4?classifier=sources
+- pkg:maven/net.rimoto/intlphoneinput@0.9.4?type=aar
+- pkg:maven/net.rimoto/intlphoneinput@1.0.1?classifier=sources
+- pkg:maven/net.rimoto/intlphoneinput@1.0.1?type=aar

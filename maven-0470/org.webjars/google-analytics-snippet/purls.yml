@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/google-analytics-snippet@20161204
+- pkg:maven/org.webjars/google-analytics-snippet@20161204?classifier=sources

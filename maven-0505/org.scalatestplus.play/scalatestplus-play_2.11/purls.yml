@@ -6,5 +6,17 @@
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@1.5.0?classifier=sources
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@1.5.1
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@1.5.1?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@2.0.0
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@2.0.0-M1
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@2.0.0-M1?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@2.0.0-M2
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@2.0.0-M2?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@2.0.0?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@3.0.0-M1
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@3.0.0-M1?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@3.0.0-M2
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@3.0.0-M2?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@3.0.0-M3
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@3.0.0-M3?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@3.0.0-RC1
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.11@3.0.0-RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.knowhowlab.osgi/networkadapter@0.1
+- pkg:maven/org.knowhowlab.osgi/networkadapter@0.1?classifier=sources

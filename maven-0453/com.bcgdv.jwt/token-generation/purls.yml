@@ -1,0 +1,4 @@
+- pkg:maven/com.bcgdv.jwt/token-generation@1.0
+- pkg:maven/com.bcgdv.jwt/token-generation@1.0?classifier=sources
+- pkg:maven/com.bcgdv.jwt/token-generation@1.1
+- pkg:maven/com.bcgdv.jwt/token-generation@1.1?classifier=sources

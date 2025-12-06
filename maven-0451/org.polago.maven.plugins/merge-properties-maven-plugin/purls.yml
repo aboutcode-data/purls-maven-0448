@@ -2,3 +2,5 @@
 - pkg:maven/org.polago.maven.plugins/merge-properties-maven-plugin@1.0.1
 - pkg:maven/org.polago.maven.plugins/merge-properties-maven-plugin@1.0.1?classifier=sources
 - pkg:maven/org.polago.maven.plugins/merge-properties-maven-plugin@1.0?classifier=sources
+- pkg:maven/org.polago.maven.plugins/merge-properties-maven-plugin@1.1
+- pkg:maven/org.polago.maven.plugins/merge-properties-maven-plugin@1.1?classifier=sources

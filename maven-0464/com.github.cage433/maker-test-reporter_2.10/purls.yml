@@ -48,3 +48,13 @@
 - pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.34?classifier=sources
 - pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.36
 - pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.36?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.37
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.37?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.38
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.38?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.39
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.39?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.40
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.40?classifier=sources
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.44
+- pkg:maven/com.github.cage433/maker-test-reporter_2.10@0.44?classifier=sources

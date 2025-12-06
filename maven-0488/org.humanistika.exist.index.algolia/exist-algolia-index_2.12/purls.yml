@@ -1,0 +1,2 @@
+- pkg:maven/org.humanistika.exist.index.algolia/exist-algolia-index_2.12@1.0
+- pkg:maven/org.humanistika.exist.index.algolia/exist-algolia-index_2.12@1.0?classifier=sources

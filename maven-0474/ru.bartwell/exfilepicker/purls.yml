@@ -1,2 +1,8 @@
 - pkg:maven/ru.bartwell/exfilepicker@1.8?classifier=sources
 - pkg:maven/ru.bartwell/exfilepicker@1.8?type=aar
+- pkg:maven/ru.bartwell/exfilepicker@2.1?classifier=sources
+- pkg:maven/ru.bartwell/exfilepicker@2.1?type=aar
+- pkg:maven/ru.bartwell/exfilepicker@2.2?classifier=sources
+- pkg:maven/ru.bartwell/exfilepicker@2.2?type=aar
+- pkg:maven/ru.bartwell/exfilepicker@2.3?classifier=sources
+- pkg:maven/ru.bartwell/exfilepicker@2.3?type=aar

@@ -7,3 +7,5 @@
 - pkg:maven/org.gwtopenmaps.openlayers/gwt-openlayers-showcase@0.8?classifier=sources
 - pkg:maven/org.gwtopenmaps.openlayers/gwt-openlayers-showcase@0.8?type=war
 - pkg:maven/org.gwtopenmaps.openlayers/gwt-openlayers-showcase@0.9?type=war
+- pkg:maven/org.gwtopenmaps.openlayers/gwt-openlayers-showcase@1.1.0?classifier=sources
+- pkg:maven/org.gwtopenmaps.openlayers/gwt-openlayers-showcase@1.1.0?type=war

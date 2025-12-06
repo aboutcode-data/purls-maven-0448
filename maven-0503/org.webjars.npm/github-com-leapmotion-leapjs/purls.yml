@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-leapmotion-leapjs@0.6.4
+- pkg:maven/org.webjars.npm/github-com-leapmotion-leapjs@0.6.4?classifier=sources

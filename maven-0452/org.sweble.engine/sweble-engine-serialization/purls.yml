@@ -2,3 +2,5 @@
 - pkg:maven/org.sweble.engine/sweble-engine-serialization@2.0.0?classifier=sources
 - pkg:maven/org.sweble.engine/sweble-engine-serialization@2.1.0
 - pkg:maven/org.sweble.engine/sweble-engine-serialization@2.1.0?classifier=sources
+- pkg:maven/org.sweble.engine/sweble-engine-serialization@2.2.0
+- pkg:maven/org.sweble.engine/sweble-engine-serialization@2.2.0?classifier=sources

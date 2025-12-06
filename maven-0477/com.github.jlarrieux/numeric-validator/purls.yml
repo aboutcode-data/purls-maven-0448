@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jlarrieux/numeric-validator@1.0.2
+- pkg:maven/com.github.jlarrieux/numeric-validator@1.0.2?classifier=sources
+- pkg:maven/com.github.jlarrieux/numeric-validator@1.1-rc
+- pkg:maven/com.github.jlarrieux/numeric-validator@1.1-rc?classifier=sources

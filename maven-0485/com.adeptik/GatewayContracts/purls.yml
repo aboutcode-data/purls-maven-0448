@@ -1,0 +1,6 @@
+- pkg:maven/com.adeptik/GatewayContracts@1.0.0
+- pkg:maven/com.adeptik/GatewayContracts@1.0.0?classifier=sources
+- pkg:maven/com.adeptik/GatewayContracts@1.0.2
+- pkg:maven/com.adeptik/GatewayContracts@1.0.2?classifier=sources
+- pkg:maven/com.adeptik/GatewayContracts@1.1.0
+- pkg:maven/com.adeptik/GatewayContracts@1.1.0?classifier=sources

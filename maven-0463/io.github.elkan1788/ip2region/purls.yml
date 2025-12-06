@@ -1,0 +1,2 @@
+- pkg:maven/io.github.elkan1788/ip2region@1.0.1
+- pkg:maven/io.github.elkan1788/ip2region@1.0.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.mikepenz/google-material-typeface@2.2.0.2.original?type=aar
 - pkg:maven/com.mikepenz/google-material-typeface@2.2.0.3.original?classifier=sources
 - pkg:maven/com.mikepenz/google-material-typeface@2.2.0.3.original?type=aar
+- pkg:maven/com.mikepenz/google-material-typeface@3.0.1.0.original?classifier=sources
+- pkg:maven/com.mikepenz/google-material-typeface@3.0.1.0.original?type=aar

@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.714%2BSP2?classifier=sources
 - pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.812
 - pkg:maven/org.webjars.bower/kendo-ui-core@2016.2.812?classifier=sources
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.3.1317
+- pkg:maven/org.webjars.bower/kendo-ui-core@2016.3.1317?classifier=sources

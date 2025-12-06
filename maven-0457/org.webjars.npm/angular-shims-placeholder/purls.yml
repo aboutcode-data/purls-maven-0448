@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-shims-placeholder@0.4.8
+- pkg:maven/org.webjars.npm/angular-shims-placeholder@0.4.8?classifier=sources

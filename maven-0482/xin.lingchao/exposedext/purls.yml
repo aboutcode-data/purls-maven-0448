@@ -1,0 +1,2 @@
+- pkg:maven/xin.lingchao/exposedext@0.1.0
+- pkg:maven/xin.lingchao/exposedext@0.1.0?classifier=sources

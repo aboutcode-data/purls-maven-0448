@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.24.0
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.24.0?classifier=sources

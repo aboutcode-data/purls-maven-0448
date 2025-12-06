@@ -14,3 +14,5 @@
 - pkg:maven/org.appdapter/org.appdapter.bundle.gui@1.2.2?classifier=sources
 - pkg:maven/org.appdapter/org.appdapter.bundle.gui@1.2.3
 - pkg:maven/org.appdapter/org.appdapter.bundle.gui@1.2.3?classifier=sources
+- pkg:maven/org.appdapter/org.appdapter.bundle.gui@1.2.4
+- pkg:maven/org.appdapter/org.appdapter.bundle.gui@1.2.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.h908714124/zerobuilder-compiler@1.642
+- pkg:maven/com.github.h908714124/zerobuilder-compiler@1.642?classifier=sources
+- pkg:maven/com.github.h908714124/zerobuilder-compiler@1.643
+- pkg:maven/com.github.h908714124/zerobuilder-compiler@1.643?classifier=sources
+- pkg:maven/com.github.h908714124/zerobuilder-compiler@1.644
+- pkg:maven/com.github.h908714124/zerobuilder-compiler@1.644?classifier=sources

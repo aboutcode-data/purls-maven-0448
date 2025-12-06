@@ -1,0 +1,2 @@
+- pkg:maven/tech.lity.rea/skatolo@1.1
+- pkg:maven/tech.lity.rea/skatolo@1.1?classifier=sources

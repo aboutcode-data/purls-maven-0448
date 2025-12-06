@@ -1,1 +1,4 @@
 - pkg:maven/org.commonjava.cartographer.deploy/cartographer-standalone-rest@0.11.0?classifier=sources
+- pkg:maven/org.commonjava.cartographer.deploy/cartographer-standalone-rest@0.12.0?classifier=sources
+- pkg:maven/org.commonjava.cartographer.deploy/cartographer-standalone-rest@0.12.1?classifier=sources
+- pkg:maven/org.commonjava.cartographer.deploy/cartographer-standalone-rest@0.12.2?classifier=sources

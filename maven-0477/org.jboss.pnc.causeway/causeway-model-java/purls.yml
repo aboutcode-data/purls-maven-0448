@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.pnc.causeway/causeway-model-java@0.1.2
+- pkg:maven/org.jboss.pnc.causeway/causeway-model-java@1.0.0
+- pkg:maven/org.jboss.pnc.causeway/causeway-model-java@1.0.1
+- pkg:maven/org.jboss.pnc.causeway/causeway-model-java@1.0.2

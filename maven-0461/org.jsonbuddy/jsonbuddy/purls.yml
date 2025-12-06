@@ -1,5 +1,7 @@
 - pkg:maven/org.jsonbuddy/jsonbuddy@0.1.0
 - pkg:maven/org.jsonbuddy/jsonbuddy@0.1.0?classifier=sources
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.10.0
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.10.0?classifier=sources
 - pkg:maven/org.jsonbuddy/jsonbuddy@0.2.0
 - pkg:maven/org.jsonbuddy/jsonbuddy@0.2.0?classifier=sources
 - pkg:maven/org.jsonbuddy/jsonbuddy@0.3.0
@@ -24,3 +26,11 @@
 - pkg:maven/org.jsonbuddy/jsonbuddy@0.7.0?classifier=sources
 - pkg:maven/org.jsonbuddy/jsonbuddy@0.7.1
 - pkg:maven/org.jsonbuddy/jsonbuddy@0.7.1?classifier=sources
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.7.2
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.7.2?classifier=sources
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.8.0
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.8.0?classifier=sources
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.8.1
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.8.1?classifier=sources
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.9.0
+- pkg:maven/org.jsonbuddy/jsonbuddy@0.9.0?classifier=sources

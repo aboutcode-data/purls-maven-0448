@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.wicket/wicket-native-websocket-example@8.0.0-M3?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-example@8.0.0-M3?type=war

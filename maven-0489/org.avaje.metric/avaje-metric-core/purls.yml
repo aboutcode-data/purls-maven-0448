@@ -56,3 +56,5 @@
 - pkg:maven/org.avaje.metric/avaje-metric-core@4.4.3?classifier=sources
 - pkg:maven/org.avaje.metric/avaje-metric-core@4.4.4
 - pkg:maven/org.avaje.metric/avaje-metric-core@4.4.4?classifier=sources
+- pkg:maven/org.avaje.metric/avaje-metric-core@5.1.1
+- pkg:maven/org.avaje.metric/avaje-metric-core@5.1.1?classifier=sources

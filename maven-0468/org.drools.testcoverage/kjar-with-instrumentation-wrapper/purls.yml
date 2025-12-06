@@ -1,0 +1,2 @@
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.1.0.Beta1
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.1.0.Beta2

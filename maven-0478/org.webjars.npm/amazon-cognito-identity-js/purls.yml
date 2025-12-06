@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/amazon-cognito-identity-js@1.16.0
+- pkg:maven/org.webjars.npm/amazon-cognito-identity-js@1.16.0?classifier=sources

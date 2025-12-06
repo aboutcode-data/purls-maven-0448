@@ -1,0 +1,6 @@
+- pkg:maven/net.mfjassociates.tools/jai-util@1.13.0
+- pkg:maven/net.mfjassociates.tools/jai-util@1.13.0?classifier=sources
+- pkg:maven/net.mfjassociates.tools/jai-util@1.13.1
+- pkg:maven/net.mfjassociates.tools/jai-util@1.13.1?classifier=sources
+- pkg:maven/net.mfjassociates.tools/jai-util@1.13.2
+- pkg:maven/net.mfjassociates.tools/jai-util@1.13.2?classifier=sources

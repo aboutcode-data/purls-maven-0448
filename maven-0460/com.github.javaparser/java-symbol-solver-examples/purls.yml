@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javaparser/java-symbol-solver-examples@0.3.2
+- pkg:maven/com.github.javaparser/java-symbol-solver-examples@0.3.2?classifier=sources

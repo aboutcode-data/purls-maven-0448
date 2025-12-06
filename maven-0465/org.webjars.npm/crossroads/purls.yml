@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/crossroads@0.12.2
+- pkg:maven/org.webjars.npm/crossroads@0.12.2?classifier=sources

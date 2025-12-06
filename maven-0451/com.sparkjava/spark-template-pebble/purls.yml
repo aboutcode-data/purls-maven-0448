@@ -2,3 +2,5 @@
 - pkg:maven/com.sparkjava/spark-template-pebble@1.0.0?classifier=sources
 - pkg:maven/com.sparkjava/spark-template-pebble@2.3
 - pkg:maven/com.sparkjava/spark-template-pebble@2.3?classifier=sources
+- pkg:maven/com.sparkjava/spark-template-pebble@2.5.5
+- pkg:maven/com.sparkjava/spark-template-pebble@2.5.5?classifier=sources

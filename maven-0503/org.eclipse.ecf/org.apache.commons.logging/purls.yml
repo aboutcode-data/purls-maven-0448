@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.ecf/org.apache.commons.logging@1.1.1.v201101211721
+- pkg:maven/org.eclipse.ecf/org.apache.commons.logging@1.1.1.v201101211721?classifier=sources

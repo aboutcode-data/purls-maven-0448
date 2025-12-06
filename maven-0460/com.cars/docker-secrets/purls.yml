@@ -1,0 +1,8 @@
+- pkg:maven/com.cars/docker-secrets@0.2.0
+- pkg:maven/com.cars/docker-secrets@0.2.0-rc.5
+- pkg:maven/com.cars/docker-secrets@0.2.0-rc.5?classifier=sources
+- pkg:maven/com.cars/docker-secrets@0.2.0-rc.6
+- pkg:maven/com.cars/docker-secrets@0.2.0-rc.6.dev.0%2B4e40314
+- pkg:maven/com.cars/docker-secrets@0.2.0-rc.6.dev.0%2B4e40314?classifier=sources
+- pkg:maven/com.cars/docker-secrets@0.2.0-rc.6?classifier=sources
+- pkg:maven/com.cars/docker-secrets@0.2.0?classifier=sources

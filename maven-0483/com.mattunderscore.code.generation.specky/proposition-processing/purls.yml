@@ -1,0 +1,4 @@
+- pkg:maven/com.mattunderscore.code.generation.specky/proposition-processing@0.7.0
+- pkg:maven/com.mattunderscore.code.generation.specky/proposition-processing@0.7.0?classifier=sources
+- pkg:maven/com.mattunderscore.code.generation.specky/proposition-processing@0.8.0
+- pkg:maven/com.mattunderscore.code.generation.specky/proposition-processing@0.8.0?classifier=sources

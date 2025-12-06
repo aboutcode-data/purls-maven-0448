@@ -4,3 +4,11 @@
 - pkg:maven/cn.leancloud/leanengine@0.1.11?classifier=sources
 - pkg:maven/cn.leancloud/leanengine@0.1.12
 - pkg:maven/cn.leancloud/leanengine@0.1.12?classifier=sources
+- pkg:maven/cn.leancloud/leanengine@0.1.13
+- pkg:maven/cn.leancloud/leanengine@0.1.13?classifier=sources
+- pkg:maven/cn.leancloud/leanengine@0.1.14
+- pkg:maven/cn.leancloud/leanengine@0.1.14?classifier=sources
+- pkg:maven/cn.leancloud/leanengine@0.1.16
+- pkg:maven/cn.leancloud/leanengine@0.1.16?classifier=sources
+- pkg:maven/cn.leancloud/leanengine@0.2.0
+- pkg:maven/cn.leancloud/leanengine@0.2.0?classifier=sources

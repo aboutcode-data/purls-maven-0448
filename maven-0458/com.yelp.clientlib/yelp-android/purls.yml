@@ -2,3 +2,5 @@
 - pkg:maven/com.yelp.clientlib/yelp-android@1.0.0?classifier=sources
 - pkg:maven/com.yelp.clientlib/yelp-android@2.0.0
 - pkg:maven/com.yelp.clientlib/yelp-android@2.0.0?classifier=sources
+- pkg:maven/com.yelp.clientlib/yelp-android@3.0.0?classifier=sources
+- pkg:maven/com.yelp.clientlib/yelp-android@3.0.0?type=aar

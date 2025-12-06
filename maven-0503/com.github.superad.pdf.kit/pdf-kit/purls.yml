@@ -1,0 +1,4 @@
+- pkg:maven/com.github.superad.pdf.kit/pdf-kit@1.0-release
+- pkg:maven/com.github.superad.pdf.kit/pdf-kit@1.0-release?classifier=sources
+- pkg:maven/com.github.superad.pdf.kit/pdf-kit@1.1-RELEASE
+- pkg:maven/com.github.superad.pdf.kit/pdf-kit@1.1-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.richodemus.dropwizard-jwt/dropwizard-jwt@1.0.0
+- pkg:maven/com.richodemus.dropwizard-jwt/dropwizard-jwt@1.0.0?classifier=sources

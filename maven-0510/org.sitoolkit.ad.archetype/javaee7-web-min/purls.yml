@@ -10,3 +10,5 @@
 - pkg:maven/org.sitoolkit.ad.archetype/javaee7-web-min@0.9?classifier=sources
 - pkg:maven/org.sitoolkit.ad.archetype/javaee7-web-min@1.0.1?classifier=sources
 - pkg:maven/org.sitoolkit.ad.archetype/javaee7-web-min@1.0?classifier=sources
+- pkg:maven/org.sitoolkit.ad.archetype/javaee7-web-min@1.1.1?classifier=sources
+- pkg:maven/org.sitoolkit.ad.archetype/javaee7-web-min@1.1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@1.0.10
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@1.0.10?classifier=sources
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@1.0.11
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@1.0.11?classifier=sources
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@1.0.6
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@1.0.6?classifier=sources
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@1.0.7
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@1.0.7?classifier=sources
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@2.0.0
+- pkg:maven/no.skatteetaten.aurora/aurora-prometheus@2.0.0?classifier=sources

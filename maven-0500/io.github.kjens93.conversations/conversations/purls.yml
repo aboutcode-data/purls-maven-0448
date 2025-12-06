@@ -1,0 +1,10 @@
+- pkg:maven/io.github.kjens93.conversations/conversations@1.0.0
+- pkg:maven/io.github.kjens93.conversations/conversations@1.0.0?classifier=sources
+- pkg:maven/io.github.kjens93.conversations/conversations@1.1.0
+- pkg:maven/io.github.kjens93.conversations/conversations@1.1.0?classifier=sources
+- pkg:maven/io.github.kjens93.conversations/conversations@2.0.0
+- pkg:maven/io.github.kjens93.conversations/conversations@2.0.0?classifier=sources
+- pkg:maven/io.github.kjens93.conversations/conversations@2.1.0
+- pkg:maven/io.github.kjens93.conversations/conversations@2.1.0?classifier=sources
+- pkg:maven/io.github.kjens93.conversations/conversations@2.2.0
+- pkg:maven/io.github.kjens93.conversations/conversations@2.2.0?classifier=sources

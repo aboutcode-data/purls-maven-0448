@@ -1,2 +1,4 @@
 - pkg:maven/de.ck35.monitoring/request-tagging-integration-filter@1.0.0
 - pkg:maven/de.ck35.monitoring/request-tagging-integration-filter@1.0.0?classifier=sources
+- pkg:maven/de.ck35.monitoring/request-tagging-integration-filter@2.0.0
+- pkg:maven/de.ck35.monitoring/request-tagging-integration-filter@2.0.0?classifier=sources

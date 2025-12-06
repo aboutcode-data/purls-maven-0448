@@ -1,0 +1,4 @@
+- pkg:maven/uk.co.szmg.grafana/grafana-dashboard-generator-cli@1.1.0
+- pkg:maven/uk.co.szmg.grafana/grafana-dashboard-generator-cli@1.1.0?classifier=sources
+- pkg:maven/uk.co.szmg.grafana/grafana-dashboard-generator-cli@2.0.0
+- pkg:maven/uk.co.szmg.grafana/grafana-dashboard-generator-cli@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.spincast/spincast-demos-quick@0.9.31
+- pkg:maven/org.spincast/spincast-demos-quick@0.9.31?classifier=sources

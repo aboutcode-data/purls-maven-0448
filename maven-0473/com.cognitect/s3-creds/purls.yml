@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect/s3-creds@0.1.15
+- pkg:maven/com.cognitect/s3-creds@0.1.18

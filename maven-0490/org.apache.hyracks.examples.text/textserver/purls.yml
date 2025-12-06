@@ -1,2 +1,5 @@
 - pkg:maven/org.apache.hyracks.examples.text/textserver@0.2.16-incubating
 - pkg:maven/org.apache.hyracks.examples.text/textserver@0.2.16-incubating?classifier=sources
+- pkg:maven/org.apache.hyracks.examples.text/textserver@0.3.0
+- pkg:maven/org.apache.hyracks.examples.text/textserver@0.3.0?classifier=sources
+- pkg:maven/org.apache.hyracks.examples.text/textserver@0.3.1

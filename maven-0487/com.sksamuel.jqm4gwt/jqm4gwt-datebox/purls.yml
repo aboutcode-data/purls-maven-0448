@@ -12,3 +12,5 @@
 - pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-datebox@1.4.5.Final?classifier=sources
 - pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-datebox@1.4.6.Final
 - pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-datebox@1.4.6.Final?classifier=sources
+- pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-datebox@1.4.7
+- pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-datebox@1.4.7?classifier=sources

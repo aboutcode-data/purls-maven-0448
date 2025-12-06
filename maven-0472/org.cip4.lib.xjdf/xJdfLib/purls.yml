@@ -3,6 +3,8 @@
 - pkg:maven/org.cip4.lib.xjdf/xJdfLib@0.10.1
 - pkg:maven/org.cip4.lib.xjdf/xJdfLib@0.10.1?classifier=sources
 - pkg:maven/org.cip4.lib.xjdf/xJdfLib@0.10?classifier=sources
+- pkg:maven/org.cip4.lib.xjdf/xJdfLib@0.12
+- pkg:maven/org.cip4.lib.xjdf/xJdfLib@0.12?classifier=sources
 - pkg:maven/org.cip4.lib.xjdf/xJdfLib@0.1?classifier=sources
 - pkg:maven/org.cip4.lib.xjdf/xJdfLib@0.2
 - pkg:maven/org.cip4.lib.xjdf/xJdfLib@0.2?classifier=sources

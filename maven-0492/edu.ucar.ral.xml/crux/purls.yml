@@ -1,0 +1,2 @@
+- pkg:maven/edu.ucar.ral.xml/crux@1.2
+- pkg:maven/edu.ucar.ral.xml/crux@1.2?classifier=sources

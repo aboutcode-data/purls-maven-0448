@@ -1,2 +1,6 @@
 - pkg:maven/io.branch.segment.analytics.android.integrations/library@1.0.0-RELEASE?classifier=sources
 - pkg:maven/io.branch.segment.analytics.android.integrations/library@1.0.0-RELEASE?type=aar
+- pkg:maven/io.branch.segment.analytics.android.integrations/library@1.0.3-RELEASE?classifier=sources
+- pkg:maven/io.branch.segment.analytics.android.integrations/library@1.0.3-RELEASE?type=aar
+- pkg:maven/io.branch.segment.analytics.android.integrations/library@1.0.4-RELEASE?classifier=sources
+- pkg:maven/io.branch.segment.analytics.android.integrations/library@1.0.4-RELEASE?type=aar

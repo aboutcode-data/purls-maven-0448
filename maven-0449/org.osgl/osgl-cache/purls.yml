@@ -1,2 +1,10 @@
 - pkg:maven/org.osgl/osgl-cache@0.1
 - pkg:maven/org.osgl/osgl-cache@0.1?classifier=sources
+- pkg:maven/org.osgl/osgl-cache@0.4.0
+- pkg:maven/org.osgl/osgl-cache@0.4.0?classifier=sources
+- pkg:maven/org.osgl/osgl-cache@1.0.0
+- pkg:maven/org.osgl/osgl-cache@1.0.0?classifier=sources
+- pkg:maven/org.osgl/osgl-cache@1.0.1
+- pkg:maven/org.osgl/osgl-cache@1.0.1?classifier=sources
+- pkg:maven/org.osgl/osgl-cache@1.0.2
+- pkg:maven/org.osgl/osgl-cache@1.0.2?classifier=sources

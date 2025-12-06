@@ -1,0 +1,2 @@
+- pkg:maven/org.wing4j.common/wing4j-common-markdown@1.0.2
+- pkg:maven/org.wing4j.common/wing4j-common-markdown@1.0.2?classifier=sources

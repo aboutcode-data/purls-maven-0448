@@ -24,3 +24,9 @@
 - pkg:maven/se.skltp.agp/agp-test-non-functional@2.1?classifier=sources
 - pkg:maven/se.skltp.agp/agp-test-non-functional@2.2
 - pkg:maven/se.skltp.agp/agp-test-non-functional@2.2?classifier=sources
+- pkg:maven/se.skltp.agp/agp-test-non-functional@2.3
+- pkg:maven/se.skltp.agp/agp-test-non-functional@2.3.1
+- pkg:maven/se.skltp.agp/agp-test-non-functional@2.3.1?classifier=sources
+- pkg:maven/se.skltp.agp/agp-test-non-functional@2.3.2
+- pkg:maven/se.skltp.agp/agp-test-non-functional@2.3.2?classifier=sources
+- pkg:maven/se.skltp.agp/agp-test-non-functional@2.3?classifier=sources

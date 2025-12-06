@@ -4,3 +4,6 @@
 - pkg:maven/net.revelc.code/zookeeper-maven-plugin@1.0.1
 - pkg:maven/net.revelc.code/zookeeper-maven-plugin@1.0.1?classifier=source-release&type=zip
 - pkg:maven/net.revelc.code/zookeeper-maven-plugin@1.0.1?classifier=sources
+- pkg:maven/net.revelc.code/zookeeper-maven-plugin@1.1.0
+- pkg:maven/net.revelc.code/zookeeper-maven-plugin@1.1.0?classifier=source-release&type=zip
+- pkg:maven/net.revelc.code/zookeeper-maven-plugin@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.janbols/spock-dbunit@0.4
+- pkg:maven/com.github.janbols/spock-dbunit@0.4?classifier=sources

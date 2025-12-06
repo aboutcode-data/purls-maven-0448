@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/pdflitz_2.12@1.2.2
+- pkg:maven/de.sciss/pdflitz_2.12@1.2.2?classifier=sources

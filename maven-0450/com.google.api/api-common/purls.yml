@@ -1,2 +1,16 @@
 - pkg:maven/com.google.api/api-common@0.0.1
 - pkg:maven/com.google.api/api-common@0.0.1?classifier=sources
+- pkg:maven/com.google.api/api-common@0.0.2
+- pkg:maven/com.google.api/api-common@0.0.2?classifier=sources
+- pkg:maven/com.google.api/api-common@0.1.0
+- pkg:maven/com.google.api/api-common@0.1.0?classifier=sources
+- pkg:maven/com.google.api/api-common@0.2.0
+- pkg:maven/com.google.api/api-common@0.2.0?classifier=sources
+- pkg:maven/com.google.api/api-common@1.0.0
+- pkg:maven/com.google.api/api-common@1.0.0-rc1
+- pkg:maven/com.google.api/api-common@1.0.0-rc1?classifier=sources
+- pkg:maven/com.google.api/api-common@1.0.0-rc2
+- pkg:maven/com.google.api/api-common@1.0.0-rc2?classifier=sources
+- pkg:maven/com.google.api/api-common@1.0.0?classifier=sources
+- pkg:maven/com.google.api/api-common@1.1.0
+- pkg:maven/com.google.api/api-common@1.1.0?classifier=sources

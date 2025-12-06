@@ -10,3 +10,5 @@
 - pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.15.0?type=war
 - pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.16.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.16.0?type=war
+- pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.18.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/InheritHttpServer@2.18.0?type=war

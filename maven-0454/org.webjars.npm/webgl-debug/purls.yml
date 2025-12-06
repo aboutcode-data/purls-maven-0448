@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/webgl-debug@1.0.2
+- pkg:maven/org.webjars.npm/webgl-debug@1.0.2?classifier=sources

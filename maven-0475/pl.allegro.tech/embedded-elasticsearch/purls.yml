@@ -1,2 +1,12 @@
 - pkg:maven/pl.allegro.tech/embedded-elasticsearch@1.0.0
 - pkg:maven/pl.allegro.tech/embedded-elasticsearch@1.0.0?classifier=sources
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@1.1.0
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@1.1.0?classifier=sources
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@1.1.1-2.x
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@1.1.1-2.x?classifier=sources
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@2.0.0
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@2.0.0?classifier=sources
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@2.0.1
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@2.0.1?classifier=sources
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@2.1.0
+- pkg:maven/pl.allegro.tech/embedded-elasticsearch@2.1.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.mechdome/MechDome-Api@0.1?classifier=sources
+- pkg:maven/com.mechdome/MechDome-Api@0.1?type=aar
+- pkg:maven/com.mechdome/MechDome-Api@0.2?classifier=sources
+- pkg:maven/com.mechdome/MechDome-Api@0.2?type=aar
+- pkg:maven/com.mechdome/MechDome-Api@0.3?classifier=sources
+- pkg:maven/com.mechdome/MechDome-Api@0.3?type=aar
+- pkg:maven/com.mechdome/MechDome-Api@0.5?classifier=sources
+- pkg:maven/com.mechdome/MechDome-Api@0.5?type=aar

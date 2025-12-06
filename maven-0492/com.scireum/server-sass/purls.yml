@@ -48,3 +48,5 @@
 - pkg:maven/com.scireum/server-sass@2.2?classifier=sources
 - pkg:maven/com.scireum/server-sass@3.0
 - pkg:maven/com.scireum/server-sass@3.0?classifier=sources
+- pkg:maven/com.scireum/server-sass@3.1
+- pkg:maven/com.scireum/server-sass@3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/webaudio-peaks@0.0.5
+- pkg:maven/org.webjars.npm/webaudio-peaks@0.0.5?classifier=sources

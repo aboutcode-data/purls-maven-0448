@@ -42,3 +42,7 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws.builder@2.6.4-RC1
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws.builder@2.6.4-RC1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws.builder@2.6.4?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws.builder@2.6.5-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws.builder@2.6.5-RC1?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws.builder@2.6.5-RC2
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.dbws.builder@2.6.5-RC2?classifier=sources

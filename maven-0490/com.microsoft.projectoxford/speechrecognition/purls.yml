@@ -7,3 +7,5 @@
 - pkg:maven/com.microsoft.projectoxford/speechrecognition@0.5.2?type=aar
 - pkg:maven/com.microsoft.projectoxford/speechrecognition@0.6.0?type=aar
 - pkg:maven/com.microsoft.projectoxford/speechrecognition@1.1.0?type=aar
+- pkg:maven/com.microsoft.projectoxford/speechrecognition@1.2.0?type=aar
+- pkg:maven/com.microsoft.projectoxford/speechrecognition@1.2.1?type=aar

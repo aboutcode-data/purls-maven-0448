@@ -1,2 +1,4 @@
 - pkg:maven/com.amitapi/amit-maven-plugin@1.0.0
 - pkg:maven/com.amitapi/amit-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.amitapi/amit-maven-plugin@2.0.0
+- pkg:maven/com.amitapi/amit-maven-plugin@2.0.0?classifier=sources

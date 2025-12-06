@@ -1,0 +1,2 @@
+- pkg:maven/org.codetome.riptide/riptide.core.java@2017.1.0
+- pkg:maven/org.codetome.riptide/riptide.core.java@2017.1.0?classifier=sources

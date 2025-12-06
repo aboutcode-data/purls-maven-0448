@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.portal/uPortal-groups-filesystem@5.0.0-M1
+- pkg:maven/org.jasig.portal/uPortal-groups-filesystem@5.0.0-M1?classifier=sources

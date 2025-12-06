@@ -1,0 +1,2 @@
+- pkg:maven/com.vitorsvieira/scala-iso_2.12@0.1.2
+- pkg:maven/com.vitorsvieira/scala-iso_2.12@0.1.2?classifier=sources

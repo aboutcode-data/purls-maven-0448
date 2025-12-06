@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xgp/fixml@5.0.SP2.1
+- pkg:maven/com.github.xgp/fixml@5.0.SP2.1?classifier=sources

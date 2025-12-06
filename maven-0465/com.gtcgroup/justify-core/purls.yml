@@ -1,0 +1,6 @@
+- pkg:maven/com.gtcgroup/justify-core@6.2.0
+- pkg:maven/com.gtcgroup/justify-core@6.2.0?classifier=sources
+- pkg:maven/com.gtcgroup/justify-core@6.3.0
+- pkg:maven/com.gtcgroup/justify-core@6.3.0?classifier=sources
+- pkg:maven/com.gtcgroup/justify-core@8.3.0
+- pkg:maven/com.gtcgroup/justify-core@8.3.0?classifier=sources

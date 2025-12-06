@@ -18,6 +18,12 @@
 - pkg:maven/com.twitter/twitter-text@1.13.4?classifier=sources
 - pkg:maven/com.twitter/twitter-text@1.14.0
 - pkg:maven/com.twitter/twitter-text@1.14.0?classifier=sources
+- pkg:maven/com.twitter/twitter-text@1.14.1
+- pkg:maven/com.twitter/twitter-text@1.14.1?classifier=sources
+- pkg:maven/com.twitter/twitter-text@1.14.2
+- pkg:maven/com.twitter/twitter-text@1.14.2?classifier=sources
+- pkg:maven/com.twitter/twitter-text@1.14.3
+- pkg:maven/com.twitter/twitter-text@1.14.3?classifier=sources
 - pkg:maven/com.twitter/twitter-text@1.6.1
 - pkg:maven/com.twitter/twitter-text@1.6.1?classifier=sources
 - pkg:maven/com.twitter/twitter-text@1.8.0

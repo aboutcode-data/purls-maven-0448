@@ -1,0 +1,2 @@
+- pkg:maven/xyz.cofe/j-libc@1.3
+- pkg:maven/xyz.cofe/j-libc@1.3?classifier=sources

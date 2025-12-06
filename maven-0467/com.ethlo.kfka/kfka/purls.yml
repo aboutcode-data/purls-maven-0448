@@ -1,0 +1,2 @@
+- pkg:maven/com.ethlo.kfka/kfka@0.2
+- pkg:maven/com.ethlo.kfka/kfka@0.2?classifier=sources

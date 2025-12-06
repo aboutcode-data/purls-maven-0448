@@ -1,0 +1,2 @@
+- pkg:maven/ru.noties/vt@1.0.0?classifier=sources
+- pkg:maven/ru.noties/vt@1.0.0?type=aar

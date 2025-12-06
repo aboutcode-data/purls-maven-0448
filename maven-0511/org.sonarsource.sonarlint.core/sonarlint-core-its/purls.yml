@@ -6,3 +6,11 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.3.2
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.4
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.4.1
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.5.0.36
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.5.1.74
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.5.2.109
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.6.0.136
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.7.0.154
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.7.1.214
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.8.0.168
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-its@2.9.0.276

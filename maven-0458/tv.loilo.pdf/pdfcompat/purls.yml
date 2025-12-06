@@ -1,0 +1,4 @@
+- pkg:maven/tv.loilo.pdf/pdfcompat@1.0.0?classifier=sources
+- pkg:maven/tv.loilo.pdf/pdfcompat@1.0.0?type=aar
+- pkg:maven/tv.loilo.pdf/pdfcompat@2.0.0?classifier=sources
+- pkg:maven/tv.loilo.pdf/pdfcompat@2.0.0?type=aar

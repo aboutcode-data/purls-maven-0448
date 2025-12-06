@@ -1,0 +1,4 @@
+- pkg:maven/com.agapsys/agreste-test@0.1.0-20170330
+- pkg:maven/com.agapsys/agreste-test@0.1.0-20170330?classifier=sources
+- pkg:maven/com.agapsys/agreste-test@0.1.0-20170415
+- pkg:maven/com.agapsys/agreste-test@0.1.0-20170415?classifier=sources

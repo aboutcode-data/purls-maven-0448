@@ -1,0 +1,6 @@
+- pkg:maven/de.thm.mni.mote/omc-java-api@0.2
+- pkg:maven/de.thm.mni.mote/omc-java-api@0.2?classifier=sources
+- pkg:maven/de.thm.mni.mote/omc-java-api@0.3.3
+- pkg:maven/de.thm.mni.mote/omc-java-api@0.3.3?classifier=sources
+- pkg:maven/de.thm.mni.mote/omc-java-api@0.3.4
+- pkg:maven/de.thm.mni.mote/omc-java-api@0.3.4?classifier=sources
