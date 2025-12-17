@@ -26,3 +26,5 @@
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.6.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.7.0
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.7.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.8.0
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.8.0?classifier=sources

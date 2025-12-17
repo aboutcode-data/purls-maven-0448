@@ -1,0 +1,2 @@
+- pkg:maven/rocks.coffeenet/autoconfigure@0.38.2
+- pkg:maven/rocks.coffeenet/autoconfigure@0.38.2?classifier=sources

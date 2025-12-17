@@ -20,3 +20,7 @@
 - pkg:maven/net.java.dev.jna/jna-platform@4.5.2?classifier=sources
 - pkg:maven/net.java.dev.jna/jna-platform@5.0.0
 - pkg:maven/net.java.dev.jna/jna-platform@5.0.0?classifier=sources
+- pkg:maven/net.java.dev.jna/jna-platform@5.1.0
+- pkg:maven/net.java.dev.jna/jna-platform@5.1.0?classifier=sources
+- pkg:maven/net.java.dev.jna/jna-platform@5.2.0
+- pkg:maven/net.java.dev.jna/jna-platform@5.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.skynet@1.0.3
+- pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.skynet@1.0.3?classifier=sources
+- pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.skynet@1.0.4
+- pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.skynet@1.0.4?classifier=sources

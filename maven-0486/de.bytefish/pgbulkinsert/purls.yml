@@ -30,3 +30,11 @@
 - pkg:maven/de.bytefish/pgbulkinsert@2.1?classifier=sources
 - pkg:maven/de.bytefish/pgbulkinsert@2.2
 - pkg:maven/de.bytefish/pgbulkinsert@2.2?classifier=sources
+- pkg:maven/de.bytefish/pgbulkinsert@3.0
+- pkg:maven/de.bytefish/pgbulkinsert@3.0?classifier=sources
+- pkg:maven/de.bytefish/pgbulkinsert@3.1
+- pkg:maven/de.bytefish/pgbulkinsert@3.1?classifier=sources
+- pkg:maven/de.bytefish/pgbulkinsert@3.2
+- pkg:maven/de.bytefish/pgbulkinsert@3.2?classifier=sources
+- pkg:maven/de.bytefish/pgbulkinsert@3.3
+- pkg:maven/de.bytefish/pgbulkinsert@3.3?classifier=sources

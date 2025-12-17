@@ -1,0 +1,4 @@
+- pkg:maven/fr.ojs-creation/simple-cqrs-core@0.2.0
+- pkg:maven/fr.ojs-creation/simple-cqrs-core@0.2.0?classifier=sources
+- pkg:maven/fr.ojs-creation/simple-cqrs-core@0.3.0
+- pkg:maven/fr.ojs-creation/simple-cqrs-core@0.3.0?classifier=sources

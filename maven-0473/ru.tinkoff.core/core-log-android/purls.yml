@@ -4,5 +4,9 @@
 - pkg:maven/ru.tinkoff.core/core-log-android@3.0.13?type=aar
 - pkg:maven/ru.tinkoff.core/core-log-android@3.1.7?classifier=sources
 - pkg:maven/ru.tinkoff.core/core-log-android@3.1.7?type=aar
+- pkg:maven/ru.tinkoff.core/core-log-android@3.2.13?classifier=sources
+- pkg:maven/ru.tinkoff.core/core-log-android@3.2.13?type=aar
 - pkg:maven/ru.tinkoff.core/core-log-android@3.2.7?classifier=sources
 - pkg:maven/ru.tinkoff.core/core-log-android@3.2.7?type=aar
+- pkg:maven/ru.tinkoff.core/core-log-android@3.2.8?classifier=sources
+- pkg:maven/ru.tinkoff.core/core-log-android@3.2.8?type=aar

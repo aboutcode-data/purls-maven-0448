@@ -111,6 +111,8 @@
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-gradle-plugin@1.59?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-gradle-plugin@1.5?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-gradle-plugin@1.6
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-gradle-plugin@1.60
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-gradle-plugin@1.60?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-gradle-plugin@1.6?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-gradle-plugin@1.7
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-gradle-plugin@1.7?classifier=sources

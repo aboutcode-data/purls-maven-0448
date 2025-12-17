@@ -1,0 +1,6 @@
+- pkg:maven/com.github.bzacar/mongeez@0.9.7-bzacar
+- pkg:maven/com.github.bzacar/mongeez@0.9.7-bzacar?classifier=sources
+- pkg:maven/com.github.bzacar/mongeez@0.9.8-bzacar
+- pkg:maven/com.github.bzacar/mongeez@0.9.8-bzacar?classifier=sources
+- pkg:maven/com.github.bzacar/mongeez@0.9.9-bzacar
+- pkg:maven/com.github.bzacar/mongeez@0.9.9-bzacar?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.cognitect.aws/logs@668.2.357.0
+- pkg:maven/com.cognitect.aws/logs@668.2.357.0?classifier=sources
+- pkg:maven/com.cognitect.aws/logs@669.2.364.0
+- pkg:maven/com.cognitect.aws/logs@669.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/logs@697.2.391.0
+- pkg:maven/com.cognitect.aws/logs@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/logs@701.2.394.0
+- pkg:maven/com.cognitect.aws/logs@701.2.394.0?classifier=sources

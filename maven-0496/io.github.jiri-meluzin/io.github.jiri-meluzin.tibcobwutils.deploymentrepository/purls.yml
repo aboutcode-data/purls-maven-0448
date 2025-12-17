@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jiri-meluzin/io.github.jiri-meluzin.tibcobwutils.deploymentrepository@1.1
+- pkg:maven/io.github.jiri-meluzin/io.github.jiri-meluzin.tibcobwutils.deploymentrepository@1.1?classifier=sources

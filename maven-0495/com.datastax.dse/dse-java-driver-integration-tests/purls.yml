@@ -1,0 +1,2 @@
+- pkg:maven/com.datastax.dse/dse-java-driver-integration-tests@2.0.0-beta1
+- pkg:maven/com.datastax.dse/dse-java-driver-integration-tests@2.0.0-rc1

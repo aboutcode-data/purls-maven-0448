@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars/cytoscape@2.7.13
+- pkg:maven/org.webjars/cytoscape@3.3.0

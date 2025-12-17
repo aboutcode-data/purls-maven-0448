@@ -20,3 +20,5 @@
 - pkg:maven/com.icegreen/greenmail-webapp@1.5.7?type=war
 - pkg:maven/com.icegreen/greenmail-webapp@1.5.8?classifier=sources
 - pkg:maven/com.icegreen/greenmail-webapp@1.5.8?type=war
+- pkg:maven/com.icegreen/greenmail-webapp@1.5.9?classifier=sources
+- pkg:maven/com.icegreen/greenmail-webapp@1.5.9?type=war

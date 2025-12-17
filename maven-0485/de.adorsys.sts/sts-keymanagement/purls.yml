@@ -60,6 +60,12 @@
 - pkg:maven/de.adorsys.sts/sts-keymanagement@0.27.1?classifier=sources
 - pkg:maven/de.adorsys.sts/sts-keymanagement@0.27.2
 - pkg:maven/de.adorsys.sts/sts-keymanagement@0.27.2?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-keymanagement@0.27.3
+- pkg:maven/de.adorsys.sts/sts-keymanagement@0.27.3?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-keymanagement@0.28.0
+- pkg:maven/de.adorsys.sts/sts-keymanagement@0.28.0?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-keymanagement@0.28.1
+- pkg:maven/de.adorsys.sts/sts-keymanagement@0.28.1?classifier=sources
 - pkg:maven/de.adorsys.sts/sts-keymanagement@0.5.0
 - pkg:maven/de.adorsys.sts/sts-keymanagement@0.5.0?classifier=sources
 - pkg:maven/de.adorsys.sts/sts-keymanagement@0.6.0

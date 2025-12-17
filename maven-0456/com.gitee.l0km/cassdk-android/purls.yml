@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.l0km/cassdk-android@2.1.0
+- pkg:maven/com.gitee.l0km/cassdk-android@2.1.0?classifier=sources

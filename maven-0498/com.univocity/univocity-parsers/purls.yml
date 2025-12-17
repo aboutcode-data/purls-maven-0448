@@ -110,3 +110,7 @@
 - pkg:maven/com.univocity/univocity-parsers@2.7.5?classifier=sources
 - pkg:maven/com.univocity/univocity-parsers@2.7.6
 - pkg:maven/com.univocity/univocity-parsers@2.7.6?classifier=sources
+- pkg:maven/com.univocity/univocity-parsers@2.8.0
+- pkg:maven/com.univocity/univocity-parsers@2.8.0?classifier=sources
+- pkg:maven/com.univocity/univocity-parsers@2.8.1
+- pkg:maven/com.univocity/univocity-parsers@2.8.1?classifier=sources

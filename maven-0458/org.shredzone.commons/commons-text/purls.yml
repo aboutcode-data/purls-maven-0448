@@ -10,3 +10,5 @@
 - pkg:maven/org.shredzone.commons/commons-text@2.3?classifier=sources
 - pkg:maven/org.shredzone.commons/commons-text@2.4
 - pkg:maven/org.shredzone.commons/commons-text@2.4?classifier=sources
+- pkg:maven/org.shredzone.commons/commons-text@2.5
+- pkg:maven/org.shredzone.commons/commons-text@2.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.rsocket.rpc/rsocket-rpc-examples@0.2.5
+- pkg:maven/io.rsocket.rpc/rsocket-rpc-examples@0.2.5?classifier=sources

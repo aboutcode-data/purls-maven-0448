@@ -1,0 +1,2 @@
+- pkg:maven/nl.vpro.media/media-i18n@5.10.0
+- pkg:maven/nl.vpro.media/media-i18n@5.10.0?classifier=sources

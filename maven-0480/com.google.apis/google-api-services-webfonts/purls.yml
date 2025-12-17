@@ -44,6 +44,10 @@
 - pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev20-1.16.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev20160302-1.26.0
 - pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev20160302-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev20160302-1.27.0
+- pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev20160302-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev20160302-1.28.0
+- pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev20160302-1.28.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev21-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev21-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webfonts@v1-rev21-1.14.2-beta

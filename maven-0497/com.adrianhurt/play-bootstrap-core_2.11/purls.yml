@@ -30,3 +30,7 @@
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.11@1.2-P26-RC2
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.11@1.2-P26-RC2?classifier=sources
 - pkg:maven/com.adrianhurt/play-bootstrap-core_2.11@1.2-P26?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.11@1.4-P25
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.11@1.4-P25?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.11@1.4-P26
+- pkg:maven/com.adrianhurt/play-bootstrap-core_2.11@1.4-P26?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.convertapi.client/convertapi@1.1
+- pkg:maven/com.convertapi.client/convertapi@1.1?classifier=sources
+- pkg:maven/com.convertapi.client/convertapi@1.3
+- pkg:maven/com.convertapi.client/convertapi@1.3?classifier=sources
+- pkg:maven/com.convertapi.client/convertapi@1.8
+- pkg:maven/com.convertapi.client/convertapi@1.8.1
+- pkg:maven/com.convertapi.client/convertapi@1.8.1?classifier=sources
+- pkg:maven/com.convertapi.client/convertapi@1.8.2
+- pkg:maven/com.convertapi.client/convertapi@1.8.2?classifier=sources
+- pkg:maven/com.convertapi.client/convertapi@1.8.3
+- pkg:maven/com.convertapi.client/convertapi@1.8.3?classifier=sources
+- pkg:maven/com.convertapi.client/convertapi@1.8?classifier=sources

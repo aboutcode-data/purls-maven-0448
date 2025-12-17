@@ -1,0 +1,2 @@
+- pkg:maven/org.decision-deck/XMCDA-java@0.4
+- pkg:maven/org.decision-deck/XMCDA-java@0.4?classifier=sources

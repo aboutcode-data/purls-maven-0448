@@ -32,3 +32,5 @@
 - pkg:maven/io.bitsensor.plugins/bitsensor-its-struts1x@4.0.1?type=war
 - pkg:maven/io.bitsensor.plugins/bitsensor-its-struts1x@4.0.2?classifier=sources
 - pkg:maven/io.bitsensor.plugins/bitsensor-its-struts1x@4.0.2?type=war
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-struts1x@4.0.3?classifier=sources
+- pkg:maven/io.bitsensor.plugins/bitsensor-its-struts1x@4.0.3?type=war

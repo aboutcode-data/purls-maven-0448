@@ -1,0 +1,2 @@
+- pkg:maven/io.prestosql.cassandra/cassandra-server@2.1.16-2
+- pkg:maven/io.prestosql.cassandra/cassandra-server@2.1.16-2?classifier=sources

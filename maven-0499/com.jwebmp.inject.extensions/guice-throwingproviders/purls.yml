@@ -1,0 +1,2 @@
+- pkg:maven/com.jwebmp.inject.extensions/guice-throwingproviders@0.63.0.61
+- pkg:maven/com.jwebmp.inject.extensions/guice-throwingproviders@0.63.0.61?classifier=sources

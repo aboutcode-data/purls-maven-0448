@@ -1,3 +1,13 @@
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.10.0
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.10.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.11.0
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.11.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.11.1
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.11.1?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.12.0
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.12.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.13.0
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.13.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.4.0
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.4.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.4.1
@@ -18,3 +28,11 @@
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.8.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.0
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.5
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.5?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.6
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.6?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.7
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.7?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.8
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.9.8?classifier=sources

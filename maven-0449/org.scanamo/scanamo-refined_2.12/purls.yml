@@ -1,0 +1,2 @@
+- pkg:maven/org.scanamo/scanamo-refined_2.12@1.0.0-M9
+- pkg:maven/org.scanamo/scanamo-refined_2.12@1.0.0-M9?classifier=sources

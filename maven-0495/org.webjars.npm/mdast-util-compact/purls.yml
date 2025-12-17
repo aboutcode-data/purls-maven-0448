@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mdast-util-compact@1.0.2
+- pkg:maven/org.webjars.npm/mdast-util-compact@1.0.2?classifier=sources

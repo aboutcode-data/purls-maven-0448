@@ -1,0 +1,6 @@
+- pkg:maven/io.prestosql/presto-raptor-legacy@300?classifier=sources
+- pkg:maven/io.prestosql/presto-raptor-legacy@301?classifier=sources
+- pkg:maven/io.prestosql/presto-raptor-legacy@302?classifier=sources
+- pkg:maven/io.prestosql/presto-raptor-legacy@303?classifier=sources
+- pkg:maven/io.prestosql/presto-raptor-legacy@304?classifier=sources
+- pkg:maven/io.prestosql/presto-raptor-legacy@305?classifier=sources

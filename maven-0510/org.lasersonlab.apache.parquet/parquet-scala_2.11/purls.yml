@@ -1,0 +1,2 @@
+- pkg:maven/org.lasersonlab.apache.parquet/parquet-scala_2.11@1.8.3
+- pkg:maven/org.lasersonlab.apache.parquet/parquet-scala_2.11@1.8.3?classifier=sources

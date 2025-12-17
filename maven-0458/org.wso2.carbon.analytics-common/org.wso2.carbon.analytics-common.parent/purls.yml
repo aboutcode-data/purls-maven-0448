@@ -61,6 +61,8 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.70?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.71?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.72?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.73?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.9?classifier=source-release&type=zip

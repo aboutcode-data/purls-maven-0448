@@ -56,3 +56,5 @@
 - pkg:maven/com.theoryinpractise/clojure-maven-plugin@1.7.1?classifier=sources
 - pkg:maven/com.theoryinpractise/clojure-maven-plugin@1.8.1
 - pkg:maven/com.theoryinpractise/clojure-maven-plugin@1.8.1?classifier=sources
+- pkg:maven/com.theoryinpractise/clojure-maven-plugin@1.8.2
+- pkg:maven/com.theoryinpractise/clojure-maven-plugin@1.8.2?classifier=sources

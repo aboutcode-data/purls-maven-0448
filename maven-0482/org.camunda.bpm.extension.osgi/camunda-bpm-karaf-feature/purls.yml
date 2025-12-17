@@ -14,3 +14,7 @@
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-karaf-feature@4.0.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-karaf-feature@4.1.0
 - pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-karaf-feature@4.1.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-karaf-feature@5.0.0
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-karaf-feature@5.0.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-karaf-feature@5.1.0
+- pkg:maven/org.camunda.bpm.extension.osgi/camunda-bpm-karaf-feature@5.1.0?classifier=sources

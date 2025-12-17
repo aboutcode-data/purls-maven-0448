@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.any23.plugins/apache-any23-basic-crawler@2.0?classifier=sources
 - pkg:maven/org.apache.any23.plugins/apache-any23-basic-crawler@2.1?classifier=sources
 - pkg:maven/org.apache.any23.plugins/apache-any23-basic-crawler@2.2?classifier=sources
+- pkg:maven/org.apache.any23.plugins/apache-any23-basic-crawler@2.3?classifier=sources

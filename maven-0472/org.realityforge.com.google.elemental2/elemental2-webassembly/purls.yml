@@ -1,0 +1,4 @@
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webassembly@1.0.0-b18-f3472e7
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webassembly@1.0.0-b18-f3472e7?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webassembly@1.0.0-b19-fb227e3
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-webassembly@1.0.0-b19-fb227e3?classifier=sources

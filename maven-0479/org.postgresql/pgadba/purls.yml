@@ -1,0 +1,2 @@
+- pkg:maven/org.postgresql/pgadba@0.1.0-ALPHA
+- pkg:maven/org.postgresql/pgadba@0.1.0-ALPHA?classifier=sources

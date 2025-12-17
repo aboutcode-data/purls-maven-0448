@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/istextorbinary@1.0.2
 - pkg:maven/org.webjars.npm/istextorbinary@1.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/istextorbinary@2.1.0
+- pkg:maven/org.webjars.npm/istextorbinary@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/istextorbinary@2.2.1
 - pkg:maven/org.webjars.npm/istextorbinary@2.2.1?classifier=sources

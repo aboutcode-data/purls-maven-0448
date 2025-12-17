@@ -4,3 +4,5 @@
 - pkg:maven/com.alexdupre/bitcoincash-lib_2.11@0.9.18?classifier=sources
 - pkg:maven/com.alexdupre/bitcoincash-lib_2.11@0.9.19
 - pkg:maven/com.alexdupre/bitcoincash-lib_2.11@0.9.19?classifier=sources
+- pkg:maven/com.alexdupre/bitcoincash-lib_2.11@0.9.20
+- pkg:maven/com.alexdupre/bitcoincash-lib_2.11@0.9.20?classifier=sources

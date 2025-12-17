@@ -2,3 +2,7 @@
 - pkg:maven/ml.dmlc/xgboost4j-example@0.72?classifier=sources
 - pkg:maven/ml.dmlc/xgboost4j-example@0.80
 - pkg:maven/ml.dmlc/xgboost4j-example@0.80?classifier=sources
+- pkg:maven/ml.dmlc/xgboost4j-example@0.81
+- pkg:maven/ml.dmlc/xgboost4j-example@0.81?classifier=sources
+- pkg:maven/ml.dmlc/xgboost4j-example@0.82
+- pkg:maven/ml.dmlc/xgboost4j-example@0.82?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.mepin/org.wso2.carbon.extension.identity.authenticator.mepin.connector@2.0.1
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.mepin/org.wso2.carbon.extension.identity.authenticator.mepin.connector@2.0.1?classifier=source-release&type=zip

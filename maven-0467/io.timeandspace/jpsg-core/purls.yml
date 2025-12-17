@@ -1,0 +1,2 @@
+- pkg:maven/io.timeandspace/jpsg-core@1.1
+- pkg:maven/io.timeandspace/jpsg-core@1.1?classifier=sources

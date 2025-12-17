@@ -1,0 +1,4 @@
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.0.12.RELEASE
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.0.12.RELEASE?classifier=sources
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.0.13.RELEASE
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.0.13.RELEASE?classifier=sources

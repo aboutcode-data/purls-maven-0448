@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.phoenix/ali-phoenix-shade-core@5.1.0-HBase-2.0
+- pkg:maven/com.aliyun.phoenix/ali-phoenix-shade-core@5.1.0-HBase-2.0?classifier=sources

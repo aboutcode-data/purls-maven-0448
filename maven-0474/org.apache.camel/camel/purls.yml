@@ -57,8 +57,14 @@
 - pkg:maven/org.apache.camel/camel@2.21.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.21.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.21.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.21.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.21.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.22.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.22.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.22.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.22.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.23.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@2.23.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.5.0?classifier=source-release&type=zip
@@ -86,3 +92,4 @@
 - pkg:maven/org.apache.camel/camel@2.9.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.9.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@2.9.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@3.0.0-M1?classifier=source-release&type=zip

@@ -2,3 +2,7 @@
 - pkg:maven/com.suixingpay.config-keeper/suixingpay-config-client@1.0.0?classifier=sources
 - pkg:maven/com.suixingpay.config-keeper/suixingpay-config-client@1.1.0
 - pkg:maven/com.suixingpay.config-keeper/suixingpay-config-client@1.1.0?classifier=sources
+- pkg:maven/com.suixingpay.config-keeper/suixingpay-config-client@1.2.0
+- pkg:maven/com.suixingpay.config-keeper/suixingpay-config-client@1.2.0?classifier=sources
+- pkg:maven/com.suixingpay.config-keeper/suixingpay-config-client@2.0.0
+- pkg:maven/com.suixingpay.config-keeper/suixingpay-config-client@2.0.0?classifier=sources

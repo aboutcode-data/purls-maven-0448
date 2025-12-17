@@ -5,4 +5,6 @@
 - pkg:maven/be.atbash.config/geronimo-config@0.9.1?classifier=sources
 - pkg:maven/be.atbash.config/geronimo-config@0.9.2
 - pkg:maven/be.atbash.config/geronimo-config@0.9.2?classifier=sources
+- pkg:maven/be.atbash.config/geronimo-config@0.9.3
+- pkg:maven/be.atbash.config/geronimo-config@0.9.3?classifier=sources
 - pkg:maven/be.atbash.config/geronimo-config@0.9?classifier=sources

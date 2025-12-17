@@ -1,2 +1,4 @@
 - pkg:maven/com.thoughtworks.dsl/keywords-nonesafe_sjs0.6_2.13.0-M4@1.0.0-RC21
 - pkg:maven/com.thoughtworks.dsl/keywords-nonesafe_sjs0.6_2.13.0-M4@1.0.0-RC21?classifier=sources
+- pkg:maven/com.thoughtworks.dsl/keywords-nonesafe_sjs0.6_2.13.0-M4@1.0.0-RC22
+- pkg:maven/com.thoughtworks.dsl/keywords-nonesafe_sjs0.6_2.13.0-M4@1.0.0-RC22?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/semantic-ui-form@2.4.0
+- pkg:maven/org.webjars.npm/semantic-ui-form@2.4.0?classifier=sources

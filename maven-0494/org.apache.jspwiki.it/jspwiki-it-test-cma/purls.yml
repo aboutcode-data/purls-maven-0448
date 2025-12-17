@@ -10,3 +10,7 @@
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-cma@2.10.4?type=war
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-cma@2.10.5?classifier=sources
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-cma@2.10.5?type=war
+- pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-cma@2.11.0.M1?classifier=sources
+- pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-cma@2.11.0.M1?type=war
+- pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-cma@2.11.0.M2?classifier=sources
+- pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-cma@2.11.0.M2?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/de.drippinger.fakegen/lombok@0.2
+- pkg:maven/de.drippinger.fakegen/lombok@0.2?classifier=sources

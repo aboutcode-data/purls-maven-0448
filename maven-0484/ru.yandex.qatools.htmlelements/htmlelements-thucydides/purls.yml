@@ -16,3 +16,5 @@
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.18?classifier=sources
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.19
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.19?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.20.0
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-thucydides@1.20.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.microprofile.reactive.streams/microprofile-reactive-streams-operators-core@1.0-RC2
+- pkg:maven/org.eclipse.microprofile.reactive.streams/microprofile-reactive-streams-operators-core@1.0-RC2?classifier=sources
+- pkg:maven/org.eclipse.microprofile.reactive.streams/microprofile-reactive-streams-operators-core@1.0-RC3
+- pkg:maven/org.eclipse.microprofile.reactive.streams/microprofile-reactive-streams-operators-core@1.0-RC3?classifier=sources

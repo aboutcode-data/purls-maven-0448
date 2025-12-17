@@ -1,0 +1,4 @@
+- pkg:maven/io.branch.sdk.android/search@1.2.3?classifier=sources
+- pkg:maven/io.branch.sdk.android/search@1.2.3?type=aar
+- pkg:maven/io.branch.sdk.android/search@1.2.5?classifier=sources
+- pkg:maven/io.branch.sdk.android/search@1.2.5?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/ai.ylyue/yue-library-data-redis@Finchley.SR2.SR1
+- pkg:maven/ai.ylyue/yue-library-data-redis@Finchley.SR2.SR1?classifier=sources

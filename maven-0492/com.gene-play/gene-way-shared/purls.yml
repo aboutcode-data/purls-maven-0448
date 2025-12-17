@@ -1,0 +1,2 @@
+- pkg:maven/com.gene-play/gene-way-shared@0.4.7
+- pkg:maven/com.gene-play/gene-way-shared@0.4.7?classifier=sources

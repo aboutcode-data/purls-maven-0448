@@ -30,4 +30,6 @@
 - pkg:maven/com.actelion.research/orbit-image-analysis@3.05?classifier=sources
 - pkg:maven/com.actelion.research/orbit-image-analysis@3.06
 - pkg:maven/com.actelion.research/orbit-image-analysis@3.06?classifier=sources
+- pkg:maven/com.actelion.research/orbit-image-analysis@3.08
+- pkg:maven/com.actelion.research/orbit-image-analysis@3.08?classifier=sources
 - pkg:maven/com.actelion.research/orbit-image-analysis@3.0?classifier=sources

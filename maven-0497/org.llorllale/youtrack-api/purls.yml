@@ -151,6 +151,10 @@
 - pkg:maven/org.llorllale/youtrack-api@1.1.0-rc20?classifier=sources
 - pkg:maven/org.llorllale/youtrack-api@1.1.0-rc21
 - pkg:maven/org.llorllale/youtrack-api@1.1.0-rc21?classifier=sources
+- pkg:maven/org.llorllale/youtrack-api@1.1.0-rc22
+- pkg:maven/org.llorllale/youtrack-api@1.1.0-rc22?classifier=sources
+- pkg:maven/org.llorllale/youtrack-api@1.1.0-rc23
+- pkg:maven/org.llorllale/youtrack-api@1.1.0-rc23?classifier=sources
 - pkg:maven/org.llorllale/youtrack-api@1.1.0-rc2?classifier=sources
 - pkg:maven/org.llorllale/youtrack-api@1.1.0-rc3
 - pkg:maven/org.llorllale/youtrack-api@1.1.0-rc3?classifier=sources

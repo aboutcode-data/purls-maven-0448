@@ -1,0 +1,2 @@
+- pkg:maven/com.safelayer/pki-connector-restapi@1.0.0
+- pkg:maven/com.safelayer/pki-connector-restapi@1.0.0?classifier=sources

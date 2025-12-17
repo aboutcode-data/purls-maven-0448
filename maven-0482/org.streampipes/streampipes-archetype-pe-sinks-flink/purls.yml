@@ -1,0 +1,1 @@
+- pkg:maven/org.streampipes/streampipes-archetype-pe-sinks-flink@0.60.1?classifier=sources

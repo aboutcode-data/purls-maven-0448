@@ -1,0 +1,2 @@
+- pkg:maven/de.dm.mail2blog/mail2blog-base@2.1-1
+- pkg:maven/de.dm.mail2blog/mail2blog-base@2.1-1?classifier=sources

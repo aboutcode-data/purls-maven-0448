@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.activemq/artemis-console@2.6.2?type=war
 - pkg:maven/org.apache.activemq/artemis-console@2.6.3?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-console@2.6.3?type=war
+- pkg:maven/org.apache.activemq/artemis-console@2.6.4?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-console@2.6.4?type=war

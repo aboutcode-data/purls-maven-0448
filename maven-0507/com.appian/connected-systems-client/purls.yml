@@ -1,0 +1,10 @@
+- pkg:maven/com.appian/connected-systems-client@0.1.0
+- pkg:maven/com.appian/connected-systems-client@0.1.0?classifier=sources
+- pkg:maven/com.appian/connected-systems-client@0.2.0
+- pkg:maven/com.appian/connected-systems-client@0.2.0?classifier=sources
+- pkg:maven/com.appian/connected-systems-client@0.3.0
+- pkg:maven/com.appian/connected-systems-client@0.3.0?classifier=sources
+- pkg:maven/com.appian/connected-systems-client@1.0.0
+- pkg:maven/com.appian/connected-systems-client@1.0.0?classifier=sources
+- pkg:maven/com.appian/connected-systems-client@1.0.1
+- pkg:maven/com.appian/connected-systems-client@1.0.1?classifier=sources

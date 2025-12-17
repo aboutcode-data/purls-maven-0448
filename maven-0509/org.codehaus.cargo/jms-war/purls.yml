@@ -52,3 +52,11 @@
 - pkg:maven/org.codehaus.cargo/jms-war@1.6.8?type=war
 - pkg:maven/org.codehaus.cargo/jms-war@1.6.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/jms-war@1.6.9?type=war
+- pkg:maven/org.codehaus.cargo/jms-war@1.7.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/jms-war@1.7.0?type=war
+- pkg:maven/org.codehaus.cargo/jms-war@1.7.1?classifier=sources
+- pkg:maven/org.codehaus.cargo/jms-war@1.7.1?type=war
+- pkg:maven/org.codehaus.cargo/jms-war@1.7.2?classifier=sources
+- pkg:maven/org.codehaus.cargo/jms-war@1.7.2?type=war
+- pkg:maven/org.codehaus.cargo/jms-war@1.7.3?classifier=sources
+- pkg:maven/org.codehaus.cargo/jms-war@1.7.3?type=war

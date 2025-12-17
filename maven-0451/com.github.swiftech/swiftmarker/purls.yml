@@ -1,0 +1,6 @@
+- pkg:maven/com.github.swiftech/swiftmarker@1.0-BETA
+- pkg:maven/com.github.swiftech/swiftmarker@1.0-BETA?classifier=sources
+- pkg:maven/com.github.swiftech/swiftmarker@2.0-BETA2
+- pkg:maven/com.github.swiftech/swiftmarker@2.0-BETA2?classifier=sources
+- pkg:maven/com.github.swiftech/swiftmarker@2.0-BETA4
+- pkg:maven/com.github.swiftech/swiftmarker@2.0-BETA4?classifier=sources

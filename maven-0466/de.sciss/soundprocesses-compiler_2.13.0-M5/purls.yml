@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/soundprocesses-compiler_2.13.0-M5@3.24.0
+- pkg:maven/de.sciss/soundprocesses-compiler_2.13.0-M5@3.24.0?classifier=sources
+- pkg:maven/de.sciss/soundprocesses-compiler_2.13.0-M5@3.25.0
+- pkg:maven/de.sciss/soundprocesses-compiler_2.13.0-M5@3.25.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/dashboard-carousel@1.21.0
+- pkg:maven/org.webjars.npm/dashboard-carousel@1.21.0?classifier=sources

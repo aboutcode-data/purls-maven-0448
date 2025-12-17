@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/code-error-fragment@0.0.230
+- pkg:maven/org.webjars.npm/code-error-fragment@0.0.230?classifier=sources

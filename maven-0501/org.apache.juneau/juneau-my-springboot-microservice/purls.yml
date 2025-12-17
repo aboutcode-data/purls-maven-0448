@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.juneau/juneau-my-springboot-microservice@8.0.0
+- pkg:maven/org.apache.juneau/juneau-my-springboot-microservice@8.0.0?classifier=sources

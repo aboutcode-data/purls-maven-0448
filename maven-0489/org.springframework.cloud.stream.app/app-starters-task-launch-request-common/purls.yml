@@ -1,2 +1,6 @@
 - pkg:maven/org.springframework.cloud.stream.app/app-starters-task-launch-request-common@2.0.2.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/app-starters-task-launch-request-common@2.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/app-starters-task-launch-request-common@2.0.3.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/app-starters-task-launch-request-common@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/app-starters-task-launch-request-common@2.1.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/app-starters-task-launch-request-common@2.1.0.RELEASE?classifier=sources

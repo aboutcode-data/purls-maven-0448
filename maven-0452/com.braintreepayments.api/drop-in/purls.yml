@@ -78,3 +78,7 @@
 - pkg:maven/com.braintreepayments.api/drop-in@3.6.1?type=aar
 - pkg:maven/com.braintreepayments.api/drop-in@3.7.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/drop-in@3.7.0?type=aar
+- pkg:maven/com.braintreepayments.api/drop-in@3.7.1?classifier=sources
+- pkg:maven/com.braintreepayments.api/drop-in@3.7.1?type=aar
+- pkg:maven/com.braintreepayments.api/drop-in@4.0.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/drop-in@4.0.0?type=aar

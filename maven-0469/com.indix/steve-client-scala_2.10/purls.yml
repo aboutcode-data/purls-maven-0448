@@ -10,6 +10,10 @@
 - pkg:maven/com.indix/steve-client-scala_2.10@0.1.112?classifier=sources
 - pkg:maven/com.indix/steve-client-scala_2.10@0.1.113
 - pkg:maven/com.indix/steve-client-scala_2.10@0.1.113?classifier=sources
+- pkg:maven/com.indix/steve-client-scala_2.10@0.1.114
+- pkg:maven/com.indix/steve-client-scala_2.10@0.1.114?classifier=sources
+- pkg:maven/com.indix/steve-client-scala_2.10@0.1.115
+- pkg:maven/com.indix/steve-client-scala_2.10@0.1.115?classifier=sources
 - pkg:maven/com.indix/steve-client-scala_2.10@0.1.87
 - pkg:maven/com.indix/steve-client-scala_2.10@0.1.87?classifier=sources
 - pkg:maven/com.indix/steve-client-scala_2.10@0.1.88

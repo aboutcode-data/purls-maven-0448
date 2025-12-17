@@ -1,0 +1,4 @@
+- pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@1.0.0
+- pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@1.0.0?classifier=sources
+- pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@1.0.1
+- pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@1.0.1?classifier=sources

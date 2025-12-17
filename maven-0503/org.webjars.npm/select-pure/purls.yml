@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/select-pure@0.1.15
+- pkg:maven/org.webjars.npm/select-pure@0.1.15?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/guru.qas/martini-reports@3.0.0?classifier=sources
 - pkg:maven/guru.qas/martini-reports@4.0.0-JDK10
 - pkg:maven/guru.qas/martini-reports@4.0.0-JDK10?classifier=sources
+- pkg:maven/guru.qas/martini-reports@4.1.1
+- pkg:maven/guru.qas/martini-reports@4.1.1?classifier=sources
+- pkg:maven/guru.qas/martini-reports@5.0
+- pkg:maven/guru.qas/martini-reports@5.0?classifier=sources

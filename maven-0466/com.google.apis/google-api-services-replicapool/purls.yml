@@ -116,6 +116,10 @@
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev20-1.20.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev20160512-1.26.0
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev20160512-1.26.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev20160512-1.27.0
+- pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev20160512-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev20160512-1.28.0
+- pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev20160512-1.28.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-replicapool@v1beta1-rev21-1.19.0

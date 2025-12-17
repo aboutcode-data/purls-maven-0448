@@ -80,6 +80,8 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.11.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.12.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.12.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.13.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.13.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.2.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.2.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.23.3.Final?classifier=sources
@@ -126,6 +128,8 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.27.7.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.27.8.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.27.8.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.27.9.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.27.9.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.0.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.1.Final?classifier=sources
@@ -140,12 +144,18 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.5.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.6.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.6.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.7.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.7.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.8.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.28.8.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.29.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.29.0.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.29.1.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.29.1.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.29.2.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.29.2.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.29.3.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.29.3.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.3.1?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.3.1?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.3.2?classifier=sources
@@ -172,6 +182,8 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.30.7.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.31.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.31.0.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.31.1.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.31.1.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.4.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.4.0.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs@0.5.0.Final?classifier=sources

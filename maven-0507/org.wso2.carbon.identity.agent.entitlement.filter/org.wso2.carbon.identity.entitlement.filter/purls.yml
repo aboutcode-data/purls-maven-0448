@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.carbon.identity.agent.entitlement.filter/org.wso2.carbon.identity.entitlement.filter@5.1.3
 - pkg:maven/org.wso2.carbon.identity.agent.entitlement.filter/org.wso2.carbon.identity.entitlement.filter@5.1.3?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.agent.entitlement.filter/org.wso2.carbon.identity.entitlement.filter@5.1.4
+- pkg:maven/org.wso2.carbon.identity.agent.entitlement.filter/org.wso2.carbon.identity.entitlement.filter@5.1.4?classifier=sources

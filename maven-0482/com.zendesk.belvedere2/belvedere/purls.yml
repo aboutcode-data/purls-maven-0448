@@ -4,3 +4,9 @@
 - pkg:maven/com.zendesk.belvedere2/belvedere@2.1.0-PCOMP?type=aar
 - pkg:maven/com.zendesk.belvedere2/belvedere@2.1.0?classifier=sources
 - pkg:maven/com.zendesk.belvedere2/belvedere@2.1.0?type=aar
+- pkg:maven/com.zendesk.belvedere2/belvedere@2.2.0?classifier=sources
+- pkg:maven/com.zendesk.belvedere2/belvedere@2.2.0?type=aar
+- pkg:maven/com.zendesk.belvedere2/belvedere@2.2.1?classifier=sources
+- pkg:maven/com.zendesk.belvedere2/belvedere@2.2.1?type=aar
+- pkg:maven/com.zendesk.belvedere2/belvedere@2.2.2?classifier=sources
+- pkg:maven/com.zendesk.belvedere2/belvedere@2.2.2?type=aar

@@ -20,6 +20,10 @@
 - pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.19?classifier=sources
 - pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.20
 - pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.20?classifier=sources
+- pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.21
+- pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.21?classifier=sources
+- pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.22
+- pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.22?classifier=sources
 - pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.8
 - pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.8?classifier=sources
 - pkg:maven/org.apache.ws.commons.axiom/axiom-c14n@1.2.9

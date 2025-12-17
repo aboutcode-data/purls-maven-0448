@@ -36,6 +36,12 @@
 - pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.29
 - pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.29?classifier=sources
 - pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.2?classifier=sources
+- pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.30
+- pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.30?classifier=sources
+- pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.31
+- pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.31?classifier=sources
+- pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.32
+- pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.32?classifier=sources
 - pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.4
 - pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.4?classifier=sources
 - pkg:maven/io.scalecube/scalecube-gateway-benchmarks@2.0.5

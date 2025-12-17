@@ -1,0 +1,4 @@
+- pkg:maven/co.abit.prime/prime-domain@1.1.16
+- pkg:maven/co.abit.prime/prime-domain@1.1.16?classifier=sources
+- pkg:maven/co.abit.prime/prime-domain@1.1.6
+- pkg:maven/co.abit.prime/prime-domain@1.1.6?classifier=sources

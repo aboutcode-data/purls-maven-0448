@@ -1,0 +1,2 @@
+- pkg:maven/com.b3dgs.lionengine/lionengine-audio-adlmidi@9.0.0
+- pkg:maven/com.b3dgs.lionengine/lionengine-audio-adlmidi@9.0.0?classifier=sources

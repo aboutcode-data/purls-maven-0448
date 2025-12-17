@@ -8,3 +8,5 @@
 - pkg:maven/com.baidu.openrasp/sqlparser@1.3?classifier=sources
 - pkg:maven/com.baidu.openrasp/sqlparser@1.4
 - pkg:maven/com.baidu.openrasp/sqlparser@1.4?classifier=sources
+- pkg:maven/com.baidu.openrasp/sqlparser@1.5
+- pkg:maven/com.baidu.openrasp/sqlparser@1.5?classifier=sources

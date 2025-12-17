@@ -3,3 +3,8 @@
 - pkg:maven/org.steambuff/SteamAPI@0.5-beta
 - pkg:maven/org.steambuff/SteamAPI@0.5.1-beta
 - pkg:maven/org.steambuff/SteamAPI@0.5.2-beta
+- pkg:maven/org.steambuff/SteamAPI@0.6-1-beta
+- pkg:maven/org.steambuff/SteamAPI@0.6-beta
+- pkg:maven/org.steambuff/SteamAPI@1.0
+- pkg:maven/org.steambuff/SteamAPI@1.0.1
+- pkg:maven/org.steambuff/SteamAPI@1.0.2

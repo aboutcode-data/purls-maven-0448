@@ -2,3 +2,11 @@
 - pkg:maven/com.speedment.common/combinatorics@1.0.0?classifier=sources
 - pkg:maven/com.speedment.common/combinatorics@1.0.1
 - pkg:maven/com.speedment.common/combinatorics@1.0.1?classifier=sources
+- pkg:maven/com.speedment.common/combinatorics@1.0.2
+- pkg:maven/com.speedment.common/combinatorics@1.0.2?classifier=sources
+- pkg:maven/com.speedment.common/combinatorics@1.0.3
+- pkg:maven/com.speedment.common/combinatorics@1.0.3?classifier=sources
+- pkg:maven/com.speedment.common/combinatorics@3.1.12
+- pkg:maven/com.speedment.common/combinatorics@3.1.12?classifier=sources
+- pkg:maven/com.speedment.common/combinatorics@3.1.13
+- pkg:maven/com.speedment.common/combinatorics@3.1.13?classifier=sources

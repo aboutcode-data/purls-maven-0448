@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/apollo-link-http-common@0.2.10
+- pkg:maven/org.webjars.npm/apollo-link-http-common@0.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/apollo-link-http-common@0.2.8
+- pkg:maven/org.webjars.npm/apollo-link-http-common@0.2.8?classifier=sources

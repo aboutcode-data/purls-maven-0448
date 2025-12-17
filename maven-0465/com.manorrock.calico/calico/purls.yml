@@ -4,3 +4,9 @@
 - pkg:maven/com.manorrock.calico/calico@1.1.0?type=war
 - pkg:maven/com.manorrock.calico/calico@1.2.0?classifier=sources
 - pkg:maven/com.manorrock.calico/calico@1.2.0?type=war
+- pkg:maven/com.manorrock.calico/calico@1.3.0?classifier=sources
+- pkg:maven/com.manorrock.calico/calico@1.3.0?type=war
+- pkg:maven/com.manorrock.calico/calico@1.4.0?classifier=sources
+- pkg:maven/com.manorrock.calico/calico@1.4.0?type=war
+- pkg:maven/com.manorrock.calico/calico@1.5.0?classifier=sources
+- pkg:maven/com.manorrock.calico/calico@1.5.0?type=war

@@ -1,0 +1,10 @@
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@1.1
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@1.1-RC1
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@1.1-RC1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@1.1.1
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@1.1.1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@1.1.2
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@1.1.2?classifier=sources
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@1.1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@2.0-MR1
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-spi@2.0-MR1?classifier=sources

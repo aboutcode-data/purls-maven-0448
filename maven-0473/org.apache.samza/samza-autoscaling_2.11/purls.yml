@@ -8,3 +8,7 @@
 - pkg:maven/org.apache.samza/samza-autoscaling_2.11@0.14.0?classifier=sources
 - pkg:maven/org.apache.samza/samza-autoscaling_2.11@0.14.1
 - pkg:maven/org.apache.samza/samza-autoscaling_2.11@0.14.1?classifier=sources
+- pkg:maven/org.apache.samza/samza-autoscaling_2.11@1.0.0
+- pkg:maven/org.apache.samza/samza-autoscaling_2.11@1.0.0?classifier=sources
+- pkg:maven/org.apache.samza/samza-autoscaling_2.11@1.1.0
+- pkg:maven/org.apache.samza/samza-autoscaling_2.11@1.1.0?classifier=sources

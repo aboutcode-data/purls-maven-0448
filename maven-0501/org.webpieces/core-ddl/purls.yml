@@ -38,6 +38,8 @@
 - pkg:maven/org.webpieces/core-ddl@1.9.125?classifier=sources
 - pkg:maven/org.webpieces/core-ddl@1.9.126
 - pkg:maven/org.webpieces/core-ddl@1.9.126?classifier=sources
+- pkg:maven/org.webpieces/core-ddl@1.9.127
+- pkg:maven/org.webpieces/core-ddl@1.9.127?classifier=sources
 - pkg:maven/org.webpieces/core-ddl@1.9.43
 - pkg:maven/org.webpieces/core-ddl@1.9.43?classifier=sources
 - pkg:maven/org.webpieces/core-ddl@1.9.45

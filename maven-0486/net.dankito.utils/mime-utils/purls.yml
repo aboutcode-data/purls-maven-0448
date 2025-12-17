@@ -1,0 +1,4 @@
+- pkg:maven/net.dankito.utils/mime-utils@1.0.1
+- pkg:maven/net.dankito.utils/mime-utils@1.0.1?classifier=sources
+- pkg:maven/net.dankito.utils/mime-utils@1.0.2
+- pkg:maven/net.dankito.utils/mime-utils@1.0.2?classifier=sources

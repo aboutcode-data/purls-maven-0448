@@ -1,0 +1,2 @@
+- pkg:maven/org.smartrplace.analysis/backup-gateways-viz@0.0.2
+- pkg:maven/org.smartrplace.analysis/backup-gateways-viz@0.0.2?classifier=sources

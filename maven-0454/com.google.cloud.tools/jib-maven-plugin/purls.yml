@@ -14,6 +14,10 @@
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.1.6?classifier=sources
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.1.7
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.1.7?classifier=sources
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.10.0
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.10.0?classifier=sources
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.10.1
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.10.1?classifier=sources
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.0
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.0?classifier=sources
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.1
@@ -40,3 +44,13 @@
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.8?classifier=sources
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.9
 - pkg:maven/com.google.cloud.tools/jib-maven-plugin@0.9.9?classifier=sources
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.0
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.0-rc1
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.0-rc1?classifier=sources
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.0-rc2
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.0-rc2?classifier=sources
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.1
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.1?classifier=sources
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.2
+- pkg:maven/com.google.cloud.tools/jib-maven-plugin@1.0.2?classifier=sources

@@ -48,3 +48,7 @@
 - pkg:maven/de.javakaffee.msm/msm-flexjson-serializer@2.2.0?classifier=sources
 - pkg:maven/de.javakaffee.msm/msm-flexjson-serializer@2.3.0
 - pkg:maven/de.javakaffee.msm/msm-flexjson-serializer@2.3.0?classifier=sources
+- pkg:maven/de.javakaffee.msm/msm-flexjson-serializer@2.3.2
+- pkg:maven/de.javakaffee.msm/msm-flexjson-serializer@2.3.2?classifier=sources
+- pkg:maven/de.javakaffee.msm/msm-flexjson-serializer@y
+- pkg:maven/de.javakaffee.msm/msm-flexjson-serializer@y?classifier=sources

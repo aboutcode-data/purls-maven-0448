@@ -4,6 +4,7 @@
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@2.3.0.redhat-621117?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@2.3.0.redhat-621159?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@2.3.0.redhat-621169?classifier=sources
+- pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@2.3.0.redhat-621177?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@2.3.0.redhat-621186?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@2.3.0.redhat-621211?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@2.3.0.redhat-621216?classifier=sources
@@ -32,3 +33,5 @@
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@6.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@7.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@8.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@9.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-spring@9.1.0?classifier=sources

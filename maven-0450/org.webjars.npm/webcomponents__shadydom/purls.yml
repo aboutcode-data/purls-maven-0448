@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/webcomponents__shadydom@1.2.0
+- pkg:maven/org.webjars.npm/webcomponents__shadydom@1.2.0?classifier=sources

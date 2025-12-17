@@ -1,2 +1,4 @@
 - pkg:maven/com.jgeppert.struts2/struts2-aws-lambda-support-example@1.0.0
 - pkg:maven/com.jgeppert.struts2/struts2-aws-lambda-support-example@1.0.0?classifier=sources
+- pkg:maven/com.jgeppert.struts2/struts2-aws-lambda-support-example@1.1.0
+- pkg:maven/com.jgeppert.struts2/struts2-aws-lambda-support-example@1.1.0?classifier=sources

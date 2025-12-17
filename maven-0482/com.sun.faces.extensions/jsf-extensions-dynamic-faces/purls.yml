@@ -7,6 +7,8 @@
 - pkg:maven/com.sun.faces.extensions/jsf-extensions-dynamic-faces@0.1-rc6
 - pkg:maven/com.sun.faces.extensions/jsf-extensions-dynamic-faces@0.1-rc7
 - pkg:maven/com.sun.faces.extensions/jsf-extensions-dynamic-faces@0.1-rc8
+- pkg:maven/com.sun.faces.extensions/jsf-extensions-dynamic-faces@0.1.1
+- pkg:maven/com.sun.faces.extensions/jsf-extensions-dynamic-faces@0.1.1?classifier=sources
 - pkg:maven/com.sun.faces.extensions/jsf-extensions-dynamic-faces@0.1?classifier=sources
 - pkg:maven/com.sun.faces.extensions/jsf-extensions-dynamic-faces@0.2
 - pkg:maven/com.sun.faces.extensions/jsf-extensions-dynamic-faces@0.2?classifier=sources

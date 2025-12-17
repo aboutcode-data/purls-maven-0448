@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure.kusto/kusto-ingest@1.0.0-BETA-02
+- pkg:maven/com.microsoft.azure.kusto/kusto-ingest@1.0.0-BETA-02?classifier=sources
+- pkg:maven/com.microsoft.azure.kusto/kusto-ingest@1.0.0-BETA-03
+- pkg:maven/com.microsoft.azure.kusto/kusto-ingest@1.0.0-BETA-03?classifier=sources

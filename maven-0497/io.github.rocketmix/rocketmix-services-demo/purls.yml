@@ -1,0 +1,4 @@
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.17?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.17?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.21?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.21?type=war

@@ -6,3 +6,17 @@
 - pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.12.0?classifier=sources
 - pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.13.0
 - pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.13.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.14.0
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.14.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.15.0
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.15.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.16.0
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.16.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.17.0
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.17.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.18.0
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.18.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.19.0
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@6.19.0?classifier=sources
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@7.0.0-beta-1.0
+- pkg:maven/org.eclipse.che.lib/antlr-java5-grammar@7.0.0-beta-1.0?classifier=sources

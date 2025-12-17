@@ -18,3 +18,5 @@
 - pkg:maven/org.osmdroid/osmdroid-mapsforge@6.0.1?type=aar
 - pkg:maven/org.osmdroid/osmdroid-mapsforge@6.0.2?classifier=sources
 - pkg:maven/org.osmdroid/osmdroid-mapsforge@6.0.2?type=aar
+- pkg:maven/org.osmdroid/osmdroid-mapsforge@6.0.3?classifier=sources
+- pkg:maven/org.osmdroid/osmdroid-mapsforge@6.0.3?type=aar

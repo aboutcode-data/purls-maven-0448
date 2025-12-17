@@ -1,0 +1,10 @@
+- pkg:maven/org.protelis/protelis.parser.web@6.1.0.java7legacy?type=war
+- pkg:maven/org.protelis/protelis.parser.web@6.1.0?type=war
+- pkg:maven/org.protelis/protelis.parser.web@7.0.0.java7legacy?type=war
+- pkg:maven/org.protelis/protelis.parser.web@7.0.0?type=war
+- pkg:maven/org.protelis/protelis.parser.web@7.0.2.java7legacy?type=war
+- pkg:maven/org.protelis/protelis.parser.web@7.0.2?type=war
+- pkg:maven/org.protelis/protelis.parser.web@8.0.0.java7legacy?type=war
+- pkg:maven/org.protelis/protelis.parser.web@8.0.0?type=war
+- pkg:maven/org.protelis/protelis.parser.web@8.1.0.java7legacy?type=war
+- pkg:maven/org.protelis/protelis.parser.web@8.1.0?type=war

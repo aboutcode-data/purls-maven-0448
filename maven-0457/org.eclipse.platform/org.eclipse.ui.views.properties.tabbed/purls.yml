@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.properties.tabbed@3.8.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.properties.tabbed@3.8.200
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views.properties.tabbed@3.8.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views.properties.tabbed@3.8.300
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views.properties.tabbed@3.8.300?classifier=sources

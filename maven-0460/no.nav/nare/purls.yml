@@ -1,0 +1,12 @@
+- pkg:maven/no.nav/nare@13785ff
+- pkg:maven/no.nav/nare@13785ff?classifier=sources
+- pkg:maven/no.nav/nare@8abc934
+- pkg:maven/no.nav/nare@8abc934?classifier=sources
+- pkg:maven/no.nav/nare@a8bcf7f
+- pkg:maven/no.nav/nare@a8bcf7f?classifier=sources
+- pkg:maven/no.nav/nare@cd24abb
+- pkg:maven/no.nav/nare@cd24abb?classifier=sources
+- pkg:maven/no.nav/nare@dfe6569
+- pkg:maven/no.nav/nare@dfe6569?classifier=sources
+- pkg:maven/no.nav/nare@fd745ff
+- pkg:maven/no.nav/nare@fd745ff?classifier=sources

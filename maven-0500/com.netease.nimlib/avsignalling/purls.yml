@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nimlib/avsignalling@5.9.0?classifier=sources
+- pkg:maven/com.netease.nimlib/avsignalling@5.9.0?type=aar

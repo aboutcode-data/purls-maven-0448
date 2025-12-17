@@ -250,6 +250,14 @@
 - pkg:maven/com.facebook.presto/presto-hive@0.212?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive@0.213
 - pkg:maven/com.facebook.presto/presto-hive@0.213?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive@0.214
+- pkg:maven/com.facebook.presto/presto-hive@0.214?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive@0.215
+- pkg:maven/com.facebook.presto/presto-hive@0.215?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive@0.216
+- pkg:maven/com.facebook.presto/presto-hive@0.216?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive@0.217
+- pkg:maven/com.facebook.presto/presto-hive@0.217?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive@0.52
 - pkg:maven/com.facebook.presto/presto-hive@0.52?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive@0.53

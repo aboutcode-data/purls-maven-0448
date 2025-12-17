@@ -18,3 +18,5 @@
 - pkg:maven/ru.noties/markwon-view@1.1.1?type=aar
 - pkg:maven/ru.noties/markwon-view@2.0.0?classifier=sources
 - pkg:maven/ru.noties/markwon-view@2.0.0?type=aar
+- pkg:maven/ru.noties/markwon-view@2.0.1?classifier=sources
+- pkg:maven/ru.noties/markwon-view@2.0.1?type=aar
