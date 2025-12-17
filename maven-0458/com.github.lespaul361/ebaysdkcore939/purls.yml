@@ -1,2 +1,4 @@
+- pkg:maven/com.github.lespaul361/ebaysdkcore939@1.0.2
+- pkg:maven/com.github.lespaul361/ebaysdkcore939@1.0.2?classifier=sources
 - pkg:maven/com.github.lespaul361/ebaysdkcore939@939.0.0
 - pkg:maven/com.github.lespaul361/ebaysdkcore939@939.0.0?classifier=sources

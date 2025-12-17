@@ -1,0 +1,12 @@
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.0
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.0?classifier=sources
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.0_1
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.0_1?classifier=sources
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.0_2
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.0_2?classifier=sources
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.0_3
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.0_3?classifier=sources
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.1
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.1?classifier=sources
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.2
+- pkg:maven/com.github.johnnyjayjay/CommandAPI@3.2?classifier=sources

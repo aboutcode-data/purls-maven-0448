@@ -11,6 +11,8 @@
 - pkg:maven/org.apidesign.bck2brwsr/ko-bck2brwsr@0.20
 - pkg:maven/org.apidesign.bck2brwsr/ko-bck2brwsr@0.21
 - pkg:maven/org.apidesign.bck2brwsr/ko-bck2brwsr@0.22
+- pkg:maven/org.apidesign.bck2brwsr/ko-bck2brwsr@0.23
+- pkg:maven/org.apidesign.bck2brwsr/ko-bck2brwsr@0.30
 - pkg:maven/org.apidesign.bck2brwsr/ko-bck2brwsr@0.8
 - pkg:maven/org.apidesign.bck2brwsr/ko-bck2brwsr@0.8.1
 - pkg:maven/org.apidesign.bck2brwsr/ko-bck2brwsr@0.8?classifier=sources

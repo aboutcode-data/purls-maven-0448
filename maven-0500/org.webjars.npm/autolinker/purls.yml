@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/autolinker@0.24.1
 - pkg:maven/org.webjars.npm/autolinker@0.24.1?classifier=sources
+- pkg:maven/org.webjars.npm/autolinker@1.7.1
+- pkg:maven/org.webjars.npm/autolinker@1.7.1?classifier=sources

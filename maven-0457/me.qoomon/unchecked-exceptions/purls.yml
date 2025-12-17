@@ -1,0 +1,2 @@
+- pkg:maven/me.qoomon/unchecked-exceptions@1.0.0
+- pkg:maven/me.qoomon/unchecked-exceptions@1.0.0?classifier=sources

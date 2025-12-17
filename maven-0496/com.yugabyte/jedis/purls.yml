@@ -3,6 +3,12 @@
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-10?classifier=sources
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-11
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-11?classifier=sources
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-12
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-12?classifier=sources
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-13
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-13?classifier=sources
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-16
+- pkg:maven/com.yugabyte/jedis@2.9.0-yb-16?classifier=sources
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-1?classifier=sources
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-2
 - pkg:maven/com.yugabyte/jedis@2.9.0-yb-2?classifier=sources

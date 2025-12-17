@@ -1,0 +1,2 @@
+- pkg:maven/org.jrebirth.af.tooling/jrebirth-maven-plugin@8.6.0
+- pkg:maven/org.jrebirth.af.tooling/jrebirth-maven-plugin@8.6.0?classifier=sources

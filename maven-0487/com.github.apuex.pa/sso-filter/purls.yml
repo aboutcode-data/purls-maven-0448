@@ -1,0 +1,2 @@
+- pkg:maven/com.github.apuex.pa/sso-filter@1.0.0
+- pkg:maven/com.github.apuex.pa/sso-filter@1.0.0?classifier=sources

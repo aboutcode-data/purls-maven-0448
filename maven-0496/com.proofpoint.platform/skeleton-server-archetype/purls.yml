@@ -55,3 +55,7 @@
 - pkg:maven/com.proofpoint.platform/skeleton-server-archetype@1.58?classifier=sources
 - pkg:maven/com.proofpoint.platform/skeleton-server-archetype@1.59?classifier=sources
 - pkg:maven/com.proofpoint.platform/skeleton-server-archetype@1.60?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server-archetype@1.86?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server-archetype@1.87?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server-archetype@1.88?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server-archetype@1.89?classifier=sources

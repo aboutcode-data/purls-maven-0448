@@ -1,0 +1,2 @@
+- pkg:maven/rocks.xmpp/xmpp-nio-netty-common@0.8.0
+- pkg:maven/rocks.xmpp/xmpp-nio-netty-common@0.8.0?classifier=sources

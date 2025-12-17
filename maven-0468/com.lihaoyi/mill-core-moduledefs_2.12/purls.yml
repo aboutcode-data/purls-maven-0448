@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/mill-core-moduledefs_2.12@0.2.6-17-e57f02
+- pkg:maven/com.lihaoyi/mill-core-moduledefs_2.12@0.2.6-17-e57f02?classifier=sources
+- pkg:maven/com.lihaoyi/mill-core-moduledefs_2.12@0.2.6-19-807e47
+- pkg:maven/com.lihaoyi/mill-core-moduledefs_2.12@0.2.6-19-807e47?classifier=sources

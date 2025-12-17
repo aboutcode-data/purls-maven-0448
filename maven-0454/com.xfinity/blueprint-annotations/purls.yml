@@ -4,3 +4,9 @@
 - pkg:maven/com.xfinity/blueprint-annotations@0.9.6?classifier=sources
 - pkg:maven/com.xfinity/blueprint-annotations@0.9.7
 - pkg:maven/com.xfinity/blueprint-annotations@0.9.7?classifier=sources
+- pkg:maven/com.xfinity/blueprint-annotations@1.0.0
+- pkg:maven/com.xfinity/blueprint-annotations@1.0.0?classifier=sources
+- pkg:maven/com.xfinity/blueprint-annotations@1.1.0
+- pkg:maven/com.xfinity/blueprint-annotations@1.1.0?classifier=sources
+- pkg:maven/com.xfinity/blueprint-annotations@1.2.0
+- pkg:maven/com.xfinity/blueprint-annotations@1.2.0?classifier=sources

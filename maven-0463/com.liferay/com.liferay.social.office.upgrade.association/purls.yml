@@ -11,3 +11,6 @@
 - pkg:maven/com.liferay/com.liferay.social.office.upgrade.association@1.0.5
 - pkg:maven/com.liferay/com.liferay.social.office.upgrade.association@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.office.upgrade.association@1.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.office.upgrade.association@1.0.7
+- pkg:maven/com.liferay/com.liferay.social.office.upgrade.association@1.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.office.upgrade.association@1.0.7?classifier=sources-commercial

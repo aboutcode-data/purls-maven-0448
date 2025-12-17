@@ -1,0 +1,2 @@
+- pkg:maven/hu.webarticum/simple-spreadsheet-writer@0.4
+- pkg:maven/hu.webarticum/simple-spreadsheet-writer@0.4?classifier=sources

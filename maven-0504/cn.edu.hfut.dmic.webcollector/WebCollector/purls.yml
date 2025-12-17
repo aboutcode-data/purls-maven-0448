@@ -36,3 +36,7 @@
 - pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.70?classifier=sources
 - pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.71
 - pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.71?classifier=sources
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.72-beta
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.72-beta?classifier=sources
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.73-alpha
+- pkg:maven/cn.edu.hfut.dmic.webcollector/WebCollector@2.73-alpha?classifier=sources

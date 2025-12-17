@@ -1,0 +1,10 @@
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@0.0.17
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@0.0.17?classifier=sources
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@0.0.18
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@0.0.18?classifier=sources
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@1.0.0
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@3.0.0
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@3.0.1
+- pkg:maven/io.perfana/perfana-gatling-maven-plugin@3.0.1?classifier=sources

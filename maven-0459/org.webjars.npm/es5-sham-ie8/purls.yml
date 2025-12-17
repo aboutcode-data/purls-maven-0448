@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/es5-sham-ie8@1.0.1
+- pkg:maven/org.webjars.npm/es5-sham-ie8@1.0.1?classifier=sources

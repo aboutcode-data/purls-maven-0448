@@ -1,0 +1,2 @@
+- pkg:maven/net.debasishg/redisclient_2.13.0-M4@3.8
+- pkg:maven/net.debasishg/redisclient_2.13.0-M4@3.8?classifier=sources

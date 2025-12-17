@@ -10,3 +10,5 @@
 - pkg:maven/com.mantledillusion.data/epiphy@1.1.3?classifier=sources
 - pkg:maven/com.mantledillusion.data/epiphy@2.0.0
 - pkg:maven/com.mantledillusion.data/epiphy@2.0.0?classifier=sources
+- pkg:maven/com.mantledillusion.data/epiphy@2.1.0
+- pkg:maven/com.mantledillusion.data/epiphy@2.1.0?classifier=sources

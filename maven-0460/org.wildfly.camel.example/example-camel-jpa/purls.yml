@@ -14,3 +14,7 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa@5.1.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa@6.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-jpa@6.0.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa@7.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa@7.0.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa@8.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-jpa@8.0.0?type=war

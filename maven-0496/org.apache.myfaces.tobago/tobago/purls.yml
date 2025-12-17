@@ -52,6 +52,7 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago@2.0.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@2.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@2.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.tobago/tobago@2.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@3.0.0-alpha-1?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@3.0.0-alpha-2?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@3.0.0-alpha-3?classifier=source-release&type=zip
@@ -67,7 +68,9 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago@3.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@3.0.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@3.0.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.tobago/tobago@3.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@4.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@4.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@4.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@4.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.tobago/tobago@4.3.0?classifier=source-release&type=zip

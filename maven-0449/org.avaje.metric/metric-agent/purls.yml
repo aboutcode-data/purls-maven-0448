@@ -4,3 +4,7 @@
 - pkg:maven/org.avaje.metric/metric-agent@5.2.1?classifier=sources
 - pkg:maven/org.avaje.metric/metric-agent@5.2.2
 - pkg:maven/org.avaje.metric/metric-agent@5.2.2?classifier=sources
+- pkg:maven/org.avaje.metric/metric-agent@7.1.1
+- pkg:maven/org.avaje.metric/metric-agent@7.1.1?classifier=sources
+- pkg:maven/org.avaje.metric/metric-agent@7.2.1
+- pkg:maven/org.avaje.metric/metric-agent@7.2.1?classifier=sources

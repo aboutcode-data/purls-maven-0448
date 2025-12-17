@@ -1,3 +1,5 @@
+- pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.2
+- pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.2?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.4-CB3
 - pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.4-CB3?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.4.1-CB3
@@ -8,3 +10,7 @@
 - pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.4.3-CB3?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.5-CB3
 - pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.5-CB3?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.6-CB3
+- pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.6-CB3?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.6.1-CB3
+- pkg:maven/org.dynamoframework/dynamo-frontend-charts@1.6.1-CB3?classifier=sources

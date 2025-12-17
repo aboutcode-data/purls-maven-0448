@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/san@3.6.13
+- pkg:maven/org.webjars.npm/san@3.6.13?classifier=sources
+- pkg:maven/org.webjars.npm/san@3.6.8
+- pkg:maven/org.webjars.npm/san@3.6.8?classifier=sources
+- pkg:maven/org.webjars.npm/san@3.6.9
+- pkg:maven/org.webjars.npm/san@3.6.9?classifier=sources

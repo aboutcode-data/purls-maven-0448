@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@1.4.3
+- pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@1.4.3?classifier=sources
+- pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@1.4.4
+- pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@1.4.4?classifier=sources

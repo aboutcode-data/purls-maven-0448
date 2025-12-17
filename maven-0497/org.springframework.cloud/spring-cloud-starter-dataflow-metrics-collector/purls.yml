@@ -1,2 +1,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-dataflow-metrics-collector@1.0.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-dataflow-metrics-collector@1.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-dataflow-metrics-collector@2.0.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-dataflow-metrics-collector@2.0.0.RELEASE?classifier=sources

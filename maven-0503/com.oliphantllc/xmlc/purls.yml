@@ -1,0 +1,2 @@
+- pkg:maven/com.oliphantllc/xmlc@2.2.12
+- pkg:maven/com.oliphantllc/xmlc@2.2.12?classifier=sources

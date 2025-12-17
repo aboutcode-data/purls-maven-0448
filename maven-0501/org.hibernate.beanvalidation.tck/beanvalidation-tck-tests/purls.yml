@@ -48,3 +48,5 @@
 - pkg:maven/org.hibernate.beanvalidation.tck/beanvalidation-tck-tests@2.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate.beanvalidation.tck/beanvalidation-tck-tests@2.0.3.Final
 - pkg:maven/org.hibernate.beanvalidation.tck/beanvalidation-tck-tests@2.0.3.Final?classifier=sources
+- pkg:maven/org.hibernate.beanvalidation.tck/beanvalidation-tck-tests@2.0.4.Final
+- pkg:maven/org.hibernate.beanvalidation.tck/beanvalidation-tck-tests@2.0.4.Final?classifier=sources

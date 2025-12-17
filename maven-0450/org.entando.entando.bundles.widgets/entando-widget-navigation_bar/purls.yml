@@ -6,3 +6,5 @@
 - pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_bar@4.3.1?type=war
 - pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_bar@4.3.2?classifier=sources
 - pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_bar@4.3.2?type=war
+- pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_bar@5.0.0?classifier=sources
+- pkg:maven/org.entando.entando.bundles.widgets/entando-widget-navigation_bar@5.0.0?type=war

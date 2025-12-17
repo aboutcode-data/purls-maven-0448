@@ -1,2 +1,4 @@
 - pkg:maven/global.namespace.neuron-di/neuron-di-junit@5.7.0
 - pkg:maven/global.namespace.neuron-di/neuron-di-junit@5.7.0?classifier=sources
+- pkg:maven/global.namespace.neuron-di/neuron-di-junit@5.8.0
+- pkg:maven/global.namespace.neuron-di/neuron-di-junit@5.8.0?classifier=sources

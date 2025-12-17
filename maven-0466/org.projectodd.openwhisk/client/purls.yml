@@ -1,0 +1,4 @@
+- pkg:maven/org.projectodd.openwhisk/client@0.3
+- pkg:maven/org.projectodd.openwhisk/client@0.3?classifier=sources
+- pkg:maven/org.projectodd.openwhisk/client@0.5
+- pkg:maven/org.projectodd.openwhisk/client@0.5?classifier=sources

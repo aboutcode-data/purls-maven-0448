@@ -1,0 +1,4 @@
+- pkg:maven/com.budjb/spring-distributed-cluster@0.1.1.BETA
+- pkg:maven/com.budjb/spring-distributed-cluster@0.1.1.BETA?classifier=sources
+- pkg:maven/com.budjb/spring-distributed-cluster@0.1.2.BETA
+- pkg:maven/com.budjb/spring-distributed-cluster@0.1.2.BETA?classifier=sources

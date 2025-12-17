@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.harvesthq/chosen-package@1.8.7
+- pkg:maven/org.webjars.bowergithub.harvesthq/chosen-package@1.8.7?classifier=sources

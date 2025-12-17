@@ -1,0 +1,2 @@
+- pkg:maven/com.envisioniot/eos-event-api@2.0.7
+- pkg:maven/com.envisioniot/eos-event-api@2.0.7?classifier=sources

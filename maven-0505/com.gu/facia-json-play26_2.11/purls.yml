@@ -10,3 +10,5 @@
 - pkg:maven/com.gu/facia-json-play26_2.11@2.5.2?classifier=sources
 - pkg:maven/com.gu/facia-json-play26_2.11@2.5.5
 - pkg:maven/com.gu/facia-json-play26_2.11@2.5.5?classifier=sources
+- pkg:maven/com.gu/facia-json-play26_2.11@2.6.1
+- pkg:maven/com.gu/facia-json-play26_2.11@2.6.1?classifier=sources

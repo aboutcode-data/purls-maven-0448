@@ -2,3 +2,5 @@
 - pkg:maven/org.xolstice.maven.plugins/protobuf-maven-plugin@0.5.0?classifier=sources
 - pkg:maven/org.xolstice.maven.plugins/protobuf-maven-plugin@0.5.1
 - pkg:maven/org.xolstice.maven.plugins/protobuf-maven-plugin@0.5.1?classifier=sources
+- pkg:maven/org.xolstice.maven.plugins/protobuf-maven-plugin@0.6.1
+- pkg:maven/org.xolstice.maven.plugins/protobuf-maven-plugin@0.6.1?classifier=sources

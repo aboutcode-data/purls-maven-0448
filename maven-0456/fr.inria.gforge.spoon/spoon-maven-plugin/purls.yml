@@ -18,3 +18,5 @@
 - pkg:maven/fr.inria.gforge.spoon/spoon-maven-plugin@2.8?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-maven-plugin@3.0
 - pkg:maven/fr.inria.gforge.spoon/spoon-maven-plugin@3.0?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-maven-plugin@3.1
+- pkg:maven/fr.inria.gforge.spoon/spoon-maven-plugin@3.1?classifier=sources

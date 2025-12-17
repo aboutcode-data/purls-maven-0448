@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.bower/dompurify@0.6.3?classifier=sources
 - pkg:maven/org.webjars.bower/dompurify@0.7.3
 - pkg:maven/org.webjars.bower/dompurify@0.7.3?classifier=sources
+- pkg:maven/org.webjars.bower/dompurify@1.0.5
+- pkg:maven/org.webjars.bower/dompurify@1.0.5?classifier=sources
+- pkg:maven/org.webjars.bower/dompurify@1.0.7
+- pkg:maven/org.webjars.bower/dompurify@1.0.7?classifier=sources

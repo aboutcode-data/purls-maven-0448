@@ -1,0 +1,4 @@
+- pkg:maven/ml.combust.bundle/bundle-hdfs_2.11@0.11.0
+- pkg:maven/ml.combust.bundle/bundle-hdfs_2.11@0.11.0?classifier=sources
+- pkg:maven/ml.combust.bundle/bundle-hdfs_2.11@0.12.0
+- pkg:maven/ml.combust.bundle/bundle-hdfs_2.11@0.12.0?classifier=sources

@@ -26,3 +26,9 @@
 - pkg:maven/com.testdroid/gradle@2.49.0?classifier=sources
 - pkg:maven/com.testdroid/gradle@2.49.1
 - pkg:maven/com.testdroid/gradle@2.49.1?classifier=sources
+- pkg:maven/com.testdroid/gradle@2.62.0
+- pkg:maven/com.testdroid/gradle@2.62.0?classifier=sources
+- pkg:maven/com.testdroid/gradle@2.62.1
+- pkg:maven/com.testdroid/gradle@2.62.1?classifier=sources
+- pkg:maven/com.testdroid/gradle@2.63.0
+- pkg:maven/com.testdroid/gradle@2.63.0?classifier=sources

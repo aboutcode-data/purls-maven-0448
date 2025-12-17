@@ -4,3 +4,4 @@
 - pkg:maven/org.ow2.petals/petals-root-parent@20.2.6?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-root-parent@20.2.7?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-root-parent@20.2.8?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-root-parent@21.0.0?classifier=source-release&type=zip

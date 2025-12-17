@@ -51,7 +51,16 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.60?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.61?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.62?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.63?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.64?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.65?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.66?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.67?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.68?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.69?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.70?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.71?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics-common.parent@6.0.9?classifier=source-release&type=zip

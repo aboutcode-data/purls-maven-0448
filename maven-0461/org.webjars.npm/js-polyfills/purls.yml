@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/js-polyfills@0.1.42
+- pkg:maven/org.webjars.npm/js-polyfills@0.1.42?classifier=sources

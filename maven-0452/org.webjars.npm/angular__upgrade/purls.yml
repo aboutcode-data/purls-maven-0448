@@ -70,3 +70,7 @@
 - pkg:maven/org.webjars.npm/angular__upgrade@4.2.5?classifier=sources
 - pkg:maven/org.webjars.npm/angular__upgrade@5.2.10
 - pkg:maven/org.webjars.npm/angular__upgrade@5.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/angular__upgrade@6.1.0
+- pkg:maven/org.webjars.npm/angular__upgrade@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/angular__upgrade@6.1.4
+- pkg:maven/org.webjars.npm/angular__upgrade@6.1.4?classifier=sources

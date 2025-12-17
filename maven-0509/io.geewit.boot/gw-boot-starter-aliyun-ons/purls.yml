@@ -1,0 +1,2 @@
+- pkg:maven/io.geewit.boot/gw-boot-starter-aliyun-ons@1.0.0
+- pkg:maven/io.geewit.boot/gw-boot-starter-aliyun-ons@1.0.0?classifier=sources

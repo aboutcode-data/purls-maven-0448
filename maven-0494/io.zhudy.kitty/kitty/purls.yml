@@ -1,0 +1,2 @@
+- pkg:maven/io.zhudy.kitty/kitty@1.0.0
+- pkg:maven/io.zhudy.kitty/kitty@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.rightmesh/awm@1.0.4?classifier=sources
+- pkg:maven/io.rightmesh/awm@1.0.4?type=aar

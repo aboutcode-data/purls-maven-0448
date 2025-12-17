@@ -44,3 +44,5 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-log4j@5.0.5.2?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-log4j@5.0.5.7
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-log4j@5.0.5.7?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-plugin-log4j@5.0.6.2
+- pkg:maven/com.bbossgroups.plugins/bboss-plugin-log4j@5.0.6.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.jsdom/js-symbol-tree@3.2.2
+- pkg:maven/org.webjars.bowergithub.jsdom/js-symbol-tree@3.2.2?classifier=sources

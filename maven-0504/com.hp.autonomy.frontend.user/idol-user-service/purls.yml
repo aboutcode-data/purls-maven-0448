@@ -2,6 +2,10 @@
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@1.0.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@2.0.0
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@2.0.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@2.1.0
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@2.1.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@2.1.1-paged
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@2.1.1-paged?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.0.0
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.0.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.1.0
@@ -18,3 +22,7 @@
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.4.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.5.0
 - pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.5.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.6.0
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.6.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.7.0
+- pkg:maven/com.hp.autonomy.frontend.user/idol-user-service@3.7.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.spot-next/spot-core-infrastructure@1.0.10-BETA-20180923
+- pkg:maven/io.spot-next/spot-core-infrastructure@1.0.10-BETA-20180923?classifier=sources
+- pkg:maven/io.spot-next/spot-core-infrastructure@1.0.11-BETA-20181019
+- pkg:maven/io.spot-next/spot-core-infrastructure@1.0.11-BETA-20181019?classifier=sources
+- pkg:maven/io.spot-next/spot-core-infrastructure@1.0.12-BETA-20181023
+- pkg:maven/io.spot-next/spot-core-infrastructure@1.0.12-BETA-20181023?classifier=sources

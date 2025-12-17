@@ -1,0 +1,2 @@
+- pkg:maven/io.rsocket/rsocket-transport-akka_2.11@0.0.4
+- pkg:maven/io.rsocket/rsocket-transport-akka_2.11@0.0.4?classifier=sources

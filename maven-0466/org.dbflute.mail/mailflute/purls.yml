@@ -126,3 +126,5 @@
 - pkg:maven/org.dbflute.mail/mailflute@0.5.9-RC1
 - pkg:maven/org.dbflute.mail/mailflute@0.5.9-RC1?classifier=sources
 - pkg:maven/org.dbflute.mail/mailflute@0.5.9?classifier=sources
+- pkg:maven/org.dbflute.mail/mailflute@0.6.0
+- pkg:maven/org.dbflute.mail/mailflute@0.6.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.nem/sdk@0.8.10?classifier=sources
 - pkg:maven/io.nem/sdk@0.9.0
 - pkg:maven/io.nem/sdk@0.9.0?classifier=sources
+- pkg:maven/io.nem/sdk@0.9.1
+- pkg:maven/io.nem/sdk@0.9.1?classifier=sources

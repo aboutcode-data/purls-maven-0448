@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.authenticator.outbound.nuxeo/org.wso2.carbon.identity.authenticator.outbound.nuxeo@1.0.0
+- pkg:maven/org.wso2.carbon.identity.authenticator.outbound.nuxeo/org.wso2.carbon.identity.authenticator.outbound.nuxeo@1.0.0?classifier=source-release&type=zip

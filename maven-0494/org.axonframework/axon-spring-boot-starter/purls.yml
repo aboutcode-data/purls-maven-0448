@@ -14,3 +14,17 @@
 - pkg:maven/org.axonframework/axon-spring-boot-starter@3.2
 - pkg:maven/org.axonframework/axon-spring-boot-starter@3.2.1
 - pkg:maven/org.axonframework/axon-spring-boot-starter@3.2.2
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.2.3
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.3
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.3.1
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.3.2
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.3.3
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.3.4
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.3.5
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.3.6
+- pkg:maven/org.axonframework/axon-spring-boot-starter@3.4
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.0
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.0-M1
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.0-M2
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.0-RC1
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.0-RC2

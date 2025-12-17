@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/lodash.assignin@4.0.9
 - pkg:maven/org.webjars.npm/lodash.assignin@4.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/lodash.assignin@4.2.0
+- pkg:maven/org.webjars.npm/lodash.assignin@4.2.0?classifier=sources

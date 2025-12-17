@@ -1,0 +1,8 @@
+- pkg:maven/org.eclipse.vorto/repository-generators@0.10.0.M4
+- pkg:maven/org.eclipse.vorto/repository-generators@0.10.0.M4?classifier=sources
+- pkg:maven/org.eclipse.vorto/repository-generators@0.10.0.M5
+- pkg:maven/org.eclipse.vorto/repository-generators@0.10.0.M5?classifier=sources
+- pkg:maven/org.eclipse.vorto/repository-generators@0.10.0.M6
+- pkg:maven/org.eclipse.vorto/repository-generators@0.10.0.M6?classifier=sources
+- pkg:maven/org.eclipse.vorto/repository-generators@0.10.0.M7
+- pkg:maven/org.eclipse.vorto/repository-generators@0.10.0.M7?classifier=sources

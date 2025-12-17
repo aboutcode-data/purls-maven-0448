@@ -1,0 +1,2 @@
+- pkg:maven/br.com.jarch/jarch-agent@18.9.0
+- pkg:maven/br.com.jarch/jarch-agent@18.9.0?classifier=sources

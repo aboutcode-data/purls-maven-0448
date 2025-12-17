@@ -2,3 +2,5 @@
 - pkg:maven/org.realityforge.gwt.qr_code/gwt-qr-code@0.01?classifier=sources
 - pkg:maven/org.realityforge.gwt.qr_code/gwt-qr-code@0.02
 - pkg:maven/org.realityforge.gwt.qr_code/gwt-qr-code@0.02?classifier=sources
+- pkg:maven/org.realityforge.gwt.qr_code/gwt-qr-code@0.03
+- pkg:maven/org.realityforge.gwt.qr_code/gwt-qr-code@0.03?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.supermoonie/winio4J@1.01
+- pkg:maven/com.github.supermoonie/winio4J@1.01?classifier=sources
+- pkg:maven/com.github.supermoonie/winio4J@1.02
+- pkg:maven/com.github.supermoonie/winio4J@1.02?classifier=sources

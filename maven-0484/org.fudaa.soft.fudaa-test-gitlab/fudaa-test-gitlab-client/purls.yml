@@ -1,0 +1,6 @@
+- pkg:maven/org.fudaa.soft.fudaa-test-gitlab/fudaa-test-gitlab-client@1.0
+- pkg:maven/org.fudaa.soft.fudaa-test-gitlab/fudaa-test-gitlab-client@1.0?classifier=sources
+- pkg:maven/org.fudaa.soft.fudaa-test-gitlab/fudaa-test-gitlab-client@2.0
+- pkg:maven/org.fudaa.soft.fudaa-test-gitlab/fudaa-test-gitlab-client@2.0?classifier=sources
+- pkg:maven/org.fudaa.soft.fudaa-test-gitlab/fudaa-test-gitlab-client@3.13
+- pkg:maven/org.fudaa.soft.fudaa-test-gitlab/fudaa-test-gitlab-client@3.13?classifier=sources

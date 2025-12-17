@@ -1,0 +1,2 @@
+- pkg:maven/org.treblereel.gwt/elemental2-xr@0.1-beta1
+- pkg:maven/org.treblereel.gwt/elemental2-xr@0.1-beta1?classifier=sources

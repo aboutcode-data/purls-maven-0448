@@ -40,3 +40,5 @@
 - pkg:maven/com.github.dcshock/forklift-replay@3.2?classifier=sources
 - pkg:maven/com.github.dcshock/forklift-replay@3.3
 - pkg:maven/com.github.dcshock/forklift-replay@3.3?classifier=sources
+- pkg:maven/com.github.dcshock/forklift-replay@3.5
+- pkg:maven/com.github.dcshock/forklift-replay@3.5?classifier=sources

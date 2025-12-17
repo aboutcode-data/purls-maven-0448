@@ -1,0 +1,2 @@
+- pkg:maven/com.oliphantllc/pack200anttasks@1.1
+- pkg:maven/com.oliphantllc/pack200anttasks@1.1?classifier=sources

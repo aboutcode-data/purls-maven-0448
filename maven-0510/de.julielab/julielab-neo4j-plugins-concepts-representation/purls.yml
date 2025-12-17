@@ -1,2 +1,4 @@
 - pkg:maven/de.julielab/julielab-neo4j-plugins-concepts-representation@1.8.0
 - pkg:maven/de.julielab/julielab-neo4j-plugins-concepts-representation@1.8.0?classifier=sources
+- pkg:maven/de.julielab/julielab-neo4j-plugins-concepts-representation@1.9.0
+- pkg:maven/de.julielab/julielab-neo4j-plugins-concepts-representation@1.9.0?classifier=sources

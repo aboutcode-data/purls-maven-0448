@@ -6,3 +6,4 @@
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.1.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.1.20?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.1.21?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.1.22?classifier=source-release&type=zip

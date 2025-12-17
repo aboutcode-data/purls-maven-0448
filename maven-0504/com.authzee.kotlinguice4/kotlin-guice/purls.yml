@@ -1,2 +1,6 @@
 - pkg:maven/com.authzee.kotlinguice4/kotlin-guice@1.0.0
 - pkg:maven/com.authzee.kotlinguice4/kotlin-guice@1.0.0?classifier=sources
+- pkg:maven/com.authzee.kotlinguice4/kotlin-guice@1.1.0
+- pkg:maven/com.authzee.kotlinguice4/kotlin-guice@1.1.0?classifier=sources
+- pkg:maven/com.authzee.kotlinguice4/kotlin-guice@1.2.0
+- pkg:maven/com.authzee.kotlinguice4/kotlin-guice@1.2.0?classifier=sources

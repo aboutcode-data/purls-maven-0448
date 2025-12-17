@@ -1,0 +1,2 @@
+- pkg:maven/online.terraml.geospatial/terraml-geospatial@1.0.0
+- pkg:maven/online.terraml.geospatial/terraml-geospatial@1.0.0?classifier=sources

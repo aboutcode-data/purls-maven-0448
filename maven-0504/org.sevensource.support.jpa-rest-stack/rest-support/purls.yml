@@ -1,0 +1,2 @@
+- pkg:maven/org.sevensource.support.jpa-rest-stack/rest-support@0.4.0
+- pkg:maven/org.sevensource.support.jpa-rest-stack/rest-support@0.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.arrow-kt/arrow-recursion@0.7.3
+- pkg:maven/io.arrow-kt/arrow-recursion@0.7.3?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/com.impetus.kundera.client/data-as-object@3.11?classifier=sources
 - pkg:maven/com.impetus.kundera.client/data-as-object@3.12
 - pkg:maven/com.impetus.kundera.client/data-as-object@3.12?classifier=sources
+- pkg:maven/com.impetus.kundera.client/data-as-object@3.13
+- pkg:maven/com.impetus.kundera.client/data-as-object@3.13?classifier=sources
 - pkg:maven/com.impetus.kundera.client/data-as-object@3.4
 - pkg:maven/com.impetus.kundera.client/data-as-object@3.4?classifier=sources
 - pkg:maven/com.impetus.kundera.client/data-as-object@3.5

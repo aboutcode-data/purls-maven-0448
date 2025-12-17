@@ -36,3 +36,5 @@
 - pkg:maven/com.github.lburgazzoli/gradle-karaf-plugin@0.0.49?classifier=sources
 - pkg:maven/com.github.lburgazzoli/gradle-karaf-plugin@0.0.9
 - pkg:maven/com.github.lburgazzoli/gradle-karaf-plugin@0.0.9?classifier=sources
+- pkg:maven/com.github.lburgazzoli/gradle-karaf-plugin@0.1.1
+- pkg:maven/com.github.lburgazzoli/gradle-karaf-plugin@0.1.1?classifier=sources

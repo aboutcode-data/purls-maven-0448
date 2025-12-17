@@ -1,2 +1,4 @@
 - pkg:maven/com.lesfurets/partial-build-plugin@2.6
 - pkg:maven/com.lesfurets/partial-build-plugin@2.6?classifier=sources
+- pkg:maven/com.lesfurets/partial-build-plugin@2.7
+- pkg:maven/com.lesfurets/partial-build-plugin@2.7?classifier=sources

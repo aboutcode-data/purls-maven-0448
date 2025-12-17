@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.8.0
+- pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.8.0?classifier=sources

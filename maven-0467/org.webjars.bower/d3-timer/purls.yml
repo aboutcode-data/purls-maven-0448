@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/d3-timer@1.0.7
+- pkg:maven/org.webjars.bower/d3-timer@1.0.7?classifier=sources

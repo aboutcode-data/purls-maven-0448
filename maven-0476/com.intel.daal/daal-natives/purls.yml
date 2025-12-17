@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.daal/daal-natives@2019.0.001
+- pkg:maven/com.intel.daal/daal-natives@2019.0.001?classifier=sources

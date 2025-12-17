@@ -1,0 +1,16 @@
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.1.0
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.1.0?classifier=sources
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.1.1
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.1.1?classifier=sources
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.2.0
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.2.0?classifier=sources
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.2.1
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.2.1?classifier=sources
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.3.0
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.3.0?classifier=sources
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.3.1
+- pkg:maven/net.mguenther.kafka/kafka-junit@0.3.1?classifier=sources
+- pkg:maven/net.mguenther.kafka/kafka-junit@1.0.0
+- pkg:maven/net.mguenther.kafka/kafka-junit@1.0.0?classifier=sources
+- pkg:maven/net.mguenther.kafka/kafka-junit@2.0.0
+- pkg:maven/net.mguenther.kafka/kafka-junit@2.0.0?classifier=sources

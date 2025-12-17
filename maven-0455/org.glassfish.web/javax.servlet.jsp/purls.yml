@@ -24,3 +24,5 @@
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.3.3-b02?classifier=sources
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.3.3-b03
 - pkg:maven/org.glassfish.web/javax.servlet.jsp@2.3.3-b03?classifier=sources
+- pkg:maven/org.glassfish.web/javax.servlet.jsp@2.3.4
+- pkg:maven/org.glassfish.web/javax.servlet.jsp@2.3.4?classifier=sources

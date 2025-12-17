@@ -1,0 +1,2 @@
+- pkg:maven/top.jfunc.json/json-jsoniter@1.8.0
+- pkg:maven/top.jfunc.json/json-jsoniter@1.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.enoa/stove-firetpl@1.6-beta.2
+- pkg:maven/io.enoa/stove-firetpl@1.6-beta.2?classifier=sources

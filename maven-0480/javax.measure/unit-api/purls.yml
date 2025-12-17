@@ -12,3 +12,5 @@
 - pkg:maven/javax.measure/unit-api@0.9?classifier=sources
 - pkg:maven/javax.measure/unit-api@1.0
 - pkg:maven/javax.measure/unit-api@1.0?classifier=sources
+- pkg:maven/javax.measure/unit-api@2.0-EDR
+- pkg:maven/javax.measure/unit-api@2.0-EDR?classifier=sources

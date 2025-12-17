@@ -1,2 +1,8 @@
 - pkg:maven/org.terrier/terrier-core@4.2
 - pkg:maven/org.terrier/terrier-core@4.2?classifier=sources
+- pkg:maven/org.terrier/terrier-core@4.3
+- pkg:maven/org.terrier/terrier-core@4.3?classifier=sources
+- pkg:maven/org.terrier/terrier-core@4.4
+- pkg:maven/org.terrier/terrier-core@4.4?classifier=sources
+- pkg:maven/org.terrier/terrier-core@5.0
+- pkg:maven/org.terrier/terrier-core@5.0?classifier=sources

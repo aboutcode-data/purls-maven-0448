@@ -2,3 +2,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.discovery@1.0.201?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.discovery@1.0.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.discovery@1.0.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.discovery@1.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.discovery@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.discovery@1.1.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.discovery@1.1.100?classifier=sources

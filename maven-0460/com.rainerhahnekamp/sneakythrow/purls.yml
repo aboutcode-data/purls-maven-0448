@@ -2,3 +2,5 @@
 - pkg:maven/com.rainerhahnekamp/sneakythrow@0.9.0?classifier=sources
 - pkg:maven/com.rainerhahnekamp/sneakythrow@1.0.0
 - pkg:maven/com.rainerhahnekamp/sneakythrow@1.0.0?classifier=sources
+- pkg:maven/com.rainerhahnekamp/sneakythrow@1.1.0
+- pkg:maven/com.rainerhahnekamp/sneakythrow@1.1.0?classifier=sources

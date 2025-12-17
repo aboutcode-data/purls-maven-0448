@@ -18,3 +18,5 @@
 - pkg:maven/ru.send-to.websocket/CDIEndpoint@0.2.0.0?classifier=sources
 - pkg:maven/ru.send-to.websocket/CDIEndpoint@0.3.2.0
 - pkg:maven/ru.send-to.websocket/CDIEndpoint@0.3.2.0?classifier=sources
+- pkg:maven/ru.send-to.websocket/CDIEndpoint@1.0.1.0
+- pkg:maven/ru.send-to.websocket/CDIEndpoint@1.0.1.0?classifier=sources

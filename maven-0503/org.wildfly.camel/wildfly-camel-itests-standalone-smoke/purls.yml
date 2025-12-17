@@ -56,3 +56,6 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@5.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@5.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@6.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@6.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@7.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-smoke@8.0.0

@@ -80,6 +80,14 @@
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.20-97?classifier=sources
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.20-98
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.20-98?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.1.21-97
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.1.21-97?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.1.21-98
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.1.21-98?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.1.22-97
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.1.22-97?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.1.22-98
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.1.22-98?classifier=sources
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.4-95
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.4-95?classifier=sources
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.4-96

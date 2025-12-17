@@ -1,0 +1,4 @@
+- pkg:maven/com.nepxion/skeleton-framework-starter@1.0.7
+- pkg:maven/com.nepxion/skeleton-framework-starter@1.0.7?classifier=sources
+- pkg:maven/com.nepxion/skeleton-framework-starter@1.0.8
+- pkg:maven/com.nepxion/skeleton-framework-starter@1.0.8?classifier=sources

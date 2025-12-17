@@ -20,3 +20,15 @@
 - pkg:maven/com.kotlinnlp/neuralparser@0.2.7?classifier=sources
 - pkg:maven/com.kotlinnlp/neuralparser@0.2.8
 - pkg:maven/com.kotlinnlp/neuralparser@0.2.8?classifier=sources
+- pkg:maven/com.kotlinnlp/neuralparser@0.3.0
+- pkg:maven/com.kotlinnlp/neuralparser@0.3.0?classifier=sources
+- pkg:maven/com.kotlinnlp/neuralparser@0.3.1
+- pkg:maven/com.kotlinnlp/neuralparser@0.3.1?classifier=sources
+- pkg:maven/com.kotlinnlp/neuralparser@0.4.0
+- pkg:maven/com.kotlinnlp/neuralparser@0.4.0?classifier=sources
+- pkg:maven/com.kotlinnlp/neuralparser@0.4.1
+- pkg:maven/com.kotlinnlp/neuralparser@0.4.1?classifier=sources
+- pkg:maven/com.kotlinnlp/neuralparser@0.4.2
+- pkg:maven/com.kotlinnlp/neuralparser@0.4.2?classifier=sources
+- pkg:maven/com.kotlinnlp/neuralparser@0.5.0
+- pkg:maven/com.kotlinnlp/neuralparser@0.5.0?classifier=sources

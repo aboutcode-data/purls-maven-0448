@@ -1,0 +1,10 @@
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.2
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.2-SNAPSHOTS
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.2-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.2?classifier=sources
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.4-SNAPSHOTS
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.4-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.5
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.5?classifier=sources
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.6-SNAPSHOTS
+- pkg:maven/com.github.vector4wang/vw-crawler@0.0.6-SNAPSHOTS?classifier=sources

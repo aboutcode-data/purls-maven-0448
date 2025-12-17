@@ -14,3 +14,7 @@
 - pkg:maven/org.togglz/togglz-spring-web@2.4.1.Final?classifier=sources
 - pkg:maven/org.togglz/togglz-spring-web@2.5.0.Final
 - pkg:maven/org.togglz/togglz-spring-web@2.5.0.Final?classifier=sources
+- pkg:maven/org.togglz/togglz-spring-web@2.6.0.Final
+- pkg:maven/org.togglz/togglz-spring-web@2.6.0.Final?classifier=sources
+- pkg:maven/org.togglz/togglz-spring-web@2.6.1.Final
+- pkg:maven/org.togglz/togglz-spring-web@2.6.1.Final?classifier=sources

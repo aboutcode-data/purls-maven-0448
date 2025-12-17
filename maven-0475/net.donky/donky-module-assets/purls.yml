@@ -18,3 +18,5 @@
 - pkg:maven/net.donky/donky-module-assets@2.7.0.6?type=aar
 - pkg:maven/net.donky/donky-module-assets@2.7.0.7?classifier=sources
 - pkg:maven/net.donky/donky-module-assets@2.7.0.7?type=aar
+- pkg:maven/net.donky/donky-module-assets@2.7.0.8?classifier=sources
+- pkg:maven/net.donky/donky-module-assets@2.7.0.8?type=aar

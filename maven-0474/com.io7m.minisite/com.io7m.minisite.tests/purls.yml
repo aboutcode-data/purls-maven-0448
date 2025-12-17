@@ -1,5 +1,6 @@
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.1
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.10
+- pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.11
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.2
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.3
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.4
@@ -8,3 +9,6 @@
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.7
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.8
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@0.0.9
+- pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@1.0.0
+- pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@2.0.0
+- pkg:maven/com.io7m.minisite/com.io7m.minisite.tests@2.0.1

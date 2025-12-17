@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/postcss-normalize-url@3.0.8
 - pkg:maven/org.webjars.npm/postcss-normalize-url@3.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-normalize-url@4.0.0
+- pkg:maven/org.webjars.npm/postcss-normalize-url@4.0.0-rc.2
+- pkg:maven/org.webjars.npm/postcss-normalize-url@4.0.0-rc.2?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-normalize-url@4.0.0?classifier=sources

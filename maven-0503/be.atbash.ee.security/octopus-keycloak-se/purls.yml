@@ -1,0 +1,2 @@
+- pkg:maven/be.atbash.ee.security/octopus-keycloak-se@0.4
+- pkg:maven/be.atbash.ee.security/octopus-keycloak-se@0.4?classifier=sources

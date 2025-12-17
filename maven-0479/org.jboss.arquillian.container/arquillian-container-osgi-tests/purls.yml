@@ -6,3 +6,4 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi-tests@2.1.0.Final
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi-tests@2.2.0.Final
 - pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi-tests@2.2.1.Final
+- pkg:maven/org.jboss.arquillian.container/arquillian-container-osgi-tests@2.2.2.Final

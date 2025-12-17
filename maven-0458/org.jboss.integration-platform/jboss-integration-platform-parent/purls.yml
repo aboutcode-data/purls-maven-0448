@@ -44,3 +44,8 @@
 - pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@8.0.0.CR1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@8.0.0.CR2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@8.0.0.CR3?classifier=source-release&type=zip
+- pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@8.1.0.CR1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@8.1.0.CR2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@8.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@8.2.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.integration-platform/jboss-integration-platform-parent@8.3.2.Final?classifier=source-release&type=zip

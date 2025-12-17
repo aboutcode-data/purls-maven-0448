@@ -13,3 +13,4 @@
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@1.2.0
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@1.2.1
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@1.3.0
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@1.3.1

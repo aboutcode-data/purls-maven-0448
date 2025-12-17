@@ -1,0 +1,4 @@
+- pkg:maven/com.sap.cloud.s4hana.services/scp-machine-learning@2.5.0
+- pkg:maven/com.sap.cloud.s4hana.services/scp-machine-learning@2.5.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.services/scp-machine-learning@2.6.1
+- pkg:maven/com.sap.cloud.s4hana.services/scp-machine-learning@2.6.1?classifier=sources

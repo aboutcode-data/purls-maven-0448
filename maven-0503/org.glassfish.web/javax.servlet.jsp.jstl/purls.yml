@@ -6,9 +6,11 @@
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.3?classifier=sources
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.4
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.4?classifier=sources
+- pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.5
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.5-b01
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.5-b01?classifier=sources
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.5-b02
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.5-b02?classifier=sources
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.5-b03
 - pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.5-b03?classifier=sources
+- pkg:maven/org.glassfish.web/javax.servlet.jsp.jstl@1.2.5?classifier=sources
