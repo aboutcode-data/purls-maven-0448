@@ -1,0 +1,2 @@
+- pkg:maven/io.snappydata/snappydata-util@1.6.1
+- pkg:maven/io.snappydata/snappydata-util@1.6.1?classifier=sources

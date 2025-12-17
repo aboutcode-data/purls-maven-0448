@@ -1,0 +1,2 @@
+- pkg:maven/com.dbrsn/universal-health-check-core_2.12@0.0.5
+- pkg:maven/com.dbrsn/universal-health-check-core_2.12@0.0.5?classifier=sources

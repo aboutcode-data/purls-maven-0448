@@ -100,6 +100,8 @@
 - pkg:maven/com.netflix.governator/governator-annotations@1.17.2?classifier=sources
 - pkg:maven/com.netflix.governator/governator-annotations@1.17.4
 - pkg:maven/com.netflix.governator/governator-annotations@1.17.4?classifier=sources
+- pkg:maven/com.netflix.governator/governator-annotations@1.17.5
+- pkg:maven/com.netflix.governator/governator-annotations@1.17.5?classifier=sources
 - pkg:maven/com.netflix.governator/governator-annotations@1.7.2
 - pkg:maven/com.netflix.governator/governator-annotations@1.7.2?classifier=sources
 - pkg:maven/com.netflix.governator/governator-annotations@1.7.3

@@ -6,3 +6,11 @@
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.24.2?classifier=sources
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.25.0
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.25.0?classifier=sources
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.26.0
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.26.0?classifier=sources
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.27.0
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.27.0?classifier=sources
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.28.0
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.28.0?classifier=sources
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.29.0
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-maven-plugin@1.29.0?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/com.antwerkz.sofia/sofia-maven@0.15?classifier=sources
 - pkg:maven/com.antwerkz.sofia/sofia-maven@0.20
 - pkg:maven/com.antwerkz.sofia/sofia-maven@0.20?classifier=sources
+- pkg:maven/com.antwerkz.sofia/sofia-maven@0.21
+- pkg:maven/com.antwerkz.sofia/sofia-maven@0.21?classifier=sources
+- pkg:maven/com.antwerkz.sofia/sofia-maven@0.22
+- pkg:maven/com.antwerkz.sofia/sofia-maven@0.22?classifier=sources
+- pkg:maven/com.antwerkz.sofia/sofia-maven@0.23
+- pkg:maven/com.antwerkz.sofia/sofia-maven@0.23?classifier=sources

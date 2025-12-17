@@ -1,0 +1,2 @@
+- pkg:maven/com.alexdupre/bitcoincash-lib_2.11@0.9.17
+- pkg:maven/com.alexdupre/bitcoincash-lib_2.11@0.9.17?classifier=sources

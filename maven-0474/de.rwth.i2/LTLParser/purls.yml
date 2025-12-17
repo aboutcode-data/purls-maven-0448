@@ -1,0 +1,2 @@
+- pkg:maven/de.rwth.i2/LTLParser@0.0.2
+- pkg:maven/de.rwth.i2/LTLParser@0.0.2?classifier=sources

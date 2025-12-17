@@ -1,0 +1,2 @@
+- pkg:maven/com.chaitanyapramod.gradle/findbugs-android@1.1
+- pkg:maven/com.chaitanyapramod.gradle/findbugs-android@1.1?classifier=sources

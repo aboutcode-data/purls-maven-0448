@@ -1,0 +1,2 @@
+- pkg:maven/org.avaje.glue/glue-websocket@1.2
+- pkg:maven/org.avaje.glue/glue-websocket@1.2?classifier=sources

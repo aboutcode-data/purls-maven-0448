@@ -1,3 +1,5 @@
+- pkg:maven/com.storm-enroute/scalameter-core_2.11@0.10
+- pkg:maven/com.storm-enroute/scalameter-core_2.11@0.10?classifier=sources
 - pkg:maven/com.storm-enroute/scalameter-core_2.11@0.5
 - pkg:maven/com.storm-enroute/scalameter-core_2.11@0.5?classifier=sources
 - pkg:maven/com.storm-enroute/scalameter-core_2.11@0.6
@@ -10,3 +12,5 @@
 - pkg:maven/com.storm-enroute/scalameter-core_2.11@0.8.2
 - pkg:maven/com.storm-enroute/scalameter-core_2.11@0.8.2?classifier=sources
 - pkg:maven/com.storm-enroute/scalameter-core_2.11@0.8?classifier=sources
+- pkg:maven/com.storm-enroute/scalameter-core_2.11@0.9
+- pkg:maven/com.storm-enroute/scalameter-core_2.11@0.9?classifier=sources

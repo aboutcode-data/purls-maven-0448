@@ -10,3 +10,5 @@
 - pkg:maven/org.javalite/activeweb-lessc-maven-plugin@1.15.j7
 - pkg:maven/org.javalite/activeweb-lessc-maven-plugin@1.15.j7?classifier=sources
 - pkg:maven/org.javalite/activeweb-lessc-maven-plugin@1.15?classifier=sources
+- pkg:maven/org.javalite/activeweb-lessc-maven-plugin@2.0
+- pkg:maven/org.javalite/activeweb-lessc-maven-plugin@2.0?classifier=sources

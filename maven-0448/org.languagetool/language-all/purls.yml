@@ -17,3 +17,5 @@
 - pkg:maven/org.languagetool/language-all@3.7
 - pkg:maven/org.languagetool/language-all@3.8
 - pkg:maven/org.languagetool/language-all@3.9
+- pkg:maven/org.languagetool/language-all@4.0
+- pkg:maven/org.languagetool/language-all@4.1

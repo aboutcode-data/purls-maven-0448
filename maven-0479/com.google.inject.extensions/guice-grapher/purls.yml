@@ -14,3 +14,5 @@
 - pkg:maven/com.google.inject.extensions/guice-grapher@4.0?classifier=sources
 - pkg:maven/com.google.inject.extensions/guice-grapher@4.1.0
 - pkg:maven/com.google.inject.extensions/guice-grapher@4.1.0?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-grapher@4.2.0
+- pkg:maven/com.google.inject.extensions/guice-grapher@4.2.0?classifier=sources

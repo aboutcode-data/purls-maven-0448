@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-OfficeDev-office-ui-fabric-core@9.6.0
+- pkg:maven/org.webjars.npm/github-com-OfficeDev-office-ui-fabric-core@9.6.0?classifier=sources

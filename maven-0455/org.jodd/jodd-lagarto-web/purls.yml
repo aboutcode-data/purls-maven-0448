@@ -40,6 +40,8 @@
 - pkg:maven/org.jodd/jodd-lagarto-web@3.6.3
 - pkg:maven/org.jodd/jodd-lagarto-web@3.6.3?classifier=sources
 - pkg:maven/org.jodd/jodd-lagarto-web@3.6.4
+- pkg:maven/org.jodd/jodd-lagarto-web@3.6.4-liferay
+- pkg:maven/org.jodd/jodd-lagarto-web@3.6.4-liferay?classifier=sources
 - pkg:maven/org.jodd/jodd-lagarto-web@3.6.4?classifier=sources
 - pkg:maven/org.jodd/jodd-lagarto-web@3.6.5
 - pkg:maven/org.jodd/jodd-lagarto-web@3.6.5-BETA1

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.shapley-value-java/shapley-value-coreV7@0.0.1
+- pkg:maven/io.github.shapley-value-java/shapley-value-coreV7@0.0.1?classifier=sources

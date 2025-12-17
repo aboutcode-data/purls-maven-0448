@@ -8,3 +8,5 @@
 - pkg:maven/com.phloc/phloc-poi@2.9.2?classifier=sources
 - pkg:maven/com.phloc/phloc-poi@2.9.8
 - pkg:maven/com.phloc/phloc-poi@2.9.8?classifier=sources
+- pkg:maven/com.phloc/phloc-poi@2.9.9
+- pkg:maven/com.phloc/phloc-poi@2.9.9?classifier=sources

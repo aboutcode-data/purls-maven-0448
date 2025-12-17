@@ -1,1 +1,2 @@
 - pkg:maven/org.sonarsource.web/sonar-web-plugin@2.5.0.476?classifier=sources
+- pkg:maven/org.sonarsource.web/sonar-web-plugin@2.6.0.1053?classifier=sources

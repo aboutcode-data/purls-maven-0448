@@ -8,3 +8,13 @@
 - pkg:maven/com.gtcgroup/justify-core@8.3.0?classifier=sources
 - pkg:maven/com.gtcgroup/justify-core@8.4.0
 - pkg:maven/com.gtcgroup/justify-core@8.4.0?classifier=sources
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha2
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha2?classifier=sources
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha3
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha3?classifier=sources
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha4
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha4?classifier=sources
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha5
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha5?classifier=sources
+- pkg:maven/com.gtcgroup/justify-core@8.5.0-alpha?classifier=sources

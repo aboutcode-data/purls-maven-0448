@@ -1,0 +1,2 @@
+- pkg:maven/com.orshachar/known-issue@1.0.0
+- pkg:maven/com.orshachar/known-issue@1.0.0?classifier=sources

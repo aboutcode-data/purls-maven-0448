@@ -1,0 +1,4 @@
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-ws-client@2.1.0
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-ws-client@2.1.0?classifier=sources
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-ws-client@2.1.1
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-ws-client@2.1.1?classifier=sources

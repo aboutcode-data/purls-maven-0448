@@ -1,0 +1,4 @@
+- pkg:maven/top.hmtools/RedisClientManager@0.0.1.20180309
+- pkg:maven/top.hmtools/RedisClientManager@0.0.1.20180309?classifier=sources
+- pkg:maven/top.hmtools/RedisClientManager@0.0.2.20180312
+- pkg:maven/top.hmtools/RedisClientManager@0.0.2.20180312?classifier=sources

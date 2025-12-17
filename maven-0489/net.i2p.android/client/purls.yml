@@ -30,5 +30,7 @@
 - pkg:maven/net.i2p.android/client@0.9.31?type=aar
 - pkg:maven/net.i2p.android/client@0.9.32?classifier=sources
 - pkg:maven/net.i2p.android/client@0.9.32?type=aar
+- pkg:maven/net.i2p.android/client@0.9.33?classifier=sources
+- pkg:maven/net.i2p.android/client@0.9.33?type=aar
 - pkg:maven/net.i2p.android/client@0.9?classifier=sources
 - pkg:maven/net.i2p.android/client@0.9?type=aar

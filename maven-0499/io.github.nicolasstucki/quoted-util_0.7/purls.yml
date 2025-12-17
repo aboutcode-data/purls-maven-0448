@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nicolasstucki/quoted-util_0.7@0.0.1
+- pkg:maven/io.github.nicolasstucki/quoted-util_0.7@0.0.1?classifier=sources

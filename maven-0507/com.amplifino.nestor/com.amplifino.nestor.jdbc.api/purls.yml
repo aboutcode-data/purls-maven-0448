@@ -1,0 +1,2 @@
+- pkg:maven/com.amplifino.nestor/com.amplifino.nestor.jdbc.api@1.4.1
+- pkg:maven/com.amplifino.nestor/com.amplifino.nestor.jdbc.api@1.4.1?classifier=sources

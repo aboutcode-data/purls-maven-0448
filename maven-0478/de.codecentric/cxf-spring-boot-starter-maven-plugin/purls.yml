@@ -16,3 +16,7 @@
 - pkg:maven/de.codecentric/cxf-spring-boot-starter-maven-plugin@1.1.2.RELEASE?classifier=sources
 - pkg:maven/de.codecentric/cxf-spring-boot-starter-maven-plugin@1.1.3.RELEASE
 - pkg:maven/de.codecentric/cxf-spring-boot-starter-maven-plugin@1.1.3.RELEASE?classifier=sources
+- pkg:maven/de.codecentric/cxf-spring-boot-starter-maven-plugin@1.1.4.RELEASE
+- pkg:maven/de.codecentric/cxf-spring-boot-starter-maven-plugin@1.1.4.RELEASE?classifier=sources
+- pkg:maven/de.codecentric/cxf-spring-boot-starter-maven-plugin@1.1.5.RELEASE
+- pkg:maven/de.codecentric/cxf-spring-boot-starter-maven-plugin@1.1.5.RELEASE?classifier=sources

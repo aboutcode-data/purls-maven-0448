@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.ports/ports-javaxmail@1.3.5
+- pkg:maven/de.mhus.ports/ports-javaxmail@1.3.5?classifier=sources

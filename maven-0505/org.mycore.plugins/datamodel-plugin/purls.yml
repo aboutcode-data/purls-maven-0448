@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore.plugins/datamodel-plugin@0.7
+- pkg:maven/org.mycore.plugins/datamodel-plugin@0.7?classifier=sources

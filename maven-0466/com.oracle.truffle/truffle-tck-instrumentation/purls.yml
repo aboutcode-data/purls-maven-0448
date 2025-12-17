@@ -1,0 +1,4 @@
+- pkg:maven/com.oracle.truffle/truffle-tck-instrumentation@0.33
+- pkg:maven/com.oracle.truffle/truffle-tck-instrumentation@0.33?classifier=sources
+- pkg:maven/com.oracle.truffle/truffle-tck-instrumentation@1.0.0-rc1
+- pkg:maven/com.oracle.truffle/truffle-tck-instrumentation@1.0.0-rc1?classifier=sources

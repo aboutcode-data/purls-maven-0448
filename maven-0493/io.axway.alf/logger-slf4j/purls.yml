@@ -1,0 +1,2 @@
+- pkg:maven/io.axway.alf/logger-slf4j@0.1.0
+- pkg:maven/io.axway.alf/logger-slf4j@0.1.0?classifier=sources

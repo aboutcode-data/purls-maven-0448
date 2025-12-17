@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v2?classifier=source-release&type=zip

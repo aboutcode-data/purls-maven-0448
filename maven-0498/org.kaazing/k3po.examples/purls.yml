@@ -100,7 +100,16 @@
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-84
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-86
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-87
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-88
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-89
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-9
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-90
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-91
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-92
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-93
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-94
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-95
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-96
 - pkg:maven/org.kaazing/k3po.examples@4.0.0
 - pkg:maven/org.kaazing/k3po.examples@4.0.0-RC001
 - pkg:maven/org.kaazing/k3po.examples@4.0.1

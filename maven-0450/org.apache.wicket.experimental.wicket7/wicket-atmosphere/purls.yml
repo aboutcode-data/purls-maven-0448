@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.wicket.experimental.wicket7/wicket-atmosphere@0.31?classifier=sources
 - pkg:maven/org.apache.wicket.experimental.wicket7/wicket-atmosphere@0.32
 - pkg:maven/org.apache.wicket.experimental.wicket7/wicket-atmosphere@0.32?classifier=sources
+- pkg:maven/org.apache.wicket.experimental.wicket7/wicket-atmosphere@0.33
+- pkg:maven/org.apache.wicket.experimental.wicket7/wicket-atmosphere@0.33?classifier=sources

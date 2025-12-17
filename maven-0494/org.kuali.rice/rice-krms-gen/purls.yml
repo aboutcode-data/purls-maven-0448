@@ -88,3 +88,5 @@
 - pkg:maven/org.kuali.rice/rice-krms-gen@2.6.0?classifier=sources
 - pkg:maven/org.kuali.rice/rice-krms-gen@2.6.1
 - pkg:maven/org.kuali.rice/rice-krms-gen@2.6.1?classifier=sources
+- pkg:maven/org.kuali.rice/rice-krms-gen@2.6.2
+- pkg:maven/org.kuali.rice/rice-krms-gen@2.6.2?classifier=sources

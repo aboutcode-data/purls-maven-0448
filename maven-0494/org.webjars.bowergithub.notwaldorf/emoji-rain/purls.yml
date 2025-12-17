@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.notwaldorf/emoji-rain@1.0.4
+- pkg:maven/org.webjars.bowergithub.notwaldorf/emoji-rain@1.0.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.notwaldorf/emoji-rain@2.0.0
+- pkg:maven/org.webjars.bowergithub.notwaldorf/emoji-rain@2.0.0?classifier=sources

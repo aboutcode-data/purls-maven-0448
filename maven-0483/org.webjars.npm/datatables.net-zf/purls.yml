@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/datatables.net-zf@1.10.16
+- pkg:maven/org.webjars.npm/datatables.net-zf@1.10.16?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/io.bootique.liquibase/bootique-liquibase@0.13?classifier=sources
 - pkg:maven/io.bootique.liquibase/bootique-liquibase@0.24
 - pkg:maven/io.bootique.liquibase/bootique-liquibase@0.24?classifier=sources
+- pkg:maven/io.bootique.liquibase/bootique-liquibase@0.25
+- pkg:maven/io.bootique.liquibase/bootique-liquibase@0.25?classifier=sources
 - pkg:maven/io.bootique.liquibase/bootique-liquibase@0.9
 - pkg:maven/io.bootique.liquibase/bootique-liquibase@0.9?classifier=sources

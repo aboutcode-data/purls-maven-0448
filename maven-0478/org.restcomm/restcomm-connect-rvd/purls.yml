@@ -26,6 +26,8 @@
 - pkg:maven/org.restcomm/restcomm-connect-rvd@1.0.9?type=war
 - pkg:maven/org.restcomm/restcomm-connect-rvd@1.1.0-99?classifier=sources
 - pkg:maven/org.restcomm/restcomm-connect-rvd@1.1.0-99?type=war
+- pkg:maven/org.restcomm/restcomm-connect-rvd@1.2.0-151?classifier=sources
+- pkg:maven/org.restcomm/restcomm-connect-rvd@1.2.0-151?type=war
 - pkg:maven/org.restcomm/restcomm-connect-rvd@8.0.0-rms5.18?classifier=sources
 - pkg:maven/org.restcomm/restcomm-connect-rvd@8.0.0-rms5.18?type=war
 - pkg:maven/org.restcomm/restcomm-connect-rvd@8.0.0-rms5.19?classifier=sources

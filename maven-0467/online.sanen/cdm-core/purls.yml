@@ -1,0 +1,6 @@
+- pkg:maven/online.sanen/cdm-core@1.0-RELEASE
+- pkg:maven/online.sanen/cdm-core@1.0-RELEASE?classifier=sources
+- pkg:maven/online.sanen/cdm-core@1.0.0
+- pkg:maven/online.sanen/cdm-core@1.0.0?classifier=sources
+- pkg:maven/online.sanen/cdm-core@2.0.1-RELEASE
+- pkg:maven/online.sanen/cdm-core@2.0.1-RELEASE?classifier=sources

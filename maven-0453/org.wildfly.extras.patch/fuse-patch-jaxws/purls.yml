@@ -44,3 +44,5 @@
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@2.7.0?type=war
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@3.0.0?classifier=sources
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@3.0.0?type=war
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@4.0.0?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-jaxws@4.0.0?type=war

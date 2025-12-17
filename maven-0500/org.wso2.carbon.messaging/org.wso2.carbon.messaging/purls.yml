@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.messaging@3.0.3
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.messaging@3.0.3?classifier=sources

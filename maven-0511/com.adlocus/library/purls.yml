@@ -56,6 +56,10 @@
 - pkg:maven/com.adlocus/library@3.8.6?type=aar
 - pkg:maven/com.adlocus/library@3.8.7.2?type=aar
 - pkg:maven/com.adlocus/library@3.8.7?type=aar
+- pkg:maven/com.adlocus/library@3.9.10?type=aar
+- pkg:maven/com.adlocus/library@3.9.11?type=aar
+- pkg:maven/com.adlocus/library@3.9.12?type=aar
+- pkg:maven/com.adlocus/library@3.9.13?type=aar
 - pkg:maven/com.adlocus/library@3.9.1?type=aar
 - pkg:maven/com.adlocus/library@3.9.2?type=aar
 - pkg:maven/com.adlocus/library@3.9.3?type=aar
@@ -72,5 +76,6 @@
 - pkg:maven/com.adlocus/library@3.9.9.9.1?type=aar
 - pkg:maven/com.adlocus/library@3.9.9.9.2?type=aar
 - pkg:maven/com.adlocus/library@3.9.9.9.3?type=aar
+- pkg:maven/com.adlocus/library@3.9.9.9.5?type=aar
 - pkg:maven/com.adlocus/library@3.9.9.9?type=aar
 - pkg:maven/com.adlocus/library@3.9.9?type=aar

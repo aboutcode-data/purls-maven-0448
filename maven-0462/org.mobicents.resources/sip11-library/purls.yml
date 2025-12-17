@@ -60,6 +60,7 @@
 - pkg:maven/org.mobicents.resources/sip11-library@2.8.69
 - pkg:maven/org.mobicents.resources/sip11-library@2.8.7
 - pkg:maven/org.mobicents.resources/sip11-library@2.8.70
+- pkg:maven/org.mobicents.resources/sip11-library@2.8.71
 - pkg:maven/org.mobicents.resources/sip11-library@2.8.72
 - pkg:maven/org.mobicents.resources/sip11-library@2.8.73
 - pkg:maven/org.mobicents.resources/sip11-library@2.8.74

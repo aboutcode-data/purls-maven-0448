@@ -1,0 +1,2 @@
+- pkg:maven/io.github.frostingwolf/saluki-ops-console@1.5.8.RELEASE
+- pkg:maven/io.github.frostingwolf/saluki-ops-console@1.5.8.RELEASE?classifier=sources

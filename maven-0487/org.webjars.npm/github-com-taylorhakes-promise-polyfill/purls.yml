@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-taylorhakes-promise-polyfill@7.1.0
+- pkg:maven/org.webjars.npm/github-com-taylorhakes-promise-polyfill@7.1.0?classifier=sources

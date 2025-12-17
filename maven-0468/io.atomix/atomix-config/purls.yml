@@ -1,0 +1,2 @@
+- pkg:maven/io.atomix/atomix-config@2.1.0-beta3
+- pkg:maven/io.atomix/atomix-config@2.1.0-beta3?classifier=sources

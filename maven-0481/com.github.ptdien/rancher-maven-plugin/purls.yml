@@ -1,0 +1,7 @@
+- pkg:maven/com.github.ptdien/rancher-maven-plugin@0.0.2
+- pkg:maven/com.github.ptdien/rancher-maven-plugin@0.0.3
+- pkg:maven/com.github.ptdien/rancher-maven-plugin@0.0.4
+- pkg:maven/com.github.ptdien/rancher-maven-plugin@0.0.7
+- pkg:maven/com.github.ptdien/rancher-maven-plugin@0.0.8
+- pkg:maven/com.github.ptdien/rancher-maven-plugin@0.5.0
+- pkg:maven/com.github.ptdien/rancher-maven-plugin@1.0.0

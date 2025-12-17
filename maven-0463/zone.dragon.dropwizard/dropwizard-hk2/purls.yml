@@ -12,3 +12,7 @@
 - pkg:maven/zone.dragon.dropwizard/dropwizard-hk2@1.1.6-f1993a?classifier=sources
 - pkg:maven/zone.dragon.dropwizard/dropwizard-hk2@1.1.8-93ddea
 - pkg:maven/zone.dragon.dropwizard/dropwizard-hk2@1.1.8-93ddea?classifier=sources
+- pkg:maven/zone.dragon.dropwizard/dropwizard-hk2@1.2.1-fa7e12
+- pkg:maven/zone.dragon.dropwizard/dropwizard-hk2@1.2.1-fa7e12?classifier=sources
+- pkg:maven/zone.dragon.dropwizard/dropwizard-hk2@1.2.2-245f94
+- pkg:maven/zone.dragon.dropwizard/dropwizard-hk2@1.2.2-245f94?classifier=sources

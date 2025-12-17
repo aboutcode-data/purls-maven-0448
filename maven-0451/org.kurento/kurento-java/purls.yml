@@ -11,3 +11,5 @@
 - pkg:maven/org.kurento/kurento-java@6.6.0?classifier=source-release&type=zip
 - pkg:maven/org.kurento/kurento-java@6.6.1?classifier=source-release&type=zip
 - pkg:maven/org.kurento/kurento-java@6.6.2?classifier=source-release&type=zip
+- pkg:maven/org.kurento/kurento-java@6.7.0?classifier=source-release&type=zip
+- pkg:maven/org.kurento/kurento-java@6.7.1?classifier=source-release&type=zip

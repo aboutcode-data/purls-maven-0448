@@ -1,0 +1,8 @@
+- pkg:maven/hr.com.vgv/vgv-xls@0.2
+- pkg:maven/hr.com.vgv/vgv-xls@0.2?classifier=sources
+- pkg:maven/hr.com.vgv/vgv-xls@0.3
+- pkg:maven/hr.com.vgv/vgv-xls@0.3?classifier=sources
+- pkg:maven/hr.com.vgv/vgv-xls@0.4
+- pkg:maven/hr.com.vgv/vgv-xls@0.4?classifier=sources
+- pkg:maven/hr.com.vgv/vgv-xls@0.5
+- pkg:maven/hr.com.vgv/vgv-xls@0.5?classifier=sources

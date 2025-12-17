@@ -40,3 +40,7 @@
 - pkg:maven/org.webjars.bower/echarts@3.7.2?classifier=sources
 - pkg:maven/org.webjars.bower/echarts@3.8.5
 - pkg:maven/org.webjars.bower/echarts@3.8.5?classifier=sources
+- pkg:maven/org.webjars.bower/echarts@4.0.2
+- pkg:maven/org.webjars.bower/echarts@4.0.2?classifier=sources
+- pkg:maven/org.webjars.bower/echarts@4.0.4
+- pkg:maven/org.webjars.bower/echarts@4.0.4?classifier=sources

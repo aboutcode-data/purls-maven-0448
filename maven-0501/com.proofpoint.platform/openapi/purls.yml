@@ -1,0 +1,2 @@
+- pkg:maven/com.proofpoint.platform/openapi@1.75
+- pkg:maven/com.proofpoint.platform/openapi@1.75?classifier=sources

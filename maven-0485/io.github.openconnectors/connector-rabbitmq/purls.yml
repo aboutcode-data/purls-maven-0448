@@ -1,0 +1,2 @@
+- pkg:maven/io.github.openconnectors/connector-rabbitmq@0.0.3
+- pkg:maven/io.github.openconnectors/connector-rabbitmq@0.0.3?classifier=sources

@@ -26,6 +26,10 @@
 - pkg:maven/org.restcomm.smpp/ui-management@7.0.32?type=war
 - pkg:maven/org.restcomm.smpp/ui-management@7.0.33?type=war
 - pkg:maven/org.restcomm.smpp/ui-management@7.0.34?type=war
+- pkg:maven/org.restcomm.smpp/ui-management@7.1.0-128?type=war
+- pkg:maven/org.restcomm.smpp/ui-management@7.1.0-138?type=war
+- pkg:maven/org.restcomm.smpp/ui-management@7.1.0-139?type=war
+- pkg:maven/org.restcomm.smpp/ui-management@7.1.0-153?type=war
 - pkg:maven/org.restcomm.smpp/ui-management@7.1.0-18?type=war
 - pkg:maven/org.restcomm.smpp/ui-management@7.1.0-66?type=war
 - pkg:maven/org.restcomm.smpp/ui-management@7.1.0-72?type=war

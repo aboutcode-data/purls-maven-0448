@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.micdn/beangle-micdn-server@0.0.1?classifier=sources
+- pkg:maven/org.beangle.micdn/beangle-micdn-server@0.0.1?type=war

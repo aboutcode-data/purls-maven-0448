@@ -1,0 +1,2 @@
+- pkg:maven/org.wintersleep.avro/wintersleep-avro-maven-plugin@0.1
+- pkg:maven/org.wintersleep.avro/wintersleep-avro-maven-plugin@0.1?classifier=sources

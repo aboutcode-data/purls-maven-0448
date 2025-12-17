@@ -1,5 +1,9 @@
 - pkg:maven/org.webjars.npm/signature_pad@1.5.3
 - pkg:maven/org.webjars.npm/signature_pad@1.5.3?classifier=sources
+- pkg:maven/org.webjars.npm/signature_pad@1.6.0
+- pkg:maven/org.webjars.npm/signature_pad@1.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/signature_pad@2.3.0
+- pkg:maven/org.webjars.npm/signature_pad@2.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/signature_pad@2.3.1
 - pkg:maven/org.webjars.npm/signature_pad@2.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/signature_pad@2.3.2

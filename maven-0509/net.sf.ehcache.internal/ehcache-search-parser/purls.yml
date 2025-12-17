@@ -10,6 +10,8 @@
 - pkg:maven/net.sf.ehcache.internal/ehcache-search-parser@2.10.3?classifier=sources
 - pkg:maven/net.sf.ehcache.internal/ehcache-search-parser@2.10.4
 - pkg:maven/net.sf.ehcache.internal/ehcache-search-parser@2.10.4?classifier=sources
+- pkg:maven/net.sf.ehcache.internal/ehcache-search-parser@2.10.5
+- pkg:maven/net.sf.ehcache.internal/ehcache-search-parser@2.10.5?classifier=sources
 - pkg:maven/net.sf.ehcache.internal/ehcache-search-parser@2.8.0
 - pkg:maven/net.sf.ehcache.internal/ehcache-search-parser@2.8.0?classifier=sources
 - pkg:maven/net.sf.ehcache.internal/ehcache-search-parser@2.8.1

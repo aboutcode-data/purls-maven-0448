@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-mar10-fancytree@2.21.0
 - pkg:maven/org.webjars.bower/github-com-mar10-fancytree@2.21.0?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-mar10-fancytree@2.27.0
+- pkg:maven/org.webjars.bower/github-com-mar10-fancytree@2.27.0?classifier=sources

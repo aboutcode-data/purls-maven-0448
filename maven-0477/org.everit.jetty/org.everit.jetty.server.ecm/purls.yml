@@ -4,3 +4,5 @@
 - pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@1.2.0?classifier=sources
 - pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@2.0.0
 - pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@2.0.0?classifier=sources
+- pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@2.0.1
+- pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@2.0.1?classifier=sources

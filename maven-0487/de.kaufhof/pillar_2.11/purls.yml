@@ -14,3 +14,5 @@
 - pkg:maven/de.kaufhof/pillar_2.11@4.1.0?classifier=sources
 - pkg:maven/de.kaufhof/pillar_2.11@4.1.1
 - pkg:maven/de.kaufhof/pillar_2.11@4.1.1?classifier=sources
+- pkg:maven/de.kaufhof/pillar_2.11@4.1.2
+- pkg:maven/de.kaufhof/pillar_2.11@4.1.2?classifier=sources

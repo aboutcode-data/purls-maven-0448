@@ -2,3 +2,5 @@
 - pkg:maven/com.caseykulm.oauthheader/oauthheader-services@0.2.8?classifier=sources
 - pkg:maven/com.caseykulm.oauthheader/oauthheader-services@0.3.1
 - pkg:maven/com.caseykulm.oauthheader/oauthheader-services@0.3.1?classifier=sources
+- pkg:maven/com.caseykulm.oauthheader/oauthheader-services@0.4.0
+- pkg:maven/com.caseykulm.oauthheader/oauthheader-services@0.4.0?classifier=sources

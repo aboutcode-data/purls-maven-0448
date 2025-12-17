@@ -1,0 +1,2 @@
+- pkg:maven/top.crossoverjie.opensource/distributed-redis-lock@1.0.0
+- pkg:maven/top.crossoverjie.opensource/distributed-redis-lock@1.0.0?classifier=sources

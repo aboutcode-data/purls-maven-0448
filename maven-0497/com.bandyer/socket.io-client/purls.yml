@@ -1,0 +1,4 @@
+- pkg:maven/com.bandyer/socket.io-client@1.0.8
+- pkg:maven/com.bandyer/socket.io-client@1.0.8?classifier=sources
+- pkg:maven/com.bandyer/socket.io-client@1.0.9
+- pkg:maven/com.bandyer/socket.io-client@1.0.9?classifier=sources

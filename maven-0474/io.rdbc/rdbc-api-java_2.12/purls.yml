@@ -28,3 +28,5 @@
 - pkg:maven/io.rdbc/rdbc-api-java_2.12@0.0.75?classifier=sources
 - pkg:maven/io.rdbc/rdbc-api-java_2.12@0.0.76
 - pkg:maven/io.rdbc/rdbc-api-java_2.12@0.0.76?classifier=sources
+- pkg:maven/io.rdbc/rdbc-api-java_2.12@0.0.77
+- pkg:maven/io.rdbc/rdbc-api-java_2.12@0.0.77?classifier=sources

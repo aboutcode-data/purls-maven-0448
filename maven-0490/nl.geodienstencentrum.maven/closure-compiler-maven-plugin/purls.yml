@@ -22,3 +22,5 @@
 - pkg:maven/nl.geodienstencentrum.maven/closure-compiler-maven-plugin@2.6?classifier=sources
 - pkg:maven/nl.geodienstencentrum.maven/closure-compiler-maven-plugin@2.7
 - pkg:maven/nl.geodienstencentrum.maven/closure-compiler-maven-plugin@2.7?classifier=sources
+- pkg:maven/nl.geodienstencentrum.maven/closure-compiler-maven-plugin@2.8
+- pkg:maven/nl.geodienstencentrum.maven/closure-compiler-maven-plugin@2.8?classifier=sources

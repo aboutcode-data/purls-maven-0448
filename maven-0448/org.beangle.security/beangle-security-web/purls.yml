@@ -66,6 +66,12 @@
 - pkg:maven/org.beangle.security/beangle-security-web@3.5.2?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-web@3.5.3
 - pkg:maven/org.beangle.security/beangle-security-web@3.5.3?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-web@3.6.0.M2
+- pkg:maven/org.beangle.security/beangle-security-web@3.6.0.M2?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-web@3.6.0.M3
+- pkg:maven/org.beangle.security/beangle-security-web@3.6.0.M3?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-web@3.6.0.M4
+- pkg:maven/org.beangle.security/beangle-security-web@3.6.0.M4?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-web@4.0.2
 - pkg:maven/org.beangle.security/beangle-security-web@4.0.2?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-web@4.0.3

@@ -34,3 +34,5 @@
 - pkg:maven/com.github.temyers/cucumber-jvm-parallel-plugin@4.1.0?classifier=sources
 - pkg:maven/com.github.temyers/cucumber-jvm-parallel-plugin@4.2.0
 - pkg:maven/com.github.temyers/cucumber-jvm-parallel-plugin@4.2.0?classifier=sources
+- pkg:maven/com.github.temyers/cucumber-jvm-parallel-plugin@5.0.0
+- pkg:maven/com.github.temyers/cucumber-jvm-parallel-plugin@5.0.0?classifier=sources

@@ -24,6 +24,10 @@
 - pkg:maven/com.soywiz/korge-ext-swf@0.17.2?classifier=sources
 - pkg:maven/com.soywiz/korge-ext-swf@0.18.0
 - pkg:maven/com.soywiz/korge-ext-swf@0.18.0?classifier=sources
+- pkg:maven/com.soywiz/korge-ext-swf@0.19.1
+- pkg:maven/com.soywiz/korge-ext-swf@0.19.1?classifier=sources
+- pkg:maven/com.soywiz/korge-ext-swf@0.19.2
+- pkg:maven/com.soywiz/korge-ext-swf@0.19.2?classifier=sources
 - pkg:maven/com.soywiz/korge-ext-swf@0.8.0
 - pkg:maven/com.soywiz/korge-ext-swf@0.8.0?classifier=sources
 - pkg:maven/com.soywiz/korge-ext-swf@0.8.1

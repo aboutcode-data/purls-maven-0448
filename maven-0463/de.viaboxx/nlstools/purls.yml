@@ -35,4 +35,6 @@
 - pkg:maven/de.viaboxx/nlstools@2.6.7?classifier=sources
 - pkg:maven/de.viaboxx/nlstools@2.6.8
 - pkg:maven/de.viaboxx/nlstools@2.6.8?classifier=sources
+- pkg:maven/de.viaboxx/nlstools@2.6.9
+- pkg:maven/de.viaboxx/nlstools@2.6.9?classifier=sources
 - pkg:maven/de.viaboxx/nlstools@2.6?classifier=sources

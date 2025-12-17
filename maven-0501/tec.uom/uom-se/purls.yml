@@ -23,4 +23,6 @@
 - pkg:maven/tec.uom/uom-se@1.0.7?classifier=sources
 - pkg:maven/tec.uom/uom-se@1.0.8
 - pkg:maven/tec.uom/uom-se@1.0.8?classifier=sources
+- pkg:maven/tec.uom/uom-se@1.0.9
+- pkg:maven/tec.uom/uom-se@1.0.9?classifier=sources
 - pkg:maven/tec.uom/uom-se@1.0?classifier=sources

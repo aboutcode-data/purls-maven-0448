@@ -1,0 +1,2 @@
+- pkg:maven/com.quadient.dataservices/dataservices-client-api@0.4
+- pkg:maven/com.quadient.dataservices/dataservices-client-api@0.4?classifier=sources

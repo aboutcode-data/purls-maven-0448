@@ -8,3 +8,6 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-epub3@1.5.0-alpha.6?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-epub3@1.5.0-alpha.7
 - pkg:maven/org.asciidoctor/asciidoctorj-epub3@1.5.0-alpha.7?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-epub3@1.5.0-alpha.8
+- pkg:maven/org.asciidoctor/asciidoctorj-epub3@1.5.0-alpha.8.1
+- pkg:maven/org.asciidoctor/asciidoctorj-epub3@1.5.0-alpha.8.1?classifier=sources

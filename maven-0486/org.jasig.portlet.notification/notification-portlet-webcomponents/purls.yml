@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-webcomponents@4.0.0
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-webcomponents@4.0.0?classifier=sources

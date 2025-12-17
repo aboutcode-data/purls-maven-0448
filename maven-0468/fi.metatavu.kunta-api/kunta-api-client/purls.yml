@@ -1,0 +1,2 @@
+- pkg:maven/fi.metatavu.kunta-api/kunta-api-client@0.0.2
+- pkg:maven/fi.metatavu.kunta-api/kunta-api-client@0.0.2?classifier=sources

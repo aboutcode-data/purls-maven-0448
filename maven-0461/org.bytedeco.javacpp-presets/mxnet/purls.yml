@@ -1,3 +1,7 @@
+- pkg:maven/org.bytedeco.javacpp-presets/mxnet@1.0.0-1.4
+- pkg:maven/org.bytedeco.javacpp-presets/mxnet@1.0.0-1.4?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/mxnet@1.1.0-1.4.1
+- pkg:maven/org.bytedeco.javacpp-presets/mxnet@1.1.0-1.4.1?classifier=sources
 - pkg:maven/org.bytedeco.javacpp-presets/mxnet@master-1.2
 - pkg:maven/org.bytedeco.javacpp-presets/mxnet@master-1.2?classifier=sources
 - pkg:maven/org.bytedeco.javacpp-presets/mxnet@master-1.3

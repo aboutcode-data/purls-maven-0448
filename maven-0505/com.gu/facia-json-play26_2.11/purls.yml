@@ -6,3 +6,7 @@
 - pkg:maven/com.gu/facia-json-play26_2.11@2.4?classifier=sources
 - pkg:maven/com.gu/facia-json-play26_2.11@2.5.0
 - pkg:maven/com.gu/facia-json-play26_2.11@2.5.0?classifier=sources
+- pkg:maven/com.gu/facia-json-play26_2.11@2.5.2
+- pkg:maven/com.gu/facia-json-play26_2.11@2.5.2?classifier=sources
+- pkg:maven/com.gu/facia-json-play26_2.11@2.5.5
+- pkg:maven/com.gu/facia-json-play26_2.11@2.5.5?classifier=sources

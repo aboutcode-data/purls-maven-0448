@@ -10,3 +10,7 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@4.9.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@5.0.0
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@5.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-itests@5.1.0
+- pkg:maven/org.wildfly.camel.example/example-camel-itests@5.1.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-itests@6.0.0
+- pkg:maven/org.wildfly.camel.example/example-camel-itests@6.0.0?classifier=sources

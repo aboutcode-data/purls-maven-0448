@@ -34,3 +34,5 @@
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@3.3.0.5702?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@4.0.0.5862
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@4.0.0.5862?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@4.1.0.6085
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@4.1.0.6085?classifier=sources

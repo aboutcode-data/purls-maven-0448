@@ -1,0 +1,4 @@
+- pkg:maven/systems.manifold/manifold-plugin-placeholder@0.1-alpha
+- pkg:maven/systems.manifold/manifold-plugin-placeholder@0.1-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-plugin-placeholder@0.1.1-alpha
+- pkg:maven/systems.manifold/manifold-plugin-placeholder@0.1.1-alpha?classifier=sources

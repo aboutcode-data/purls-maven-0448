@@ -2,3 +2,5 @@
 - pkg:maven/org.ensime/json_2.10@2.0.0-M4
 - pkg:maven/org.ensime/json_2.10@2.0.0-M4?classifier=sources
 - pkg:maven/org.ensime/json_2.10@2.0.0?classifier=sources
+- pkg:maven/org.ensime/json_2.10@2.0.1
+- pkg:maven/org.ensime/json_2.10@2.0.1?classifier=sources

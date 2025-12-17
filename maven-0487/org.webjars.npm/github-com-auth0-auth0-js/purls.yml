@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-auth0-auth0-js@9.4.1
+- pkg:maven/org.webjars.npm/github-com-auth0-auth0-js@9.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.lae.isomorphic/isomorphic@0.1-beta1
+- pkg:maven/com.gitlab.lae.isomorphic/isomorphic@0.1-beta1?classifier=sources

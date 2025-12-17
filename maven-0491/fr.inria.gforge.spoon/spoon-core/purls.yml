@@ -60,3 +60,7 @@
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@5.9.0?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@6.0.0
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@6.0.0?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-core@6.1.0
+- pkg:maven/fr.inria.gforge.spoon/spoon-core@6.1.0?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-core@6.2.0
+- pkg:maven/fr.inria.gforge.spoon/spoon-core@6.2.0?classifier=sources

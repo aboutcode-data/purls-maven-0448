@@ -88,3 +88,11 @@
 - pkg:maven/com.github.davidmoten/rtree@0.8.0.3?classifier=sources
 - pkg:maven/com.github.davidmoten/rtree@0.8.0.4
 - pkg:maven/com.github.davidmoten/rtree@0.8.0.4?classifier=sources
+- pkg:maven/com.github.davidmoten/rtree@0.8.1beta
+- pkg:maven/com.github.davidmoten/rtree@0.8.1beta?classifier=sources
+- pkg:maven/com.github.davidmoten/rtree@0.8.3
+- pkg:maven/com.github.davidmoten/rtree@0.8.3?classifier=sources
+- pkg:maven/com.github.davidmoten/rtree@0.8.4
+- pkg:maven/com.github.davidmoten/rtree@0.8.4?classifier=sources
+- pkg:maven/com.github.davidmoten/rtree@0.8.5
+- pkg:maven/com.github.davidmoten/rtree@0.8.5?classifier=sources

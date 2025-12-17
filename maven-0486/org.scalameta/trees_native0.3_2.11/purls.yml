@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/trees_native0.3_2.11@4.0.0-M1
+- pkg:maven/org.scalameta/trees_native0.3_2.11@4.0.0-M1?classifier=sources

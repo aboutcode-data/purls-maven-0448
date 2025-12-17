@@ -12,3 +12,5 @@
 - pkg:maven/org.datanucleus/javax.jdo@3.2.0-m6?classifier=sources
 - pkg:maven/org.datanucleus/javax.jdo@3.2.0-m7
 - pkg:maven/org.datanucleus/javax.jdo@3.2.0-m7?classifier=sources
+- pkg:maven/org.datanucleus/javax.jdo@3.2.0-m8
+- pkg:maven/org.datanucleus/javax.jdo@3.2.0-m8?classifier=sources

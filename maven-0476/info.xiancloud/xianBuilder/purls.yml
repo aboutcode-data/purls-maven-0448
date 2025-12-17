@@ -1,0 +1,2 @@
+- pkg:maven/info.xiancloud/xianBuilder@0.1.0-SNAPSHOTS
+- pkg:maven/info.xiancloud/xianBuilder@0.1.0-SNAPSHOTS?classifier=sources

@@ -18,3 +18,11 @@
 - pkg:maven/org.testifyproject.junit4/guice-integration-test@0.9.9?classifier=sources
 - pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.0
 - pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.0?classifier=sources
+- pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.1
+- pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.1?classifier=sources
+- pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.2
+- pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.2?classifier=sources
+- pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.3
+- pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.3?classifier=sources
+- pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.4
+- pkg:maven/org.testifyproject.junit4/guice-integration-test@1.0.4?classifier=sources

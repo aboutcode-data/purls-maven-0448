@@ -1,0 +1,12 @@
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.14?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.14?type=war
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.15?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.15?type=war
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.16?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.16?type=war
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.17?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.17?type=war
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.18?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.18?type=war
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.19?classifier=sources
+- pkg:maven/org.wso2.carbon.dashboards/shindig-server@2.0.19?type=war

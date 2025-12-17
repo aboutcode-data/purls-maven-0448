@@ -1,0 +1,2 @@
+- pkg:maven/com.marklogic/ml-app-deployer@3.6.3
+- pkg:maven/com.marklogic/ml-app-deployer@3.6.3?classifier=sources

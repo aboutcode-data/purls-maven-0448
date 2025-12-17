@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/dagre-d3@0.4.14?classifier=sources
 - pkg:maven/org.webjars.npm/dagre-d3@0.4.17
 - pkg:maven/org.webjars.npm/dagre-d3@0.4.17?classifier=sources
+- pkg:maven/org.webjars.npm/dagre-d3@0.6.1
+- pkg:maven/org.webjars.npm/dagre-d3@0.6.1?classifier=sources

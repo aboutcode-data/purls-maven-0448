@@ -128,6 +128,8 @@
 - pkg:maven/com.alibaba/fastjson@1.1.66.android?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.1.67.android
 - pkg:maven/com.alibaba/fastjson@1.1.67.android?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.1.68.android
+- pkg:maven/com.alibaba/fastjson@1.1.68.android?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.0
 - pkg:maven/com.alibaba/fastjson@1.2.0?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.1
@@ -217,6 +219,14 @@
 - pkg:maven/com.alibaba/fastjson@1.2.42?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.43
 - pkg:maven/com.alibaba/fastjson@1.2.43?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.2.44
+- pkg:maven/com.alibaba/fastjson@1.2.44?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.2.45
+- pkg:maven/com.alibaba/fastjson@1.2.45?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.2.46
+- pkg:maven/com.alibaba/fastjson@1.2.46?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.2.47
+- pkg:maven/com.alibaba/fastjson@1.2.47?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.4?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.5
 - pkg:maven/com.alibaba/fastjson@1.2.5?classifier=sources

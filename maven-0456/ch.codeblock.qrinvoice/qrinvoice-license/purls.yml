@@ -1,0 +1,2 @@
+- pkg:maven/ch.codeblock.qrinvoice/qrinvoice-license@0.7
+- pkg:maven/ch.codeblock.qrinvoice/qrinvoice-license@0.7?classifier=sources

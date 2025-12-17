@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/rc-dropdown@1.4.8
 - pkg:maven/org.webjars.npm/rc-dropdown@1.4.8?classifier=sources
+- pkg:maven/org.webjars.npm/rc-dropdown@2.1.1
+- pkg:maven/org.webjars.npm/rc-dropdown@2.1.1?classifier=sources

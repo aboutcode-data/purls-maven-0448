@@ -6,5 +6,9 @@
 - pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.0.3?classifier=sources
 - pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.0.4
 - pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.0.4?classifier=sources
+- pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.1.0
 - pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.1.0-beta.1
 - pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.1.0-beta.1?classifier=sources
+- pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.1.0?classifier=sources
+- pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.2.0
+- pkg:maven/de.jpdigital/hibernate51-ddl-maven-plugin@2.2.0?classifier=sources

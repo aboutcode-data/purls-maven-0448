@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.signalrservice-2018-03-01-preview/azure-mgmt-signalr@1.0.0-beta
+- pkg:maven/com.microsoft.azure.signalrservice-2018-03-01-preview/azure-mgmt-signalr@1.0.0-beta?classifier=sources

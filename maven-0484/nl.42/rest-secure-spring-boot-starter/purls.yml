@@ -22,3 +22,5 @@
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@2.2.0?classifier=sources
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@2.3.0
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@2.3.0?classifier=sources
+- pkg:maven/nl.42/rest-secure-spring-boot-starter@3.0.0
+- pkg:maven/nl.42/rest-secure-spring-boot-starter@3.0.0?classifier=sources

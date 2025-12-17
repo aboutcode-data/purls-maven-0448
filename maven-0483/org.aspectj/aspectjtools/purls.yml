@@ -60,3 +60,7 @@
 - pkg:maven/org.aspectj/aspectjtools@1.8.8?classifier=sources
 - pkg:maven/org.aspectj/aspectjtools@1.8.9
 - pkg:maven/org.aspectj/aspectjtools@1.8.9?classifier=sources
+- pkg:maven/org.aspectj/aspectjtools@1.9.0
+- pkg:maven/org.aspectj/aspectjtools@1.9.0?classifier=sources
+- pkg:maven/org.aspectj/aspectjtools@1.9.1
+- pkg:maven/org.aspectj/aspectjtools@1.9.1?classifier=sources

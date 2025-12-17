@@ -1,0 +1,4 @@
+- pkg:maven/ch.epfl.scala/compiler-bridge_2.13.0-M2@1.1.0%2B9-57ca9e0f
+- pkg:maven/ch.epfl.scala/compiler-bridge_2.13.0-M2@1.1.0%2B9-57ca9e0f?classifier=sources
+- pkg:maven/ch.epfl.scala/compiler-bridge_2.13.0-M2@1.1.1%2B49-1c290cbb
+- pkg:maven/ch.epfl.scala/compiler-bridge_2.13.0-M2@1.1.1%2B49-1c290cbb?classifier=sources

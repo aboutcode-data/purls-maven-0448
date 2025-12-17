@@ -1,0 +1,12 @@
+- pkg:maven/de.otto.edison/edison-validation@1.2.10
+- pkg:maven/de.otto.edison/edison-validation@1.2.10?classifier=sources
+- pkg:maven/de.otto.edison/edison-validation@1.2.11
+- pkg:maven/de.otto.edison/edison-validation@1.2.11?classifier=sources
+- pkg:maven/de.otto.edison/edison-validation@1.2.12
+- pkg:maven/de.otto.edison/edison-validation@1.2.12?classifier=sources
+- pkg:maven/de.otto.edison/edison-validation@1.2.13
+- pkg:maven/de.otto.edison/edison-validation@1.2.13?classifier=sources
+- pkg:maven/de.otto.edison/edison-validation@1.2.14
+- pkg:maven/de.otto.edison/edison-validation@1.2.14?classifier=sources
+- pkg:maven/de.otto.edison/edison-validation@2.0.0-m1
+- pkg:maven/de.otto.edison/edison-validation@2.0.0-m1?classifier=sources

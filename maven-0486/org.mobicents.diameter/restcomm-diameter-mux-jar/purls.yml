@@ -154,3 +154,5 @@
 - pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-jar@1.7.0.98?classifier=sources
 - pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-jar@1.7.0.99
 - pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-jar@1.7.0.99?classifier=sources
+- pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-jar@1.7.1-123
+- pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-jar@1.7.1-123?classifier=sources

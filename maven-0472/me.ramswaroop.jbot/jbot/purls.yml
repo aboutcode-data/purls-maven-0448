@@ -4,3 +4,7 @@
 - pkg:maven/me.ramswaroop.jbot/jbot@3.0.1?classifier=sources
 - pkg:maven/me.ramswaroop.jbot/jbot@3.0.2
 - pkg:maven/me.ramswaroop.jbot/jbot@3.0.2?classifier=sources
+- pkg:maven/me.ramswaroop.jbot/jbot@4.0.0
+- pkg:maven/me.ramswaroop.jbot/jbot@4.0.0?classifier=sources
+- pkg:maven/me.ramswaroop.jbot/jbot@4.0.1
+- pkg:maven/me.ramswaroop.jbot/jbot@4.0.1?classifier=sources

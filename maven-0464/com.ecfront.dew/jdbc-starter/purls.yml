@@ -1,0 +1,2 @@
+- pkg:maven/com.ecfront.dew/jdbc-starter@1.2.2-RC
+- pkg:maven/com.ecfront.dew/jdbc-starter@1.2.2-RC?classifier=sources

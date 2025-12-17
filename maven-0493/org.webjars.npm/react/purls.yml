@@ -26,6 +26,8 @@
 - pkg:maven/org.webjars.npm/react@0.14.8?classifier=sources
 - pkg:maven/org.webjars.npm/react@0.14.9
 - pkg:maven/org.webjars.npm/react@0.14.9?classifier=sources
+- pkg:maven/org.webjars.npm/react@0.15.0-alpha.1
+- pkg:maven/org.webjars.npm/react@0.15.0-alpha.1?classifier=sources
 - pkg:maven/org.webjars.npm/react@15.0.0
 - pkg:maven/org.webjars.npm/react@15.0.0-rc.1
 - pkg:maven/org.webjars.npm/react@15.0.0-rc.1?classifier=sources
@@ -108,3 +110,13 @@
 - pkg:maven/org.webjars.npm/react@16.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/react@16.2.0
 - pkg:maven/org.webjars.npm/react@16.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/react@16.3.0
+- pkg:maven/org.webjars.npm/react@16.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/react@16.3.1
+- pkg:maven/org.webjars.npm/react@16.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/react@16.3.2
+- pkg:maven/org.webjars.npm/react@16.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/react@16.4.0
+- pkg:maven/org.webjars.npm/react@16.4.0-alpha.7926752
+- pkg:maven/org.webjars.npm/react@16.4.0-alpha.7926752?classifier=sources
+- pkg:maven/org.webjars.npm/react@16.4.0?classifier=sources
