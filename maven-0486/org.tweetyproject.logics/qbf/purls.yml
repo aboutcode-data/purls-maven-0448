@@ -1,0 +1,2 @@
+- pkg:maven/org.tweetyproject.logics/qbf@1.19
+- pkg:maven/org.tweetyproject.logics/qbf@1.19?classifier=sources

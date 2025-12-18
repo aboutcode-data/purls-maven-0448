@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.okio/okio-mingwx64@2.10.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio-mingwx64@3.0.0-alpha.1?classifier=sources

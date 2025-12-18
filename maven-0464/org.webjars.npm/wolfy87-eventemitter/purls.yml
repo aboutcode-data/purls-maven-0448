@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/wolfy87-eventemitter@4.2.11
 - pkg:maven/org.webjars.npm/wolfy87-eventemitter@4.2.11?classifier=sources
+- pkg:maven/org.webjars.npm/wolfy87-eventemitter@5.2.9
+- pkg:maven/org.webjars.npm/wolfy87-eventemitter@5.2.9?classifier=sources

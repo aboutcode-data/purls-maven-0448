@@ -4,6 +4,8 @@
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.4-30a57b9?classifier=sources
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-089f71a
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-089f71a?classifier=sources
+- pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-10-d69e62c
+- pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-10-d69e62c?classifier=sources
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-18-8b53db4
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-18-8b53db4?classifier=sources
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-2-6687023
@@ -38,6 +40,8 @@
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-6e32e73?classifier=sources
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-766988d
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-766988d?classifier=sources
+- pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-8-6987ac1
+- pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-8-6987ac1?classifier=sources
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-8bf1517
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-8bf1517?classifier=sources
 - pkg:maven/co.fs2/fs2-core_3.0.0-M1@2.5-90ea652

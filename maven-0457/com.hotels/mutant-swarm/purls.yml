@@ -2,3 +2,5 @@
 - pkg:maven/com.hotels/mutant-swarm@0.0.1?classifier=sources
 - pkg:maven/com.hotels/mutant-swarm@1.0.0
 - pkg:maven/com.hotels/mutant-swarm@1.0.0?classifier=sources
+- pkg:maven/com.hotels/mutant-swarm@1.1.0
+- pkg:maven/com.hotels/mutant-swarm@1.1.0?classifier=sources

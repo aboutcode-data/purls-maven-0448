@@ -1,0 +1,13 @@
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.0.0?classifier=sources
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.0.0?type=aar
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.0.1?classifier=sources
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.0.1?type=aar
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.0.2?classifier=sources
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.0.2?type=aar
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.1.0?classifier=sources
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.1.0?type=aar
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.1.1?classifier=sources
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.1.1?type=aar
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.2.1?classifier=sources
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.2.1?type=aar
+- pkg:maven/com.afollestad.material-dialogs/bottomsheets@3.3.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/de.jensklingenberg.cabret/cabret-compiler-plugin@1.0.0
+- pkg:maven/de.jensklingenberg.cabret/cabret-compiler-plugin@1.0.0?classifier=sources
+- pkg:maven/de.jensklingenberg.cabret/cabret-compiler-plugin@1.0.1
+- pkg:maven/de.jensklingenberg.cabret/cabret-compiler-plugin@1.0.1?classifier=sources
+- pkg:maven/de.jensklingenberg.cabret/cabret-compiler-plugin@1.0.2?classifier=sources

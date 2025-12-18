@@ -1,0 +1,2 @@
+- pkg:maven/com.bazaarvoice.bvkotlinsdk/conversations@1.0.0?classifier=sources
+- pkg:maven/com.bazaarvoice.bvkotlinsdk/conversations@1.0.0?type=aar

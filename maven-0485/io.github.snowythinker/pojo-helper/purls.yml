@@ -1,0 +1,2 @@
+- pkg:maven/io.github.snowythinker/pojo-helper@0.0.5-RELEASE
+- pkg:maven/io.github.snowythinker/pojo-helper@0.0.5-RELEASE?classifier=sources

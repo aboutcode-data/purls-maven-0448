@@ -54,3 +54,5 @@
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-cats-effect_2.12@2.6.3?classifier=sources
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-cats-effect_2.12@2.7.0
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-cats-effect_2.12@2.7.0?classifier=sources
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-cats-effect_2.12@2.7.1
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-cats-effect_2.12@2.7.1?classifier=sources

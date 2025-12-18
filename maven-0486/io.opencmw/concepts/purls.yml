@@ -1,0 +1,2 @@
+- pkg:maven/io.opencmw/concepts@11.0.0
+- pkg:maven/io.opencmw/concepts@11.0.0?classifier=sources

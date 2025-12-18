@@ -38,6 +38,8 @@
 - pkg:maven/sh.almond/logger_2.12@0.10.8?classifier=sources
 - pkg:maven/sh.almond/logger_2.12@0.10.9
 - pkg:maven/sh.almond/logger_2.12@0.10.9?classifier=sources
+- pkg:maven/sh.almond/logger_2.12@0.11.0
+- pkg:maven/sh.almond/logger_2.12@0.11.0?classifier=sources
 - pkg:maven/sh.almond/logger_2.12@0.2.0
 - pkg:maven/sh.almond/logger_2.12@0.2.0?classifier=sources
 - pkg:maven/sh.almond/logger_2.12@0.2.1

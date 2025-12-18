@@ -16,6 +16,8 @@
 - pkg:maven/ws.unfiltered/unfiltered-netty-server_2.13@0.10.0-M9
 - pkg:maven/ws.unfiltered/unfiltered-netty-server_2.13@0.10.0-M9?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-netty-server_2.13@0.10.0?classifier=sources
+- pkg:maven/ws.unfiltered/unfiltered-netty-server_2.13@0.10.1
+- pkg:maven/ws.unfiltered/unfiltered-netty-server_2.13@0.10.1?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-netty-server_2.13@0.11.0-M1
 - pkg:maven/ws.unfiltered/unfiltered-netty-server_2.13@0.11.0-M1?classifier=sources
 - pkg:maven/ws.unfiltered/unfiltered-netty-server_2.13@0.11.0-M2

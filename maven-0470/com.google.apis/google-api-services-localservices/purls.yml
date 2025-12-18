@@ -6,3 +6,5 @@
 - pkg:maven/com.google.apis/google-api-services-localservices@v1-rev20201016-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-localservices@v1-rev20201016-1.31.0
 - pkg:maven/com.google.apis/google-api-services-localservices@v1-rev20201016-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-localservices@v1-rev20201213-1.31.0
+- pkg:maven/com.google.apis/google-api-services-localservices@v1-rev20201213-1.31.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.wywuzh/commons-dbutils@2.3.6.RELEASE
+- pkg:maven/com.github.wywuzh/commons-dbutils@2.3.6.RELEASE?classifier=sources
+- pkg:maven/com.github.wywuzh/commons-dbutils@2.3.7.RELEASE
+- pkg:maven/com.github.wywuzh/commons-dbutils@2.3.7.RELEASE?classifier=sources

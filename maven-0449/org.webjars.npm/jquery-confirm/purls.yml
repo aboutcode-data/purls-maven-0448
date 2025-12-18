@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/jquery-confirm@3.3.2
 - pkg:maven/org.webjars.npm/jquery-confirm@3.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/jquery-confirm@3.3.4
+- pkg:maven/org.webjars.npm/jquery-confirm@3.3.4?classifier=sources

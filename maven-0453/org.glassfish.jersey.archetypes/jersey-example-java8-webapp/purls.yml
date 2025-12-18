@@ -37,3 +37,4 @@
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-example-java8-webapp@3.0.0-M6?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-example-java8-webapp@3.0.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-example-java8-webapp@3.0.0?classifier=sources
+- pkg:maven/org.glassfish.jersey.archetypes/jersey-example-java8-webapp@3.0.1?classifier=sources

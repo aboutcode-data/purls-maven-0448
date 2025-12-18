@@ -6,3 +6,5 @@
 - pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector-testutils@1.0.0-M3?classifier=sources
 - pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector-testutils@1.0.0-M4
 - pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector-testutils@1.0.0-M4?classifier=sources
+- pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector-testutils@1.0.0-M5
+- pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector-testutils@1.0.0-M5?classifier=sources

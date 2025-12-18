@@ -130,3 +130,5 @@
 - pkg:maven/com.airbnb.android/lottie@3.4.4?type=aar
 - pkg:maven/com.airbnb.android/lottie@3.5.0?classifier=sources
 - pkg:maven/com.airbnb.android/lottie@3.5.0?type=aar
+- pkg:maven/com.airbnb.android/lottie@3.6.0?classifier=sources
+- pkg:maven/com.airbnb.android/lottie@3.6.1?classifier=sources

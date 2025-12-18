@@ -22,3 +22,5 @@
 - pkg:maven/org.graylog2/gelfclient@1.4.4?classifier=sources
 - pkg:maven/org.graylog2/gelfclient@1.5.0
 - pkg:maven/org.graylog2/gelfclient@1.5.0?classifier=sources
+- pkg:maven/org.graylog2/gelfclient@1.5.1
+- pkg:maven/org.graylog2/gelfclient@1.5.1?classifier=sources

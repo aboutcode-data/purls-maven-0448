@@ -1,1 +1,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-security@5.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-security@5.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-security@5.7.0
+- pkg:maven/org.eclipse.dirigible/dirigible-security@5.7.1
+- pkg:maven/org.eclipse.dirigible/dirigible-security@5.8.0
+- pkg:maven/org.eclipse.dirigible/dirigible-security@5.8.1
+- pkg:maven/org.eclipse.dirigible/dirigible-security@5.8.2

@@ -1,0 +1,4 @@
+- pkg:maven/network.nerve/heterogeneous-tool@1.0.8-BETA
+- pkg:maven/network.nerve/heterogeneous-tool@1.0.8-BETA?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.0.8-android-BETA
+- pkg:maven/network.nerve/heterogeneous-tool@1.0.8-android-BETA?classifier=sources

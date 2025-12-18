@@ -13,4 +13,5 @@
 - pkg:maven/com.day.commons/day-commons-gfx@2.1.28?classifier=sources
 - pkg:maven/com.day.commons/day-commons-gfx@2.1.2?classifier=sources
 - pkg:maven/com.day.commons/day-commons-gfx@2.1.4?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.1.50?classifier=sources
 - pkg:maven/com.day.commons/day-commons-gfx@2.1.8?classifier=sources

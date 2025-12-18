@@ -1,0 +1,2 @@
+- pkg:maven/it.unibo.tuprolog.argumentation/core-js@0.1.0-archeo%2B4a6f56f?classifier=sources
+- pkg:maven/it.unibo.tuprolog.argumentation/core-js@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.fullfacing/keycloak4s-authz-client_2.12@2.4.0
+- pkg:maven/com.fullfacing/keycloak4s-authz-client_2.12@2.4.0?classifier=sources

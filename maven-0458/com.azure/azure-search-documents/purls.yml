@@ -14,9 +14,13 @@
 - pkg:maven/com.azure/azure-search-documents@11.1.1?classifier=sources
 - pkg:maven/com.azure/azure-search-documents@11.1.2
 - pkg:maven/com.azure/azure-search-documents@11.1.2?classifier=sources
+- pkg:maven/com.azure/azure-search-documents@11.1.3
+- pkg:maven/com.azure/azure-search-documents@11.1.3?classifier=sources
+- pkg:maven/com.azure/azure-search-documents@11.2.0
 - pkg:maven/com.azure/azure-search-documents@11.2.0-beta.1
 - pkg:maven/com.azure/azure-search-documents@11.2.0-beta.1?classifier=sources
 - pkg:maven/com.azure/azure-search-documents@11.2.0-beta.2
 - pkg:maven/com.azure/azure-search-documents@11.2.0-beta.2?classifier=sources
 - pkg:maven/com.azure/azure-search-documents@11.2.0-beta.3
 - pkg:maven/com.azure/azure-search-documents@11.2.0-beta.3?classifier=sources
+- pkg:maven/com.azure/azure-search-documents@11.2.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.expediagroup.apiary/apiary-receiver-sqs@6.0.2?classifier=sources
 - pkg:maven/com.expediagroup.apiary/apiary-receiver-sqs@7.0.0
 - pkg:maven/com.expediagroup.apiary/apiary-receiver-sqs@7.0.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-receiver-sqs@7.1.0
+- pkg:maven/com.expediagroup.apiary/apiary-receiver-sqs@7.1.0?classifier=sources

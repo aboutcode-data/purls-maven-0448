@@ -206,6 +206,8 @@
 - pkg:maven/org.kohsuke.stapler/stapler-jelly@1.260?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler-jelly@1.261
 - pkg:maven/org.kohsuke.stapler/stapler-jelly@1.261?classifier=sources
+- pkg:maven/org.kohsuke.stapler/stapler-jelly@1.262
+- pkg:maven/org.kohsuke.stapler/stapler-jelly@1.262?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler-jelly@1.97
 - pkg:maven/org.kohsuke.stapler/stapler-jelly@1.97?classifier=sources
 - pkg:maven/org.kohsuke.stapler/stapler-jelly@1.98

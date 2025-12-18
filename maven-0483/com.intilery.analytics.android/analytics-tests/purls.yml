@@ -1,0 +1,2 @@
+- pkg:maven/com.intilery.analytics.android/analytics-tests@1.0.0
+- pkg:maven/com.intilery.analytics.android/analytics-tests@1.0.0?classifier=sources

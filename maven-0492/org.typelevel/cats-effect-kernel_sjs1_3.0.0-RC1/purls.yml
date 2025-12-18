@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/cats-effect-kernel_sjs1_3.0.0-RC1@3.0.0-RC2
+- pkg:maven/org.typelevel/cats-effect-kernel_sjs1_3.0.0-RC1@3.0.0-RC2?classifier=sources

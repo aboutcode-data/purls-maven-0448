@@ -4,3 +4,5 @@
 - pkg:maven/com.haoxuer.discover/discover-common-chain@2.0.2?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-common-chain@2.0.3
 - pkg:maven/com.haoxuer.discover/discover-common-chain@2.0.3?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-common-chain@3.2.6-20210222
+- pkg:maven/com.haoxuer.discover/discover-common-chain@3.2.6-20210222?classifier=sources

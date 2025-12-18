@@ -26,3 +26,5 @@
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-core_2.13@2.6.3?classifier=sources
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-core_2.13@2.7.0
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-core_2.13@2.7.0?classifier=sources
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-core_2.13@2.7.1
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-core_2.13@2.7.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/xyz.erupt/erupt-tpl-ui.ant-design@1.6.5
+- pkg:maven/xyz.erupt/erupt-tpl-ui.ant-design@1.6.5?classifier=sources
+- pkg:maven/xyz.erupt/erupt-tpl-ui.ant-design@1.6.7
+- pkg:maven/xyz.erupt/erupt-tpl-ui.ant-design@1.6.7?classifier=sources

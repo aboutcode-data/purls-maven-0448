@@ -29,3 +29,4 @@
 - pkg:maven/org.languagetool/language-all@4.9
 - pkg:maven/org.languagetool/language-all@5.0
 - pkg:maven/org.languagetool/language-all@5.1
+- pkg:maven/org.languagetool/language-all@5.2

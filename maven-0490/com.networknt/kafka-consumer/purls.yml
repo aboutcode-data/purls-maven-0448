@@ -6,3 +6,7 @@
 - pkg:maven/com.networknt/kafka-consumer@2.0.20?classifier=sources
 - pkg:maven/com.networknt/kafka-consumer@2.0.21
 - pkg:maven/com.networknt/kafka-consumer@2.0.21?classifier=sources
+- pkg:maven/com.networknt/kafka-consumer@2.0.22
+- pkg:maven/com.networknt/kafka-consumer@2.0.22?classifier=sources
+- pkg:maven/com.networknt/kafka-consumer@2.0.23
+- pkg:maven/com.networknt/kafka-consumer@2.0.23?classifier=sources

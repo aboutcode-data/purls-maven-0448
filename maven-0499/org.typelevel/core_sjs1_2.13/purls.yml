@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/core_sjs1_2.13@1.0.0-M2
+- pkg:maven/org.typelevel/core_sjs1_2.13@1.0.0-M2?classifier=sources

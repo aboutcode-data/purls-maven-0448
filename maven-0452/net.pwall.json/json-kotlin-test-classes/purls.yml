@@ -20,3 +20,5 @@
 - pkg:maven/net.pwall.json/json-kotlin-test-classes@1.4.3
 - pkg:maven/net.pwall.json/json-kotlin-test-classes@1.4.3?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-test-classes@1.4?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-test-classes@1.5
+- pkg:maven/net.pwall.json/json-kotlin-test-classes@1.5?classifier=sources

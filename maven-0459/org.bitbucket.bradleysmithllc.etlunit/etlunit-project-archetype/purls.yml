@@ -149,6 +149,14 @@
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.1.8?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.1.9?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.2.0?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.3.0-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.3.1-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.3.2-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.3.3-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.3.4-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.3.5-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.3.6-eu?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@4.3.7-eu?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@etlunit-4.2.1?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@etlunit-4.2.2?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/etlunit-project-archetype@etlunit-4.2.3?classifier=sources

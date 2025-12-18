@@ -34,6 +34,8 @@
 - pkg:maven/com.softwaresecured.reshift/maven-plugin@1.0.26?classifier=sources
 - pkg:maven/com.softwaresecured.reshift/maven-plugin@1.0.27
 - pkg:maven/com.softwaresecured.reshift/maven-plugin@1.0.27?classifier=sources
+- pkg:maven/com.softwaresecured.reshift/maven-plugin@1.0.28
+- pkg:maven/com.softwaresecured.reshift/maven-plugin@1.0.28?classifier=sources
 - pkg:maven/com.softwaresecured.reshift/maven-plugin@1.0.8
 - pkg:maven/com.softwaresecured.reshift/maven-plugin@1.0.8?classifier=sources
 - pkg:maven/com.softwaresecured.reshift/maven-plugin@1.0.9

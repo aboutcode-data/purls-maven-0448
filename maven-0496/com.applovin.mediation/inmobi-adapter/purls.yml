@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/inmobi-adapter@9.1.1.4?classifier=sources
+- pkg:maven/com.applovin.mediation/inmobi-adapter@9.1.1.4?type=aar

@@ -8,5 +8,11 @@
 - pkg:maven/com.mchange/solcj-compat@0.4.24rev2?classifier=sources
 - pkg:maven/com.mchange/solcj-compat@0.5.16rev1
 - pkg:maven/com.mchange/solcj-compat@0.5.16rev1?classifier=sources
+- pkg:maven/com.mchange/solcj-compat@0.6.12rev1
+- pkg:maven/com.mchange/solcj-compat@0.6.12rev1?classifier=sources
 - pkg:maven/com.mchange/solcj-compat@0.6.2rev1
 - pkg:maven/com.mchange/solcj-compat@0.6.2rev1?classifier=sources
+- pkg:maven/com.mchange/solcj-compat@0.7.6rev1
+- pkg:maven/com.mchange/solcj-compat@0.7.6rev1?classifier=sources
+- pkg:maven/com.mchange/solcj-compat@0.8.1rev1
+- pkg:maven/com.mchange/solcj-compat@0.8.1rev1?classifier=sources

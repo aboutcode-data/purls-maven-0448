@@ -3,3 +3,5 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-loadbalancer@14.1.1-0-3
 - pkg:maven/com.oracle.coherence.ce/coherence-loadbalancer@20.06
 - pkg:maven/com.oracle.coherence.ce/coherence-loadbalancer@20.06.1
+- pkg:maven/com.oracle.coherence.ce/coherence-loadbalancer@20.12
+- pkg:maven/com.oracle.coherence.ce/coherence-loadbalancer@20.12.1

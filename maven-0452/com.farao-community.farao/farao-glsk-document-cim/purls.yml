@@ -1,0 +1,4 @@
+- pkg:maven/com.farao-community.farao/farao-glsk-document-cim@2.2.0
+- pkg:maven/com.farao-community.farao/farao-glsk-document-cim@2.2.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-glsk-document-cim@2.3.0
+- pkg:maven/com.farao-community.farao/farao-glsk-document-cim@2.3.0?classifier=sources

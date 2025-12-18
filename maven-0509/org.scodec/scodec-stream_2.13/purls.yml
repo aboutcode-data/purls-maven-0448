@@ -1,3 +1,13 @@
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-101-ff89160
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-101-ff89160?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-103-cd4fb57
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-103-cd4fb57?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-105-0d906dc
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-105-0d906dc?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-107-1b1625c
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-107-1b1625c?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-109-06b4e33
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-109-06b4e33?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-2f45cd6
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-2f45cd6?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-6cdd95f
@@ -16,6 +26,14 @@
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-838a8c1?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-84-2d7a181
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-84-2d7a181?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-86-79587dc
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-86-79587dc?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-87-de6baab
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-87-de6baab?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-96-fb9a3a5
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-96-fb9a3a5?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-98-0945f92
+- pkg:maven/org.scodec/scodec-stream_2.13@2.0-98-0945f92?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-a64157c
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-a64157c?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-c99d11d
@@ -24,3 +42,7 @@
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0-f00b00d?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0.0
 - pkg:maven/org.scodec/scodec-stream_2.13@2.0.0?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@3.0-89-8ba5529
+- pkg:maven/org.scodec/scodec-stream_2.13@3.0-89-8ba5529?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_2.13@3.0-91-50ae289
+- pkg:maven/org.scodec/scodec-stream_2.13@3.0-91-50ae289?classifier=sources

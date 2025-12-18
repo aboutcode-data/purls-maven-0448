@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lynxcat/micrometer-rigistry-nightingale-boot-starter@1.6.3
+- pkg:maven/com.github.lynxcat/micrometer-rigistry-nightingale-boot-starter@1.6.3?classifier=sources

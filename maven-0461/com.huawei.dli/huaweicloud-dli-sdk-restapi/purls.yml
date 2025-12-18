@@ -1,0 +1,2 @@
+- pkg:maven/com.huawei.dli/huaweicloud-dli-sdk-restapi@1.2.7
+- pkg:maven/com.huawei.dli/huaweicloud-dli-sdk-restapi@1.2.7?classifier=sources

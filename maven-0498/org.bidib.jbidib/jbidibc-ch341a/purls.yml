@@ -28,6 +28,16 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.12.8?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.12.9
 - pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.12.9?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.0
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.0?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.1
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.1?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.2
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.2?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.3
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.3?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.4
+- pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.13.4?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.9.2
 - pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.9.2?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-ch341a@1.9.3

@@ -40,3 +40,5 @@
 - pkg:maven/com.github.fanzezhen.common/common-security@2.0.3?classifier=sources
 - pkg:maven/com.github.fanzezhen.common/common-security@2.0.4
 - pkg:maven/com.github.fanzezhen.common/common-security@2.0.4?classifier=sources
+- pkg:maven/com.github.fanzezhen.common/common-security@2.0.5
+- pkg:maven/com.github.fanzezhen.common/common-security@2.0.5?classifier=sources

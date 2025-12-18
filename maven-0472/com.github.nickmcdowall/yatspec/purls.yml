@@ -1,5 +1,9 @@
 - pkg:maven/com.github.nickmcdowall/yatspec@2020.3.10
 - pkg:maven/com.github.nickmcdowall/yatspec@2020.3.10?classifier=sources
+- pkg:maven/com.github.nickmcdowall/yatspec@2020.3.11
+- pkg:maven/com.github.nickmcdowall/yatspec@2020.3.11?classifier=sources
+- pkg:maven/com.github.nickmcdowall/yatspec@2020.3.12
+- pkg:maven/com.github.nickmcdowall/yatspec@2020.3.12?classifier=sources
 - pkg:maven/com.github.nickmcdowall/yatspec@2020.3.6
 - pkg:maven/com.github.nickmcdowall/yatspec@2020.3.6?classifier=sources
 - pkg:maven/com.github.nickmcdowall/yatspec@2020.3.7
@@ -8,3 +12,5 @@
 - pkg:maven/com.github.nickmcdowall/yatspec@2020.3.8?classifier=sources
 - pkg:maven/com.github.nickmcdowall/yatspec@2020.3.9
 - pkg:maven/com.github.nickmcdowall/yatspec@2020.3.9?classifier=sources
+- pkg:maven/com.github.nickmcdowall/yatspec@2021.0.2
+- pkg:maven/com.github.nickmcdowall/yatspec@2021.0.2?classifier=sources

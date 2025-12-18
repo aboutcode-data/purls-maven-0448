@@ -1,2 +1,8 @@
 - pkg:maven/com.github.bitmc/checkstyle@8.35.0
 - pkg:maven/com.github.bitmc/checkstyle@8.35.0?classifier=sources
+- pkg:maven/com.github.bitmc/checkstyle@8.38.0
+- pkg:maven/com.github.bitmc/checkstyle@8.38.0?classifier=sources
+- pkg:maven/com.github.bitmc/checkstyle@8.38.1
+- pkg:maven/com.github.bitmc/checkstyle@8.38.1?classifier=sources
+- pkg:maven/com.github.bitmc/checkstyle@8.39.0
+- pkg:maven/com.github.bitmc/checkstyle@8.39.0?classifier=sources

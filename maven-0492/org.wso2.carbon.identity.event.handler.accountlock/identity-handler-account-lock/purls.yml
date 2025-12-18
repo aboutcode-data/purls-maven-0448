@@ -10,6 +10,14 @@
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.11?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.13?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.4.3?classifier=source-release&type=zip

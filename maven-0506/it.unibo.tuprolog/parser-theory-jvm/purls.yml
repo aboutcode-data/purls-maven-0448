@@ -10,3 +10,6 @@
 - pkg:maven/it.unibo.tuprolog/parser-theory-jvm@0.13.0?classifier=sources
 - pkg:maven/it.unibo.tuprolog/parser-theory-jvm@0.14.11?classifier=sources
 - pkg:maven/it.unibo.tuprolog/parser-theory-jvm@0.15.0?classifier=sources
+- pkg:maven/it.unibo.tuprolog/parser-theory-jvm@0.15.2?classifier=sources
+- pkg:maven/it.unibo.tuprolog/parser-theory-jvm@0.16.0?classifier=sources
+- pkg:maven/it.unibo.tuprolog/parser-theory-jvm@0.16.1?classifier=sources

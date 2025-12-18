@@ -1,2 +1,4 @@
 - pkg:maven/com.farao-community.ortools/ortools-java@7.8.7959
 - pkg:maven/com.farao-community.ortools/ortools-java@7.8.7959?classifier=sources
+- pkg:maven/com.farao-community.ortools/ortools-java@7.8.9999
+- pkg:maven/com.farao-community.ortools/ortools-java@7.8.9999?classifier=sources

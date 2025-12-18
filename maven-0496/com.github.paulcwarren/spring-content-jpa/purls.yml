@@ -78,3 +78,9 @@
 - pkg:maven/com.github.paulcwarren/spring-content-jpa@1.1.0.M4?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-jpa@1.1.0.M5
 - pkg:maven/com.github.paulcwarren/spring-content-jpa@1.1.0.M5?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-jpa@1.2.0
+- pkg:maven/com.github.paulcwarren/spring-content-jpa@1.2.0?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-jpa@1.2.1
+- pkg:maven/com.github.paulcwarren/spring-content-jpa@1.2.1?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-jpa@v1.2.0
+- pkg:maven/com.github.paulcwarren/spring-content-jpa@v1.2.0?classifier=sources

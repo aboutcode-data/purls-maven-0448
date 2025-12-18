@@ -10,3 +10,5 @@
 - pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@3.0.0?classifier=sources
 - pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@4.0.0
 - pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@4.0.0?classifier=sources
+- pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@4.1.0
+- pkg:maven/org.everit.jetty/org.everit.jetty.server.ecm@4.1.0?classifier=sources

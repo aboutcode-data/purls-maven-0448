@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shynixn.org.bstats/bstats-bukkit@1.7
+- pkg:maven/com.github.shynixn.org.bstats/bstats-bukkit@1.7?classifier=sources

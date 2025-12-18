@@ -1,0 +1,2 @@
+- pkg:maven/com.whosly.rapid/rapid-strategy@1.2.0-RELEASE
+- pkg:maven/com.whosly.rapid/rapid-strategy@1.2.0-RELEASE?classifier=sources

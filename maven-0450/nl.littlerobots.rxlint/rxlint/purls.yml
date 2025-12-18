@@ -28,3 +28,5 @@
 - pkg:maven/nl.littlerobots.rxlint/rxlint@1.7.5?type=aar
 - pkg:maven/nl.littlerobots.rxlint/rxlint@1.7.6?classifier=sources
 - pkg:maven/nl.littlerobots.rxlint/rxlint@1.7.6?type=aar
+- pkg:maven/nl.littlerobots.rxlint/rxlint@1.7.7?classifier=sources
+- pkg:maven/nl.littlerobots.rxlint/rxlint@1.7.7?type=aar

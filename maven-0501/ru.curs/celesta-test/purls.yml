@@ -1,0 +1,2 @@
+- pkg:maven/ru.curs/celesta-test@7.3.33
+- pkg:maven/ru.curs/celesta-test@7.3.33?classifier=sources

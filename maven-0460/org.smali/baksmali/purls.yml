@@ -50,3 +50,6 @@
 - pkg:maven/org.smali/baksmali@2.3?classifier=sources
 - pkg:maven/org.smali/baksmali@2.4.0
 - pkg:maven/org.smali/baksmali@2.4.0?classifier=sources
+- pkg:maven/org.smali/baksmali@2.5.0?classifier=sources
+- pkg:maven/org.smali/baksmali@2.5.1?classifier=sources
+- pkg:maven/org.smali/baksmali@2.5.2?classifier=sources

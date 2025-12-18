@@ -76,3 +76,9 @@
 - pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@1.85?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@1.86
 - pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@1.86?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@1.89
+- pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@1.89?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@2.0.0
+- pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@2.0.0?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@2.0.3
+- pkg:maven/com.playtika.testcontainers/embedded-google-pubsub@2.0.3?classifier=sources

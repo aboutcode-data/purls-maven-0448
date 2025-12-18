@@ -14,3 +14,5 @@
 - pkg:maven/com.outegret/scene-coupon@1.4.5.RELEASE?classifier=sources
 - pkg:maven/com.outegret/scene-coupon@1.5.0.RELEASE
 - pkg:maven/com.outegret/scene-coupon@1.5.0.RELEASE?classifier=sources
+- pkg:maven/com.outegret/scene-coupon@1.5.1.RELEASE
+- pkg:maven/com.outegret/scene-coupon@1.5.1.RELEASE?classifier=sources

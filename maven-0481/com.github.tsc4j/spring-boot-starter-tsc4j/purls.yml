@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tsc4j/spring-boot-starter-tsc4j@0.5.3?classifier=sources
+- pkg:maven/com.github.tsc4j/spring-boot-starter-tsc4j@0.5.4?classifier=sources

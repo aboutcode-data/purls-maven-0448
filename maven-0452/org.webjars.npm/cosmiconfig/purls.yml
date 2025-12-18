@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/cosmiconfig@5.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/cosmiconfig@6.0.0
 - pkg:maven/org.webjars.npm/cosmiconfig@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/cosmiconfig@7.0.0
+- pkg:maven/org.webjars.npm/cosmiconfig@7.0.0?classifier=sources

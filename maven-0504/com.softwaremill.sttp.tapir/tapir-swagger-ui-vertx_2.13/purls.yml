@@ -1,0 +1,8 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-swagger-ui-vertx_2.13@0.17.10
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-swagger-ui-vertx_2.13@0.17.10?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-swagger-ui-vertx_2.13@0.17.11
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-swagger-ui-vertx_2.13@0.17.11?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-swagger-ui-vertx_2.13@0.17.12
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-swagger-ui-vertx_2.13@0.17.12?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-swagger-ui-vertx_2.13@0.17.9
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-swagger-ui-vertx_2.13@0.17.9?classifier=sources

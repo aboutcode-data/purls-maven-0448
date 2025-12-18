@@ -1,0 +1,6 @@
+- pkg:maven/de.tebros.inputcontrol/inputcontrol-api@1.0.0
+- pkg:maven/de.tebros.inputcontrol/inputcontrol-api@1.0.0?classifier=sources
+- pkg:maven/de.tebros.inputcontrol/inputcontrol-api@2.0.0
+- pkg:maven/de.tebros.inputcontrol/inputcontrol-api@2.0.0?classifier=sources
+- pkg:maven/de.tebros.inputcontrol/inputcontrol-api@2.2.0
+- pkg:maven/de.tebros.inputcontrol/inputcontrol-api@2.2.0?classifier=sources

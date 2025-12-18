@@ -1,0 +1,4 @@
+- pkg:maven/com.alexitc/sjs-material-ui-facade_sjs1_2.13@0.1.2
+- pkg:maven/com.alexitc/sjs-material-ui-facade_sjs1_2.13@0.1.2?classifier=sources
+- pkg:maven/com.alexitc/sjs-material-ui-facade_sjs1_2.13@0.1.3
+- pkg:maven/com.alexitc/sjs-material-ui-facade_sjs1_2.13@0.1.3?classifier=sources

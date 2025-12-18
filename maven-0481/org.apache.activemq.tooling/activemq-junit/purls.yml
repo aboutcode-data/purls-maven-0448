@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.9?classifier=sources
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.16.0
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.16.0?classifier=sources
+- pkg:maven/org.apache.activemq.tooling/activemq-junit@5.16.1
+- pkg:maven/org.apache.activemq.tooling/activemq-junit@5.16.1?classifier=sources

@@ -70,3 +70,9 @@
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@6.7.0.14237?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@7.0.1.14561
 - pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@7.0.1.14561?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@7.1.0.14721
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@7.1.0.14721?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@7.2.0.14938
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@7.2.0.14938?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@7.2.1.14998
+- pkg:maven/org.sonarsource.javascript/javascript-checks-testkit@7.2.1.14998?classifier=sources

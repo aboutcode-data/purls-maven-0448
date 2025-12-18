@@ -12,3 +12,7 @@
 - pkg:maven/com.azure/azure-core-management@1.0.0-preview.4
 - pkg:maven/com.azure/azure-core-management@1.0.0-preview.4?classifier=sources
 - pkg:maven/com.azure/azure-core-management@1.0.0?classifier=sources
+- pkg:maven/com.azure/azure-core-management@1.1.0
+- pkg:maven/com.azure/azure-core-management@1.1.0?classifier=sources
+- pkg:maven/com.azure/azure-core-management@1.1.1
+- pkg:maven/com.azure/azure-core-management@1.1.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.redislabs/jrebloom@2.0.0-m2
 - pkg:maven/com.redislabs/jrebloom@2.0.0-m2?classifier=sources
 - pkg:maven/com.redislabs/jrebloom@2.0.0?classifier=sources
+- pkg:maven/com.redislabs/jrebloom@2.1.0
+- pkg:maven/com.redislabs/jrebloom@2.1.0?classifier=sources

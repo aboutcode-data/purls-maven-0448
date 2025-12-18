@@ -14,3 +14,11 @@
 - pkg:maven/org.cqfn.diktat/diktat-test-framework@0.1.6?classifier=sources
 - pkg:maven/org.cqfn.diktat/diktat-test-framework@0.1.7
 - pkg:maven/org.cqfn.diktat/diktat-test-framework@0.1.7?classifier=sources
+- pkg:maven/org.cqfn.diktat/diktat-test-framework@0.2.0
+- pkg:maven/org.cqfn.diktat/diktat-test-framework@0.2.0?classifier=sources
+- pkg:maven/org.cqfn.diktat/diktat-test-framework@0.3.0
+- pkg:maven/org.cqfn.diktat/diktat-test-framework@0.3.0?classifier=sources
+- pkg:maven/org.cqfn.diktat/diktat-test-framework@0.4.0
+- pkg:maven/org.cqfn.diktat/diktat-test-framework@0.4.0?classifier=sources
+- pkg:maven/org.cqfn.diktat/diktat-test-framework@0.4.1
+- pkg:maven/org.cqfn.diktat/diktat-test-framework@0.4.1?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.aliyun.emr/emr-examples_2.11@1.9.0?classifier=sources
 - pkg:maven/com.aliyun.emr/emr-examples_2.11@2.0.0
 - pkg:maven/com.aliyun.emr/emr-examples_2.11@2.0.0?classifier=sources
+- pkg:maven/com.aliyun.emr/emr-examples_2.11@2.2.0
+- pkg:maven/com.aliyun.emr/emr-examples_2.11@2.2.0?classifier=sources

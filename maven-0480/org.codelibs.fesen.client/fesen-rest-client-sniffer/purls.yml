@@ -1,0 +1,2 @@
+- pkg:maven/org.codelibs.fesen.client/fesen-rest-client-sniffer@0.10.0
+- pkg:maven/org.codelibs.fesen.client/fesen-rest-client-sniffer@0.10.0?classifier=sources

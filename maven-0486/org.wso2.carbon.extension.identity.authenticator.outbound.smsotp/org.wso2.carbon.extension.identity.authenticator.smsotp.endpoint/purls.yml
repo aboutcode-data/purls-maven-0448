@@ -16,6 +16,9 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.15?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.15?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.10?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.10?type=war
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.1?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.1?type=war
@@ -25,6 +28,15 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.5?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.5?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.6?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.6?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.7?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.7?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.9?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16.9?type=war
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/org.wso2.carbon.extension.identity.authenticator.smsotp.endpoint@2.0.16?type=war
