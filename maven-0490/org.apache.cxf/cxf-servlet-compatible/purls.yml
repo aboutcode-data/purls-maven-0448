@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.4.5
+- pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.4.5?classifier=sources

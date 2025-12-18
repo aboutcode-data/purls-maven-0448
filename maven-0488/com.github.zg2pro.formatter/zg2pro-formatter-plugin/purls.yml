@@ -1,4 +1,6 @@
 - pkg:maven/com.github.zg2pro.formatter/zg2pro-formatter-plugin@0.1
+- pkg:maven/com.github.zg2pro.formatter/zg2pro-formatter-plugin@0.10
+- pkg:maven/com.github.zg2pro.formatter/zg2pro-formatter-plugin@0.10?classifier=sources
 - pkg:maven/com.github.zg2pro.formatter/zg2pro-formatter-plugin@0.2
 - pkg:maven/com.github.zg2pro.formatter/zg2pro-formatter-plugin@0.2?classifier=sources
 - pkg:maven/com.github.zg2pro.formatter/zg2pro-formatter-plugin@0.3

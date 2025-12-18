@@ -5,3 +5,5 @@
 - pkg:maven/com.motorro.rxlcemodel/disklrucache@3.0.1?classifier=sources
 - pkg:maven/com.motorro.rxlcemodel/disklrucache@3.1.0?classifier=sources
 - pkg:maven/com.motorro.rxlcemodel/disklrucache@3.2.0?classifier=sources
+- pkg:maven/com.motorro.rxlcemodel/disklrucache@3.3.0?classifier=sources
+- pkg:maven/com.motorro.rxlcemodel/disklrucache@3.4.0?classifier=sources

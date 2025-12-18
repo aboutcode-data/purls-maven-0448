@@ -2,3 +2,5 @@
 - pkg:maven/one.empty3/empty3-library-3d-android@2021.4.7?classifier=sources
 - pkg:maven/one.empty3/empty3-library-3d-android@2021.5-2
 - pkg:maven/one.empty3/empty3-library-3d-android@2021.5-2?classifier=sources
+- pkg:maven/one.empty3/empty3-library-3d-android@2021.9.2
+- pkg:maven/one.empty3/empty3-library-3d-android@2021.9.2?classifier=sources

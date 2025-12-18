@@ -37,4 +37,5 @@
 - pkg:maven/org.hornetq/hornetq-native@2.4.5.Final?classifier=sources
 - pkg:maven/org.hornetq/hornetq-native@2.4.6.Final?classifier=sources
 - pkg:maven/org.hornetq/hornetq-native@2.4.7.Final?classifier=sources
+- pkg:maven/org.hornetq/hornetq-native@2.4.8.Final?classifier=sources
 - pkg:maven/org.hornetq/hornetq-native@2.5.0.Beta1?classifier=sources

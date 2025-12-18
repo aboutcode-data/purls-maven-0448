@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@4.0.1?classifier=sources
 - pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@5.0.0
 - pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@5.0.0?classifier=sources
+- pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@6.0.0
+- pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@6.0.0?classifier=sources

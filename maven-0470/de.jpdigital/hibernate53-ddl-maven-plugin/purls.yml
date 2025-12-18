@@ -1,2 +1,4 @@
 - pkg:maven/de.jpdigital/hibernate53-ddl-maven-plugin@2.3.0
 - pkg:maven/de.jpdigital/hibernate53-ddl-maven-plugin@2.3.0?classifier=sources
+- pkg:maven/de.jpdigital/hibernate53-ddl-maven-plugin@2.4.0
+- pkg:maven/de.jpdigital/hibernate53-ddl-maven-plugin@2.4.0?classifier=sources

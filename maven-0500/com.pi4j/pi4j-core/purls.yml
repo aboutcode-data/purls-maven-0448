@@ -14,3 +14,5 @@
 - pkg:maven/com.pi4j/pi4j-core@1.4?classifier=sources
 - pkg:maven/com.pi4j/pi4j-core@2.0
 - pkg:maven/com.pi4j/pi4j-core@2.0?classifier=sources
+- pkg:maven/com.pi4j/pi4j-core@2.1.0
+- pkg:maven/com.pi4j/pi4j-core@2.1.0?classifier=sources

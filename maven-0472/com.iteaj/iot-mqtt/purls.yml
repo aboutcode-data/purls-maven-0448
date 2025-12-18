@@ -1,0 +1,4 @@
+- pkg:maven/com.iteaj/iot-mqtt@2.1.0
+- pkg:maven/com.iteaj/iot-mqtt@2.1.0?classifier=sources
+- pkg:maven/com.iteaj/iot-mqtt@2.2.1
+- pkg:maven/com.iteaj/iot-mqtt@2.2.1?classifier=sources

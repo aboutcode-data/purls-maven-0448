@@ -760,3 +760,7 @@
 - pkg:maven/net.serenity-bdd/serenity-junit@2.5.8?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-junit@2.6.0
 - pkg:maven/net.serenity-bdd/serenity-junit@2.6.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-junit@3.0.0
+- pkg:maven/net.serenity-bdd/serenity-junit@3.0.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-junit@3.0.1
+- pkg:maven/net.serenity-bdd/serenity-junit@3.0.1?classifier=sources

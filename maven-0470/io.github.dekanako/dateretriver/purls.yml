@@ -1,0 +1,4 @@
+- pkg:maven/io.github.dekanako/dateretriver@0.10?classifier=sources
+- pkg:maven/io.github.dekanako/dateretriver@0.1?classifier=sources
+- pkg:maven/io.github.dekanako/dateretriver@0.2?classifier=sources
+- pkg:maven/io.github.dekanako/dateretriver@0.5?classifier=sources

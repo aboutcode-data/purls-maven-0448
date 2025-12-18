@@ -92,3 +92,5 @@
 - pkg:maven/net.colesico.framework/colesico-profile@4.5.0?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-profile@4.6.0
 - pkg:maven/net.colesico.framework/colesico-profile@4.6.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-profile@5.0.0
+- pkg:maven/net.colesico.framework/colesico-profile@5.0.0?classifier=sources

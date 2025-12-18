@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/datatables.net-autofill-bs4@2.3.9
+- pkg:maven/org.webjars.npm/datatables.net-autofill-bs4@2.3.9?classifier=sources

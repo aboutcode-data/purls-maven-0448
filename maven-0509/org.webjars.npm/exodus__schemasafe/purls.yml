@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/exodus__schemasafe@1.0.0-rc.3
 - pkg:maven/org.webjars.npm/exodus__schemasafe@1.0.0-rc.3?classifier=sources
+- pkg:maven/org.webjars.npm/exodus__schemasafe@1.0.0-rc.6
+- pkg:maven/org.webjars.npm/exodus__schemasafe@1.0.0-rc.6?classifier=sources

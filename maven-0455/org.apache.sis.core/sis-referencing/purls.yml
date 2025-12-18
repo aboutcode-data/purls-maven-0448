@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.sis.core/sis-referencing@0.8?classifier=sources
 - pkg:maven/org.apache.sis.core/sis-referencing@1.0
 - pkg:maven/org.apache.sis.core/sis-referencing@1.0?classifier=sources
+- pkg:maven/org.apache.sis.core/sis-referencing@1.1
+- pkg:maven/org.apache.sis.core/sis-referencing@1.1?classifier=sources

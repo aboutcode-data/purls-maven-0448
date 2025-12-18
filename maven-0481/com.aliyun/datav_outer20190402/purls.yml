@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/datav_outer20190402@1.9.0
+- pkg:maven/com.aliyun/datav_outer20190402@1.9.0?classifier=sources

@@ -110,6 +110,8 @@
 - pkg:maven/io.mangoo/mangooio-dependencies@6.12.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-dependencies@6.13.0
 - pkg:maven/io.mangoo/mangooio-dependencies@6.13.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-dependencies@6.14.0
+- pkg:maven/io.mangoo/mangooio-dependencies@6.14.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-dependencies@6.2.0
 - pkg:maven/io.mangoo/mangooio-dependencies@6.2.0-Beta1
 - pkg:maven/io.mangoo/mangooio-dependencies@6.2.0-Beta1?classifier=sources

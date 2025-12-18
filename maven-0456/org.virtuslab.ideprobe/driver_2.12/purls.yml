@@ -18,6 +18,12 @@
 - pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.14.0?classifier=sources
 - pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.15.0
 - pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.15.0?classifier=sources
+- pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.16.0
+- pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.16.0?classifier=sources
+- pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.17.0
+- pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.17.0?classifier=sources
+- pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.18.0
+- pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.18.0?classifier=sources
 - pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.2.0
 - pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.2.0?classifier=sources
 - pkg:maven/org.virtuslab.ideprobe/driver_2.12@0.2.1

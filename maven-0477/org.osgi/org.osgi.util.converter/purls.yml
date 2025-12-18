@@ -2,4 +2,6 @@
 - pkg:maven/org.osgi/org.osgi.util.converter@1.0.0?classifier=sources
 - pkg:maven/org.osgi/org.osgi.util.converter@1.0.1
 - pkg:maven/org.osgi/org.osgi.util.converter@1.0.1?classifier=sources
+- pkg:maven/org.osgi/org.osgi.util.converter@1.0.8
 - pkg:maven/org.osgi/org.osgi.util.converter@1.0.8-RC1?classifier=sources
+- pkg:maven/org.osgi/org.osgi.util.converter@1.0.8?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.openftc/apriltag@1.0.0?classifier=sources

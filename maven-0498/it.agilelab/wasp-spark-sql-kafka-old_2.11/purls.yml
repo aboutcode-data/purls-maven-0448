@@ -26,3 +26,11 @@
 - pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.0.2-2.2.1-2.4.0-cdh6.3.3?classifier=sources
 - pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.0.2-2.2.1-2.4.8
 - pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.0.2-2.2.1-2.4.8?classifier=sources
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.1.0-2.2.1-2.4.0-cdh6.3.2
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.1.0-2.2.1-2.4.0-cdh6.3.2?classifier=sources
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.1.0-2.2.1-2.4.0-cdh6.3.3
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.1.0-2.2.1-2.4.0-cdh6.3.3?classifier=sources
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.1.0-2.2.1-2.4.8
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.1.0-2.2.1-2.4.8?classifier=sources
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.1.0-2.4.1-2.4.7-7.1.7.0-551
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-old_2.11@0.1.0-2.4.1-2.4.7-7.1.7.0-551?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/cn.entertech.android/affectivecloud@2.0.0?type=aar
 - pkg:maven/cn.entertech.android/affectivecloud@2.1.0?type=aar
 - pkg:maven/cn.entertech.android/affectivecloud@2.2.0?type=aar
+- pkg:maven/cn.entertech.android/affectivecloud@2.3.0-beta01?type=aar

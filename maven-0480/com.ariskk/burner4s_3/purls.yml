@@ -1,2 +1,4 @@
 - pkg:maven/com.ariskk/burner4s_3@0.1.6
 - pkg:maven/com.ariskk/burner4s_3@0.1.6?classifier=sources
+- pkg:maven/com.ariskk/burner4s_3@0.1.7
+- pkg:maven/com.ariskk/burner4s_3@0.1.7?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/software.amazon.lambda/powertools-parameters@1.7.2?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-parameters@1.7.3
 - pkg:maven/software.amazon.lambda/powertools-parameters@1.7.3?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-parameters@1.8.0
+- pkg:maven/software.amazon.lambda/powertools-parameters@1.8.0?classifier=sources

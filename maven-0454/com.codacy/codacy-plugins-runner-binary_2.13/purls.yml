@@ -52,3 +52,15 @@
 - pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.2.0_play_2.7?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.0_play_2.7
 - pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.1_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.1_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.2_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.2_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.3_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.3_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.4_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.3.4_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.4.0_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.4.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.4.1_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@24.4.1_play_2.7?classifier=sources

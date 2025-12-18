@@ -1,0 +1,10 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.38.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.38.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.39.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.39.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.40.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.40.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.41.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.41.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.42.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-servicestore@1.42.0?classifier=sources

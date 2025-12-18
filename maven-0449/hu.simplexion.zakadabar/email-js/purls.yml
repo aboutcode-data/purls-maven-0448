@@ -1,0 +1,4 @@
+- pkg:maven/hu.simplexion.zakadabar/email-js@2021.10.12?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/email-js@2021.10.14?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/email-js@2021.10.19?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/email-js@2021.10.28?classifier=sources

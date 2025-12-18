@@ -33,6 +33,8 @@
 - pkg:maven/com.geirsson/metaconfig-docs_2.12@0.9.13?classifier=sources
 - pkg:maven/com.geirsson/metaconfig-docs_2.12@0.9.14
 - pkg:maven/com.geirsson/metaconfig-docs_2.12@0.9.14?classifier=sources
+- pkg:maven/com.geirsson/metaconfig-docs_2.12@0.9.15
+- pkg:maven/com.geirsson/metaconfig-docs_2.12@0.9.15?classifier=sources
 - pkg:maven/com.geirsson/metaconfig-docs_2.12@0.9.1?classifier=sources
 - pkg:maven/com.geirsson/metaconfig-docs_2.12@0.9.3
 - pkg:maven/com.geirsson/metaconfig-docs_2.12@0.9.3?classifier=sources

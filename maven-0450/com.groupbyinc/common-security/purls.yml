@@ -158,3 +158,5 @@
 - pkg:maven/com.groupbyinc/common-security@193?classifier=sources
 - pkg:maven/com.groupbyinc/common-security@194
 - pkg:maven/com.groupbyinc/common-security@194?classifier=sources
+- pkg:maven/com.groupbyinc/common-security@195
+- pkg:maven/com.groupbyinc/common-security@195?classifier=sources

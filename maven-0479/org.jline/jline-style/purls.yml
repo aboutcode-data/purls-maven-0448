@@ -32,6 +32,8 @@
 - pkg:maven/org.jline/jline-style@3.19.0?classifier=sources
 - pkg:maven/org.jline/jline-style@3.20.0
 - pkg:maven/org.jline/jline-style@3.20.0?classifier=sources
+- pkg:maven/org.jline/jline-style@3.21.0
+- pkg:maven/org.jline/jline-style@3.21.0?classifier=sources
 - pkg:maven/org.jline/jline-style@3.4.0
 - pkg:maven/org.jline/jline-style@3.4.0?classifier=sources
 - pkg:maven/org.jline/jline-style@3.5.0

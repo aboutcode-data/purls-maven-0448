@@ -1,0 +1,3 @@
+- pkg:maven/com.stuartbeard.iorek/iorek-service@0.0.19?classifier=sources
+- pkg:maven/com.stuartbeard.iorek/iorek-service@0.0.21?classifier=sources
+- pkg:maven/com.stuartbeard.iorek/iorek-service@1.0.0?classifier=sources

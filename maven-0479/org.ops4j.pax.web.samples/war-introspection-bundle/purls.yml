@@ -55,6 +55,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.3.18?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.3.19?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.3.1?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.3.20?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.3.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.3.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.3.4?type=war
@@ -65,3 +66,6 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.3.9?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.4.0?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.4.1?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.4.2?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@7.4.3?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@8.0.0?type=war

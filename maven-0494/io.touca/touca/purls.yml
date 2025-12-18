@@ -1,1 +1,3 @@
 - pkg:maven/io.touca/touca@0.1.0?classifier=sources
+- pkg:maven/io.touca/touca@0.2?classifier=sources
+- pkg:maven/io.touca/touca@0.3.0?classifier=sources

@@ -38,6 +38,8 @@
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.1.2.vaadin6?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.2.13.vaadin1
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.2.13.vaadin1?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.2.13.vaadin2
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.2.13.vaadin2?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.2.3.vaadin1
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.2.3.vaadin1?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.2.3.vaadin2
@@ -96,3 +98,5 @@
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.4.5.vaadin2?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.0.slf4jvaadin1
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.0.slf4jvaadin1?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.2.slf4jvaadin1
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.2.slf4jvaadin1?classifier=sources

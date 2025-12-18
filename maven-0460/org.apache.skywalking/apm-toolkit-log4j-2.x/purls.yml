@@ -22,3 +22,4 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-2.x@8.5.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-2.x@8.6.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-2.x@8.7.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-log4j-2.x@8.8.0

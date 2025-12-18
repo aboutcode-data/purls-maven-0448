@@ -4,3 +4,5 @@
 - pkg:maven/com.xdev-software/biapi@5.1.0?classifier=sources
 - pkg:maven/com.xdev-software/biapi@5.1.1
 - pkg:maven/com.xdev-software/biapi@5.1.1?classifier=sources
+- pkg:maven/com.xdev-software/biapi@6.0.0
+- pkg:maven/com.xdev-software/biapi@6.0.0?classifier=sources

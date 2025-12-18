@@ -1,0 +1,6 @@
+- pkg:maven/at.jonastuechler/GommeHD.net-Java-API@2.0
+- pkg:maven/at.jonastuechler/GommeHD.net-Java-API@2.0?classifier=sources
+- pkg:maven/at.jonastuechler/GommeHD.net-Java-API@2.1.0
+- pkg:maven/at.jonastuechler/GommeHD.net-Java-API@2.1.0?classifier=sources
+- pkg:maven/at.jonastuechler/GommeHD.net-Java-API@2.2.0
+- pkg:maven/at.jonastuechler/GommeHD.net-Java-API@2.2.0?classifier=sources

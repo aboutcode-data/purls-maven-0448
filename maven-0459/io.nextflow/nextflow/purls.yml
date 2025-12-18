@@ -354,3 +354,5 @@
 - pkg:maven/io.nextflow/nextflow@21.06.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nextflow@21.07.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nextflow@21.08.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.09.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.09.1-edge?classifier=sources

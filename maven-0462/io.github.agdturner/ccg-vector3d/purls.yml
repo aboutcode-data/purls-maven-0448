@@ -1,0 +1,2 @@
+- pkg:maven/io.github.agdturner/ccg-vector3d@0.9
+- pkg:maven/io.github.agdturner/ccg-vector3d@0.9?classifier=sources

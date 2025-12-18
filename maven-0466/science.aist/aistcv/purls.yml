@@ -1,2 +1,4 @@
 - pkg:maven/science.aist/aistcv@4.3.0
 - pkg:maven/science.aist/aistcv@4.3.0?classifier=sources
+- pkg:maven/science.aist/aistcv@4.5.3
+- pkg:maven/science.aist/aistcv@4.5.3?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/net.pincette/pincette-json-streams-plugin@1.0.2
 - pkg:maven/net.pincette/pincette-json-streams-plugin@1.0.2?classifier=sources
 - pkg:maven/net.pincette/pincette-json-streams-plugin@1.0?classifier=sources
+- pkg:maven/net.pincette/pincette-json-streams-plugin@2.0
+- pkg:maven/net.pincette/pincette-json-streams-plugin@2.0?classifier=sources

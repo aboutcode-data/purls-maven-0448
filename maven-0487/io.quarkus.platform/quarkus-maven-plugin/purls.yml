@@ -12,3 +12,8 @@
 - pkg:maven/io.quarkus.platform/quarkus-maven-plugin@2.2.1.Final
 - pkg:maven/io.quarkus.platform/quarkus-maven-plugin@2.2.2.Final
 - pkg:maven/io.quarkus.platform/quarkus-maven-plugin@2.2.3.Final
+- pkg:maven/io.quarkus.platform/quarkus-maven-plugin@2.3.0.CR1
+- pkg:maven/io.quarkus.platform/quarkus-maven-plugin@2.3.0.Final
+- pkg:maven/io.quarkus.platform/quarkus-maven-plugin@2.3.1.Final
+- pkg:maven/io.quarkus.platform/quarkus-maven-plugin@2.4.0.CR1
+- pkg:maven/io.quarkus.platform/quarkus-maven-plugin@2.4.0.Final

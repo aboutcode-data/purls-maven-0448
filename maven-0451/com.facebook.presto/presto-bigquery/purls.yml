@@ -13,3 +13,8 @@
 - pkg:maven/com.facebook.presto/presto-bigquery@0.259?classifier=sources
 - pkg:maven/com.facebook.presto/presto-bigquery@0.260.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-bigquery@0.260?classifier=sources
+- pkg:maven/com.facebook.presto/presto-bigquery@0.261?classifier=sources
+- pkg:maven/com.facebook.presto/presto-bigquery@0.262?classifier=sources
+- pkg:maven/com.facebook.presto/presto-bigquery@0.263.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-bigquery@0.263?classifier=sources
+- pkg:maven/com.facebook.presto/presto-bigquery@0.264?classifier=sources

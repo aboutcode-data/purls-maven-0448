@@ -6,3 +6,5 @@
 - pkg:maven/com.applovin.mediation/tapjoy-adapter@12.8.0.0?type=aar
 - pkg:maven/com.applovin.mediation/tapjoy-adapter@12.8.1.0?classifier=sources
 - pkg:maven/com.applovin.mediation/tapjoy-adapter@12.8.1.0?type=aar
+- pkg:maven/com.applovin.mediation/tapjoy-adapter@12.8.1.1?classifier=sources
+- pkg:maven/com.applovin.mediation/tapjoy-adapter@12.8.1.1?type=aar

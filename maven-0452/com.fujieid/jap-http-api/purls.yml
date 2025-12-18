@@ -1,0 +1,2 @@
+- pkg:maven/com.fujieid/jap-http-api@1.0.5
+- pkg:maven/com.fujieid/jap-http-api@1.0.5?classifier=sources

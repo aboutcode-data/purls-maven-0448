@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.skywalking/kafka-reporter-plugin@8.5.0
 - pkg:maven/org.apache.skywalking/kafka-reporter-plugin@8.6.0
 - pkg:maven/org.apache.skywalking/kafka-reporter-plugin@8.7.0
+- pkg:maven/org.apache.skywalking/kafka-reporter-plugin@8.8.0

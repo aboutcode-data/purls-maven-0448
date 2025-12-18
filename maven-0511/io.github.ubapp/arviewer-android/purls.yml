@@ -1,0 +1,9 @@
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.0-alpha-alpha?classifier=sources
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.0-alpha-beta?classifier=sources
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.0-alpha?classifier=sources
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.0-snapshot-alpha?classifier=sources
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.1-alpha?classifier=sources
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.1-beta?classifier=sources
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.2-alpha?classifier=sources
+- pkg:maven/io.github.ubapp/arviewer-android@1.0.2-beta?classifier=sources

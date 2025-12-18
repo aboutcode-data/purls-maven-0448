@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus.qe/quarkus-test-service-infinispan@0.0.16
+- pkg:maven/io.quarkus.qe/quarkus-test-service-infinispan@0.0.16?classifier=sources

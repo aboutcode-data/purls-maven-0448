@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-entity-menu@6.1.3
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-entity-menu@6.1.3?classifier=sources
