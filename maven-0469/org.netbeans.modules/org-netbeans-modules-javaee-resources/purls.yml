@@ -2,3 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-resources@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-resources@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-resources@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-resources@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-resources@RELEASE120?classifier=sources

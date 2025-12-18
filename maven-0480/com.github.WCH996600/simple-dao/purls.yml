@@ -1,0 +1,2 @@
+- pkg:maven/com.github.WCH996600/simple-dao@1.0.0
+- pkg:maven/com.github.WCH996600/simple-dao@1.0.0?classifier=sources

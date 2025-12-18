@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE90?classifier=sources

@@ -134,6 +134,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-ui-resize@8.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-ui-resize@8.7.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-ui-resize@8.7.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-ui-resize@8.8.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-ui-resize@8.8.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-ui-resize@9.0.0-M1
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-ui-resize@9.0.0-M1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-ui-resize@9.0.0-M2

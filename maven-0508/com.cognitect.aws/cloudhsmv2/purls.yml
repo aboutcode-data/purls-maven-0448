@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/cloudhsmv2@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/cloudhsmv2@786.2.606.0
 - pkg:maven/com.cognitect.aws/cloudhsmv2@786.2.606.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudhsmv2@802.2.713.0
+- pkg:maven/com.cognitect.aws/cloudhsmv2@802.2.713.0?classifier=sources

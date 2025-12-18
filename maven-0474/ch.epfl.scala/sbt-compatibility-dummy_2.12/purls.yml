@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/sbt-compatibility-dummy_2.12@0.0.9
+- pkg:maven/ch.epfl.scala/sbt-compatibility-dummy_2.12@0.0.9?classifier=sources

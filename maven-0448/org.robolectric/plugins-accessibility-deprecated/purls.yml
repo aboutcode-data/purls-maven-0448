@@ -1,0 +1,2 @@
+- pkg:maven/org.robolectric/plugins-accessibility-deprecated@4.4-alpha-1
+- pkg:maven/org.robolectric/plugins-accessibility-deprecated@4.4-alpha-1?classifier=sources

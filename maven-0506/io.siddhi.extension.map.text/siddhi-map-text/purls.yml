@@ -4,3 +4,7 @@
 - pkg:maven/io.siddhi.extension.map.text/siddhi-map-text@2.0.2?classifier=sources
 - pkg:maven/io.siddhi.extension.map.text/siddhi-map-text@2.0.4
 - pkg:maven/io.siddhi.extension.map.text/siddhi-map-text@2.0.4?classifier=sources
+- pkg:maven/io.siddhi.extension.map.text/siddhi-map-text@2.0.5
+- pkg:maven/io.siddhi.extension.map.text/siddhi-map-text@2.0.5?classifier=sources
+- pkg:maven/io.siddhi.extension.map.text/siddhi-map-text@2.1.0
+- pkg:maven/io.siddhi.extension.map.text/siddhi-map-text@2.1.0?classifier=sources

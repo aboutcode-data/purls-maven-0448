@@ -6,3 +6,9 @@
 - pkg:maven/io.github.sristi/skpm-annotation-processing@3.0.0?classifier=sources
 - pkg:maven/io.github.sristi/skpm-annotation-processing@4.0.0
 - pkg:maven/io.github.sristi/skpm-annotation-processing@4.0.0?classifier=sources
+- pkg:maven/io.github.sristi/skpm-annotation-processing@5.0.0
+- pkg:maven/io.github.sristi/skpm-annotation-processing@5.0.0?classifier=sources
+- pkg:maven/io.github.sristi/skpm-annotation-processing@6.0.0
+- pkg:maven/io.github.sristi/skpm-annotation-processing@6.0.0?classifier=sources
+- pkg:maven/io.github.sristi/skpm-annotation-processing@7.0.0
+- pkg:maven/io.github.sristi/skpm-annotation-processing@7.0.0?classifier=sources

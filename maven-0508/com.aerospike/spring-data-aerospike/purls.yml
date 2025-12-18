@@ -30,3 +30,5 @@
 - pkg:maven/com.aerospike/spring-data-aerospike@2.3.2.RELEASE?classifier=sources
 - pkg:maven/com.aerospike/spring-data-aerospike@2.3.3.RELEASE
 - pkg:maven/com.aerospike/spring-data-aerospike@2.3.3.RELEASE?classifier=sources
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.4.RELEASE?classifier=sources
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.5.RELEASE?classifier=sources

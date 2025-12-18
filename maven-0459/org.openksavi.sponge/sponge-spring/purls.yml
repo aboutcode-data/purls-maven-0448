@@ -30,6 +30,8 @@
 - pkg:maven/org.openksavi.sponge/sponge-spring@1.14.0?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-spring@1.15.0
 - pkg:maven/org.openksavi.sponge/sponge-spring@1.15.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-spring@1.16.0
+- pkg:maven/org.openksavi.sponge/sponge-spring@1.16.0?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-spring@1.2.0
 - pkg:maven/org.openksavi.sponge/sponge-spring@1.2.0?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-spring@1.3.0

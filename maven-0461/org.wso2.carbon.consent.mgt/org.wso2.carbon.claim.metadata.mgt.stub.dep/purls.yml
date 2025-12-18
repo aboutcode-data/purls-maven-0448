@@ -126,5 +126,9 @@
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.0.9
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.0.9?classifier=sources
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.2.10
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.2.10?classifier=sources
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.2.6
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.2.6?classifier=sources
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.2.9
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.2.9?classifier=sources

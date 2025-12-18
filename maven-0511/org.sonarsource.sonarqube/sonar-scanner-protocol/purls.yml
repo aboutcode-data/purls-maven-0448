@@ -130,3 +130,9 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.1.0.31237?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.2.0.32929
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.2.0.32929?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.3.0.34182
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.3.0.34182?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.3.1.34397
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.3.1.34397?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.4.0.35506
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@8.4.0.35506?classifier=sources

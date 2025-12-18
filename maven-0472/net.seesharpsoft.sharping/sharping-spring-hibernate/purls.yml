@@ -1,0 +1,4 @@
+- pkg:maven/net.seesharpsoft.sharping/sharping-spring-hibernate@0.20.0
+- pkg:maven/net.seesharpsoft.sharping/sharping-spring-hibernate@0.20.0?classifier=sources
+- pkg:maven/net.seesharpsoft.sharping/sharping-spring-hibernate@0.21.0
+- pkg:maven/net.seesharpsoft.sharping/sharping-spring-hibernate@0.21.0?classifier=sources

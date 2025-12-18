@@ -36,6 +36,8 @@
 - pkg:maven/io.branch.sdk.android/search@1.5.10?type=aar
 - pkg:maven/io.branch.sdk.android/search@1.5.11?classifier=sources
 - pkg:maven/io.branch.sdk.android/search@1.5.11?type=aar
+- pkg:maven/io.branch.sdk.android/search@1.5.12?classifier=sources
+- pkg:maven/io.branch.sdk.android/search@1.5.12?type=aar
 - pkg:maven/io.branch.sdk.android/search@1.5.1?classifier=sources
 - pkg:maven/io.branch.sdk.android/search@1.5.1?type=aar
 - pkg:maven/io.branch.sdk.android/search@1.5.2?classifier=sources

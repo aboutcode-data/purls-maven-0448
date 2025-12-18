@@ -4,3 +4,6 @@
 - pkg:maven/org.litote.kmongo/kmongo-serialization@3.12.1
 - pkg:maven/org.litote.kmongo/kmongo-serialization@3.12.2
 - pkg:maven/org.litote.kmongo/kmongo-serialization@4.0.0
+- pkg:maven/org.litote.kmongo/kmongo-serialization@4.0.1
+- pkg:maven/org.litote.kmongo/kmongo-serialization@4.0.2
+- pkg:maven/org.litote.kmongo/kmongo-serialization@4.0.3

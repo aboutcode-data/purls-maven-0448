@@ -1,4 +1,8 @@
 - pkg:maven/me.vican.jorge/jupyter4s_2.13@0.1.0
 - pkg:maven/me.vican.jorge/jupyter4s_2.13@0.1.0%2B23-9860b125
 - pkg:maven/me.vican.jorge/jupyter4s_2.13@0.1.0%2B23-9860b125?classifier=sources
+- pkg:maven/me.vican.jorge/jupyter4s_2.13@0.1.0%2B24-111c78ac
+- pkg:maven/me.vican.jorge/jupyter4s_2.13@0.1.0%2B24-111c78ac?classifier=sources
+- pkg:maven/me.vican.jorge/jupyter4s_2.13@0.1.0%2B28-8b5da6b8
+- pkg:maven/me.vican.jorge/jupyter4s_2.13@0.1.0%2B28-8b5da6b8?classifier=sources
 - pkg:maven/me.vican.jorge/jupyter4s_2.13@0.1.0?classifier=sources

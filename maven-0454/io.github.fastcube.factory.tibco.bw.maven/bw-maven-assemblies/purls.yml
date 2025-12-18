@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fastcube.factory.tibco.bw.maven/bw-maven-assemblies@1.0.0
+- pkg:maven/io.github.fastcube.factory.tibco.bw.maven/bw-maven-assemblies@1.0.0?classifier=sources

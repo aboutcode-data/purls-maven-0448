@@ -1,0 +1,2 @@
+- pkg:maven/io.opentelemetry/opentelemetry-extension-logging-log4j2-extensions@0.6.0
+- pkg:maven/io.opentelemetry/opentelemetry-extension-logging-log4j2-extensions@0.6.0?classifier=sources

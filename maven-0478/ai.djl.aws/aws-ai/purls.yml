@@ -1,0 +1,4 @@
+- pkg:maven/ai.djl.aws/aws-ai@0.5.0
+- pkg:maven/ai.djl.aws/aws-ai@0.5.0?classifier=sources
+- pkg:maven/ai.djl.aws/aws-ai@0.6.0
+- pkg:maven/ai.djl.aws/aws-ai@0.6.0?classifier=sources

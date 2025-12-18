@@ -1,0 +1,2 @@
+- pkg:maven/co.mailtarget/durian@0.0.10
+- pkg:maven/co.mailtarget/durian@0.0.10?classifier=sources

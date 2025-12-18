@@ -14,3 +14,5 @@
 - pkg:maven/org.glassfish.main.web/cdi-api-fragment@5.1.0-RC2
 - pkg:maven/org.glassfish.main.web/cdi-api-fragment@5.1.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.main.web/cdi-api-fragment@5.1.0?classifier=sources
+- pkg:maven/org.glassfish.main.web/cdi-api-fragment@6.0.0-M1
+- pkg:maven/org.glassfish.main.web/cdi-api-fragment@6.0.0-M1?classifier=sources

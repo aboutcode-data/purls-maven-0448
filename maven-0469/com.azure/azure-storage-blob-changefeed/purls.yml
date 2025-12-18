@@ -1,0 +1,2 @@
+- pkg:maven/com.azure/azure-storage-blob-changefeed@12.0.0-beta.1
+- pkg:maven/com.azure/azure-storage-blob-changefeed@12.0.0-beta.1?classifier=sources

@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE90?classifier=sources

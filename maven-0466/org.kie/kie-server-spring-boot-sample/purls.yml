@@ -58,6 +58,16 @@
 - pkg:maven/org.kie/kie-server-spring-boot-sample@7.36.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-server-spring-boot-sample@7.36.1.Final
 - pkg:maven/org.kie/kie-server-spring-boot-sample@7.36.1.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.37.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.37.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.38.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.38.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.39.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.39.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.40.0.20200703
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.40.0.20200703?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.40.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-sample@7.40.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-server-spring-boot-sample@7.6.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-sample@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-server-spring-boot-sample@7.7.0.Final

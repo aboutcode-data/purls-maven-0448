@@ -1,0 +1,4 @@
+- pkg:maven/com.hexagonkt/templates_freemarker@1.2.19?classifier=sources
+- pkg:maven/com.hexagonkt/templates_freemarker@1.2.20?classifier=sources
+- pkg:maven/com.hexagonkt/templates_freemarker@1.2.21?classifier=sources
+- pkg:maven/com.hexagonkt/templates_freemarker@1.2.22?classifier=sources

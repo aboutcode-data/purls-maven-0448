@@ -1,0 +1,2 @@
+- pkg:maven/org.cdk8s/cdk8s-plus@0.26.0
+- pkg:maven/org.cdk8s/cdk8s-plus@0.26.0?classifier=sources

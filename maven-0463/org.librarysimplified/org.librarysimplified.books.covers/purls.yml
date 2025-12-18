@@ -1,3 +1,9 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@4.0.0?classifier=sources
 - pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@4.0.0?type=aar
 - pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@5.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@5.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@5.1.1?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@5.2.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@5.3.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@5.3.1?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.covers@5.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.alink/shaded_protobuf_java@3.6.1-0.1
+- pkg:maven/com.alibaba.alink/shaded_protobuf_java@3.6.1-0.1?classifier=sources

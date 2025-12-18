@@ -1,0 +1,2 @@
+- pkg:maven/com.yugabyte/java-driver-core-shaded@4.6.0-yb-2-RC1
+- pkg:maven/com.yugabyte/java-driver-core-shaded@4.6.0-yb-2-RC1?classifier=sources

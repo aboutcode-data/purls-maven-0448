@@ -1,3 +1,9 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.links.json@4.0.0?classifier=sources
 - pkg:maven/org.librarysimplified/org.librarysimplified.links.json@4.0.0?type=aar
 - pkg:maven/org.librarysimplified/org.librarysimplified.links.json@5.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.links.json@5.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.links.json@5.1.1?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.links.json@5.2.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.links.json@5.3.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.links.json@5.3.1?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.links.json@5.4.1?classifier=sources

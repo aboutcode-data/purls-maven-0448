@@ -72,3 +72,7 @@
 - pkg:maven/org.sakaiproject.polls/polls-api@19.3?classifier=sources
 - pkg:maven/org.sakaiproject.polls/polls-api@19.4
 - pkg:maven/org.sakaiproject.polls/polls-api@19.4?classifier=sources
+- pkg:maven/org.sakaiproject.polls/polls-api@20.0
+- pkg:maven/org.sakaiproject.polls/polls-api@20.0?classifier=sources
+- pkg:maven/org.sakaiproject.polls/polls-api@20.1
+- pkg:maven/org.sakaiproject.polls/polls-api@20.1?classifier=sources

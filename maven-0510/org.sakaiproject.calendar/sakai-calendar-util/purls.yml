@@ -66,3 +66,7 @@
 - pkg:maven/org.sakaiproject.calendar/sakai-calendar-util@2.9.2?classifier=sources
 - pkg:maven/org.sakaiproject.calendar/sakai-calendar-util@2.9.3
 - pkg:maven/org.sakaiproject.calendar/sakai-calendar-util@2.9.3?classifier=sources
+- pkg:maven/org.sakaiproject.calendar/sakai-calendar-util@20.0
+- pkg:maven/org.sakaiproject.calendar/sakai-calendar-util@20.0?classifier=sources
+- pkg:maven/org.sakaiproject.calendar/sakai-calendar-util@20.1
+- pkg:maven/org.sakaiproject.calendar/sakai-calendar-util@20.1?classifier=sources

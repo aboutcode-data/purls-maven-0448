@@ -26,3 +26,9 @@
 - pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.5.1?classifier=sources
 - pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.6.0
 - pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.6.0?classifier=sources
+- pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.7.0
+- pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.7.0?classifier=sources
+- pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.8.0
+- pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.8.0?classifier=sources
+- pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.8.1
+- pkg:maven/com.gitee.l0km/facelog-dtalk-demo@2.8.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.odpi.egeria/egeria-connector-ibm-information-server-test@1.5?classifier=sources
 - pkg:maven/org.odpi.egeria/egeria-connector-ibm-information-server-test@1.6
 - pkg:maven/org.odpi.egeria/egeria-connector-ibm-information-server-test@1.6?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-ibm-information-server-test@1.8
+- pkg:maven/org.odpi.egeria/egeria-connector-ibm-information-server-test@1.8?classifier=sources

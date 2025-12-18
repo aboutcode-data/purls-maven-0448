@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/crypto-js@3.1.8?classifier=sources
 - pkg:maven/org.webjars.npm/crypto-js@3.1.9-1
 - pkg:maven/org.webjars.npm/crypto-js@3.1.9-1?classifier=sources
+- pkg:maven/org.webjars.npm/crypto-js@3.3.0
+- pkg:maven/org.webjars.npm/crypto-js@3.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/crypto-js@4.0.0
+- pkg:maven/org.webjars.npm/crypto-js@4.0.0?classifier=sources

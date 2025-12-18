@@ -1,0 +1,10 @@
+- pkg:maven/com.brentcroft/spartacus@00.02.29
+- pkg:maven/com.brentcroft/spartacus@00.02.29?classifier=sources
+- pkg:maven/com.brentcroft/spartacus@01.01.01
+- pkg:maven/com.brentcroft/spartacus@01.01.01?classifier=sources
+- pkg:maven/com.brentcroft/spartacus@01.01.03
+- pkg:maven/com.brentcroft/spartacus@01.01.03?classifier=sources
+- pkg:maven/com.brentcroft/spartacus@01.01.04
+- pkg:maven/com.brentcroft/spartacus@01.01.04?classifier=sources
+- pkg:maven/com.brentcroft/spartacus@01.01.05
+- pkg:maven/com.brentcroft/spartacus@01.01.05?classifier=sources

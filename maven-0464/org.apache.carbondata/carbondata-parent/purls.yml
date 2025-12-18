@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.carbondata/carbondata-parent@1.5.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.carbondata/carbondata-parent@1.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.carbondata/carbondata-parent@1.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.carbondata/carbondata-parent@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.carbondata/carbondata-parent@2.0.1?classifier=source-release&type=zip

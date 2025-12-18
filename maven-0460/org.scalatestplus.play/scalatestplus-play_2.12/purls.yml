@@ -60,3 +60,5 @@
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_2.12@5.0.0-RC3
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_2.12@5.0.0-RC3?classifier=sources
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_2.12@5.0.0?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.12@5.1.0
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.12@5.1.0?classifier=sources

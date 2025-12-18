@@ -70,3 +70,9 @@
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.38.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.39.0
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.39.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.40.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.40.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.41.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.41.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.42.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.42.0?classifier=sources

@@ -140,3 +140,5 @@
 - pkg:maven/com.linkedin.parseq/parseq-tracevis-server@3.0.9?classifier=sources
 - pkg:maven/com.linkedin.parseq/parseq-tracevis-server@4.0.0
 - pkg:maven/com.linkedin.parseq/parseq-tracevis-server@4.0.0?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-tracevis-server@4.0.1
+- pkg:maven/com.linkedin.parseq/parseq-tracevis-server@4.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.hasait.cipa/cipa@3.8
 - pkg:maven/de.hasait.cipa/cipa@3.8?classifier=sources
+- pkg:maven/de.hasait.cipa/cipa@3.9.2
+- pkg:maven/de.hasait.cipa/cipa@3.9.2?classifier=sources

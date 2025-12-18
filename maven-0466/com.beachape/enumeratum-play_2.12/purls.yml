@@ -12,3 +12,5 @@
 - pkg:maven/com.beachape/enumeratum-play_2.12@1.5.16?classifier=sources
 - pkg:maven/com.beachape/enumeratum-play_2.12@1.5.17
 - pkg:maven/com.beachape/enumeratum-play_2.12@1.5.17?classifier=sources
+- pkg:maven/com.beachape/enumeratum-play_2.12@1.6.0
+- pkg:maven/com.beachape/enumeratum-play_2.12@1.6.0?classifier=sources

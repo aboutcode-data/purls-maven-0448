@@ -1,0 +1,2 @@
+- pkg:maven/io.github.renxiaole001/common@1.0.1
+- pkg:maven/io.github.renxiaole001/common@1.0.1?classifier=sources

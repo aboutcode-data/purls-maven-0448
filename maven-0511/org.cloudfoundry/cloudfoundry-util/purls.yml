@@ -132,6 +132,12 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@3.21.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@3.22.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@3.22.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@3.23.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@3.23.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@3.24.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@3.24.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@3.25.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@3.25.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@3.3.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@3.3.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@3.4.0.RELEASE
@@ -156,3 +162,9 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@4.4.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@4.5.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-util@4.5.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@4.6.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@4.6.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@4.7.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@4.7.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@4.8.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-util@4.8.0.RELEASE?classifier=sources

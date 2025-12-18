@@ -72,3 +72,5 @@
 - pkg:maven/com.aliyun.openservices/tablestore@5.6.3?classifier=sources
 - pkg:maven/com.aliyun.openservices/tablestore@5.7.0
 - pkg:maven/com.aliyun.openservices/tablestore@5.7.0?classifier=sources
+- pkg:maven/com.aliyun.openservices/tablestore@5.8.0
+- pkg:maven/com.aliyun.openservices/tablestore@5.8.0?classifier=sources

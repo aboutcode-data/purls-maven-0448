@@ -14,3 +14,5 @@
 - pkg:maven/com.github.waffle.demo/waffle-spring-boot-filter@2.1.1?classifier=sources
 - pkg:maven/com.github.waffle.demo/waffle-spring-boot-filter@2.2.1
 - pkg:maven/com.github.waffle.demo/waffle-spring-boot-filter@2.2.1?classifier=sources
+- pkg:maven/com.github.waffle.demo/waffle-spring-boot-filter@2.3.0
+- pkg:maven/com.github.waffle.demo/waffle-spring-boot-filter@2.3.0?classifier=sources

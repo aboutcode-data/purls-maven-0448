@@ -17,4 +17,6 @@
 - pkg:maven/ai.catboost/catboost-prediction@0.21?classifier=sources
 - pkg:maven/ai.catboost/catboost-prediction@0.22
 - pkg:maven/ai.catboost/catboost-prediction@0.22?classifier=sources
+- pkg:maven/ai.catboost/catboost-prediction@0.23
+- pkg:maven/ai.catboost/catboost-prediction@0.23?classifier=sources
 - pkg:maven/ai.catboost/catboost-prediction@0.2?classifier=sources

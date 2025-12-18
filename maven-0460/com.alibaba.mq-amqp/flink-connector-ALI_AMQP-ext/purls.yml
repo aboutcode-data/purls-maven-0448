@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.mq-amqp/flink-connector-ALI_AMQP-ext@1.0.0
+- pkg:maven/com.alibaba.mq-amqp/flink-connector-ALI_AMQP-ext@1.0.0?classifier=sources

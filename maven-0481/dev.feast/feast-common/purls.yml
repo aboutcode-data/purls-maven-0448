@@ -1,0 +1,2 @@
+- pkg:maven/dev.feast/feast-common@0.6.0
+- pkg:maven/dev.feast/feast-common@0.6.0?classifier=sources

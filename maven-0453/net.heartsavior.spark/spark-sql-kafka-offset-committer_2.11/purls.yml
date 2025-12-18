@@ -1,0 +1,6 @@
+- pkg:maven/net.heartsavior.spark/spark-sql-kafka-offset-committer_2.11@0.1.99-cross-compile
+- pkg:maven/net.heartsavior.spark/spark-sql-kafka-offset-committer_2.11@0.1.99-cross-compile?classifier=sources
+- pkg:maven/net.heartsavior.spark/spark-sql-kafka-offset-committer_2.11@0.2.0
+- pkg:maven/net.heartsavior.spark/spark-sql-kafka-offset-committer_2.11@0.2.0?classifier=sources
+- pkg:maven/net.heartsavior.spark/spark-sql-kafka-offset-committer_2.11@0.3.0-spark-2.4
+- pkg:maven/net.heartsavior.spark/spark-sql-kafka-offset-committer_2.11@0.3.0-spark-2.4?classifier=sources

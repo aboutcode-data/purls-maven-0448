@@ -1,0 +1,4 @@
+- pkg:maven/com.power4j.kit/bench-test@1.0.1
+- pkg:maven/com.power4j.kit/bench-test@1.0.1?classifier=sources
+- pkg:maven/com.power4j.kit/bench-test@1.1.1
+- pkg:maven/com.power4j.kit/bench-test@1.1.1?classifier=sources

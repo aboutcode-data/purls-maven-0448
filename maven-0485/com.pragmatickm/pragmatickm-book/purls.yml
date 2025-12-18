@@ -1,5 +1,11 @@
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.10.0
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.10.0?classifier=sources
+- pkg:maven/com.pragmatickm/pragmatickm-book@1.11.0
+- pkg:maven/com.pragmatickm/pragmatickm-book@1.11.0?classifier=sources
+- pkg:maven/com.pragmatickm/pragmatickm-book@1.12.0
+- pkg:maven/com.pragmatickm/pragmatickm-book@1.12.0?classifier=sources
+- pkg:maven/com.pragmatickm/pragmatickm-book@1.13.0
+- pkg:maven/com.pragmatickm/pragmatickm-book@1.13.0?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.6.5
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.6.5?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.7.0

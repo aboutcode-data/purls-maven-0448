@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/tempusdominus-bootstrap@5.23.0
+- pkg:maven/org.webjars.npm/tempusdominus-bootstrap@5.23.0?classifier=sources

@@ -29,6 +29,8 @@
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.11?classifier=sources
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.12
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.12?classifier=sources
+- pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.13
+- pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.13?classifier=sources
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.1?classifier=sources
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.2
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.2?classifier=sources
@@ -46,3 +48,5 @@
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.8?classifier=sources
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.9
 - pkg:maven/org.apache.activemq.tooling/activemq-junit@5.15.9?classifier=sources
+- pkg:maven/org.apache.activemq.tooling/activemq-junit@5.16.0
+- pkg:maven/org.apache.activemq.tooling/activemq-junit@5.16.0?classifier=sources

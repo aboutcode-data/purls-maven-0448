@@ -1,0 +1,2 @@
+- pkg:maven/io.syndesis.connector/connector-soap@1.10.0
+- pkg:maven/io.syndesis.connector/connector-soap@1.10.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore/mycore-csl@2020.05
+- pkg:maven/org.mycore/mycore-csl@2020.05?classifier=sources

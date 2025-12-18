@@ -18,3 +18,5 @@
 - pkg:maven/cloud.tianai.rpc.register/rpc-register-nacos@1.5.5
 - pkg:maven/cloud.tianai.rpc.register/rpc-register-nacos@1.5.5?classifier=sources
 - pkg:maven/cloud.tianai.rpc.register/rpc-register-nacos@1.5?classifier=sources
+- pkg:maven/cloud.tianai.rpc.register/rpc-register-nacos@1.6.0
+- pkg:maven/cloud.tianai.rpc.register/rpc-register-nacos@1.6.0?classifier=sources

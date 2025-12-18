@@ -10,6 +10,8 @@
 - pkg:maven/org.openksavi.sponge/sponge-tensorflow@1.14.0?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-tensorflow@1.15.0
 - pkg:maven/org.openksavi.sponge/sponge-tensorflow@1.15.0?classifier=sources
+- pkg:maven/org.openksavi.sponge/sponge-tensorflow@1.16.0
+- pkg:maven/org.openksavi.sponge/sponge-tensorflow@1.16.0?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-tensorflow@1.4.0
 - pkg:maven/org.openksavi.sponge/sponge-tensorflow@1.4.0?classifier=sources
 - pkg:maven/org.openksavi.sponge/sponge-tensorflow@1.4.1

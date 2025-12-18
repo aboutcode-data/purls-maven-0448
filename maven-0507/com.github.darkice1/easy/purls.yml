@@ -1,2 +1,12 @@
 - pkg:maven/com.github.darkice1/easy@1.0.32
 - pkg:maven/com.github.darkice1/easy@1.0.32?classifier=sources
+- pkg:maven/com.github.darkice1/easy@1.0.33
+- pkg:maven/com.github.darkice1/easy@1.0.33?classifier=sources
+- pkg:maven/com.github.darkice1/easy@1.0.34
+- pkg:maven/com.github.darkice1/easy@1.0.34?classifier=sources
+- pkg:maven/com.github.darkice1/easy@1.0.36
+- pkg:maven/com.github.darkice1/easy@1.0.36?classifier=sources
+- pkg:maven/com.github.darkice1/easy@1.0.37
+- pkg:maven/com.github.darkice1/easy@1.0.37?classifier=sources
+- pkg:maven/com.github.darkice1/easy@1.0.38
+- pkg:maven/com.github.darkice1/easy@1.0.38?classifier=sources

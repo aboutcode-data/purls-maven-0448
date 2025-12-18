@@ -10,3 +10,11 @@
 - pkg:maven/ai.tock/bot-test-base@19.9.4?classifier=sources
 - pkg:maven/ai.tock/bot-test-base@20.3.0
 - pkg:maven/ai.tock/bot-test-base@20.3.0?classifier=sources
+- pkg:maven/ai.tock/bot-test-base@20.3.1
+- pkg:maven/ai.tock/bot-test-base@20.3.1?classifier=sources
+- pkg:maven/ai.tock/bot-test-base@20.3.2
+- pkg:maven/ai.tock/bot-test-base@20.3.2-1
+- pkg:maven/ai.tock/bot-test-base@20.3.2-1?classifier=sources
+- pkg:maven/ai.tock/bot-test-base@20.3.2-2
+- pkg:maven/ai.tock/bot-test-base@20.3.2-2?classifier=sources
+- pkg:maven/ai.tock/bot-test-base@20.3.2?classifier=sources

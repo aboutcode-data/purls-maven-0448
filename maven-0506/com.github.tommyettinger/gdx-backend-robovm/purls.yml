@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tommyettinger/gdx-backend-robovm@1.910.2
+- pkg:maven/com.github.tommyettinger/gdx-backend-robovm@1.910.2?classifier=sources

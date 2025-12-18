@@ -112,3 +112,11 @@
 - pkg:maven/de.openkeyword/core@0.1.8?classifier=sources
 - pkg:maven/de.openkeyword/core@0.1.9
 - pkg:maven/de.openkeyword/core@0.1.9?classifier=sources
+- pkg:maven/de.openkeyword/core@0.2.14
+- pkg:maven/de.openkeyword/core@0.2.14?classifier=sources
+- pkg:maven/de.openkeyword/core@0.2.15
+- pkg:maven/de.openkeyword/core@0.2.15?classifier=sources
+- pkg:maven/de.openkeyword/core@0.2.16
+- pkg:maven/de.openkeyword/core@0.2.16?classifier=sources
+- pkg:maven/de.openkeyword/core@0.2.17
+- pkg:maven/de.openkeyword/core@0.2.17?classifier=sources

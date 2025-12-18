@@ -24,3 +24,5 @@
 - pkg:maven/com.yelp.android/bento-testing@15.7.0?type=aar
 - pkg:maven/com.yelp.android/bento-testing@15.8.0?classifier=sources
 - pkg:maven/com.yelp.android/bento-testing@15.8.0?type=aar
+- pkg:maven/com.yelp.android/bento-testing@16.0.0?classifier=sources
+- pkg:maven/com.yelp.android/bento-testing@16.0.0?type=aar

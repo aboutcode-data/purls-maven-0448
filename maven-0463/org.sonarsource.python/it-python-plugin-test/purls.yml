@@ -1,5 +1,9 @@
 - pkg:maven/org.sonarsource.python/it-python-plugin-test@2.0.0.5043
 - pkg:maven/org.sonarsource.python/it-python-plugin-test@2.1.0.5269
+- pkg:maven/org.sonarsource.python/it-python-plugin-test@2.10.0.6571
+- pkg:maven/org.sonarsource.python/it-python-plugin-test@2.11.0.6843
+- pkg:maven/org.sonarsource.python/it-python-plugin-test@2.12.0.7065
+- pkg:maven/org.sonarsource.python/it-python-plugin-test@2.13.0.7236
 - pkg:maven/org.sonarsource.python/it-python-plugin-test@2.2.0.5331
 - pkg:maven/org.sonarsource.python/it-python-plugin-test@2.3.0.5351
 - pkg:maven/org.sonarsource.python/it-python-plugin-test@2.4.0.5513
@@ -7,3 +11,4 @@
 - pkg:maven/org.sonarsource.python/it-python-plugin-test@2.6.0.5863
 - pkg:maven/org.sonarsource.python/it-python-plugin-test@2.7.0.5975
 - pkg:maven/org.sonarsource.python/it-python-plugin-test@2.8.0.6204
+- pkg:maven/org.sonarsource.python/it-python-plugin-test@2.9.0.6410

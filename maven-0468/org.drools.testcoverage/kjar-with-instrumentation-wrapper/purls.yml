@@ -34,8 +34,13 @@
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.35.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.36.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.36.1.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.37.0.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.38.0.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.39.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.4.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.4.1.Final
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.40.0.20200703
+- pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.40.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.5.0.Final
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.5.0.t018
 - pkg:maven/org.drools.testcoverage/kjar-with-instrumentation-wrapper@7.6.0.Final

@@ -1,0 +1,4 @@
+- pkg:maven/org.odpi.egeria/analytics-modeling-server@1.8
+- pkg:maven/org.odpi.egeria/analytics-modeling-server@1.8?classifier=sources
+- pkg:maven/org.odpi.egeria/analytics-modeling-server@2.0
+- pkg:maven/org.odpi.egeria/analytics-modeling-server@2.0?classifier=sources

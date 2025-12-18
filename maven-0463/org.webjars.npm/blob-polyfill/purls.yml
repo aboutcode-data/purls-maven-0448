@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/blob-polyfill@1.0.20150320
+- pkg:maven/org.webjars.npm/blob-polyfill@1.0.20150320?classifier=sources

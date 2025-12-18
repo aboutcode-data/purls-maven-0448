@@ -96,6 +96,10 @@
 - pkg:maven/com.alibaba.android/vlayout@1.2.37?type=aar
 - pkg:maven/com.alibaba.android/vlayout@1.2.38?classifier=sources
 - pkg:maven/com.alibaba.android/vlayout@1.2.38?type=aar
+- pkg:maven/com.alibaba.android/vlayout@1.2.39?classifier=sources
+- pkg:maven/com.alibaba.android/vlayout@1.2.39?type=aar
+- pkg:maven/com.alibaba.android/vlayout@1.2.40?classifier=sources
+- pkg:maven/com.alibaba.android/vlayout@1.2.40?type=aar
 - pkg:maven/com.alibaba.android/vlayout@1.2.6?classifier=sources
 - pkg:maven/com.alibaba.android/vlayout@1.2.6?type=aar
 - pkg:maven/com.alibaba.android/vlayout@1.2.7?classifier=sources

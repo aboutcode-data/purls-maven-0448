@@ -1,0 +1,1 @@
+- pkg:maven/org.frgaal/compiler-maven-plugin@14.0.0?classifier=sources

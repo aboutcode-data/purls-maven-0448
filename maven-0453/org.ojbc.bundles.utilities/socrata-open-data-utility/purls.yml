@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.bundles.utilities/socrata-open-data-utility@1.0.2
+- pkg:maven/org.ojbc.bundles.utilities/socrata-open-data-utility@1.0.2?classifier=sources

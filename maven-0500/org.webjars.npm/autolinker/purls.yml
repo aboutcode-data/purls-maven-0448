@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/autolinker@1.8.1?classifier=sources
 - pkg:maven/org.webjars.npm/autolinker@3.11.1
 - pkg:maven/org.webjars.npm/autolinker@3.11.1?classifier=sources
+- pkg:maven/org.webjars.npm/autolinker@3.14.1
+- pkg:maven/org.webjars.npm/autolinker@3.14.1?classifier=sources

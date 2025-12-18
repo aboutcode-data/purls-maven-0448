@@ -1,0 +1,2 @@
+- pkg:maven/com.github.qishenghe/develop-ass@1.0
+- pkg:maven/com.github.qishenghe/develop-ass@1.0?classifier=sources

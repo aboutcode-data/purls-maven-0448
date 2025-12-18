@@ -4,3 +4,15 @@
 - pkg:maven/org.querqy/querqy-solr@4.7.lucene800.0?classifier=sources
 - pkg:maven/org.querqy/querqy-solr@4.7.lucene810.0
 - pkg:maven/org.querqy/querqy-solr@4.7.lucene810.0?classifier=sources
+- pkg:maven/org.querqy/querqy-solr@4.8.lucene720.0
+- pkg:maven/org.querqy/querqy-solr@4.8.lucene720.0?classifier=sources
+- pkg:maven/org.querqy/querqy-solr@4.8.lucene800.0
+- pkg:maven/org.querqy/querqy-solr@4.8.lucene800.0?classifier=sources
+- pkg:maven/org.querqy/querqy-solr@4.8.lucene810.0
+- pkg:maven/org.querqy/querqy-solr@4.8.lucene810.0?classifier=sources
+- pkg:maven/org.querqy/querqy-solr@4.9.lucene720.0
+- pkg:maven/org.querqy/querqy-solr@4.9.lucene720.0?classifier=sources
+- pkg:maven/org.querqy/querqy-solr@4.9.lucene800.0
+- pkg:maven/org.querqy/querqy-solr@4.9.lucene800.0?classifier=sources
+- pkg:maven/org.querqy/querqy-solr@4.9.lucene810.0
+- pkg:maven/org.querqy/querqy-solr@4.9.lucene810.0?classifier=sources

@@ -72,6 +72,14 @@
 - pkg:maven/org.sonatype.nexus/nexus-upgrade@3.22.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-upgrade@3.22.1-02
 - pkg:maven/org.sonatype.nexus/nexus-upgrade@3.22.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-upgrade@3.23.0-01
+- pkg:maven/org.sonatype.nexus/nexus-upgrade@3.23.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-upgrade@3.23.0-03
+- pkg:maven/org.sonatype.nexus/nexus-upgrade@3.23.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-upgrade@3.24.0-01
+- pkg:maven/org.sonatype.nexus/nexus-upgrade@3.24.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-upgrade@3.24.0-02
+- pkg:maven/org.sonatype.nexus/nexus-upgrade@3.24.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-upgrade@3.3.0-01
 - pkg:maven/org.sonatype.nexus/nexus-upgrade@3.3.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-upgrade@3.3.1-01

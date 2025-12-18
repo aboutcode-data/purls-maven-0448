@@ -1,0 +1,3 @@
+- pkg:maven/io.github.willena/syslog4j@0.9.61?classifier=sources
+- pkg:maven/io.github.willena/syslog4j@0.9.62
+- pkg:maven/io.github.willena/syslog4j@0.9.62?classifier=sources

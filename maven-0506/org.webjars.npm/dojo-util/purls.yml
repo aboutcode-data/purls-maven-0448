@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/dojo-util@1.14.2?classifier=sources
 - pkg:maven/org.webjars.npm/dojo-util@1.15.0
 - pkg:maven/org.webjars.npm/dojo-util@1.15.0?classifier=sources
+- pkg:maven/org.webjars.npm/dojo-util@1.16.2
+- pkg:maven/org.webjars.npm/dojo-util@1.16.2?classifier=sources

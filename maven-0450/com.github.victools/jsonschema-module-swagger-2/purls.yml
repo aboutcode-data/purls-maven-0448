@@ -1,0 +1,2 @@
+- pkg:maven/com.github.victools/jsonschema-module-swagger-2@4.13.0
+- pkg:maven/com.github.victools/jsonschema-module-swagger-2@4.13.0?classifier=sources

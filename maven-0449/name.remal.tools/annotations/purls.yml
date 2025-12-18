@@ -34,3 +34,5 @@
 - pkg:maven/name.remal.tools/annotations@1.26.145?classifier=sources
 - pkg:maven/name.remal.tools/annotations@1.26.146
 - pkg:maven/name.remal.tools/annotations@1.26.146?classifier=sources
+- pkg:maven/name.remal.tools/annotations@1.26.147
+- pkg:maven/name.remal.tools/annotations@1.26.147?classifier=sources

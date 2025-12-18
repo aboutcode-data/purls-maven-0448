@@ -1,3 +1,5 @@
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@2.3.18
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@2.3.18?classifier=sources
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.0.0
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.0.0?classifier=sources
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.0.1
@@ -24,3 +26,9 @@
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.2.6?classifier=sources
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.2.7
 - pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.2.7?classifier=sources
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.2.8
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.2.8?classifier=sources
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.3.0
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.3.0?classifier=sources
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.4.0
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-logger@3.4.0?classifier=sources

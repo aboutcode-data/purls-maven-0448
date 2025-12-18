@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/node-expat@2.3.18
+- pkg:maven/org.webjars.npm/node-expat@2.3.18?classifier=sources
 - pkg:maven/org.webjars.npm/node-expat@2.3.7
 - pkg:maven/org.webjars.npm/node-expat@2.3.7?classifier=sources
 - pkg:maven/org.webjars.npm/node-expat@2.3.9

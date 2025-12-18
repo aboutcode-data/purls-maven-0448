@@ -1,0 +1,2 @@
+- pkg:maven/com.rbkmoney/spring-boot-starter-metrics-statsd@1.1.2
+- pkg:maven/com.rbkmoney/spring-boot-starter-metrics-statsd@1.1.2?classifier=sources

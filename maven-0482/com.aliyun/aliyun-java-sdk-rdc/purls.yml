@@ -26,3 +26,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-rdc@1.8.5?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-rdc@1.9.1
 - pkg:maven/com.aliyun/aliyun-java-sdk-rdc@1.9.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-rdc@1.9.20
+- pkg:maven/com.aliyun/aliyun-java-sdk-rdc@1.9.20?classifier=sources

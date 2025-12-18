@@ -1,0 +1,2 @@
+- pkg:maven/com.xieahui.springboot/spring-boot-easy-connection-pool@1.0-RELEASE
+- pkg:maven/com.xieahui.springboot/spring-boot-easy-connection-pool@1.0-RELEASE?classifier=sources

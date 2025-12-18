@@ -1,0 +1,8 @@
+- pkg:maven/com.taofen8.mid/kong-client@0.0.1-RELEASE
+- pkg:maven/com.taofen8.mid/kong-client@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.taofen8.mid/kong-client@0.1.0-RELEASE
+- pkg:maven/com.taofen8.mid/kong-client@0.1.0-RELEASE?classifier=sources
+- pkg:maven/com.taofen8.mid/kong-client@0.2.0-RELEASE
+- pkg:maven/com.taofen8.mid/kong-client@0.2.0-RELEASE?classifier=sources
+- pkg:maven/com.taofen8.mid/kong-client@0.2.1-RELEASE
+- pkg:maven/com.taofen8.mid/kong-client@0.2.1-RELEASE?classifier=sources

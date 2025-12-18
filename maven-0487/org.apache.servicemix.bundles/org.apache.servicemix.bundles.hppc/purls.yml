@@ -1,3 +1,9 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.7.1_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.7.1_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.7.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.8.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.8.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.8.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.8.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.8.2_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hppc@0.8.2_1?classifier=src&type=zip

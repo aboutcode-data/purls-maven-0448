@@ -58,3 +58,5 @@
 - pkg:maven/no.skatteetaten.aurora/mockmvc-extensions-kotlin@1.0.8?classifier=sources
 - pkg:maven/no.skatteetaten.aurora/mockmvc-extensions-kotlin@1.0.9
 - pkg:maven/no.skatteetaten.aurora/mockmvc-extensions-kotlin@1.0.9?classifier=sources
+- pkg:maven/no.skatteetaten.aurora/mockmvc-extensions-kotlin@1.1.0
+- pkg:maven/no.skatteetaten.aurora/mockmvc-extensions-kotlin@1.1.0?classifier=sources

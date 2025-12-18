@@ -140,3 +140,5 @@
 - pkg:maven/org.robolectric/robolectric@4.3.1
 - pkg:maven/org.robolectric/robolectric@4.3.1?classifier=sources
 - pkg:maven/org.robolectric/robolectric@4.3?classifier=sources
+- pkg:maven/org.robolectric/robolectric@4.4-alpha-1
+- pkg:maven/org.robolectric/robolectric@4.4-alpha-1?classifier=sources
