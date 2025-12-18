@@ -63,3 +63,4 @@
 - pkg:maven/org.apache.flink/flink-quickstart-scala@1.7.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-quickstart-scala@1.7.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-quickstart-scala@1.7.2?classifier=sources
+- pkg:maven/org.apache.flink/flink-quickstart-scala@1.8.0?classifier=sources

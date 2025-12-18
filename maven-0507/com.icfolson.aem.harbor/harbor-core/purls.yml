@@ -26,3 +26,5 @@
 - pkg:maven/com.icfolson.aem.harbor/harbor-core@3.3.1?classifier=sources
 - pkg:maven/com.icfolson.aem.harbor/harbor-core@4.0.0
 - pkg:maven/com.icfolson.aem.harbor/harbor-core@4.0.0?classifier=sources
+- pkg:maven/com.icfolson.aem.harbor/harbor-core@5.0.0
+- pkg:maven/com.icfolson.aem.harbor/harbor-core@5.0.0?classifier=sources

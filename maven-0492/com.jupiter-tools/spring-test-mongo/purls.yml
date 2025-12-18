@@ -1,0 +1,2 @@
+- pkg:maven/com.jupiter-tools/spring-test-mongo@0.13
+- pkg:maven/com.jupiter-tools/spring-test-mongo@0.13?classifier=sources

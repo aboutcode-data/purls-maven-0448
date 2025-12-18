@@ -73,3 +73,11 @@
 - pkg:maven/com.linecorp.armeria/armeria-testing@0.80.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-testing@0.81.0
 - pkg:maven/com.linecorp.armeria/armeria-testing@0.81.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.81.1
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.81.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.82.0
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.82.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.83.0
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.83.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.84.0
+- pkg:maven/com.linecorp.armeria/armeria-testing@0.84.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jslsolucoes/bean-validation-ee@1.0.18
+- pkg:maven/com.jslsolucoes/bean-validation-ee@1.0.18?classifier=sources

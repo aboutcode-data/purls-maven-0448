@@ -104,6 +104,10 @@
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.7.0-m5?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.7.0?classifier=sources
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.7.0?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-beta4?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-beta4?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-beta5?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-beta5?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m10?classifier=sources
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m10?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m11?classifier=sources
@@ -136,6 +140,10 @@
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m23?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m24?classifier=sources
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m24?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m25?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m25?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m26?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m26?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m2?classifier=sources
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m2?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m3?classifier=sources
@@ -152,3 +160,11 @@
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m8?type=war
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m9?classifier=sources
 - pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0-m9?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.0?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.1-m1?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.1-m1?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.1-m2?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.8.1-m2?type=war
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.9.0?classifier=sources
+- pkg:maven/org.wso2.is/PassiveSTSSampleApp@5.9.0?type=war

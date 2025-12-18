@@ -8,6 +8,12 @@
 - pkg:maven/com.facebook.fresco/animated-drawable@1.12.1?type=aar
 - pkg:maven/com.facebook.fresco/animated-drawable@1.13.0?classifier=sources
 - pkg:maven/com.facebook.fresco/animated-drawable@1.13.0?type=aar
+- pkg:maven/com.facebook.fresco/animated-drawable@1.14.0?classifier=sources
+- pkg:maven/com.facebook.fresco/animated-drawable@1.14.0?type=aar
+- pkg:maven/com.facebook.fresco/animated-drawable@1.14.1?classifier=sources
+- pkg:maven/com.facebook.fresco/animated-drawable@1.14.1?type=aar
+- pkg:maven/com.facebook.fresco/animated-drawable@1.14.2?classifier=sources
+- pkg:maven/com.facebook.fresco/animated-drawable@1.14.2?type=aar
 - pkg:maven/com.facebook.fresco/animated-drawable@1.4.0?classifier=sources
 - pkg:maven/com.facebook.fresco/animated-drawable@1.4.0?type=aar
 - pkg:maven/com.facebook.fresco/animated-drawable@1.5.0?classifier=sources
@@ -22,3 +28,5 @@
 - pkg:maven/com.facebook.fresco/animated-drawable@1.8.1?type=aar
 - pkg:maven/com.facebook.fresco/animated-drawable@1.9.0?classifier=sources
 - pkg:maven/com.facebook.fresco/animated-drawable@1.9.0?type=aar
+- pkg:maven/com.facebook.fresco/animated-drawable@2.0.0?classifier=sources
+- pkg:maven/com.facebook.fresco/animated-drawable@2.0.0?type=aar

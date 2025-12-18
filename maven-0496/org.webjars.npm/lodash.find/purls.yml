@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/lodash.find@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.find@4.4.0
 - pkg:maven/org.webjars.npm/lodash.find@4.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/lodash.find@4.6.0
+- pkg:maven/org.webjars.npm/lodash.find@4.6.0?classifier=sources

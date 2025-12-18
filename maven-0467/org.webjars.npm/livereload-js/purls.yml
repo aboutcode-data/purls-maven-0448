@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/livereload-js@2.2.2
 - pkg:maven/org.webjars.npm/livereload-js@2.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/livereload-js@3.0.0
+- pkg:maven/org.webjars.npm/livereload-js@3.0.0-alpha.1
+- pkg:maven/org.webjars.npm/livereload-js@3.0.0-alpha.1?classifier=sources
+- pkg:maven/org.webjars.npm/livereload-js@3.0.0?classifier=sources

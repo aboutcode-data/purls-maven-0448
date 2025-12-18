@@ -1,0 +1,4 @@
+- pkg:maven/me.xethh.archetype/quickstart@1.0-RELEASE
+- pkg:maven/me.xethh.archetype/quickstart@1.0-RELEASE?classifier=sources
+- pkg:maven/me.xethh.archetype/quickstart@1.1-RELEASE
+- pkg:maven/me.xethh.archetype/quickstart@1.1-RELEASE?classifier=sources

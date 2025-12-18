@@ -93,6 +93,14 @@
 - pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.40?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.41
 - pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.41?classifier=sources
+- pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.42
+- pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.42?classifier=sources
+- pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.43
+- pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.43?classifier=sources
+- pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.44
+- pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.44?classifier=sources
+- pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.45
+- pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.45?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.4?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.5
 - pkg:maven/org.swisspush.gateleen/gateleen-monitoring@1.1.5?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/eu.fraho.spring/security-jwt-internal@3.0.0?classifier=sources
 - pkg:maven/eu.fraho.spring/security-jwt-internal@4.0.0
 - pkg:maven/eu.fraho.spring/security-jwt-internal@4.0.0?classifier=sources
+- pkg:maven/eu.fraho.spring/security-jwt-internal@4.1.0
+- pkg:maven/eu.fraho.spring/security-jwt-internal@4.1.0?classifier=sources

@@ -21,6 +21,8 @@
 - pkg:maven/io.logz.logback/logzio-logback-appender@1.0.2
 - pkg:maven/io.logz.logback/logzio-logback-appender@1.0.20
 - pkg:maven/io.logz.logback/logzio-logback-appender@1.0.20?classifier=sources
+- pkg:maven/io.logz.logback/logzio-logback-appender@1.0.22
+- pkg:maven/io.logz.logback/logzio-logback-appender@1.0.22?classifier=sources
 - pkg:maven/io.logz.logback/logzio-logback-appender@1.0.2?classifier=sources
 - pkg:maven/io.logz.logback/logzio-logback-appender@1.0.3
 - pkg:maven/io.logz.logback/logzio-logback-appender@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.archetype.esb.connector-archetype@1.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.archetype/org.wso2.carbon.extension.archetype.esb.connector-archetype@1.0.1?classifier=sources

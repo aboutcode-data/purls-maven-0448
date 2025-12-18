@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.kusto/spark-kusto-connector@1.0.0-BETA-03
+- pkg:maven/com.microsoft.azure.kusto/spark-kusto-connector@1.0.0-BETA-03?classifier=sources

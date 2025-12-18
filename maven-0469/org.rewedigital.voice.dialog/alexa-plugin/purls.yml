@@ -1,0 +1,2 @@
+- pkg:maven/org.rewedigital.voice.dialog/alexa-plugin@1.0.1
+- pkg:maven/org.rewedigital.voice.dialog/alexa-plugin@1.0.1?classifier=sources

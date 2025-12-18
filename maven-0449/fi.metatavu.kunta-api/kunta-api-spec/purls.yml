@@ -62,6 +62,10 @@
 - pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.131?classifier=sources
 - pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.132
 - pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.132?classifier=sources
+- pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.133
+- pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.133?classifier=sources
+- pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.134
+- pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.134?classifier=sources
 - pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.19
 - pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.19?classifier=sources
 - pkg:maven/fi.metatavu.kunta-api/kunta-api-spec@0.1.20

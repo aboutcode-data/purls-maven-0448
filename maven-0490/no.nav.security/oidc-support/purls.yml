@@ -1,0 +1,2 @@
+- pkg:maven/no.nav.security/oidc-support@0.2.18
+- pkg:maven/no.nav.security/oidc-support@0.2.18?classifier=sources

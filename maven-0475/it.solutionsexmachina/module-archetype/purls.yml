@@ -1,0 +1,2 @@
+- pkg:maven/it.solutionsexmachina/module-archetype@1.0?classifier=sources
+- pkg:maven/it.solutionsexmachina/module-archetype@1.1?classifier=sources

@@ -167,6 +167,10 @@
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.15?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.16
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.16?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.17
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.17?classifier=sources
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.18
+- pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.18?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.1?classifier=sources
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.2
 - pkg:maven/com.vmware.xenon/xenon-loader-test@1.6.2.1

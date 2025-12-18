@@ -6,3 +6,5 @@
 - pkg:maven/io.allune/quickfixj-spring-boot-starter-example-server@1.1.0?classifier=sources
 - pkg:maven/io.allune/quickfixj-spring-boot-starter-example-server@2.0.0
 - pkg:maven/io.allune/quickfixj-spring-boot-starter-example-server@2.0.0?classifier=sources
+- pkg:maven/io.allune/quickfixj-spring-boot-starter-example-server@2.4.0
+- pkg:maven/io.allune/quickfixj-spring-boot-starter-example-server@2.4.0?classifier=sources

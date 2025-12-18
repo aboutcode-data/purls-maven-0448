@@ -1,2 +1,4 @@
 - pkg:maven/me.insidezhou.southernquiet/southern-quiet-logging-spring-boot-starter-logback-mongodb@2.0.0
 - pkg:maven/me.insidezhou.southernquiet/southern-quiet-logging-spring-boot-starter-logback-mongodb@2.0.0?classifier=sources
+- pkg:maven/me.insidezhou.southernquiet/southern-quiet-logging-spring-boot-starter-logback-mongodb@3.0.0
+- pkg:maven/me.insidezhou.southernquiet/southern-quiet-logging-spring-boot-starter-logback-mongodb@3.0.0?classifier=sources

@@ -6,6 +6,10 @@
 - pkg:maven/ai.x/play-json-extensions_2.11@0.30.0?classifier=sources
 - pkg:maven/ai.x/play-json-extensions_2.11@0.30.1
 - pkg:maven/ai.x/play-json-extensions_2.11@0.30.1?classifier=sources
+- pkg:maven/ai.x/play-json-extensions_2.11@0.40.1
+- pkg:maven/ai.x/play-json-extensions_2.11@0.40.1?classifier=sources
+- pkg:maven/ai.x/play-json-extensions_2.11@0.40.2
+- pkg:maven/ai.x/play-json-extensions_2.11@0.40.2?classifier=sources
 - pkg:maven/ai.x/play-json-extensions_2.11@0.8.0
 - pkg:maven/ai.x/play-json-extensions_2.11@0.8.0?classifier=sources
 - pkg:maven/ai.x/play-json-extensions_2.11@0.9.0

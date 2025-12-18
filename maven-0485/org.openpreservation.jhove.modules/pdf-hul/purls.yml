@@ -1,0 +1,2 @@
+- pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.1
+- pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.1?classifier=sources

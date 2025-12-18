@@ -6,3 +6,5 @@
 - pkg:maven/org.aksw.sparqlify/sparqlify-platform@0.8.5?type=war
 - pkg:maven/org.aksw.sparqlify/sparqlify-platform@0.8.6?classifier=sources
 - pkg:maven/org.aksw.sparqlify/sparqlify-platform@0.8.6?type=war
+- pkg:maven/org.aksw.sparqlify/sparqlify-platform@0.8.7?classifier=sources
+- pkg:maven/org.aksw.sparqlify/sparqlify-platform@0.8.7?type=war

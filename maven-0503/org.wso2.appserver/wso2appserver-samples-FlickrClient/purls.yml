@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.appserver/wso2appserver-samples-FlickrClient@5.3.0-beta1
+- pkg:maven/org.wso2.appserver/wso2appserver-samples-FlickrClient@5.3.0-beta1?classifier=sources

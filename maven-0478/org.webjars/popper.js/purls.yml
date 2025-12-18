@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars/popper.js@1.14.3
 - pkg:maven/org.webjars/popper.js@1.14.4
 - pkg:maven/org.webjars/popper.js@1.14.6
+- pkg:maven/org.webjars/popper.js@1.14.7
+- pkg:maven/org.webjars/popper.js@1.15.0

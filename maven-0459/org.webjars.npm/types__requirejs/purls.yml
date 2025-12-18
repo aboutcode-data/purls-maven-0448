@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__requirejs@2.1.31
+- pkg:maven/org.webjars.npm/types__requirejs@2.1.31?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.openpreservation.jhove.modules/utf8-hul@1.7.1
+- pkg:maven/org.openpreservation.jhove.modules/utf8-hul@1.7.1?classifier=sources

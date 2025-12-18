@@ -1,0 +1,11 @@
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.12.0
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.12.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.13.0
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.13.1
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.13.2
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.13.3
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.14.0
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.15.0
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.16.0
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.16.1
+- pkg:maven/io.quarkus/quarkus-camel-aws-s3@0.17.0

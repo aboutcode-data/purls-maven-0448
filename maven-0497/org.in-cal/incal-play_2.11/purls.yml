@@ -2,3 +2,13 @@
 - pkg:maven/org.in-cal/incal-play_2.11@0.0.18?classifier=sources
 - pkg:maven/org.in-cal/incal-play_2.11@0.0.19
 - pkg:maven/org.in-cal/incal-play_2.11@0.0.19?classifier=sources
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.0
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.0?classifier=sources
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.6
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.6?classifier=sources
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.7
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.7?classifier=sources
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.8
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.8?classifier=sources
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.9
+- pkg:maven/org.in-cal/incal-play_2.11@0.1.9?classifier=sources

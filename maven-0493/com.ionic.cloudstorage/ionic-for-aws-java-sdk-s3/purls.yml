@@ -1,0 +1,2 @@
+- pkg:maven/com.ionic.cloudstorage/ionic-for-aws-java-sdk-s3@1.0.0
+- pkg:maven/com.ionic.cloudstorage/ionic-for-aws-java-sdk-s3@1.0.0?classifier=sources

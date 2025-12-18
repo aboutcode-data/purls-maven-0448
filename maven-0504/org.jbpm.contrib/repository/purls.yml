@@ -16,6 +16,16 @@
 - pkg:maven/org.jbpm.contrib/repository@7.17.0.Final?type=zip
 - pkg:maven/org.jbpm.contrib/repository@7.18.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository@7.18.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.19.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.19.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.20.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.20.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.21.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.21.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.22.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.22.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.23.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.23.0.Final?type=zip
 - pkg:maven/org.jbpm.contrib/repository@7.6.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository@7.6.0.Final?type=zip
 - pkg:maven/org.jbpm.contrib/repository@7.7.0.Final?classifier=sources

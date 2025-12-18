@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.hbase.filesystem/hbase-filesystem@1.0.0-alpha1?classifier=source-release&type=zip

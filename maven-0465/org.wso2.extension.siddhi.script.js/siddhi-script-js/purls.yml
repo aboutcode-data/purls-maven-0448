@@ -28,3 +28,5 @@
 - pkg:maven/org.wso2.extension.siddhi.script.js/siddhi-script-js@4.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.script.js/siddhi-script-js@4.1.0
 - pkg:maven/org.wso2.extension.siddhi.script.js/siddhi-script-js@4.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.script.js/siddhi-script-js@5.0.0
+- pkg:maven/org.wso2.extension.siddhi.script.js/siddhi-script-js@5.0.0?classifier=source-release&type=zip

@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-core@2.6.0
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-core@2.6.0?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-core@2.7.0
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-core@2.7.0?classifier=sources

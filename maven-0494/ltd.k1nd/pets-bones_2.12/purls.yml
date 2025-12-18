@@ -1,5 +1,7 @@
 - pkg:maven/ltd.k1nd/pets-bones_2.12@0.0.10
 - pkg:maven/ltd.k1nd/pets-bones_2.12@0.0.10?classifier=sources
+- pkg:maven/ltd.k1nd/pets-bones_2.12@0.0.11
+- pkg:maven/ltd.k1nd/pets-bones_2.12@0.0.11?classifier=sources
 - pkg:maven/ltd.k1nd/pets-bones_2.12@0.0.6
 - pkg:maven/ltd.k1nd/pets-bones_2.12@0.0.6?classifier=sources
 - pkg:maven/ltd.k1nd/pets-bones_2.12@0.0.8

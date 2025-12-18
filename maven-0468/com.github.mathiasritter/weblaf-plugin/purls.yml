@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mathiasritter/weblaf-plugin@1.2.10
+- pkg:maven/com.github.mathiasritter/weblaf-plugin@1.2.10?classifier=sources

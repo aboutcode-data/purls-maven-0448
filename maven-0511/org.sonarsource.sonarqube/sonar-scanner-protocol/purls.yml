@@ -81,6 +81,8 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@6.7.5?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@6.7.6
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@6.7.6?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@6.7.7
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@6.7.7?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@6.7?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.0
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.0-RC1
@@ -104,3 +106,7 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.5?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.6
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.6?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.7
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.7-alpha1
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.7-alpha1?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@7.7?classifier=sources

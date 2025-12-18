@@ -2,5 +2,15 @@
 - pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.15?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.16
 - pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.16?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.17
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.17?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.18
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.18?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.19
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.19?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.20
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.20?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.21
+- pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.21?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.6.7
 - pkg:maven/org.opendaylight.yangtools/object-cache-api@2.0.6.7?classifier=sources

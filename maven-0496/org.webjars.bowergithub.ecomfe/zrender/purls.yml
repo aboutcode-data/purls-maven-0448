@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.ecomfe/zrender@3.7.4?classifier=sources
 - pkg:maven/org.webjars.bowergithub.ecomfe/zrender@4.0.4
 - pkg:maven/org.webjars.bowergithub.ecomfe/zrender@4.0.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.ecomfe/zrender@4.0.7
+- pkg:maven/org.webjars.bowergithub.ecomfe/zrender@4.0.7?classifier=sources

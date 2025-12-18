@@ -1,0 +1,2 @@
+- pkg:maven/ch.mobi.maven/amw-maven-plugin@2.1.40
+- pkg:maven/ch.mobi.maven/amw-maven-plugin@2.1.40?classifier=sources

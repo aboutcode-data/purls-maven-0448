@@ -1,0 +1,2 @@
+- pkg:maven/com.icfolson.aem.akamai/akamai-purge-replication-event-handler@0.0.1
+- pkg:maven/com.icfolson.aem.akamai/akamai-purge-replication-event-handler@0.0.1?classifier=sources

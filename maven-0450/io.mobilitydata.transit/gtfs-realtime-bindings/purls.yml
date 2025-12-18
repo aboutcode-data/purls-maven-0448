@@ -1,0 +1,2 @@
+- pkg:maven/io.mobilitydata.transit/gtfs-realtime-bindings@0.0.5
+- pkg:maven/io.mobilitydata.transit/gtfs-realtime-bindings@0.0.5?classifier=sources

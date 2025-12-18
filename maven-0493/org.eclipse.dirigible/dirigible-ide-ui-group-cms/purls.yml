@@ -1,3 +1,6 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@3.2.8
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@3.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@3.3.1
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@3.3.2
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@3.3.3
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@3.4.0

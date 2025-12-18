@@ -2,3 +2,11 @@
 - pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.17?type=war
 - pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.21?classifier=sources
 - pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.21?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.22?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.22?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.23?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.23?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.24?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.24?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.26?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.26?type=war

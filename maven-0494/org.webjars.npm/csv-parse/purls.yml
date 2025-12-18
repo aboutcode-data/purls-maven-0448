@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/csv-parse@1.2.4?classifier=sources
 - pkg:maven/org.webjars.npm/csv-parse@2.0.4
 - pkg:maven/org.webjars.npm/csv-parse@2.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/csv-parse@2.5.0
+- pkg:maven/org.webjars.npm/csv-parse@2.5.0?classifier=sources

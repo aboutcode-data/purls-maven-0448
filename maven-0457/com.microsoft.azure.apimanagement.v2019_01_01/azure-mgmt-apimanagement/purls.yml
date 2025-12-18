@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.apimanagement.v2019_01_01/azure-mgmt-apimanagement@1.0.0-beta
+- pkg:maven/com.microsoft.azure.apimanagement.v2019_01_01/azure-mgmt-apimanagement@1.0.0-beta?classifier=sources

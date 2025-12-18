@@ -1,0 +1,2 @@
+- pkg:maven/org.jacpfx.vertx.spring/vertx-spring-ext-8@2.4
+- pkg:maven/org.jacpfx.vertx.spring/vertx-spring-ext-8@2.4?classifier=sources

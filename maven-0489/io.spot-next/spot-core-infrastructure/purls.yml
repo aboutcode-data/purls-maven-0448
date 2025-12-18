@@ -20,3 +20,5 @@
 - pkg:maven/io.spot-next/spot-core-infrastructure@1.0.19-BETA-20181127?classifier=sources
 - pkg:maven/io.spot-next/spot-core-infrastructure@1.0.20-BETA-20181129
 - pkg:maven/io.spot-next/spot-core-infrastructure@1.0.20-BETA-20181129?classifier=sources
+- pkg:maven/io.spot-next/spot-core-infrastructure@1.0.21-BETA-20190513
+- pkg:maven/io.spot-next/spot-core-infrastructure@1.0.21-BETA-20190513?classifier=sources

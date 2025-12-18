@@ -8,6 +8,8 @@
 - pkg:maven/tec.uom/uom-se@0.9?classifier=sources
 - pkg:maven/tec.uom/uom-se@1.0
 - pkg:maven/tec.uom/uom-se@1.0.1
+- pkg:maven/tec.uom/uom-se@1.0.10
+- pkg:maven/tec.uom/uom-se@1.0.10?classifier=sources
 - pkg:maven/tec.uom/uom-se@1.0.1?classifier=sources
 - pkg:maven/tec.uom/uom-se@1.0.2
 - pkg:maven/tec.uom/uom-se@1.0.2?classifier=sources

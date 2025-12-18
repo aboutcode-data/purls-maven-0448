@@ -2,6 +2,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.10_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.10_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.10_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.11_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.11_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.11_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.11_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.7_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.7_2
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.batik@1.7_2?classifier=sources

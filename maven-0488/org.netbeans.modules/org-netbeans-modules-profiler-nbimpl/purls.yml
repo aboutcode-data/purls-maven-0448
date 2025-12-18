@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-nbimpl@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-nbimpl@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-nbimpl@RELEASE90?classifier=sources

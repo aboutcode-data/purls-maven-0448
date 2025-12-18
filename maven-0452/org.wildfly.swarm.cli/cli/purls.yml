@@ -6,6 +6,8 @@
 - pkg:maven/org.wildfly.swarm.cli/cli@2.2.0.Final?classifier=sources
 - pkg:maven/org.wildfly.swarm.cli/cli@2.2.1.Final
 - pkg:maven/org.wildfly.swarm.cli/cli@2.2.1.Final?classifier=sources
+- pkg:maven/org.wildfly.swarm.cli/cli@2.4.0.Final
+- pkg:maven/org.wildfly.swarm.cli/cli@2.4.0.Final?classifier=sources
 - pkg:maven/org.wildfly.swarm.cli/cli@2012.12.0
 - pkg:maven/org.wildfly.swarm.cli/cli@2012.12.0?classifier=sources
 - pkg:maven/org.wildfly.swarm.cli/cli@2017.10.0

@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.zipkin.reporter2/zipkin-reporter-parent@2.8.3?classifier=source-release&type=zip

@@ -50,6 +50,10 @@
 - pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.24.3?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.25.2
 - pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.25.2?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.26.0
+- pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.26.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.27.0
+- pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.27.0?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.4.2
 - pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.4.2?classifier=sources
 - pkg:maven/de.heikoseeberger/akka-http-argonaut_2.11@1.5.0

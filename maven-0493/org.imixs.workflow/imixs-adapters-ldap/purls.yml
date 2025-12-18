@@ -1,0 +1,2 @@
+- pkg:maven/org.imixs.workflow/imixs-adapters-ldap@2.0.0
+- pkg:maven/org.imixs.workflow/imixs-adapters-ldap@2.0.0?classifier=sources

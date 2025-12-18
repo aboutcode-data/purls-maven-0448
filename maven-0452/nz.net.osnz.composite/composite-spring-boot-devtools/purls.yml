@@ -4,3 +4,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-devtools@2.5
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-devtools@2.6
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-devtools@2.7
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-devtools@2.8
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-devtools@2.9

@@ -1,0 +1,2 @@
+- pkg:maven/org.expath.tools/tools-java@0.3.0
+- pkg:maven/org.expath.tools/tools-java@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/coffee.cypher.kettle/kettle@1.13.2-1.0.2
+- pkg:maven/coffee.cypher.kettle/kettle@1.13.2-1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alexarchambault/scalacheck-shapeless_1.14_sjs0.6_2.13@1.2.3
+- pkg:maven/com.github.alexarchambault/scalacheck-shapeless_1.14_sjs0.6_2.13@1.2.3?classifier=sources

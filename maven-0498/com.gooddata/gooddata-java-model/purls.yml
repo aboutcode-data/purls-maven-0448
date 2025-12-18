@@ -1,2 +1,4 @@
 - pkg:maven/com.gooddata/gooddata-java-model@3.0.0-RC.1%2Bapi1
 - pkg:maven/com.gooddata/gooddata-java-model@3.0.0-RC.1%2Bapi1?classifier=sources
+- pkg:maven/com.gooddata/gooddata-java-model@3.0.0-RC.2%2Bapi3
+- pkg:maven/com.gooddata/gooddata-java-model@3.0.0-RC.2%2Bapi3?classifier=sources

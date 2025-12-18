@@ -10,3 +10,5 @@
 - pkg:maven/com.amazon.pay/amazon-pay-java-sdk@3.4.1?classifier=sources
 - pkg:maven/com.amazon.pay/amazon-pay-java-sdk@3.5.0
 - pkg:maven/com.amazon.pay/amazon-pay-java-sdk@3.5.0?classifier=sources
+- pkg:maven/com.amazon.pay/amazon-pay-java-sdk@3.5.1
+- pkg:maven/com.amazon.pay/amazon-pay-java-sdk@3.5.1?classifier=sources

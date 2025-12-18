@@ -53,3 +53,6 @@
 - pkg:maven/org.webjars/highcharts@7.0.1
 - pkg:maven/org.webjars/highcharts@7.0.2
 - pkg:maven/org.webjars/highcharts@7.0.3
+- pkg:maven/org.webjars/highcharts@7.1.0
+- pkg:maven/org.webjars/highcharts@7.1.1
+- pkg:maven/org.webjars/highcharts@7.1.2

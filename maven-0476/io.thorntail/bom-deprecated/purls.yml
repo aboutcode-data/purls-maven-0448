@@ -1,1 +1,2 @@
 - pkg:maven/io.thorntail/bom-deprecated@2.3.0.Final?classifier=sources
+- pkg:maven/io.thorntail/bom-deprecated@2.4.0.Final?classifier=sources

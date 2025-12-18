@@ -30,3 +30,5 @@
 - pkg:maven/net.unit8.enkan/enkan-core@0.6.0?classifier=sources
 - pkg:maven/net.unit8.enkan/enkan-core@0.7.0
 - pkg:maven/net.unit8.enkan/enkan-core@0.7.0?classifier=sources
+- pkg:maven/net.unit8.enkan/enkan-core@0.8.0
+- pkg:maven/net.unit8.enkan/enkan-core@0.8.0?classifier=sources

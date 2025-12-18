@@ -1,0 +1,2 @@
+- pkg:maven/com.pragmaticobjects.oo.data/data-jooq@0.0.2
+- pkg:maven/com.pragmaticobjects.oo.data/data-jooq@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-summernote-summernote@0.8.12
+- pkg:maven/org.webjars.npm/github-com-summernote-summernote@0.8.12?classifier=sources

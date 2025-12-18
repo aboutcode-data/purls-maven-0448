@@ -2,3 +2,7 @@
 - pkg:maven/net.qiujuer.widget/airpanel@1.0.0?type=aar
 - pkg:maven/net.qiujuer.widget/airpanel@1.1.0?classifier=sources
 - pkg:maven/net.qiujuer.widget/airpanel@1.1.0?type=aar
+- pkg:maven/net.qiujuer.widget/airpanel@1.2.0?classifier=sources
+- pkg:maven/net.qiujuer.widget/airpanel@1.2.0?type=aar
+- pkg:maven/net.qiujuer.widget/airpanel@1.3.0?classifier=sources
+- pkg:maven/net.qiujuer.widget/airpanel@1.3.0?type=aar

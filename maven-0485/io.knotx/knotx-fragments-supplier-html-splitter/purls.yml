@@ -1,0 +1,2 @@
+- pkg:maven/io.knotx/knotx-fragments-supplier-html-splitter@2.0-RC3
+- pkg:maven/io.knotx/knotx-fragments-supplier-html-splitter@2.0-RC3?classifier=sources

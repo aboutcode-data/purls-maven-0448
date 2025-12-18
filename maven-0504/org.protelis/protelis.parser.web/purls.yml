@@ -8,3 +8,7 @@
 - pkg:maven/org.protelis/protelis.parser.web@8.0.0?type=war
 - pkg:maven/org.protelis/protelis.parser.web@8.1.0.java7legacy?type=war
 - pkg:maven/org.protelis/protelis.parser.web@8.1.0?type=war
+- pkg:maven/org.protelis/protelis.parser.web@8.2.0.java7legacy?type=war
+- pkg:maven/org.protelis/protelis.parser.web@8.2.0?type=war
+- pkg:maven/org.protelis/protelis.parser.web@9.0.0?type=war
+- pkg:maven/org.protelis/protelis.parser.web@9.1.0?type=war

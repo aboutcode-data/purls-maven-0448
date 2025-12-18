@@ -2,5 +2,7 @@
 - pkg:maven/io.github.ivanespitiac/imageslider@1.0.1?type=aar
 - pkg:maven/io.github.ivanespitiac/imageslider@1.0.2?classifier=sources
 - pkg:maven/io.github.ivanespitiac/imageslider@1.0.2?type=aar
+- pkg:maven/io.github.ivanespitiac/imageslider@1.0.3?classifier=sources
+- pkg:maven/io.github.ivanespitiac/imageslider@1.0.3?type=aar
 - pkg:maven/io.github.ivanespitiac/imageslider@1.0?classifier=sources
 - pkg:maven/io.github.ivanespitiac/imageslider@1.0?type=aar

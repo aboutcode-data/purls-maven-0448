@@ -1,3 +1,5 @@
+- pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.10.0
+- pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.10.0?classifier=sources
 - pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.6.0
 - pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.6.0?classifier=sources
 - pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.7.0
@@ -22,3 +24,5 @@
 - pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.9.2?classifier=sources
 - pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.9.3
 - pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.9.3?classifier=sources
+- pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.9.4
+- pkg:maven/com.composum.sling.core/composum-sling-osgi-package-installer@1.9.4?classifier=sources

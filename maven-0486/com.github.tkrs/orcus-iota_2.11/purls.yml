@@ -18,3 +18,5 @@
 - pkg:maven/com.github.tkrs/orcus-iota_2.11@0.16.2?classifier=sources
 - pkg:maven/com.github.tkrs/orcus-iota_2.11@0.17.0
 - pkg:maven/com.github.tkrs/orcus-iota_2.11@0.17.0?classifier=sources
+- pkg:maven/com.github.tkrs/orcus-iota_2.11@0.17.1
+- pkg:maven/com.github.tkrs/orcus-iota_2.11@0.17.1?classifier=sources

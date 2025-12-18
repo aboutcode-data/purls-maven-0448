@@ -1,0 +1,2 @@
+- pkg:maven/io.flexio.commons/flexio-microsoft-excel-client@1.6.0
+- pkg:maven/io.flexio.commons/flexio-microsoft-excel-client@1.6.0?classifier=sources

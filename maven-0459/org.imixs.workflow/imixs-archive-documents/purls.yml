@@ -1,0 +1,4 @@
+- pkg:maven/org.imixs.workflow/imixs-archive-documents@1.2.4
+- pkg:maven/org.imixs.workflow/imixs-archive-documents@1.2.4?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-archive-documents@1.2.5
+- pkg:maven/org.imixs.workflow/imixs-archive-documents@1.2.5?classifier=sources

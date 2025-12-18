@@ -12,3 +12,5 @@
 - pkg:maven/org.soulwing.cas/cas-subsystem@1.0.6?classifier=sources
 - pkg:maven/org.soulwing.cas/cas-subsystem@2.0.2
 - pkg:maven/org.soulwing.cas/cas-subsystem@2.0.2?classifier=sources
+- pkg:maven/org.soulwing.cas/cas-subsystem@2.0.3
+- pkg:maven/org.soulwing.cas/cas-subsystem@2.0.3?classifier=sources

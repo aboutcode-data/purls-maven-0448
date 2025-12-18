@@ -2,3 +2,9 @@
 - pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.0.12.RELEASE?classifier=sources
 - pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.0.13.RELEASE
 - pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.0.13.RELEASE?classifier=sources
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.1.0.RELEASE
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.1.0.RELEASE?classifier=sources
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.1.1.RELEASE
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.1.1.RELEASE?classifier=sources
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.1.2.RELEASE
+- pkg:maven/com.jdkhome.blzo/blzo-ex-risk@0.1.2.RELEASE?classifier=sources

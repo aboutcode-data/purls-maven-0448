@@ -1,0 +1,2 @@
+- pkg:maven/de.team33.libs/lib-mapping@8.1.1
+- pkg:maven/de.team33.libs/lib-mapping@8.1.1?classifier=sources

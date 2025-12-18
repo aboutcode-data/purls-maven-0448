@@ -1,2 +1,4 @@
 - pkg:maven/com.loadcoder/chart-extensions@1.0.19
+- pkg:maven/com.loadcoder/chart-extensions@1.0.19.1
+- pkg:maven/com.loadcoder/chart-extensions@1.0.19.1?classifier=sources
 - pkg:maven/com.loadcoder/chart-extensions@1.0.19?classifier=sources

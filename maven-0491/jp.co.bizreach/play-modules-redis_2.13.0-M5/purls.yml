@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.bizreach/play-modules-redis_2.13.0-M5@2.7.0
+- pkg:maven/jp.co.bizreach/play-modules-redis_2.13.0-M5@2.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.patriot-framework/docker-network-simulator@1.1.0
+- pkg:maven/io.patriot-framework/docker-network-simulator@1.1.0?classifier=sources

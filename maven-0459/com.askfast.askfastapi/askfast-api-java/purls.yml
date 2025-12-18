@@ -28,3 +28,5 @@
 - pkg:maven/com.askfast.askfastapi/askfast-api-java@1.5.5?classifier=sources
 - pkg:maven/com.askfast.askfastapi/askfast-api-java@1.5.6
 - pkg:maven/com.askfast.askfastapi/askfast-api-java@1.5.6?classifier=sources
+- pkg:maven/com.askfast.askfastapi/askfast-api-java@1.5.7
+- pkg:maven/com.askfast.askfastapi/askfast-api-java@1.5.7?classifier=sources

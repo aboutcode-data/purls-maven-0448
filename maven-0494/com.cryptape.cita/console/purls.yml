@@ -1,2 +1,6 @@
 - pkg:maven/com.cryptape.cita/console@0.20.3.1?classifier=sources
 - pkg:maven/com.cryptape.cita/console@0.21?classifier=sources
+- pkg:maven/com.cryptape.cita/console@0.22.1?classifier=sources
+- pkg:maven/com.cryptape.cita/console@0.22.3?classifier=sources
+- pkg:maven/com.cryptape.cita/console@0.23.0?classifier=sources
+- pkg:maven/com.cryptape.cita/console@0.24.0?classifier=sources

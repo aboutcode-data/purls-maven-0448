@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.components/feign-jaxrs@1.0
+- pkg:maven/ru.i-novus.components/feign-jaxrs@1.0?classifier=sources

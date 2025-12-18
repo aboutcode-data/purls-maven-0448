@@ -1,0 +1,14 @@
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.10
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.10?classifier=sources
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.11
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.11?classifier=sources
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.2
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.2?classifier=sources
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.3
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.3?classifier=sources
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.7
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.7?classifier=sources
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.8
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.8?classifier=sources
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.9
+- pkg:maven/nl.praegus/toolchain-appium-fixtures@0.0.9?classifier=sources

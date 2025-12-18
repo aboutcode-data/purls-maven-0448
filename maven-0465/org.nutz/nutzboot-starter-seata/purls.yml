@@ -1,0 +1,4 @@
+- pkg:maven/org.nutz/nutzboot-starter-seata@2.3.5.v20190516
+- pkg:maven/org.nutz/nutzboot-starter-seata@2.3.5.v20190516?classifier=sources
+- pkg:maven/org.nutz/nutzboot-starter-seata@2.3.6.v20190621
+- pkg:maven/org.nutz/nutzboot-starter-seata@2.3.6.v20190621?classifier=sources

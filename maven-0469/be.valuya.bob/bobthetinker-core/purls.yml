@@ -1,0 +1,6 @@
+- pkg:maven/be.valuya.bob/bobthetinker-core@1.0.0
+- pkg:maven/be.valuya.bob/bobthetinker-core@1.0.0?classifier=sources
+- pkg:maven/be.valuya.bob/bobthetinker-core@1.1.0
+- pkg:maven/be.valuya.bob/bobthetinker-core@1.1.0?classifier=sources
+- pkg:maven/be.valuya.bob/bobthetinker-core@1.1.1
+- pkg:maven/be.valuya.bob/bobthetinker-core@1.1.1?classifier=sources

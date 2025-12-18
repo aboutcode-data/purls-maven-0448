@@ -1,0 +1,2 @@
+- pkg:maven/com.jsonex/core@0.0.1_jdk7_RELEASE
+- pkg:maven/com.jsonex/core@0.0.1_jdk7_RELEASE?classifier=sources

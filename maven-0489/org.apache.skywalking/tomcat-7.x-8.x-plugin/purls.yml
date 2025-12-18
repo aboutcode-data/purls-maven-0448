@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.skywalking/tomcat-7.x-8.x-plugin@6.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.skywalking/tomcat-7.x-8.x-plugin@6.0.0-beta
 - pkg:maven/org.apache.skywalking/tomcat-7.x-8.x-plugin@6.0.0-beta?classifier=sources
+- pkg:maven/org.apache.skywalking/tomcat-7.x-8.x-plugin@6.1.0
+- pkg:maven/org.apache.skywalking/tomcat-7.x-8.x-plugin@6.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.7.3
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.7.3?classifier=sources

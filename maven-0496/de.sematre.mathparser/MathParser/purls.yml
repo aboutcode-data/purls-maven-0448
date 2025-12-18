@@ -1,0 +1,4 @@
+- pkg:maven/de.sematre.mathparser/MathParser@1.0
+- pkg:maven/de.sematre.mathparser/MathParser@1.0?classifier=sources
+- pkg:maven/de.sematre.mathparser/MathParser@1.1
+- pkg:maven/de.sematre.mathparser/MathParser@1.1?classifier=sources

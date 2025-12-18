@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/browser-sync-client@2.0.2
 - pkg:maven/org.webjars.npm/browser-sync-client@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/browser-sync-client@2.26.4
+- pkg:maven/org.webjars.npm/browser-sync-client@2.26.4?classifier=sources

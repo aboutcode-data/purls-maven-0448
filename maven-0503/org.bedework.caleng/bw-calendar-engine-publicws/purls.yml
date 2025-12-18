@@ -4,3 +4,4 @@
 - pkg:maven/org.bedework.caleng/bw-calendar-engine-publicws@3.12.3?type=war
 - pkg:maven/org.bedework.caleng/bw-calendar-engine-publicws@3.12.4?type=war
 - pkg:maven/org.bedework.caleng/bw-calendar-engine-publicws@3.12.5?type=war
+- pkg:maven/org.bedework.caleng/bw-calendar-engine-publicws@3.12.6?type=war

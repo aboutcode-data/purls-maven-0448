@@ -1,0 +1,2 @@
+- pkg:maven/ch.dsivd.jaxb-plugins/xjc-non-null-getter@2.0.3
+- pkg:maven/ch.dsivd.jaxb-plugins/xjc-non-null-getter@2.0.3?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.user@4.10.0
+- pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.user@4.11.0
+- pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.user@4.12.0
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.user@4.6.1
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.user@4.7.0
 - pkg:maven/org.eclipse.platform/org.eclipse.platform.doc.user@4.7.1

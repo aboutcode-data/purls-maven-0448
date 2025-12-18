@@ -10,7 +10,17 @@
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-b18-f3472e7?classifier=sources
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-b19-fb227e3
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-b19-fb227e3?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-b20-bfe6e22
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-b20-bfe6e22?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-b21-6a027d2
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-b21-6a027d2?classifier=sources
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-rf-p13-095e529
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-rf-p13-095e529?classifier=sources
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-rf-p14-2f97dbe
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@1.0.0-rf-p14-2f97dbe?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.22
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.22?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.23
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.23?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.24
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.24?classifier=sources

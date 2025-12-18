@@ -1,0 +1,2 @@
+- pkg:maven/de.pi3g.pi/pi-oled@1.0
+- pkg:maven/de.pi3g.pi/pi-oled@1.0?classifier=sources

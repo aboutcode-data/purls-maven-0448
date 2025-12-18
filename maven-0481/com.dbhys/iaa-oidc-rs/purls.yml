@@ -1,0 +1,2 @@
+- pkg:maven/com.dbhys/iaa-oidc-rs@1.0-spring
+- pkg:maven/com.dbhys/iaa-oidc-rs@1.0-spring?classifier=sources

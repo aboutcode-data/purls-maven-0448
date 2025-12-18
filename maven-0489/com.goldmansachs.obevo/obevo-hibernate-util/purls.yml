@@ -1,0 +1,2 @@
+- pkg:maven/com.goldmansachs.obevo/obevo-hibernate-util@7.1.0
+- pkg:maven/com.goldmansachs.obevo/obevo-hibernate-util@7.1.0?classifier=sources

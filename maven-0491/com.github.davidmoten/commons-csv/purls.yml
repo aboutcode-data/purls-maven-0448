@@ -1,0 +1,4 @@
+- pkg:maven/com.github.davidmoten/commons-csv@1.6.001
+- pkg:maven/com.github.davidmoten/commons-csv@1.6.001?classifier=sources
+- pkg:maven/com.github.davidmoten/commons-csv@1.6.002
+- pkg:maven/com.github.davidmoten/commons-csv@1.6.002?classifier=sources

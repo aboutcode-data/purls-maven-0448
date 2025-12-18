@@ -1,0 +1,2 @@
+- pkg:maven/com.iohao.widget/iohao-timer-task@0.2
+- pkg:maven/com.iohao.widget/iohao-timer-task@0.2?classifier=sources

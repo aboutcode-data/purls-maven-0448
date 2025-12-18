@@ -1,0 +1,2 @@
+- pkg:maven/com.peruncs.gwt/gwt-recaptcha@0.0.2
+- pkg:maven/com.peruncs.gwt/gwt-recaptcha@0.0.2?classifier=sources

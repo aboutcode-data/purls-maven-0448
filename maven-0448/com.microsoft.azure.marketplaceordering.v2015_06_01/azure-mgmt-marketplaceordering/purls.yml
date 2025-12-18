@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.marketplaceordering.v2015_06_01/azure-mgmt-marketplaceordering@1.0.0-beta
+- pkg:maven/com.microsoft.azure.marketplaceordering.v2015_06_01/azure-mgmt-marketplaceordering@1.0.0-beta?classifier=sources

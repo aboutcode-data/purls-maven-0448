@@ -4,3 +4,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-starter@3.4.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-starter@3.6.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-starter@3.7.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-starter@3.8.0

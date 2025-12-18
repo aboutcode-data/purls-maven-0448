@@ -1,0 +1,2 @@
+- pkg:maven/pro.idax.api.client/idax-api-client@1.0.0
+- pkg:maven/pro.idax.api.client/idax-api-client@1.0.0?classifier=sources

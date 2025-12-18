@@ -20,3 +20,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/gemfire-app-starters-test-support@2.0.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/gemfire-app-starters-test-support@2.1.0.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/gemfire-app-starters-test-support@2.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/gemfire-app-starters-test-support@2.1.1.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/gemfire-app-starters-test-support@2.1.1.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.functionalj/io.functionalj-functionalj-annotations-tests@unspecified
+- pkg:maven/io.functionalj/io.functionalj-functionalj-annotations-tests@unspecified?classifier=sources

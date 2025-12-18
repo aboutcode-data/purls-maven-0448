@@ -6,6 +6,10 @@
 - pkg:maven/org.joml/joml-jdk8@1.9.12?classifier=sources
 - pkg:maven/org.joml/joml-jdk8@1.9.13
 - pkg:maven/org.joml/joml-jdk8@1.9.13?classifier=sources
+- pkg:maven/org.joml/joml-jdk8@1.9.14
+- pkg:maven/org.joml/joml-jdk8@1.9.14?classifier=sources
+- pkg:maven/org.joml/joml-jdk8@1.9.15
+- pkg:maven/org.joml/joml-jdk8@1.9.15?classifier=sources
 - pkg:maven/org.joml/joml-jdk8@1.9.8
 - pkg:maven/org.joml/joml-jdk8@1.9.8?classifier=sources
 - pkg:maven/org.joml/joml-jdk8@1.9.9

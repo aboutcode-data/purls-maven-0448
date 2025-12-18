@@ -1,0 +1,2 @@
+- pkg:maven/net.tisseurdetoile.batch/springbatch-example@0.1
+- pkg:maven/net.tisseurdetoile.batch/springbatch-example@0.1?classifier=sources

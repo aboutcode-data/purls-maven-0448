@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/silly-beans@1
+- pkg:maven/de.alpharogroup/silly-beans@1?classifier=sources

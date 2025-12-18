@@ -42,3 +42,5 @@
 - pkg:maven/com.uwetrottmann.trakt5/trakt-java@6.0.0?classifier=sources
 - pkg:maven/com.uwetrottmann.trakt5/trakt-java@6.1.0
 - pkg:maven/com.uwetrottmann.trakt5/trakt-java@6.1.0?classifier=sources
+- pkg:maven/com.uwetrottmann.trakt5/trakt-java@6.2.0
+- pkg:maven/com.uwetrottmann.trakt5/trakt-java@6.2.0?classifier=sources

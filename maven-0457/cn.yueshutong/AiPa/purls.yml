@@ -1,0 +1,4 @@
+- pkg:maven/cn.yueshutong/AiPa@1.0-RELEASE
+- pkg:maven/cn.yueshutong/AiPa@1.0-RELEASE?classifier=sources
+- pkg:maven/cn.yueshutong/AiPa@1.0.0.RELEASE
+- pkg:maven/cn.yueshutong/AiPa@1.0.0.RELEASE?classifier=sources

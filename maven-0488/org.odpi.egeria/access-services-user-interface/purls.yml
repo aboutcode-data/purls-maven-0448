@@ -1,3 +1,5 @@
 - pkg:maven/org.odpi.egeria/access-services-user-interface@0.1
 - pkg:maven/org.odpi.egeria/access-services-user-interface@0.2
 - pkg:maven/org.odpi.egeria/access-services-user-interface@0.2?classifier=sources
+- pkg:maven/org.odpi.egeria/access-services-user-interface@1.0
+- pkg:maven/org.odpi.egeria/access-services-user-interface@1.0?classifier=sources

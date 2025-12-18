@@ -1,0 +1,2 @@
+- pkg:maven/io.enoa/enoa-shell@1.7.0-beta
+- pkg:maven/io.enoa/enoa-shell@1.7.0-beta?classifier=sources

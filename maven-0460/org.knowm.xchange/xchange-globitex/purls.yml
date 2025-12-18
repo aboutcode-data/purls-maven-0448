@@ -1,0 +1,6 @@
+- pkg:maven/org.knowm.xchange/xchange-globitex@4.3.17
+- pkg:maven/org.knowm.xchange/xchange-globitex@4.3.17?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-globitex@4.3.18
+- pkg:maven/org.knowm.xchange/xchange-globitex@4.3.18?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-globitex@4.3.19
+- pkg:maven/org.knowm.xchange/xchange-globitex@4.3.19?classifier=sources

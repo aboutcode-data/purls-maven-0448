@@ -1,0 +1,2 @@
+- pkg:maven/com.globalmentor/globalmentor-svg-spec@0.6.0
+- pkg:maven/com.globalmentor/globalmentor-svg-spec@0.6.0?classifier=sources

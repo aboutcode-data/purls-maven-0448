@@ -1,0 +1,2 @@
+- pkg:maven/com.shocknode/base@0.0.1
+- pkg:maven/com.shocknode/base@0.0.1?classifier=sources
