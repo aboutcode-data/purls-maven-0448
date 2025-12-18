@@ -132,3 +132,5 @@
 - pkg:maven/com.eworkcloud.starter/ework-cloud-starter-swagger@2.5.3?classifier=sources
 - pkg:maven/com.eworkcloud.starter/ework-cloud-starter-swagger@2.5.4
 - pkg:maven/com.eworkcloud.starter/ework-cloud-starter-swagger@2.5.4?classifier=sources
+- pkg:maven/com.eworkcloud.starter/ework-cloud-starter-swagger@2.5.5
+- pkg:maven/com.eworkcloud.starter/ework-cloud-starter-swagger@2.5.5?classifier=sources

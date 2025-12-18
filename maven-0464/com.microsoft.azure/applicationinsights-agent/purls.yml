@@ -40,6 +40,8 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@2.6.3-BETA-HEYA-TEST
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@2.6.3-BETA-HEYA-TEST?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@2.6.3?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@2.6.4
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@2.6.4?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.0
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.0?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.1
@@ -88,3 +90,7 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.1?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.2
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.2?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.3
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.3?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.4
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.4?classifier=sources

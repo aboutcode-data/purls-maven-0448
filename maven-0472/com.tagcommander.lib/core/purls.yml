@@ -4,3 +4,5 @@
 - pkg:maven/com.tagcommander.lib/core@4.6.3?type=aar
 - pkg:maven/com.tagcommander.lib/core@4.6.4?type=aar
 - pkg:maven/com.tagcommander.lib/core@4.6.5?type=aar
+- pkg:maven/com.tagcommander.lib/core@4.6.6?type=aar
+- pkg:maven/com.tagcommander.lib/core@4.7.0?type=aar

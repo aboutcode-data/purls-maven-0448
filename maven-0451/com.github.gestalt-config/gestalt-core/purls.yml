@@ -1,3 +1,4 @@
+- pkg:maven/com.github.gestalt-config/gestalt-core@0.10.0?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-core@0.4.0?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-core@0.4.1?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-core@0.5.0?classifier=sources

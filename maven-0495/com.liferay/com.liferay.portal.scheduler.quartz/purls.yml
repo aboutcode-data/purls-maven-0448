@@ -61,6 +61,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.17
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.18
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@3.0.2
@@ -229,6 +232,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.1
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.10
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.2
@@ -252,3 +258,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.8
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.9
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler.quartz@7.0.9?classifier=sources-commercial

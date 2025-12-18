@@ -1,1 +1,2 @@
 - pkg:maven/com.liferay/org.apache.logging.log4j.core@2.14.1.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.apache.logging.log4j.core@2.15.0.LIFERAY-PATCHED-1

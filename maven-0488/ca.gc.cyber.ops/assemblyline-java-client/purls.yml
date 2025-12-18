@@ -8,3 +8,5 @@
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.6-RELEASE
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.6-RELEASE?classifier=sources
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.6?classifier=sources
+- pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.7
+- pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.7?classifier=sources

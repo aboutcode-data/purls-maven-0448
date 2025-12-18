@@ -22,6 +22,7 @@
 - pkg:maven/com.yxt.opensdk.library_live/live_pull@1.16.21?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/live_pull@1.16.22?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/live_pull@1.16.23?type=aar
+- pkg:maven/com.yxt.opensdk.library_live/live_pull@1.16.24?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/live_pull@1.16.7.1?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/live_pull@1.16.8?type=aar
 - pkg:maven/com.yxt.opensdk.library_live/live_pull@1.16.9?type=aar

@@ -82,3 +82,5 @@
 - pkg:maven/pl.fhframework/basicControls@4.9.19?classifier=sources
 - pkg:maven/pl.fhframework/basicControls@4.9.20
 - pkg:maven/pl.fhframework/basicControls@4.9.20?classifier=sources
+- pkg:maven/pl.fhframework/basicControls@4.9.21
+- pkg:maven/pl.fhframework/basicControls@4.9.21?classifier=sources

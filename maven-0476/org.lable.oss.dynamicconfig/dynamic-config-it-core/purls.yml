@@ -1,3 +1,4 @@
 - pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-it-core@3.0-beta1
 - pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-it-core@3.1
+- pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-it-core@4.0
 - pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-it-core@4.0-beta1

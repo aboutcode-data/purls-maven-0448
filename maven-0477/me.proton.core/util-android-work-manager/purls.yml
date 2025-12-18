@@ -1,2 +1,6 @@
+- pkg:maven/me.proton.core/util-android-work-manager@0.0.1-alpha01?classifier=sources
 - pkg:maven/me.proton.core/util-android-work-manager@0.2.2?classifier=sources
 - pkg:maven/me.proton.core/util-android-work-manager@1.15?classifier=sources
+- pkg:maven/me.proton.core/util-android-work-manager@2.0.0-alpha01?classifier=sources
+- pkg:maven/me.proton.core/util-android-work-manager@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-work-manager@3.0.0?classifier=sources

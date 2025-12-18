@@ -1,0 +1,2 @@
+- pkg:maven/com.criteo/criteo-api-retailmedia-sdk@2021.10.0.211126
+- pkg:maven/com.criteo/criteo-api-retailmedia-sdk@2021.10.0.211126?classifier=sources

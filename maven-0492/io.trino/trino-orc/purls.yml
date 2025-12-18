@@ -24,3 +24,7 @@
 - pkg:maven/io.trino/trino-orc@362?classifier=sources
 - pkg:maven/io.trino/trino-orc@363
 - pkg:maven/io.trino/trino-orc@363?classifier=sources
+- pkg:maven/io.trino/trino-orc@364
+- pkg:maven/io.trino/trino-orc@364?classifier=sources
+- pkg:maven/io.trino/trino-orc@365
+- pkg:maven/io.trino/trino-orc@365?classifier=sources

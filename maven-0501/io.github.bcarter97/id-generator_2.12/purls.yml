@@ -1,0 +1,6 @@
+- pkg:maven/io.github.bcarter97/id-generator_2.12@0.1.13
+- pkg:maven/io.github.bcarter97/id-generator_2.12@0.1.13?classifier=sources
+- pkg:maven/io.github.bcarter97/id-generator_2.12@0.1.6
+- pkg:maven/io.github.bcarter97/id-generator_2.12@0.1.6?classifier=sources
+- pkg:maven/io.github.bcarter97/id-generator_2.12@0.2.0
+- pkg:maven/io.github.bcarter97/id-generator_2.12@0.2.0?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/io.github.king-pep/kingetherlibrary@1.1.1?classifier=sources
 - pkg:maven/io.github.king-pep/kingetherlibrary@1.2.1
 - pkg:maven/io.github.king-pep/kingetherlibrary@1.2.1?classifier=sources
+- pkg:maven/io.github.king-pep/kingetherlibrary@2.0.0
+- pkg:maven/io.github.king-pep/kingetherlibrary@2.0.0?classifier=sources
+- pkg:maven/io.github.king-pep/kingetherlibrary@2.0.1
+- pkg:maven/io.github.king-pep/kingetherlibrary@2.0.1?classifier=sources

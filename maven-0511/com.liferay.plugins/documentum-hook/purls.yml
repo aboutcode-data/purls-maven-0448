@@ -1,4 +1,5 @@
 - pkg:maven/com.liferay.plugins/documentum-hook@7.0.10.27?type=war
+- pkg:maven/com.liferay.plugins/documentum-hook@7.0.10.28?type=war
 - pkg:maven/com.liferay.plugins/documentum-hook@7.1.10.14?type=war
 - pkg:maven/com.liferay.plugins/documentum-hook@7.2.10.11?type=war
 - pkg:maven/com.liferay.plugins/documentum-hook@7.2.10.12?type=war

@@ -6,5 +6,7 @@
 - pkg:maven/io.gitee.solarterms/hakuro-web@1.0.12?classifier=sources
 - pkg:maven/io.gitee.solarterms/hakuro-web@1.0.13
 - pkg:maven/io.gitee.solarterms/hakuro-web@1.0.13?classifier=sources
+- pkg:maven/io.gitee.solarterms/hakuro-web@1.0.14
+- pkg:maven/io.gitee.solarterms/hakuro-web@1.0.14?classifier=sources
 - pkg:maven/io.gitee.solarterms/hakuro-web@1.0.9
 - pkg:maven/io.gitee.solarterms/hakuro-web@1.0.9?classifier=sources

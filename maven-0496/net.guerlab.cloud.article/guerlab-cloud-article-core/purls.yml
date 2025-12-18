@@ -1,3 +1,5 @@
+- pkg:maven/net.guerlab.cloud.article/guerlab-cloud-article-core@2022.0.0
+- pkg:maven/net.guerlab.cloud.article/guerlab-cloud-article-core@2022.0.0?classifier=sources
 - pkg:maven/net.guerlab.cloud.article/guerlab-cloud-article-core@21.11.0
 - pkg:maven/net.guerlab.cloud.article/guerlab-cloud-article-core@21.11.0?classifier=sources
 - pkg:maven/net.guerlab.cloud.article/guerlab-cloud-article-core@21.7.2

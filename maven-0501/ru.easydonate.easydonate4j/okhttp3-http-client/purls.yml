@@ -1,0 +1,2 @@
+- pkg:maven/ru.easydonate.easydonate4j/okhttp3-http-client@2.0.0
+- pkg:maven/ru.easydonate.easydonate4j/okhttp3-http-client@2.0.0?classifier=sources

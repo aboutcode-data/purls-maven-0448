@@ -1,2 +1,4 @@
 - pkg:maven/uk.co.waterrower/waterrowerdata-ble@0.0.1?classifier=sources
 - pkg:maven/uk.co.waterrower/waterrowerdata-ble@0.1.0?classifier=sources
+- pkg:maven/uk.co.waterrower/waterrowerdata-ble@1.0.0?classifier=sources
+- pkg:maven/uk.co.waterrower/waterrowerdata-ble@1.0.1?classifier=sources

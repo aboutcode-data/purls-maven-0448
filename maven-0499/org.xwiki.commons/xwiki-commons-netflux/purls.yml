@@ -1,3 +1,9 @@
+- pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.10-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.10-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.10.1
+- pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.10.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.9
 - pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.9-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-netflux@13.9-rc-1?classifier=sources

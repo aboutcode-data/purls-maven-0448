@@ -1,2 +1,4 @@
 - pkg:maven/com.github.isyscore/common-android@1.7.0
 - pkg:maven/com.github.isyscore/common-android@1.7.0?classifier=sources
+- pkg:maven/com.github.isyscore/common-android@1.8.1
+- pkg:maven/com.github.isyscore/common-android@1.8.1?classifier=sources

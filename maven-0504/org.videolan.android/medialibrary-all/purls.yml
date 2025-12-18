@@ -166,3 +166,7 @@
 - pkg:maven/org.videolan.android/medialibrary-all@0.9.4?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.9.5?classifier=sources
 - pkg:maven/org.videolan.android/medialibrary-all@0.9.5?type=aar
+- pkg:maven/org.videolan.android/medialibrary-all@0.9.6?classifier=sources
+- pkg:maven/org.videolan.android/medialibrary-all@0.9.6?type=aar
+- pkg:maven/org.videolan.android/medialibrary-all@0.9.7?classifier=sources
+- pkg:maven/org.videolan.android/medialibrary-all@0.9.7?type=aar

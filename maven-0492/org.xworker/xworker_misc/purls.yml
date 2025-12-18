@@ -4,3 +4,5 @@
 - pkg:maven/org.xworker/xworker_misc@1.0.1%257Bsnapshot%257D
 - pkg:maven/org.xworker/xworker_misc@1.0.1%257Bsnapshot%257D?classifier=sources
 - pkg:maven/org.xworker/xworker_misc@1.0.1?classifier=sources
+- pkg:maven/org.xworker/xworker_misc@1.4.5
+- pkg:maven/org.xworker/xworker_misc@1.4.5?classifier=sources

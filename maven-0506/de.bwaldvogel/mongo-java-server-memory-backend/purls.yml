@@ -50,6 +50,7 @@
 - pkg:maven/de.bwaldvogel/mongo-java-server-memory-backend@1.36.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-memory-backend@1.37.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-memory-backend@1.38.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-memory-backend@1.39.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-memory-backend@1.4.0
 - pkg:maven/de.bwaldvogel/mongo-java-server-memory-backend@1.4.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-memory-backend@1.4.1

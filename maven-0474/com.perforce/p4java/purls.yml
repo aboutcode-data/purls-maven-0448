@@ -68,3 +68,5 @@
 - pkg:maven/com.perforce/p4java@2020.1.1999383?classifier=sources
 - pkg:maven/com.perforce/p4java@2021.1.2163843
 - pkg:maven/com.perforce/p4java@2021.1.2163843?classifier=sources
+- pkg:maven/com.perforce/p4java@2021.1.2204486
+- pkg:maven/com.perforce/p4java@2021.1.2204486?classifier=sources

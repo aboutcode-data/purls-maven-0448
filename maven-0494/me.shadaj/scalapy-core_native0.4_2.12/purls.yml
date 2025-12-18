@@ -87,6 +87,8 @@
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B22-985b8ea1?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B23-d387651a
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B23-d387651a?classifier=sources
+- pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B24-237a2d2d
+- pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B24-237a2d2d?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B3-a0b0df1e
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B3-a0b0df1e?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B4-84909cf7
@@ -102,3 +104,7 @@
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B9-cc4b0863
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0%2B9-cc4b0863?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.0?classifier=sources
+- pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.1
+- pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.1%2B1-a19bda77
+- pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.1%2B1-a19bda77?classifier=sources
+- pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.1?classifier=sources

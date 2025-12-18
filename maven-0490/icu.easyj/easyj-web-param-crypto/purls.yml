@@ -14,3 +14,5 @@
 - pkg:maven/icu.easyj/easyj-web-param-crypto@0.1.9?classifier=sources
 - pkg:maven/icu.easyj/easyj-web-param-crypto@0.2.0
 - pkg:maven/icu.easyj/easyj-web-param-crypto@0.2.0?classifier=sources
+- pkg:maven/icu.easyj/easyj-web-param-crypto@0.2.1
+- pkg:maven/icu.easyj/easyj-web-param-crypto@0.2.1?classifier=sources

@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-csl-api@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-csl-api@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-csl-api@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-csl-api@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-csl-api@RELEASE90?classifier=sources

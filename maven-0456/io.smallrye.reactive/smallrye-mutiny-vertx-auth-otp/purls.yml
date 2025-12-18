@@ -1,0 +1,6 @@
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-otp@2.15.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-otp@2.15.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-otp@2.15.1
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-otp@2.15.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-otp@2.16.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-auth-otp@2.16.0?classifier=sources

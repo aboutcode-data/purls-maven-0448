@@ -12,3 +12,9 @@
 - pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.3-java-8
 - pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.3-java-8?classifier=sources
 - pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.3?classifier=sources
+- pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.4-java-8
+- pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.4-java-8?classifier=sources
+- pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.5
+- pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.5-java-8
+- pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.5-java-8?classifier=sources
+- pkg:maven/io.bitbucket.ruttagorn_chatdee/common@1.0.5?classifier=sources

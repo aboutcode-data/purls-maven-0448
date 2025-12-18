@@ -15,6 +15,8 @@
 - pkg:maven/com.onetrust.cmp/web-sdk@6.24.0.0?type=aar
 - pkg:maven/com.onetrust.cmp/web-sdk@6.25.0.0?type=aar
 - pkg:maven/com.onetrust.cmp/web-sdk@6.26.0.0?type=aar
+- pkg:maven/com.onetrust.cmp/web-sdk@6.27.0.0?type=aar
+- pkg:maven/com.onetrust.cmp/web-sdk@6.28.0.0?type=aar
 - pkg:maven/com.onetrust.cmp/web-sdk@6.5.0.0?type=aar
 - pkg:maven/com.onetrust.cmp/web-sdk@6.6.0.0?type=aar
 - pkg:maven/com.onetrust.cmp/web-sdk@6.6.1.0?type=aar

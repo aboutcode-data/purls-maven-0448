@@ -16,3 +16,5 @@
 - pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin-core@2.3.0?classifier=sources
 - pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin-core@2.4.0
 - pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin-core@2.4.0?classifier=sources
+- pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin-core@2.5.0
+- pkg:maven/de.jpdigital/hibernate5-ddl-maven-plugin-core@2.5.0?classifier=sources

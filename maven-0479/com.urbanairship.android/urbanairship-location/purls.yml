@@ -34,3 +34,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-location@15.0.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-location@15.1.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-location@16.0.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-location@16.1.0?classifier=sources

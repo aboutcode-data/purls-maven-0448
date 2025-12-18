@@ -6,3 +6,4 @@
 - pkg:maven/org.openurp.std.creditbank/openurp-std-creditbank-adminapp@0.0.3?type=war
 - pkg:maven/org.openurp.std.creditbank/openurp-std-creditbank-adminapp@0.0.4?classifier=sources
 - pkg:maven/org.openurp.std.creditbank/openurp-std-creditbank-adminapp@0.0.4?type=war
+- pkg:maven/org.openurp.std.creditbank/openurp-std-creditbank-adminapp@0.0.5?classifier=sources

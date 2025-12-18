@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cldr-numbers-modern@40.0.0
+- pkg:maven/org.webjars.npm/cldr-numbers-modern@40.0.0?classifier=sources

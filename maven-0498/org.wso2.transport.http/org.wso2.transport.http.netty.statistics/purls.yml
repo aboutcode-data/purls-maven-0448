@@ -493,6 +493,10 @@
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.24?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.25
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.25?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.26
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.26?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.27
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.27?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.2?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.3
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics@6.3.3?classifier=sources

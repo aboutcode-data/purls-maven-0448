@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-jberet-jakarta@6.1.0.Beta1
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-batch-jsr352-jberet-jakarta@6.1.0.Beta1?classifier=sources

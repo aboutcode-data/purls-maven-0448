@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tomasmikula/core-tests_3@0.2-M2
+- pkg:maven/com.github.tomasmikula/core-tests_3@0.2-M2?classifier=sources

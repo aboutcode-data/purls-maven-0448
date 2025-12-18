@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/alibabacloud-cloudsso20210515-async@1.0.0-beta
+- pkg:maven/com.aliyun/alibabacloud-cloudsso20210515-async@1.0.0-beta?classifier=sources

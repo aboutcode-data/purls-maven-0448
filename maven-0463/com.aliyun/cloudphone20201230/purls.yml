@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/cloudphone20201230@1.0.2
+- pkg:maven/com.aliyun/cloudphone20201230@1.0.2?classifier=sources

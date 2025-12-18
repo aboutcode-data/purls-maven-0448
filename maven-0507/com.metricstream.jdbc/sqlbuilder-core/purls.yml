@@ -6,4 +6,8 @@
 - pkg:maven/com.metricstream.jdbc/sqlbuilder-core@2.1.1?classifier=sources
 - pkg:maven/com.metricstream.jdbc/sqlbuilder-core@2.2.0?classifier=sources
 - pkg:maven/com.metricstream.jdbc/sqlbuilder-core@2.3.0?classifier=sources
+- pkg:maven/com.metricstream.jdbc/sqlbuilder-core@2.4.0?classifier=sources
+- pkg:maven/com.metricstream.jdbc/sqlbuilder-core@2.6.0?classifier=sources
 - pkg:maven/com.metricstream.jdbc/sqlbuilder-core@3.0.1?classifier=sources
+- pkg:maven/com.metricstream.jdbc/sqlbuilder-core@3.2.2?classifier=sources
+- pkg:maven/com.metricstream.jdbc/sqlbuilder-core@3.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.simpleworks.staf/xray-maven-plugin@0.50
+- pkg:maven/de.simpleworks.staf/xray-maven-plugin@0.50?classifier=sources

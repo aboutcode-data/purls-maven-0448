@@ -4,6 +4,8 @@
 - pkg:maven/org.docx4j/docx4j-documents4j-local@11.2.8?classifier=sources
 - pkg:maven/org.docx4j/docx4j-documents4j-local@11.2.9
 - pkg:maven/org.docx4j/docx4j-documents4j-local@11.2.9?classifier=sources
+- pkg:maven/org.docx4j/docx4j-documents4j-local@11.3.2
+- pkg:maven/org.docx4j/docx4j-documents4j-local@11.3.2?classifier=sources
 - pkg:maven/org.docx4j/docx4j-documents4j-local@8.2.0
 - pkg:maven/org.docx4j/docx4j-documents4j-local@8.2.0?classifier=sources
 - pkg:maven/org.docx4j/docx4j-documents4j-local@8.2.1
@@ -26,3 +28,5 @@
 - pkg:maven/org.docx4j/docx4j-documents4j-local@8.3.0?classifier=sources
 - pkg:maven/org.docx4j/docx4j-documents4j-local@8.3.1
 - pkg:maven/org.docx4j/docx4j-documents4j-local@8.3.1?classifier=sources
+- pkg:maven/org.docx4j/docx4j-documents4j-local@8.3.2
+- pkg:maven/org.docx4j/docx4j-documents4j-local@8.3.2?classifier=sources

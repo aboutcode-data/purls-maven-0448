@@ -107,9 +107,15 @@
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.6.1.Final
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.6.2.Final
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.6.3.Final
+- pkg:maven/io.debezium/debezium-assembly-descriptors@1.6.4.Final
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.7.0.Alpha1
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.7.0.Beta1
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.7.0.CR1
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.7.0.CR2
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.7.0.Final
+- pkg:maven/io.debezium/debezium-assembly-descriptors@1.7.1.Final
+- pkg:maven/io.debezium/debezium-assembly-descriptors@1.7.2.Final
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.8.0.Alpha1
+- pkg:maven/io.debezium/debezium-assembly-descriptors@1.8.0.Alpha2
+- pkg:maven/io.debezium/debezium-assembly-descriptors@1.8.0.Beta1
+- pkg:maven/io.debezium/debezium-assembly-descriptors@1.8.0.CR1

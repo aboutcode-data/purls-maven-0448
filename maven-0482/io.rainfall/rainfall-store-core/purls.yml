@@ -1,0 +1,2 @@
+- pkg:maven/io.rainfall/rainfall-store-core@1.5.2
+- pkg:maven/io.rainfall/rainfall-store-core@1.5.2?classifier=sources

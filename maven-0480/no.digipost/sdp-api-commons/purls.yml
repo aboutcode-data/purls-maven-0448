@@ -100,3 +100,5 @@
 - pkg:maven/no.digipost/sdp-api-commons@2.9?classifier=sources
 - pkg:maven/no.digipost/sdp-api-commons@3.0
 - pkg:maven/no.digipost/sdp-api-commons@3.0?classifier=sources
+- pkg:maven/no.digipost/sdp-api-commons@3.1
+- pkg:maven/no.digipost/sdp-api-commons@3.1?classifier=sources

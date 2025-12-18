@@ -1,3 +1,4 @@
 - pkg:maven/io.github.rakutentech.inappmessaging/inappmessaging@3.0.0?classifier=sources
 - pkg:maven/io.github.rakutentech.inappmessaging/inappmessaging@4.0.0?classifier=sources
 - pkg:maven/io.github.rakutentech.inappmessaging/inappmessaging@5.0.0?classifier=sources
+- pkg:maven/io.github.rakutentech.inappmessaging/inappmessaging@6.0.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.11?classifier=sources
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.13
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.13?classifier=sources
+- pkg:maven/ru.i-novus.components/common-sign-gost-api@1.14
+- pkg:maven/ru.i-novus.components/common-sign-gost-api@1.14?classifier=sources
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.8
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.8?classifier=sources
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.9

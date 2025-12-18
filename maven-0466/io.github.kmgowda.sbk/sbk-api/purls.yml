@@ -3,3 +3,4 @@
 - pkg:maven/io.github.kmgowda.sbk/sbk-api@0.92?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbk-api@0.931?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbk-api@0.93?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-api@0.94?classifier=sources

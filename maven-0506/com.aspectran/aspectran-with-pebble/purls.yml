@@ -34,6 +34,8 @@
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.13.3?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.13.4
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.13.4?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-pebble@6.13.5
+- pkg:maven/com.aspectran/aspectran-with-pebble@6.13.5?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.2.0
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.2.0-M1
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.2.0-M1?classifier=sources

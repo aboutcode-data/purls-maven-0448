@@ -27,4 +27,6 @@
 - pkg:maven/net.pincette/pincette-rs@1.7.1?classifier=sources
 - pkg:maven/net.pincette/pincette-rs@1.7?classifier=sources
 - pkg:maven/net.pincette/pincette-rs@2.0
+- pkg:maven/net.pincette/pincette-rs@2.0.1
+- pkg:maven/net.pincette/pincette-rs@2.0.1?classifier=sources
 - pkg:maven/net.pincette/pincette-rs@2.0?classifier=sources

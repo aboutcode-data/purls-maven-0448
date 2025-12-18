@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/vue-json-viewer@2.2.14?classifier=sources
 - pkg:maven/org.webjars.npm/vue-json-viewer@2.2.19
 - pkg:maven/org.webjars.npm/vue-json-viewer@2.2.19?classifier=sources
+- pkg:maven/org.webjars.npm/vue-json-viewer@3.0.1
+- pkg:maven/org.webjars.npm/vue-json-viewer@3.0.1?classifier=sources

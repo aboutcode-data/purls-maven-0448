@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/webprotege-snapshot-generator-service@0.1.0
+- pkg:maven/edu.stanford.protege/webprotege-snapshot-generator-service@0.1.0?classifier=sources

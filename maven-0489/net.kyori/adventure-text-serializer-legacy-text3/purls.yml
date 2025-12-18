@@ -1,1 +1,2 @@
 - pkg:maven/net.kyori/adventure-text-serializer-legacy-text3@4.0.0?classifier=sources
+- pkg:maven/net.kyori/adventure-text-serializer-legacy-text3@4.0.1?classifier=sources

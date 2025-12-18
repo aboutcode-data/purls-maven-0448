@@ -2,3 +2,5 @@
 - pkg:maven/dev.kske/event-bus-proc@1.0.0?classifier=sources
 - pkg:maven/dev.kske/event-bus-proc@1.1.0
 - pkg:maven/dev.kske/event-bus-proc@1.1.0?classifier=sources
+- pkg:maven/dev.kske/event-bus-proc@1.2.0
+- pkg:maven/dev.kske/event-bus-proc@1.2.0?classifier=sources

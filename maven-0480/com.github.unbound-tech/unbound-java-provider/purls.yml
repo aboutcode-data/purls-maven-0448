@@ -63,5 +63,7 @@
 - pkg:maven/com.github.unbound-tech/unbound-java-provider@2.0.2010.38364.RELEASE?classifier=sources
 - pkg:maven/com.github.unbound-tech/unbound-java-provider@2.0.2010.38414.RELEASE
 - pkg:maven/com.github.unbound-tech/unbound-java-provider@2.0.2010.38414.RELEASE?classifier=sources
+- pkg:maven/com.github.unbound-tech/unbound-java-provider@2.0.2010.38499.RELEASE
+- pkg:maven/com.github.unbound-tech/unbound-java-provider@2.0.2010.38499.RELEASE?classifier=sources
 - pkg:maven/com.github.unbound-tech/unbound-java-provider@42761
 - pkg:maven/com.github.unbound-tech/unbound-java-provider@42761?classifier=sources

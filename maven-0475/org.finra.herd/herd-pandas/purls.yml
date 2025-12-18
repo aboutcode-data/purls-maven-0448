@@ -40,6 +40,8 @@
 - pkg:maven/org.finra.herd/herd-pandas@0.156.0
 - pkg:maven/org.finra.herd/herd-pandas@0.157.0
 - pkg:maven/org.finra.herd/herd-pandas@0.158.0
+- pkg:maven/org.finra.herd/herd-pandas@0.159.0
+- pkg:maven/org.finra.herd/herd-pandas@0.160.0
 - pkg:maven/org.finra.herd/herd-pandas@0.89.0
 - pkg:maven/org.finra.herd/herd-pandas@0.90.0
 - pkg:maven/org.finra.herd/herd-pandas@0.91.0

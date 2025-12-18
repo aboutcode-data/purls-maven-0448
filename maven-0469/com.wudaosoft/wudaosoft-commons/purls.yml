@@ -28,3 +28,5 @@
 - pkg:maven/com.wudaosoft/wudaosoft-commons@1.1.9?classifier=sources
 - pkg:maven/com.wudaosoft/wudaosoft-commons@2.0.0
 - pkg:maven/com.wudaosoft/wudaosoft-commons@2.0.0?classifier=sources
+- pkg:maven/com.wudaosoft/wudaosoft-commons@3.0.0
+- pkg:maven/com.wudaosoft/wudaosoft-commons@3.0.0?classifier=sources

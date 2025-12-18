@@ -10,3 +10,7 @@
 - pkg:maven/com.ontimize.boot/ontimize-boot-report@3.6.0?classifier=sources
 - pkg:maven/com.ontimize.boot/ontimize-boot-report@3.7.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-report@3.7.0?classifier=sources
+- pkg:maven/com.ontimize.boot/ontimize-boot-report@3.8.0
+- pkg:maven/com.ontimize.boot/ontimize-boot-report@3.8.0?classifier=sources
+- pkg:maven/com.ontimize.boot/ontimize-boot-report@3.8.1
+- pkg:maven/com.ontimize.boot/ontimize-boot-report@3.8.1?classifier=sources

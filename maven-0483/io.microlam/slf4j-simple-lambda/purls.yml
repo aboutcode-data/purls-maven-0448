@@ -4,3 +4,5 @@
 - pkg:maven/io.microlam/slf4j-simple-lambda@2.0.0-alpha1_1.0?classifier=sources
 - pkg:maven/io.microlam/slf4j-simple-lambda@2.0.0-alpha1_1.1
 - pkg:maven/io.microlam/slf4j-simple-lambda@2.0.0-alpha1_1.1?classifier=sources
+- pkg:maven/io.microlam/slf4j-simple-lambda@2.0.0-alpha5_1.1
+- pkg:maven/io.microlam/slf4j-simple-lambda@2.0.0-alpha5_1.1?classifier=sources

@@ -74,6 +74,9 @@
 - pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.32
 - pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.33
+- pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.4
 - pkg:maven/com.liferay/com.liferay.monitoring.web@1.0.4?classifier=sources
@@ -277,6 +280,9 @@
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.1
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.10
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.2
@@ -297,3 +303,9 @@
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.7
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.8
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.9
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.monitoring.web@5.0.9?classifier=sources-commercial

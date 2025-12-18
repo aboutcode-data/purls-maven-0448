@@ -18,3 +18,5 @@
 - pkg:maven/org.fluentcodes.projects.elasticobjects/elastic-objects@0.6.0?classifier=sources
 - pkg:maven/org.fluentcodes.projects.elasticobjects/elastic-objects@0.8.0
 - pkg:maven/org.fluentcodes.projects.elasticobjects/elastic-objects@0.8.0?classifier=sources
+- pkg:maven/org.fluentcodes.projects.elasticobjects/elastic-objects@0.8.1
+- pkg:maven/org.fluentcodes.projects.elasticobjects/elastic-objects@0.8.1?classifier=sources

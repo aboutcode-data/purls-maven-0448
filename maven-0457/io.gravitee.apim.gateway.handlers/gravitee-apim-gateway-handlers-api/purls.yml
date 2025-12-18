@@ -1,0 +1,6 @@
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-api@3.10.8
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-api@3.10.8?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-api@3.12.5
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-api@3.12.5?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-api@3.5.25
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-api@3.5.25?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/io.trino/trino-pinot@361?classifier=sources
 - pkg:maven/io.trino/trino-pinot@362?classifier=sources
 - pkg:maven/io.trino/trino-pinot@363?classifier=sources
+- pkg:maven/io.trino/trino-pinot@364?classifier=sources
+- pkg:maven/io.trino/trino-pinot@365?classifier=sources

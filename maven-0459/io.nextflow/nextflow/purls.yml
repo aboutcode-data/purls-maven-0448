@@ -356,3 +356,10 @@
 - pkg:maven/io.nextflow/nextflow@21.08.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nextflow@21.09.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nextflow@21.09.1-edge?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.10.0?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.10.1?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.10.2?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.10.3?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.10.4?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.10.5?classifier=sources
+- pkg:maven/io.nextflow/nextflow@21.11.0-edge?classifier=sources

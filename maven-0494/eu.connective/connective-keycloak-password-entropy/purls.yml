@@ -2,5 +2,7 @@
 - pkg:maven/eu.connective/connective-keycloak-password-entropy@11.0.0?classifier=sources
 - pkg:maven/eu.connective/connective-keycloak-password-entropy@12.0.0
 - pkg:maven/eu.connective/connective-keycloak-password-entropy@12.0.0?classifier=sources
+- pkg:maven/eu.connective/connective-keycloak-password-entropy@15.0.0
+- pkg:maven/eu.connective/connective-keycloak-password-entropy@15.0.0?classifier=sources
 - pkg:maven/eu.connective/connective-keycloak-password-entropy@8.0.0
 - pkg:maven/eu.connective/connective-keycloak-password-entropy@8.0.0?classifier=sources

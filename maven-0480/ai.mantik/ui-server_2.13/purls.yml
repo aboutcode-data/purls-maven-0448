@@ -1,0 +1,2 @@
+- pkg:maven/ai.mantik/ui-server_2.13@0.4.0-rc1
+- pkg:maven/ai.mantik/ui-server_2.13@0.4.0-rc1?classifier=sources

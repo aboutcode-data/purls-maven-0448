@@ -93,3 +93,7 @@
 - pkg:maven/io.smallrye.config/smallrye-config-source-injection@2.5.1?classifier=sources
 - pkg:maven/io.smallrye.config/smallrye-config-source-injection@2.6.0
 - pkg:maven/io.smallrye.config/smallrye-config-source-injection@2.6.0?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-injection@2.6.1
+- pkg:maven/io.smallrye.config/smallrye-config-source-injection@2.6.1?classifier=sources
+- pkg:maven/io.smallrye.config/smallrye-config-source-injection@2.7.0
+- pkg:maven/io.smallrye.config/smallrye-config-source-injection@2.7.0?classifier=sources

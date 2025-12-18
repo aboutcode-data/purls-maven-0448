@@ -7,3 +7,4 @@
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@1.6.0?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@1.7.0?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@1.7.1?classifier=sources
+- pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@1.9.0?classifier=sources

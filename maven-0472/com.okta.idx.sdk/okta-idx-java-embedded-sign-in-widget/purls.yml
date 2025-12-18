@@ -6,3 +6,5 @@
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-sign-in-widget@0.1.0-beta.8?classifier=sources
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-sign-in-widget@1.0.0
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-sign-in-widget@1.0.0?classifier=sources
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-sign-in-widget@2.0.0
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-sign-in-widget@2.0.0?classifier=sources

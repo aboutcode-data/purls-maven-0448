@@ -142,3 +142,17 @@
 - pkg:maven/uk.gov.service.payments/testing@1.0.20211102132213?classifier=sources
 - pkg:maven/uk.gov.service.payments/testing@1.0.20211102133349
 - pkg:maven/uk.gov.service.payments/testing@1.0.20211102133349?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211122111353
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211122111353?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211130090437
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211130090437?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211130092045
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211130092045?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211130093902
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211130093902?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211206100028
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211206100028?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211213093319
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211213093319?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211213094914
+- pkg:maven/uk.gov.service.payments/testing@1.0.20211213094914?classifier=sources

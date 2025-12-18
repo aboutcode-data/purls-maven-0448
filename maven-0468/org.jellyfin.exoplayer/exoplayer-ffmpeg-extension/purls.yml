@@ -1,3 +1,5 @@
 - pkg:maven/org.jellyfin.exoplayer/exoplayer-ffmpeg-extension@2.15.0%2B1?classifier=sources
 - pkg:maven/org.jellyfin.exoplayer/exoplayer-ffmpeg-extension@2.15.0%2B2?classifier=sources
 - pkg:maven/org.jellyfin.exoplayer/exoplayer-ffmpeg-extension@2.15.1%2B1?classifier=sources
+- pkg:maven/org.jellyfin.exoplayer/exoplayer-ffmpeg-extension@2.16.0%2B1?classifier=sources
+- pkg:maven/org.jellyfin.exoplayer/exoplayer-ffmpeg-extension@2.16.1%2B1?classifier=sources

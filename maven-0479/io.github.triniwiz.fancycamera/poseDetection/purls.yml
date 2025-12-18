@@ -1,1 +1,2 @@
+- pkg:maven/io.github.triniwiz.fancycamera/poseDetection@1.0.0-alpha.2?classifier=sources
 - pkg:maven/io.github.triniwiz.fancycamera/poseDetection@1.0.0-alpha0?type=aar

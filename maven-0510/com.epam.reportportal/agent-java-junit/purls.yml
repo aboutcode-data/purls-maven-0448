@@ -8,3 +8,4 @@
 - pkg:maven/com.epam.reportportal/agent-java-junit@5.1.0-RC-2?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-junit@5.1.0-RC-3?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-junit@5.1.0-RC-4?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-java-junit@5.1.0?classifier=sources

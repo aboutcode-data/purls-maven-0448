@@ -1,0 +1,2 @@
+- pkg:maven/com.gocypher.cybench.client/gocypher-cybench-comparator@1.2.0
+- pkg:maven/com.gocypher.cybench.client/gocypher-cybench-comparator@1.2.0?classifier=sources

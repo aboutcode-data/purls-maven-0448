@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/opentype.js@0.7.3?classifier=sources
 - pkg:maven/org.webjars.npm/opentype.js@1.3.3
 - pkg:maven/org.webjars.npm/opentype.js@1.3.3?classifier=sources
+- pkg:maven/org.webjars.npm/opentype.js@1.3.4
+- pkg:maven/org.webjars.npm/opentype.js@1.3.4?classifier=sources

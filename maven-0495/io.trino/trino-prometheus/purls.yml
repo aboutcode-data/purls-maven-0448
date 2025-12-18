@@ -11,3 +11,5 @@
 - pkg:maven/io.trino/trino-prometheus@361?classifier=sources
 - pkg:maven/io.trino/trino-prometheus@362?classifier=sources
 - pkg:maven/io.trino/trino-prometheus@363?classifier=sources
+- pkg:maven/io.trino/trino-prometheus@364?classifier=sources
+- pkg:maven/io.trino/trino-prometheus@365?classifier=sources
