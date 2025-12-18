@@ -16,3 +16,5 @@
 - pkg:maven/org.hswebframework.web/hsweb-system-database-manager-web@3.0.7?classifier=sources
 - pkg:maven/org.hswebframework.web/hsweb-system-database-manager-web@3.0.8
 - pkg:maven/org.hswebframework.web/hsweb-system-database-manager-web@3.0.8?classifier=sources
+- pkg:maven/org.hswebframework.web/hsweb-system-database-manager-web@3.0.9
+- pkg:maven/org.hswebframework.web/hsweb-system-database-manager-web@3.0.9?classifier=sources

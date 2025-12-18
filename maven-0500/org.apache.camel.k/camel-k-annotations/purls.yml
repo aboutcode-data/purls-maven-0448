@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.k/camel-k-annotations@1.0.4
+- pkg:maven/org.apache.camel.k/camel-k-annotations@1.0.4?classifier=sources

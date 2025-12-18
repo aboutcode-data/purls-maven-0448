@@ -12,3 +12,5 @@
 - pkg:maven/com.github.ptrajdos/WekaNearestCentroid@3.0.3?classifier=sources
 - pkg:maven/com.github.ptrajdos/WekaNearestCentroid@3.0.5
 - pkg:maven/com.github.ptrajdos/WekaNearestCentroid@3.0.5?classifier=sources
+- pkg:maven/com.github.ptrajdos/WekaNearestCentroid@3.1.0
+- pkg:maven/com.github.ptrajdos/WekaNearestCentroid@3.1.0?classifier=sources

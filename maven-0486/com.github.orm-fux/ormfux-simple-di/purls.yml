@@ -1,0 +1,2 @@
+- pkg:maven/com.github.orm-fux/ormfux-simple-di@1.5
+- pkg:maven/com.github.orm-fux/ormfux-simple-di@1.5?classifier=sources

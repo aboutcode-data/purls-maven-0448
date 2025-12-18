@@ -1,0 +1,2 @@
+- pkg:maven/cn.jasonone.him/him-commons@1.0.0
+- pkg:maven/cn.jasonone.him/him-commons@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/nl.vpro.poms/gtaa-domain@5.11.0
+- pkg:maven/nl.vpro.poms/gtaa-domain@5.11.0?classifier=sources
+- pkg:maven/nl.vpro.poms/gtaa-domain@5.11.1
+- pkg:maven/nl.vpro.poms/gtaa-domain@5.11.1?classifier=sources

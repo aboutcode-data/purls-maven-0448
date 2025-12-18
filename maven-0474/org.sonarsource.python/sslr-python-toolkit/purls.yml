@@ -8,6 +8,12 @@
 - pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.13.0.2922?classifier=sources
 - pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.14.0.3086
 - pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.14.0.3086?classifier=sources
+- pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.14.1.3143
+- pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.14.1.3143?classifier=sources
+- pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.15.1.4116
+- pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.15.1.4116?classifier=sources
+- pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.16.0.4432
+- pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.16.0.4432?classifier=sources
 - pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.6
 - pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.6?classifier=sources
 - pkg:maven/org.sonarsource.python/sslr-python-toolkit@1.7.0.1195

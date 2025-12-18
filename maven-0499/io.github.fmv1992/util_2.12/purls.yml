@@ -1,2 +1,6 @@
 - pkg:maven/io.github.fmv1992/util_2.12@1.7.6
 - pkg:maven/io.github.fmv1992/util_2.12@1.7.6?classifier=sources
+- pkg:maven/io.github.fmv1992/util_2.12@1.9.3
+- pkg:maven/io.github.fmv1992/util_2.12@1.9.3?classifier=sources
+- pkg:maven/io.github.fmv1992/util_2.12@2.1.0
+- pkg:maven/io.github.fmv1992/util_2.12@2.1.0?classifier=sources

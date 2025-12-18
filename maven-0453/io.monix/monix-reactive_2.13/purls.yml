@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/monix-reactive_2.13@3.0.0
+- pkg:maven/io.monix/monix-reactive_2.13@3.0.0?classifier=sources

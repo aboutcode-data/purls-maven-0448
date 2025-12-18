@@ -1,0 +1,2 @@
+- pkg:maven/io.datakernel/datakernel-launchers-common@3.0.0-rc
+- pkg:maven/io.datakernel/datakernel-launchers-common@3.0.0-rc?classifier=sources

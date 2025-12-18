@@ -1,0 +1,4 @@
+- pkg:maven/org.testng/reportng@1.2.1
+- pkg:maven/org.testng/reportng@1.2.1?classifier=sources
+- pkg:maven/org.testng/reportng@1.2.2
+- pkg:maven/org.testng/reportng@1.2.2?classifier=sources

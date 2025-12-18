@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.lib/mongo-karaf-api@1.6.2
+- pkg:maven/de.mhus.lib/mongo-karaf-api@1.6.2?classifier=sources

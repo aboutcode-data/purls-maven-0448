@@ -1,0 +1,4 @@
+- pkg:maven/io.scalaland/enumz_2.11@0.1.2
+- pkg:maven/io.scalaland/enumz_2.11@0.1.2?classifier=sources
+- pkg:maven/io.scalaland/enumz_2.11@1.0.0
+- pkg:maven/io.scalaland/enumz_2.11@1.0.0?classifier=sources

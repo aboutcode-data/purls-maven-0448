@@ -18,6 +18,9 @@
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-1
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-10
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-100
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-101
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-102
+- pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-103
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-11
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-12
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-13

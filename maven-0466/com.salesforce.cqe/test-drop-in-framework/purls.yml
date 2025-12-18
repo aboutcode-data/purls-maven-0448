@@ -1,0 +1,2 @@
+- pkg:maven/com.salesforce.cqe/test-drop-in-framework@3.0.3
+- pkg:maven/com.salesforce.cqe/test-drop-in-framework@3.0.3?classifier=sources

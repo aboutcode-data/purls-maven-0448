@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yangshuo/db-deployer-maven-plugin@1.0.2
+- pkg:maven/io.github.yangshuo/db-deployer-maven-plugin@1.0.2?classifier=sources

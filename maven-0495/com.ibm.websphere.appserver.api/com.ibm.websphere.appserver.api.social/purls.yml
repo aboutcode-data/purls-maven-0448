@@ -11,3 +11,6 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.social@1.0.27
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.social@1.0.28
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.social@1.0.29
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.social@1.0.30
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.social@1.0.31
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.social@1.0.32

@@ -1,2 +1,10 @@
 - pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.7.3
 - pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.7.3?classifier=sources
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.8.0-M2
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.8.0-M2?classifier=sources
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.8.0-M3
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.8.0-M3?classifier=sources
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.8.0-M4
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.8.0-M4?classifier=sources
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.8.0-M5
+- pkg:maven/com.typesafe.play/play-java-jpa_2.13@2.8.0-M5?classifier=sources

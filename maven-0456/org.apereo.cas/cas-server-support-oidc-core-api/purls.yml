@@ -4,3 +4,7 @@
 - pkg:maven/org.apereo.cas/cas-server-support-oidc-core-api@6.1.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-oidc-core-api@6.1.0-RC4
 - pkg:maven/org.apereo.cas/cas-server-support-oidc-core-api@6.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-oidc-core-api@6.1.0-RC5
+- pkg:maven/org.apereo.cas/cas-server-support-oidc-core-api@6.1.0-RC5?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-oidc-core-api@6.1.0-RC6
+- pkg:maven/org.apereo.cas/cas-server-support-oidc-core-api@6.1.0-RC6?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/com.hotels/hcommon-hive-metastore@1.2.4?classifier=sources
 - pkg:maven/com.hotels/hcommon-hive-metastore@1.3.0
 - pkg:maven/com.hotels/hcommon-hive-metastore@1.3.0?classifier=sources
+- pkg:maven/com.hotels/hcommon-hive-metastore@1.4.0
+- pkg:maven/com.hotels/hcommon-hive-metastore@1.4.0?classifier=sources
+- pkg:maven/com.hotels/hcommon-hive-metastore@1.4.1
+- pkg:maven/com.hotels/hcommon-hive-metastore@1.4.1?classifier=sources

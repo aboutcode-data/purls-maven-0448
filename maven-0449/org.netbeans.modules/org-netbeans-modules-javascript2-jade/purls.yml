@@ -1,2 +1,3 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jade@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jade@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jade@RELEASE111?classifier=sources

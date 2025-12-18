@@ -1,0 +1,2 @@
+- pkg:maven/com.df4j/df4j-socket-core@1.2.6
+- pkg:maven/com.df4j/df4j-socket-core@1.2.6?classifier=sources

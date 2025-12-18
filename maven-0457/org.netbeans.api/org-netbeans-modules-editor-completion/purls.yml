@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE90?classifier=sources

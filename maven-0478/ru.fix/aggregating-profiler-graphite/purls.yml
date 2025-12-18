@@ -1,0 +1,6 @@
+- pkg:maven/ru.fix/aggregating-profiler-graphite@1.5.16
+- pkg:maven/ru.fix/aggregating-profiler-graphite@1.5.16?classifier=sources
+- pkg:maven/ru.fix/aggregating-profiler-graphite@1.5.17
+- pkg:maven/ru.fix/aggregating-profiler-graphite@1.5.17?classifier=sources
+- pkg:maven/ru.fix/aggregating-profiler-graphite@1.5.18
+- pkg:maven/ru.fix/aggregating-profiler-graphite@1.5.18?classifier=sources

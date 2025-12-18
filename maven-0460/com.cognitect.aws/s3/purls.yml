@@ -20,3 +20,7 @@
 - pkg:maven/com.cognitect.aws/s3@718.2.457.0?classifier=sources
 - pkg:maven/com.cognitect.aws/s3@722.2.468.0
 - pkg:maven/com.cognitect.aws/s3@722.2.468.0?classifier=sources
+- pkg:maven/com.cognitect.aws/s3@726.2.488.0
+- pkg:maven/com.cognitect.aws/s3@726.2.488.0?classifier=sources
+- pkg:maven/com.cognitect.aws/s3@747.2.533.0
+- pkg:maven/com.cognitect.aws/s3@747.2.533.0?classifier=sources

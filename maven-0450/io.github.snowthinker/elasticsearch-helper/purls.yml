@@ -1,0 +1,6 @@
+- pkg:maven/io.github.snowthinker/elasticsearch-helper@0.0.1-RELEASE
+- pkg:maven/io.github.snowthinker/elasticsearch-helper@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.snowthinker/elasticsearch-helper@0.0.2-RELEASE
+- pkg:maven/io.github.snowthinker/elasticsearch-helper@0.0.2-RELEASE?classifier=sources
+- pkg:maven/io.github.snowthinker/elasticsearch-helper@0.0.3-RELEASE
+- pkg:maven/io.github.snowthinker/elasticsearch-helper@0.0.3-RELEASE?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.opendaylight.reservation/tl1-southbound-it@1.0.0-Lithium
+- pkg:maven/org.opendaylight.reservation/tl1-southbound-it@1.0.1-Lithium-SR1
+- pkg:maven/org.opendaylight.reservation/tl1-southbound-it@1.0.2-Lithium-SR2
+- pkg:maven/org.opendaylight.reservation/tl1-southbound-it@1.0.3-Lithium-SR3
+- pkg:maven/org.opendaylight.reservation/tl1-southbound-it@1.0.4-Lithium-SR4

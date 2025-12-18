@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/monix-eval_sjs0.6_2.13@3.0.0
+- pkg:maven/io.monix/monix-eval_sjs0.6_2.13@3.0.0?classifier=sources

@@ -48,3 +48,11 @@
 - pkg:maven/com.aliyun.openservices/tablestore@4.9.0?classifier=sources
 - pkg:maven/com.aliyun.openservices/tablestore@5.0.0
 - pkg:maven/com.aliyun.openservices/tablestore@5.0.0?classifier=sources
+- pkg:maven/com.aliyun.openservices/tablestore@5.1.0
+- pkg:maven/com.aliyun.openservices/tablestore@5.1.0?classifier=sources
+- pkg:maven/com.aliyun.openservices/tablestore@5.3.0
+- pkg:maven/com.aliyun.openservices/tablestore@5.3.0-byok
+- pkg:maven/com.aliyun.openservices/tablestore@5.3.0-byok?classifier=sources
+- pkg:maven/com.aliyun.openservices/tablestore@5.3.0?classifier=sources
+- pkg:maven/com.aliyun.openservices/tablestore@5.3.2
+- pkg:maven/com.aliyun.openservices/tablestore@5.3.2?classifier=sources

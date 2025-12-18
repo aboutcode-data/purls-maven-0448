@@ -2,3 +2,7 @@
 - pkg:maven/com.gimbal.android.v4/gimbal-sdk@4.0.1?type=aar
 - pkg:maven/com.gimbal.android.v4/gimbal-sdk@4.1.0?classifier=sources
 - pkg:maven/com.gimbal.android.v4/gimbal-sdk@4.1.0?type=aar
+- pkg:maven/com.gimbal.android.v4/gimbal-sdk@4.2.0?classifier=sources
+- pkg:maven/com.gimbal.android.v4/gimbal-sdk@4.2.0?type=aar
+- pkg:maven/com.gimbal.android.v4/gimbal-sdk@4.2.1?classifier=sources
+- pkg:maven/com.gimbal.android.v4/gimbal-sdk@4.2.1?type=aar

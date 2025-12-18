@@ -57,3 +57,5 @@
 - pkg:maven/org.jboss.forge/forge-parent@3.9.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge/forge-parent@3.9.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge/forge-parent@3.9.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge/forge-parent@3.9.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge/forge-parent@3.9.4.Final?classifier=source-release&type=zip

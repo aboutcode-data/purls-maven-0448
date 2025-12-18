@@ -1,0 +1,6 @@
+- pkg:maven/jp.co.freee/freee-accounting-sdk@1.0.0
+- pkg:maven/jp.co.freee/freee-accounting-sdk@1.0.0-preview
+- pkg:maven/jp.co.freee/freee-accounting-sdk@1.0.0-preview2
+- pkg:maven/jp.co.freee/freee-accounting-sdk@1.0.0-preview2?classifier=sources
+- pkg:maven/jp.co.freee/freee-accounting-sdk@1.0.0-preview?classifier=sources
+- pkg:maven/jp.co.freee/freee-accounting-sdk@1.0.0?classifier=sources

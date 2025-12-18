@@ -20,3 +20,5 @@
 - pkg:maven/org.microbean/microbean-maven-cdi@0.3.4?classifier=sources
 - pkg:maven/org.microbean/microbean-maven-cdi@0.4.0
 - pkg:maven/org.microbean/microbean-maven-cdi@0.4.0?classifier=sources
+- pkg:maven/org.microbean/microbean-maven-cdi@0.4.2
+- pkg:maven/org.microbean/microbean-maven-cdi@0.4.2?classifier=sources

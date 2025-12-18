@@ -1,0 +1,4 @@
+- pkg:maven/org.beangle.security/beangle-security-core_2.13@4.2.8
+- pkg:maven/org.beangle.security/beangle-security-core_2.13@4.2.8?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-core_2.13@4.2.9
+- pkg:maven/org.beangle.security/beangle-security-core_2.13@4.2.9?classifier=sources

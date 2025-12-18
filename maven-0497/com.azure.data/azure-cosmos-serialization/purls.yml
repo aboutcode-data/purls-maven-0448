@@ -1,0 +1,2 @@
+- pkg:maven/com.azure.data/azure-cosmos-serialization@2.9.5
+- pkg:maven/com.azure.data/azure-cosmos-serialization@2.9.5?classifier=sources

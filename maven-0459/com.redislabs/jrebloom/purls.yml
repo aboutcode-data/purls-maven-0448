@@ -8,3 +8,7 @@
 - pkg:maven/com.redislabs/jrebloom@1.1.0?classifier=sources
 - pkg:maven/com.redislabs/jrebloom@1.2.0
 - pkg:maven/com.redislabs/jrebloom@1.2.0?classifier=sources
+- pkg:maven/com.redislabs/jrebloom@2.0.0-m1
+- pkg:maven/com.redislabs/jrebloom@2.0.0-m1?classifier=sources
+- pkg:maven/com.redislabs/jrebloom@2.0.0-m2
+- pkg:maven/com.redislabs/jrebloom@2.0.0-m2?classifier=sources

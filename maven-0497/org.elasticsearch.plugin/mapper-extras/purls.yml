@@ -1,2 +1,4 @@
 - pkg:maven/org.elasticsearch.plugin/mapper-extras@6.1.0
 - pkg:maven/org.elasticsearch.plugin/mapper-extras@6.1.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/mapper-extras@7.4.0
+- pkg:maven/org.elasticsearch.plugin/mapper-extras@7.4.0?classifier=sources

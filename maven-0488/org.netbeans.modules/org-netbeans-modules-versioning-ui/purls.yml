@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE90?classifier=sources

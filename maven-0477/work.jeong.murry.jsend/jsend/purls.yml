@@ -1,0 +1,2 @@
+- pkg:maven/work.jeong.murry.jsend/jsend@1.0
+- pkg:maven/work.jeong.murry.jsend/jsend@1.0?classifier=sources

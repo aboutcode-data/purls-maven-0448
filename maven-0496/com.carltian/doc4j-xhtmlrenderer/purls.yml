@@ -1,0 +1,4 @@
+- pkg:maven/com.carltian/doc4j-xhtmlrenderer@3.0.0-M0
+- pkg:maven/com.carltian/doc4j-xhtmlrenderer@3.0.0-M0?classifier=sources
+- pkg:maven/com.carltian/doc4j-xhtmlrenderer@3.0.0-M1
+- pkg:maven/com.carltian/doc4j-xhtmlrenderer@3.0.0-M1?classifier=sources

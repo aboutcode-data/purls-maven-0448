@@ -1,0 +1,2 @@
+- pkg:maven/com.github.seeker.commonj/commonj@0.3.3
+- pkg:maven/com.github.seeker.commonj/commonj@0.3.3?classifier=sources

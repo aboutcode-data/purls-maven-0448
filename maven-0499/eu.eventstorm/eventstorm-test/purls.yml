@@ -1,0 +1,4 @@
+- pkg:maven/eu.eventstorm/eventstorm-test@0.1.0
+- pkg:maven/eu.eventstorm/eventstorm-test@0.1.0?classifier=sources
+- pkg:maven/eu.eventstorm/eventstorm-test@0.3.0
+- pkg:maven/eu.eventstorm/eventstorm-test@0.3.0?classifier=sources

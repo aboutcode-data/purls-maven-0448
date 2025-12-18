@@ -24,3 +24,5 @@
 - pkg:maven/com.thorstenmarx.modules/modules-api@2.2.0?classifier=sources
 - pkg:maven/com.thorstenmarx.modules/modules-api@2.3.0
 - pkg:maven/com.thorstenmarx.modules/modules-api@2.3.0?classifier=sources
+- pkg:maven/com.thorstenmarx.modules/modules-api@2.4.0
+- pkg:maven/com.thorstenmarx.modules/modules-api@2.4.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.claim.management.v1@1.0.26
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.claim.management.v1@1.0.26?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.claim.management.v1@1.0.27
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.claim.management.v1@1.0.27?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.claim.management.v1@1.0.28
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.claim.management.v1@1.0.28?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.claim.management.v1@1.0.29
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.rest.api.server.claim.management.v1@1.0.29?classifier=sources

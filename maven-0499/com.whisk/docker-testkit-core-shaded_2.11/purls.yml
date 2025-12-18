@@ -1,0 +1,2 @@
+- pkg:maven/com.whisk/docker-testkit-core-shaded_2.11@0.10.0-beta8
+- pkg:maven/com.whisk/docker-testkit-core-shaded_2.11@0.10.0-beta8?classifier=sources

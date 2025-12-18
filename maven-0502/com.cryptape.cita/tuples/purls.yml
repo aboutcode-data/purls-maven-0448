@@ -10,3 +10,5 @@
 - pkg:maven/com.cryptape.cita/tuples@0.23.0?classifier=sources
 - pkg:maven/com.cryptape.cita/tuples@0.24.0
 - pkg:maven/com.cryptape.cita/tuples@0.24.0?classifier=sources
+- pkg:maven/com.cryptape.cita/tuples@0.24.1
+- pkg:maven/com.cryptape.cita/tuples@0.24.1?classifier=sources

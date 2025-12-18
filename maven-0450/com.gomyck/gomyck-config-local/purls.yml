@@ -1,0 +1,2 @@
+- pkg:maven/com.gomyck/gomyck-config-local@1.0.2-Release
+- pkg:maven/com.gomyck/gomyck-config-local@1.0.2-Release?classifier=sources

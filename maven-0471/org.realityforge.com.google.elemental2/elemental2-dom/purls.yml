@@ -24,3 +24,7 @@
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.23?classifier=sources
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.24
 - pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.24?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.25
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.25?classifier=sources
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.26
+- pkg:maven/org.realityforge.com.google.elemental2/elemental2-dom@2.26?classifier=sources

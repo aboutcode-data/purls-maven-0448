@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.ojdbc/ons@19.3.0.0
+- pkg:maven/com.oracle.ojdbc/ons@19.3.0.0?classifier=sources

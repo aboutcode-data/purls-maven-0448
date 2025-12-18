@@ -1,2 +1,10 @@
 - pkg:maven/com.viaoa/oa-core@3.5.56
 - pkg:maven/com.viaoa/oa-core@3.5.56?classifier=sources
+- pkg:maven/com.viaoa/oa-core@3.5.57
+- pkg:maven/com.viaoa/oa-core@3.5.57?classifier=sources
+- pkg:maven/com.viaoa/oa-core@3.5.58
+- pkg:maven/com.viaoa/oa-core@3.5.58?classifier=sources
+- pkg:maven/com.viaoa/oa-core@3.5.60
+- pkg:maven/com.viaoa/oa-core@3.5.60?classifier=sources
+- pkg:maven/com.viaoa/oa-core@3.5.61
+- pkg:maven/com.viaoa/oa-core@3.5.61?classifier=sources

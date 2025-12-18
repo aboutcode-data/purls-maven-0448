@@ -2,5 +2,7 @@
 - pkg:maven/ai.foremast.metrics/foremast-spring-boot-15x-starter@0.1.10?classifier=sources
 - pkg:maven/ai.foremast.metrics/foremast-spring-boot-15x-starter@0.1.11
 - pkg:maven/ai.foremast.metrics/foremast-spring-boot-15x-starter@0.1.11?classifier=sources
+- pkg:maven/ai.foremast.metrics/foremast-spring-boot-15x-starter@0.1.12
+- pkg:maven/ai.foremast.metrics/foremast-spring-boot-15x-starter@0.1.12?classifier=sources
 - pkg:maven/ai.foremast.metrics/foremast-spring-boot-15x-starter@0.1.8
 - pkg:maven/ai.foremast.metrics/foremast-spring-boot-15x-starter@0.1.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-resteasy-jaxb-deployment@0.24.0
+- pkg:maven/io.quarkus/quarkus-resteasy-jaxb-deployment@0.24.0?classifier=sources

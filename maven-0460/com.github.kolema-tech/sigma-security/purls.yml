@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kolema-tech/sigma-security@1.0.7
+- pkg:maven/com.github.kolema-tech/sigma-security@1.0.7?classifier=sources

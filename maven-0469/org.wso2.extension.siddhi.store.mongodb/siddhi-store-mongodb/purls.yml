@@ -22,6 +22,7 @@
 - pkg:maven/org.wso2.extension.siddhi.store.mongodb/siddhi-store-mongodb@1.0.20?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.store.mongodb/siddhi-store-mongodb@1.0.21
 - pkg:maven/org.wso2.extension.siddhi.store.mongodb/siddhi-store-mongodb@1.0.21?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.store.mongodb/siddhi-store-mongodb@1.0.5
 - pkg:maven/org.wso2.extension.siddhi.store.mongodb/siddhi-store-mongodb@1.0.6
 - pkg:maven/org.wso2.extension.siddhi.store.mongodb/siddhi-store-mongodb@1.0.6?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.store.mongodb/siddhi-store-mongodb@1.0.7

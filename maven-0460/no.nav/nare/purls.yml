@@ -1,7 +1,13 @@
+- pkg:maven/no.nav/nare@012820b
+- pkg:maven/no.nav/nare@012820b?classifier=sources
 - pkg:maven/no.nav/nare@13785ff
 - pkg:maven/no.nav/nare@13785ff?classifier=sources
+- pkg:maven/no.nav/nare@473ed4f
+- pkg:maven/no.nav/nare@473ed4f?classifier=sources
 - pkg:maven/no.nav/nare@768ae37
 - pkg:maven/no.nav/nare@768ae37?classifier=sources
+- pkg:maven/no.nav/nare@76b8c06
+- pkg:maven/no.nav/nare@76b8c06?classifier=sources
 - pkg:maven/no.nav/nare@8abc934
 - pkg:maven/no.nav/nare@8abc934?classifier=sources
 - pkg:maven/no.nav/nare@a8523fa

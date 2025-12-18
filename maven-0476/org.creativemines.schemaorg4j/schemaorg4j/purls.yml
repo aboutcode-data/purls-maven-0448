@@ -1,0 +1,4 @@
+- pkg:maven/org.creativemines.schemaorg4j/schemaorg4j@3.9.0
+- pkg:maven/org.creativemines.schemaorg4j/schemaorg4j@3.9.0.b2
+- pkg:maven/org.creativemines.schemaorg4j/schemaorg4j@3.9.0.b2?classifier=sources
+- pkg:maven/org.creativemines.schemaorg4j/schemaorg4j@3.9.0?classifier=sources

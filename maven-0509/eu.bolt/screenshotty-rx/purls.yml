@@ -1,0 +1,2 @@
+- pkg:maven/eu.bolt/screenshotty-rx@1.0.0?classifier=sources
+- pkg:maven/eu.bolt/screenshotty-rx@1.0.0?type=aar

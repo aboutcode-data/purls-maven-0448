@@ -4,6 +4,14 @@
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.10.2?classifier=sources
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.10.3
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.10.3?classifier=sources
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.11.1
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.11.1?classifier=sources
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.12.0
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.12.0?classifier=sources
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.12.1
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.12.1?classifier=sources
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.12.2
+- pkg:maven/com.oceanprotocol/keeper-contracts@0.12.2?classifier=sources
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.3.12
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.3.12?classifier=sources
 - pkg:maven/com.oceanprotocol/keeper-contracts@0.3.16

@@ -8,3 +8,5 @@
 - pkg:maven/cn.jimmiez/pcutil@0.1.2?classifier=sources
 - pkg:maven/cn.jimmiez/pcutil@0.2.0
 - pkg:maven/cn.jimmiez/pcutil@0.2.0?classifier=sources
+- pkg:maven/cn.jimmiez/pcutil@0.3.0
+- pkg:maven/cn.jimmiez/pcutil@0.3.0?classifier=sources

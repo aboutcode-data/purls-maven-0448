@@ -16,6 +16,14 @@
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.22?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.23
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.23?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.24
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.24?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.25
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.25?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.26
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.26?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.30
+- pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.30?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.8
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.8?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-postgresql@1.9

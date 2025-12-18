@@ -60,6 +60,14 @@
 - pkg:maven/org.uberfire/uberfire-security-codegen@2.2.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-codegen@2.20.0.Final
 - pkg:maven/org.uberfire/uberfire-security-codegen@2.20.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-codegen@2.21.0.Final
+- pkg:maven/org.uberfire/uberfire-security-codegen@2.21.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-codegen@2.22.0.Final
+- pkg:maven/org.uberfire/uberfire-security-codegen@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-codegen@2.23.0.Final
+- pkg:maven/org.uberfire/uberfire-security-codegen@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-codegen@2.24.0.Final
+- pkg:maven/org.uberfire/uberfire-security-codegen@2.24.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-codegen@2.3.0.Final
 - pkg:maven/org.uberfire/uberfire-security-codegen@2.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-codegen@2.4.0.Final

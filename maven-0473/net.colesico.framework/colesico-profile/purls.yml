@@ -14,3 +14,7 @@
 - pkg:maven/net.colesico.framework/colesico-profile@1.7.2?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-profile@1.8.0
 - pkg:maven/net.colesico.framework/colesico-profile@1.8.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-profile@1.9.0
+- pkg:maven/net.colesico.framework/colesico-profile@1.9.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-profile@2.0.0
+- pkg:maven/net.colesico.framework/colesico-profile@2.0.0?classifier=sources

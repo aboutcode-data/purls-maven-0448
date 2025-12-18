@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE90?classifier=sources

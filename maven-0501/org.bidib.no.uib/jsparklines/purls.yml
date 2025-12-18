@@ -1,0 +1,2 @@
+- pkg:maven/org.bidib.no.uib/jsparklines@1.0.10?classifier=sources
+- pkg:maven/org.bidib.no.uib/jsparklines@1.0.10?type=zip

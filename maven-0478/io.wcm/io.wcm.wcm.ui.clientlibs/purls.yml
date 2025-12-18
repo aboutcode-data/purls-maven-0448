@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm/io.wcm.wcm.ui.clientlibs@1.0.0
+- pkg:maven/io.wcm/io.wcm.wcm.ui.clientlibs@1.0.0?classifier=sources

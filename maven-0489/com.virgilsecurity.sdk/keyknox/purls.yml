@@ -1,0 +1,2 @@
+- pkg:maven/com.virgilsecurity.sdk/keyknox@6.0
+- pkg:maven/com.virgilsecurity.sdk/keyknox@6.0?classifier=sources

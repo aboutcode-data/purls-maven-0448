@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yoshikawaa.modelmapper.spring.boot/modelmapper-spring-boot-autoconfigure@0.1.0
+- pkg:maven/io.github.yoshikawaa.modelmapper.spring.boot/modelmapper-spring-boot-autoconfigure@0.1.0?classifier=sources

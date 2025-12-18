@@ -70,3 +70,5 @@
 - pkg:maven/de.alpharogroup/crypt-core@5.7?classifier=sources
 - pkg:maven/de.alpharogroup/crypt-core@5.8
 - pkg:maven/de.alpharogroup/crypt-core@5.8?classifier=sources
+- pkg:maven/de.alpharogroup/crypt-core@6
+- pkg:maven/de.alpharogroup/crypt-core@6?classifier=sources

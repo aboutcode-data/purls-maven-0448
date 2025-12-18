@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/unpoly@0.35.0?classifier=sources
 - pkg:maven/org.webjars.npm/unpoly@0.50.2
 - pkg:maven/org.webjars.npm/unpoly@0.50.2?classifier=sources
+- pkg:maven/org.webjars.npm/unpoly@0.61.0
+- pkg:maven/org.webjars.npm/unpoly@0.61.0?classifier=sources

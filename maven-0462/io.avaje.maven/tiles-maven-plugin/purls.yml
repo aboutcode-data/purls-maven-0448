@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje.maven/tiles-maven-plugin@1.2
+- pkg:maven/io.avaje.maven/tiles-maven-plugin@1.2?classifier=sources

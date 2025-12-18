@@ -1,0 +1,2 @@
+- pkg:maven/name.remal.maven-plugins/root-properties-extension@0.1.0
+- pkg:maven/name.remal.maven-plugins/root-properties-extension@0.1.0?classifier=sources

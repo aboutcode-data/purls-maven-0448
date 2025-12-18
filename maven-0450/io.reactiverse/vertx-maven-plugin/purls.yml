@@ -2,3 +2,5 @@
 - pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.15
 - pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.17
 - pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.18
+- pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.20
+- pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.21

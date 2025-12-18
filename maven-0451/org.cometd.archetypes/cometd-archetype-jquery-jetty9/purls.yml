@@ -18,6 +18,7 @@
 - pkg:maven/org.cometd.archetypes/cometd-archetype-jquery-jetty9@3.1.0-RC0?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-jquery-jetty9@3.1.0-RC1?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-jquery-jetty9@3.1.0?classifier=sources
+- pkg:maven/org.cometd.archetypes/cometd-archetype-jquery-jetty9@3.1.10?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-jquery-jetty9@3.1.1?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-jquery-jetty9@3.1.2-BETA0?classifier=sources
 - pkg:maven/org.cometd.archetypes/cometd-archetype-jquery-jetty9@3.1.2-BETA1?classifier=sources

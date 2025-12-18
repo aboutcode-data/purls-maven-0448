@@ -26,6 +26,14 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.22.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.23.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.23.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.24.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.24.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.25.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.25.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.26.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.26.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.27.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.27.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.5.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-openshift-ui-backend@7.6.0.Final

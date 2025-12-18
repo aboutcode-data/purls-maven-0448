@@ -28,3 +28,5 @@
 - pkg:maven/one.util/streamex@0.6.7?classifier=sources
 - pkg:maven/one.util/streamex@0.6.8
 - pkg:maven/one.util/streamex@0.6.8?classifier=sources
+- pkg:maven/one.util/streamex@0.7.0
+- pkg:maven/one.util/streamex@0.7.0?classifier=sources

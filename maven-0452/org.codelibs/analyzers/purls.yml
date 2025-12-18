@@ -14,3 +14,7 @@
 - pkg:maven/org.codelibs/analyzers@7.7.0.0?classifier=sources
 - pkg:maven/org.codelibs/analyzers@8.0.0.0
 - pkg:maven/org.codelibs/analyzers@8.0.0.0?classifier=sources
+- pkg:maven/org.codelibs/analyzers@8.1.0.0
+- pkg:maven/org.codelibs/analyzers@8.1.0.0?classifier=sources
+- pkg:maven/org.codelibs/analyzers@8.2.0.0
+- pkg:maven/org.codelibs/analyzers@8.2.0.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.2.10
+- pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.2.10?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.2.2
 - pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.2.2?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.2.3
@@ -20,3 +22,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.3.1?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.3.2
 - pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.3.2?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.3.3
+- pkg:maven/org.apache.cxf/cxf-rt-rs-mp-client@3.3.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.stalary.easydoc/easydoc-gradle-plugin@unspecified
+- pkg:maven/com.stalary.easydoc/easydoc-gradle-plugin@unspecified?classifier=sources

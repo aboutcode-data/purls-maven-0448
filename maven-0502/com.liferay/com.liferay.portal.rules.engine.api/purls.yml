@@ -12,6 +12,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.12
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.13
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.2
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@2.0.2?classifier=sources
@@ -48,6 +51,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.4
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.5
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.api@4.0.0?classifier=sources-commercial

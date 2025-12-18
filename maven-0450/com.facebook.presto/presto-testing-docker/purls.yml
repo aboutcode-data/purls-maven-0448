@@ -1,0 +1,4 @@
+- pkg:maven/com.facebook.presto/presto-testing-docker@0.225
+- pkg:maven/com.facebook.presto/presto-testing-docker@0.225?classifier=sources
+- pkg:maven/com.facebook.presto/presto-testing-docker@0.226
+- pkg:maven/com.facebook.presto/presto-testing-docker@0.226?classifier=sources

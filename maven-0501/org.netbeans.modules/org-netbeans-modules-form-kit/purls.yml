@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE90?classifier=sources

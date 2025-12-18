@@ -1,0 +1,4 @@
+- pkg:maven/com.beachape/enumeratum-circe_2.13@1.5.21
+- pkg:maven/com.beachape/enumeratum-circe_2.13@1.5.21?classifier=sources
+- pkg:maven/com.beachape/enumeratum-circe_2.13@1.5.22
+- pkg:maven/com.beachape/enumeratum-circe_2.13@1.5.22?classifier=sources

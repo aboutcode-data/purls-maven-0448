@@ -1,0 +1,2 @@
+- pkg:maven/cd.go.plugin.base/gocd-plugin-base@0.0.1
+- pkg:maven/cd.go.plugin.base/gocd-plugin-base@0.0.1?classifier=sources

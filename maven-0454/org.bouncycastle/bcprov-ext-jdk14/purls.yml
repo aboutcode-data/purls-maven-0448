@@ -18,3 +18,5 @@
 - pkg:maven/org.bouncycastle/bcprov-ext-jdk14@1.58?classifier=sources
 - pkg:maven/org.bouncycastle/bcprov-ext-jdk14@1.60
 - pkg:maven/org.bouncycastle/bcprov-ext-jdk14@1.60?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-ext-jdk14@1.64
+- pkg:maven/org.bouncycastle/bcprov-ext-jdk14@1.64?classifier=sources

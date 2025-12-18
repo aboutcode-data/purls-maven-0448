@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/glob-parent@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/glob-parent@3.1.0
 - pkg:maven/org.webjars.npm/glob-parent@3.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/glob-parent@5.0.0
+- pkg:maven/org.webjars.npm/glob-parent@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/glob-parent@5.1.0
+- pkg:maven/org.webjars.npm/glob-parent@5.1.0?classifier=sources

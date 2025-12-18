@@ -1,2 +1,4 @@
 - pkg:maven/hr.laplacian.laplas/laplas-llama_2.12@0.1.5
 - pkg:maven/hr.laplacian.laplas/laplas-llama_2.12@0.1.5?classifier=sources
+- pkg:maven/hr.laplacian.laplas/laplas-llama_2.12@0.1.6
+- pkg:maven/hr.laplacian.laplas/laplas-llama_2.12@0.1.6?classifier=sources

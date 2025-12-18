@@ -1,0 +1,2 @@
+- pkg:maven/cn.wlcloudy/netoy-auth-shiro@1.0.0
+- pkg:maven/cn.wlcloudy/netoy-auth-shiro@1.0.0?classifier=sources

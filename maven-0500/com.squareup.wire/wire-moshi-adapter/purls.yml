@@ -1,6 +1,14 @@
+- pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0
 - pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-alpha01
 - pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-alpha01?classifier=sources
 - pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-alpha02
 - pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-alpha02?classifier=sources
 - pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-alpha03
 - pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-alpha03?classifier=sources
+- pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-rc01
+- pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-rc01?classifier=sources
+- pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-rc02
+- pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-rc02?classifier=sources
+- pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-rc03
+- pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0-rc03?classifier=sources
+- pkg:maven/com.squareup.wire/wire-moshi-adapter@3.0.0?classifier=sources

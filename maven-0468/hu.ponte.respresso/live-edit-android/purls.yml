@@ -1,0 +1,8 @@
+- pkg:maven/hu.ponte.respresso/live-edit-android@0.0.10?classifier=sources
+- pkg:maven/hu.ponte.respresso/live-edit-android@0.0.10?type=aar
+- pkg:maven/hu.ponte.respresso/live-edit-android@0.0.11?classifier=sources
+- pkg:maven/hu.ponte.respresso/live-edit-android@0.0.11?type=aar
+- pkg:maven/hu.ponte.respresso/live-edit-android@0.0.9?classifier=sources
+- pkg:maven/hu.ponte.respresso/live-edit-android@0.0.9?type=aar
+- pkg:maven/hu.ponte.respresso/live-edit-android@1.0.0?classifier=sources
+- pkg:maven/hu.ponte.respresso/live-edit-android@1.0.0?type=aar

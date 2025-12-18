@@ -2,3 +2,5 @@
 - pkg:maven/com.squareup.leakcanary/leaksentry@2.0-alpha-1?type=aar
 - pkg:maven/com.squareup.leakcanary/leaksentry@2.0-alpha-2?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leaksentry@2.0-alpha-2?type=aar
+- pkg:maven/com.squareup.leakcanary/leaksentry@2.0-alpha-3?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leaksentry@2.0-alpha-3?type=aar

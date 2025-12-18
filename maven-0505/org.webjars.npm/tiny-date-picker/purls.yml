@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/tiny-date-picker@2.0.12
 - pkg:maven/org.webjars.npm/tiny-date-picker@2.0.12?classifier=sources
+- pkg:maven/org.webjars.npm/tiny-date-picker@3.2.8
+- pkg:maven/org.webjars.npm/tiny-date-picker@3.2.8?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.24?type=war
 - pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.26?classifier=sources
 - pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.26?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.29?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-services-demo@1.0.29?type=war

@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE111?classifier=sources
