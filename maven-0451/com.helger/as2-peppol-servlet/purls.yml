@@ -44,3 +44,7 @@
 - pkg:maven/com.helger/as2-peppol-servlet@5.1.2?classifier=sources
 - pkg:maven/com.helger/as2-peppol-servlet@5.2.0
 - pkg:maven/com.helger/as2-peppol-servlet@5.2.0?classifier=sources
+- pkg:maven/com.helger/as2-peppol-servlet@5.3.0
+- pkg:maven/com.helger/as2-peppol-servlet@5.3.0?classifier=sources
+- pkg:maven/com.helger/as2-peppol-servlet@5.3.1
+- pkg:maven/com.helger/as2-peppol-servlet@5.3.1?classifier=sources

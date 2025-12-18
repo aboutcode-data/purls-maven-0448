@@ -1,0 +1,2 @@
+- pkg:maven/com.github.imrafaelmerino/json-scala-values-generator_2.12@1.2.1
+- pkg:maven/com.github.imrafaelmerino/json-scala-values-generator_2.12@1.2.1?classifier=sources

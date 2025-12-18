@@ -1,0 +1,10 @@
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.10
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.10?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.3
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.3?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.4
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.4?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.5
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.5?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.6
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-entity-json@4.55.6?classifier=sources

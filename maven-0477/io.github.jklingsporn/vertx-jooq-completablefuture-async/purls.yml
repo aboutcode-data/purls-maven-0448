@@ -20,3 +20,7 @@
 - pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-async@4.2.0?classifier=sources
 - pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-async@5.0.0
 - pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-async@5.0.0?classifier=sources
+- pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-async@5.0.1
+- pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-async@5.0.1?classifier=sources
+- pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-async@5.1.0
+- pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-async@5.1.0?classifier=sources

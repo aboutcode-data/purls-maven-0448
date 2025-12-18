@@ -1,0 +1,8 @@
+- pkg:maven/com.synopsys.integration/integration-bdio@19.0.0
+- pkg:maven/com.synopsys.integration/integration-bdio@19.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-bdio@20.0.0
+- pkg:maven/com.synopsys.integration/integration-bdio@20.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-bdio@21.0.0
+- pkg:maven/com.synopsys.integration/integration-bdio@21.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-bdio@21.0.1
+- pkg:maven/com.synopsys.integration/integration-bdio@21.0.1?classifier=sources

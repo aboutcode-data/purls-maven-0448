@@ -1,0 +1,2 @@
+- pkg:maven/com.tryadhawk/airtable-java@2.0.2?classifier=sources
+- pkg:maven/com.tryadhawk/airtable-java@2.0.5?classifier=sources

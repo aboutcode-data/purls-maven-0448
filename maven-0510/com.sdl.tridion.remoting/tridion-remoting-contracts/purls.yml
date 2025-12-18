@@ -1,0 +1,2 @@
+- pkg:maven/com.sdl.tridion.remoting/tridion-remoting-contracts@11.1.0-1054
+- pkg:maven/com.sdl.tridion.remoting/tridion-remoting-contracts@11.1.0-1054?classifier=sources

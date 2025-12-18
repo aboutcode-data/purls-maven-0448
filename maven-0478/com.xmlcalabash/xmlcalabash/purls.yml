@@ -145,3 +145,11 @@
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.9-95?classifier=sources
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.9-96
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.1.9-96?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.2.0-98
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.2.0-98?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.2.0-99
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.2.0-99?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.2.1-98
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.2.1-98?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.2.1-99
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.2.1-99?classifier=sources

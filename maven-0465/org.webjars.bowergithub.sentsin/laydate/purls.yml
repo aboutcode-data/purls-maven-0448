@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.sentsin/laydate@5.0.85
+- pkg:maven/org.webjars.bowergithub.sentsin/laydate@5.0.85?classifier=sources
 - pkg:maven/org.webjars.bowergithub.sentsin/laydate@5.0.9
 - pkg:maven/org.webjars.bowergithub.sentsin/laydate@5.0.9?classifier=sources

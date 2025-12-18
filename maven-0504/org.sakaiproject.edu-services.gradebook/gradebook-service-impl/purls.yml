@@ -64,3 +64,5 @@
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@19.2?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@19.3
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@19.3?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@19.4
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@19.4?classifier=sources

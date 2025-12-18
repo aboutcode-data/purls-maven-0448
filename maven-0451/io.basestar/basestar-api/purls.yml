@@ -1,0 +1,2 @@
+- pkg:maven/io.basestar/basestar-api@1.0
+- pkg:maven/io.basestar/basestar-api@1.0?classifier=sources

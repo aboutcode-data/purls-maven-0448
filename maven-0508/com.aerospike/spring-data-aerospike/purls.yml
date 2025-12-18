@@ -22,3 +22,11 @@
 - pkg:maven/com.aerospike/spring-data-aerospike@2.1.1.RELEASE?classifier=sources
 - pkg:maven/com.aerospike/spring-data-aerospike@2.2.0.RELEASE
 - pkg:maven/com.aerospike/spring-data-aerospike@2.2.0.RELEASE?classifier=sources
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.0.RELEASE
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.0.RELEASE?classifier=sources
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.1.RELEASE
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.1.RELEASE?classifier=sources
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.2.RELEASE
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.2.RELEASE?classifier=sources
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.3.RELEASE
+- pkg:maven/com.aerospike/spring-data-aerospike@2.3.3.RELEASE?classifier=sources

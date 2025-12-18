@@ -2,3 +2,5 @@
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpdigital-exchange@5.1.0?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpdigital-exchange@5.2.0?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpdigital-exchange@5.2.0?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpdigital-exchange@6.1.0?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpdigital-exchange@6.1.0?type=war

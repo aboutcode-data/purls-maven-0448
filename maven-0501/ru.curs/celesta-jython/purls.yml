@@ -26,6 +26,10 @@
 - pkg:maven/ru.curs/celesta-jython@6.1.9?classifier=sources
 - pkg:maven/ru.curs/celesta-jython@6.2.0
 - pkg:maven/ru.curs/celesta-jython@6.2.0?classifier=sources
+- pkg:maven/ru.curs/celesta-jython@6.2.10
+- pkg:maven/ru.curs/celesta-jython@6.2.10?classifier=sources
+- pkg:maven/ru.curs/celesta-jython@6.2.11
+- pkg:maven/ru.curs/celesta-jython@6.2.11?classifier=sources
 - pkg:maven/ru.curs/celesta-jython@6.2.2
 - pkg:maven/ru.curs/celesta-jython@6.2.2?classifier=sources
 - pkg:maven/ru.curs/celesta-jython@6.2.3
@@ -40,3 +44,5 @@
 - pkg:maven/ru.curs/celesta-jython@6.2.7?classifier=sources
 - pkg:maven/ru.curs/celesta-jython@6.2.8
 - pkg:maven/ru.curs/celesta-jython@6.2.8?classifier=sources
+- pkg:maven/ru.curs/celesta-jython@6.2.9
+- pkg:maven/ru.curs/celesta-jython@6.2.9?classifier=sources

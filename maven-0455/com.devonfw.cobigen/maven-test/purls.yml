@@ -2,3 +2,5 @@
 - pkg:maven/com.devonfw.cobigen/maven-test@4.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/maven-test@4.1.0
 - pkg:maven/com.devonfw.cobigen/maven-test@4.1.0?classifier=sources
+- pkg:maven/com.devonfw.cobigen/maven-test@5.0.0
+- pkg:maven/com.devonfw.cobigen/maven-test@5.0.0?classifier=sources

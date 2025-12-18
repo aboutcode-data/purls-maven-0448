@@ -8,3 +8,5 @@
 - pkg:maven/com.rocketfuel.sdbc/base_2.11@2.0?classifier=sources
 - pkg:maven/com.rocketfuel.sdbc/base_2.11@3.0.0
 - pkg:maven/com.rocketfuel.sdbc/base_2.11@3.0.0?classifier=sources
+- pkg:maven/com.rocketfuel.sdbc/base_2.11@4.0.0
+- pkg:maven/com.rocketfuel.sdbc/base_2.11@4.0.0?classifier=sources

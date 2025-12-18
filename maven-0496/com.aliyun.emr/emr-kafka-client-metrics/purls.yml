@@ -12,3 +12,5 @@
 - pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@1.8.0?classifier=sources
 - pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@1.9.0
 - pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@1.9.0?classifier=sources
+- pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@2.0.0
+- pkg:maven/com.aliyun.emr/emr-kafka-client-metrics@2.0.0?classifier=sources

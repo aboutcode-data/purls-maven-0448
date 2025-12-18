@@ -3,3 +3,10 @@
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.2.3?classifier=sources
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.2.3?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.2.9?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.3.2?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.3.3?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.3.4?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.4.0?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.4.2?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.4.3?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.4.4?type=aar

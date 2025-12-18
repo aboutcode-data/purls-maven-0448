@@ -1,0 +1,8 @@
+- pkg:maven/com.lihaoyi/mill-scalajslib_2.13@0.6.1-122-5be570
+- pkg:maven/com.lihaoyi/mill-scalajslib_2.13@0.6.1-122-5be570?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalajslib_2.13@0.6.1-123-6b987b
+- pkg:maven/com.lihaoyi/mill-scalajslib_2.13@0.6.1-123-6b987b?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalajslib_2.13@0.6.1-124-85aa6b
+- pkg:maven/com.lihaoyi/mill-scalajslib_2.13@0.6.1-124-85aa6b?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalajslib_2.13@0.6.1-126-49ed03
+- pkg:maven/com.lihaoyi/mill-scalajslib_2.13@0.6.1-126-49ed03?classifier=sources

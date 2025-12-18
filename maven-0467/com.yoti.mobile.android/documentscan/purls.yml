@@ -1,3 +1,16 @@
 - pkg:maven/com.yoti.mobile.android/documentscan@1.2.10?type=aar
 - pkg:maven/com.yoti.mobile.android/documentscan@1.5.0?type=aar
 - pkg:maven/com.yoti.mobile.android/documentscan@1.8.1?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@1.8.2?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.0.0?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.0.1?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.0.2?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.0.3?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.0.4?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.0.5?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.0.6?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.1.0?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.2.0?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.3.0?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.4.0?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@2.4.1?type=aar

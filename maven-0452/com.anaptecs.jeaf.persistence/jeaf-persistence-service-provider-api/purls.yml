@@ -1,0 +1,4 @@
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-api@1.5.7
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-api@1.5.7?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-api@1.5.8
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-api@1.5.8?classifier=sources

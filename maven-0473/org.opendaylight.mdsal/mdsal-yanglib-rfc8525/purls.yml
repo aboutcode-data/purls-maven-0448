@@ -22,6 +22,10 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.10?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.11
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.11?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.12
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.12?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.13
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.13?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.3
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc8525@0.9.4

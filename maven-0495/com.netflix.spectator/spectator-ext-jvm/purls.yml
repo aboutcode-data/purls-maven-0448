@@ -1,3 +1,9 @@
+- pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.101.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.102.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.103.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.104.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.105.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.106.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.13
 - pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.13?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-jvm@0.14

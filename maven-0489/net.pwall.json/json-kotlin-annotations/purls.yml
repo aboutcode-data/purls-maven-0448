@@ -1,0 +1,2 @@
+- pkg:maven/net.pwall.json/json-kotlin-annotations@1.0.1
+- pkg:maven/net.pwall.json/json-kotlin-annotations@1.0.1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.testvagrant.optimuscloud/optimusmonitor@1.0.0
+- pkg:maven/com.testvagrant.optimuscloud/optimusmonitor@1.0.0-beta
+- pkg:maven/com.testvagrant.optimuscloud/optimusmonitor@1.0.0-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimuscloud/optimusmonitor@1.0.0?classifier=sources
+- pkg:maven/com.testvagrant.optimuscloud/optimusmonitor@1.0.1-beta
+- pkg:maven/com.testvagrant.optimuscloud/optimusmonitor@1.0.1-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimuscloud/optimusmonitor@1.1.0
+- pkg:maven/com.testvagrant.optimuscloud/optimusmonitor@1.1.0?classifier=sources

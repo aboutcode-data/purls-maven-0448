@@ -1,0 +1,2 @@
+- pkg:maven/eu.connective/connective-keycloak-password-entropy@8.0.0
+- pkg:maven/eu.connective/connective-keycloak-password-entropy@8.0.0?classifier=sources

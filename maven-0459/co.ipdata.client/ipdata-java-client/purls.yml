@@ -1,0 +1,2 @@
+- pkg:maven/co.ipdata.client/ipdata-java-client@0.1.0
+- pkg:maven/co.ipdata.client/ipdata-java-client@0.1.0?classifier=sources

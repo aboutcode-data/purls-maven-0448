@@ -1,0 +1,2 @@
+- pkg:maven/me.martiii/simple-net-protocol-server@1.0
+- pkg:maven/me.martiii/simple-net-protocol-server@1.0?classifier=sources

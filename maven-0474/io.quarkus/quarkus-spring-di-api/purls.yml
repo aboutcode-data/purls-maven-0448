@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-spring-di-api@5.1.Alpha1
+- pkg:maven/io.quarkus/quarkus-spring-di-api@5.1.Alpha1?classifier=sources

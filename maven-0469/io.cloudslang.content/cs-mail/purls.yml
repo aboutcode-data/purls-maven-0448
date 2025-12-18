@@ -10,3 +10,5 @@
 - pkg:maven/io.cloudslang.content/cs-mail@0.0.39?classifier=sources
 - pkg:maven/io.cloudslang.content/cs-mail@0.0.40
 - pkg:maven/io.cloudslang.content/cs-mail@0.0.40?classifier=sources
+- pkg:maven/io.cloudslang.content/cs-mail@0.0.47
+- pkg:maven/io.cloudslang.content/cs-mail@0.0.47?classifier=sources

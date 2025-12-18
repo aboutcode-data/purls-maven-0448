@@ -1,0 +1,4 @@
+- pkg:maven/javax.visrec/visrec-api@1.0.0
+- pkg:maven/javax.visrec/visrec-api@1.0.0-b1
+- pkg:maven/javax.visrec/visrec-api@1.0.0-b1?classifier=sources
+- pkg:maven/javax.visrec/visrec-api@1.0.0?classifier=sources

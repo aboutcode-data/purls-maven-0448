@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/fs-tree-diff@0.5.7?classifier=sources
 - pkg:maven/org.webjars.npm/fs-tree-diff@0.5.9
 - pkg:maven/org.webjars.npm/fs-tree-diff@0.5.9?classifier=sources
+- pkg:maven/org.webjars.npm/fs-tree-diff@2.0.1
+- pkg:maven/org.webjars.npm/fs-tree-diff@2.0.1?classifier=sources

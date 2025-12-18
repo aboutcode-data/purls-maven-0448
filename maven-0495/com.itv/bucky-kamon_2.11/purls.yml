@@ -15,6 +15,10 @@
 - pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M2
 - pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M20
 - pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M20?classifier=sources
+- pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M21
+- pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M21?classifier=sources
+- pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M22
+- pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M22?classifier=sources
 - pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M2?classifier=sources
 - pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M3
 - pkg:maven/com.itv/bucky-kamon_2.11@2.0.0-M3?classifier=sources

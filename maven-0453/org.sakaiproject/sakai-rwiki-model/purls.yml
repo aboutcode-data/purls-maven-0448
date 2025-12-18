@@ -40,3 +40,5 @@
 - pkg:maven/org.sakaiproject/sakai-rwiki-model@19.2?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-rwiki-model@19.3
 - pkg:maven/org.sakaiproject/sakai-rwiki-model@19.3?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-rwiki-model@19.4
+- pkg:maven/org.sakaiproject/sakai-rwiki-model@19.4?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE113?classifier=sources

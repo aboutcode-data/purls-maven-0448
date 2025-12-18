@@ -1,2 +1,4 @@
 - pkg:maven/io.github.libktx/ktx-tiled@1.9.10-b4
 - pkg:maven/io.github.libktx/ktx-tiled@1.9.10-b4?classifier=sources
+- pkg:maven/io.github.libktx/ktx-tiled@1.9.10-b5
+- pkg:maven/io.github.libktx/ktx-tiled@1.9.10-b5?classifier=sources

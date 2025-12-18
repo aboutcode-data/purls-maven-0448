@@ -1,0 +1,2 @@
+- pkg:maven/com.github.andyglow/scalax-range-root_2.13@0.4
+- pkg:maven/com.github.andyglow/scalax-range-root_2.13@0.4?classifier=sources

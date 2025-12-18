@@ -1,0 +1,2 @@
+- pkg:maven/net.pwall.json/json-kotlin-nonblocking@0.1
+- pkg:maven/net.pwall.json/json-kotlin-nonblocking@0.1?classifier=sources

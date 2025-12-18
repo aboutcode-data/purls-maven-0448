@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hiwepy/schemacrawler-spring-boot-starter@1.0.5.RELEASE
+- pkg:maven/com.github.hiwepy/schemacrawler-spring-boot-starter@1.0.5.RELEASE?classifier=sources

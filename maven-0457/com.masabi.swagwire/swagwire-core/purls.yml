@@ -16,3 +16,5 @@
 - pkg:maven/com.masabi.swagwire/swagwire-core@0.0.26?classifier=sources
 - pkg:maven/com.masabi.swagwire/swagwire-core@0.0.27
 - pkg:maven/com.masabi.swagwire/swagwire-core@0.0.27?classifier=sources
+- pkg:maven/com.masabi.swagwire/swagwire-core@1.0.0-openapi3
+- pkg:maven/com.masabi.swagwire/swagwire-core@1.0.0-openapi3?classifier=sources

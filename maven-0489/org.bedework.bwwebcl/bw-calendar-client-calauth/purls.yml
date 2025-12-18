@@ -1,1 +1,2 @@
 - pkg:maven/org.bedework.bwwebcl/bw-calendar-client-calauth@3.13.1?type=war
+- pkg:maven/org.bedework.bwwebcl/bw-calendar-client-calauth@3.13.2?type=war

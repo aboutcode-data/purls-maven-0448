@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast.jet.examples/hazelcast-jet-examples-spring-boot@4.0
+- pkg:maven/com.hazelcast.jet.examples/hazelcast-jet-examples-spring-boot@4.0?classifier=sources

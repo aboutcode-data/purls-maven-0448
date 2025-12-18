@@ -9,3 +9,4 @@
 - pkg:maven/com.sandpolis/sandpolis-core-soi@5.1.1?classifier=sources
 - pkg:maven/com.sandpolis/sandpolis-core-soi@5.1.2?classifier=sources
 - pkg:maven/com.sandpolis/sandpolis-core-soi@6.0.0?classifier=sources
+- pkg:maven/com.sandpolis/sandpolis-core-soi@6.1.0?classifier=sources

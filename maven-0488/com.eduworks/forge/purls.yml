@@ -24,6 +24,8 @@
 - pkg:maven/com.eduworks/forge@2.11.4?classifier=sources
 - pkg:maven/com.eduworks/forge@2.11.5
 - pkg:maven/com.eduworks/forge@2.11.5?classifier=sources
+- pkg:maven/com.eduworks/forge@2.11.6
+- pkg:maven/com.eduworks/forge@2.11.6?classifier=sources
 - pkg:maven/com.eduworks/forge@2.9.10
 - pkg:maven/com.eduworks/forge@2.9.10?classifier=sources
 - pkg:maven/com.eduworks/forge@2.9.11

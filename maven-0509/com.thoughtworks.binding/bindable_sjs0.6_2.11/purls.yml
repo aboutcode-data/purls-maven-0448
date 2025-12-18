@@ -79,6 +79,8 @@
 - pkg:maven/com.thoughtworks.binding/bindable_sjs0.6_2.11@1.1.0%2B69-dacd7174?classifier=sources
 - pkg:maven/com.thoughtworks.binding/bindable_sjs0.6_2.11@1.1.0%2B71-8d5072af
 - pkg:maven/com.thoughtworks.binding/bindable_sjs0.6_2.11@1.1.0%2B71-8d5072af?classifier=sources
+- pkg:maven/com.thoughtworks.binding/bindable_sjs0.6_2.11@1.1.0%2B73-f768a1e2
+- pkg:maven/com.thoughtworks.binding/bindable_sjs0.6_2.11@1.1.0%2B73-f768a1e2?classifier=sources
 - pkg:maven/com.thoughtworks.binding/bindable_sjs0.6_2.11@1.1.0%2B8-fd5d0de6
 - pkg:maven/com.thoughtworks.binding/bindable_sjs0.6_2.11@1.1.0%2B8-fd5d0de6?classifier=sources
 - pkg:maven/com.thoughtworks.binding/bindable_sjs0.6_2.11@1.1.0?classifier=sources

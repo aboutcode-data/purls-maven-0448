@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/yaireo__tagify@2.9.9
 - pkg:maven/org.webjars.npm/yaireo__tagify@2.9.9?classifier=sources
+- pkg:maven/org.webjars.npm/yaireo__tagify@3.4.0
+- pkg:maven/org.webjars.npm/yaireo__tagify@3.4.0?classifier=sources

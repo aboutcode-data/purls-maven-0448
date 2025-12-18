@@ -1,0 +1,4 @@
+- pkg:maven/eu.bolt/requiresannotation.annotation@1.1
+- pkg:maven/eu.bolt/requiresannotation.annotation@1.1?classifier=sources
+- pkg:maven/eu.bolt/requiresannotation.annotation@1.2
+- pkg:maven/eu.bolt/requiresannotation.annotation@1.2?classifier=sources

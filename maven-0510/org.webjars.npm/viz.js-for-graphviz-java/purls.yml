@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/viz.js-for-graphviz-java@2.1.2
+- pkg:maven/org.webjars.npm/viz.js-for-graphviz-java@2.1.2?classifier=sources

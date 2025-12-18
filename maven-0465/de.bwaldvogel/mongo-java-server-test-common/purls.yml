@@ -35,6 +35,9 @@
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.23.0
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.23.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.24.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.25.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.26.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.27.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.4.0
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.4.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-test-common@1.4.1

@@ -33,6 +33,8 @@
 - pkg:maven/cn.ibaijia/jsm-frame@1.3.21?classifier=sources
 - pkg:maven/cn.ibaijia/jsm-frame@1.3.22
 - pkg:maven/cn.ibaijia/jsm-frame@1.3.22?classifier=sources
+- pkg:maven/cn.ibaijia/jsm-frame@1.3.23
+- pkg:maven/cn.ibaijia/jsm-frame@1.3.23?classifier=sources
 - pkg:maven/cn.ibaijia/jsm-frame@1.3.2?classifier=sources
 - pkg:maven/cn.ibaijia/jsm-frame@1.3.4
 - pkg:maven/cn.ibaijia/jsm-frame@1.3.4?classifier=sources

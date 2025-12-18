@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wsiegenthaler/lobos_2.13@0.10.0
+- pkg:maven/com.github.wsiegenthaler/lobos_2.13@0.10.0?classifier=sources

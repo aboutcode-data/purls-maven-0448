@@ -26,3 +26,5 @@
 - pkg:maven/com.enioka.jqm/jqm-api-client-hibernate@2.1.0
 - pkg:maven/com.enioka.jqm/jqm-api-client-hibernate@2.2.0
 - pkg:maven/com.enioka.jqm/jqm-api-client-hibernate@2.2.1
+- pkg:maven/com.enioka.jqm/jqm-api-client-hibernate@2.2.2
+- pkg:maven/com.enioka.jqm/jqm-api-client-hibernate@2.2.3

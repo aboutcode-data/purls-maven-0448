@@ -1,2 +1,4 @@
 - pkg:maven/com.cognitect.aws/savingsplans@770.2.568.0
 - pkg:maven/com.cognitect.aws/savingsplans@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/savingsplans@792.2.623.0
+- pkg:maven/com.cognitect.aws/savingsplans@792.2.623.0?classifier=sources

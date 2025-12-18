@@ -12,3 +12,9 @@
 - pkg:maven/io.nem/api-okhttp-gson-client@0.7.21?classifier=sources
 - pkg:maven/io.nem/api-okhttp-gson-client@0.7.22
 - pkg:maven/io.nem/api-okhttp-gson-client@0.7.22?classifier=sources
+- pkg:maven/io.nem/api-okhttp-gson-client@0.8.2
+- pkg:maven/io.nem/api-okhttp-gson-client@0.8.2?classifier=sources
+- pkg:maven/io.nem/api-okhttp-gson-client@0.8.3
+- pkg:maven/io.nem/api-okhttp-gson-client@0.8.3?classifier=sources
+- pkg:maven/io.nem/api-okhttp-gson-client@0.8.4
+- pkg:maven/io.nem/api-okhttp-gson-client@0.8.4?classifier=sources

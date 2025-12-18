@@ -32,6 +32,8 @@
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.117.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.118.0-beta
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.118.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dlp@0.118.1-beta
+- pkg:maven/com.google.cloud/google-cloud-dlp@0.118.1-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.20.2-alpha
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.20.2-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.20.3-alpha
@@ -202,3 +204,13 @@
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.98.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.99.0-beta
 - pkg:maven/com.google.cloud/google-cloud-dlp@0.99.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.0.0
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.0.1
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.0.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.1.0
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.1.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.1.1
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.1.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.1.2
+- pkg:maven/com.google.cloud/google-cloud-dlp@1.1.2?classifier=sources

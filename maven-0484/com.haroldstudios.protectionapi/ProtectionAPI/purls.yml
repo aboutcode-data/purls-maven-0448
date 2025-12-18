@@ -1,0 +1,2 @@
+- pkg:maven/com.haroldstudios.protectionapi/ProtectionAPI@1.0-BETA
+- pkg:maven/com.haroldstudios.protectionapi/ProtectionAPI@1.0-BETA?classifier=sources

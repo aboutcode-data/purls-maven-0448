@@ -8,6 +8,8 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@10.3.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@11.0.0
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@11.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-itests@11.1.0
+- pkg:maven/org.wildfly.camel.example/example-camel-itests@11.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@4.3.0
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@4.3.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-itests@4.4.0

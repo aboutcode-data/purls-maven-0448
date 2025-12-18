@@ -82,3 +82,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-kafka-server_2.12@1.6.0-RC3
 - pkg:maven/com.lightbend.lagom/lagom-kafka-server_2.12@1.6.0-RC3?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-kafka-server_2.12@1.6.0?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-kafka-server_2.12@1.6.1
+- pkg:maven/com.lightbend.lagom/lagom-kafka-server_2.12@1.6.1?classifier=sources

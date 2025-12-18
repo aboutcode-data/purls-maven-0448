@@ -11,3 +11,4 @@
 - pkg:maven/com.walmartlabs.ollie/ollie-configuration@0.0.33?classifier=sources
 - pkg:maven/com.walmartlabs.ollie/ollie-configuration@0.0.34?classifier=sources
 - pkg:maven/com.walmartlabs.ollie/ollie-configuration@0.0.35?classifier=sources
+- pkg:maven/com.walmartlabs.ollie/ollie-configuration@0.0.36?classifier=sources

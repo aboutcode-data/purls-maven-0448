@@ -24,3 +24,5 @@
 - pkg:maven/pm.pride/pride@3.4.3?classifier=sources
 - pkg:maven/pm.pride/pride@3.4.4
 - pkg:maven/pm.pride/pride@3.4.4?classifier=sources
+- pkg:maven/pm.pride/pride@3.4.5
+- pkg:maven/pm.pride/pride@3.4.5?classifier=sources

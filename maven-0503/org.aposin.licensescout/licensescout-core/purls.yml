@@ -1,0 +1,12 @@
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC1
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC12
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC12?classifier=sources
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC1?classifier=sources
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC4
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC4?classifier=sources
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC5
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC5?classifier=sources
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC6
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC6?classifier=sources
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC8
+- pkg:maven/org.aposin.licensescout/licensescout-core@1.4.0.RC8?classifier=sources

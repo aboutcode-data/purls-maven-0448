@@ -1,3 +1,9 @@
 - pkg:maven/cn.org.faster/faster-elasticsearch@1.2.0.RELEASE
 - pkg:maven/cn.org.faster/faster-elasticsearch@1.3.0.RELEASE
 - pkg:maven/cn.org.faster/faster-elasticsearch@1.3.1.RELEASE
+- pkg:maven/cn.org.faster/faster-elasticsearch@1.3.2.RELEASE
+- pkg:maven/cn.org.faster/faster-elasticsearch@1.3.3.RELEASE
+- pkg:maven/cn.org.faster/faster-elasticsearch@1.3.4.RELEASE
+- pkg:maven/cn.org.faster/faster-elasticsearch@1.3.5.RELEASE
+- pkg:maven/cn.org.faster/faster-elasticsearch@1.3.6.RELEASE
+- pkg:maven/cn.org.faster/faster-elasticsearch@1.3.7.RELEASE

@@ -1,4 +1,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-jonas5x-test@1.7.10
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-jonas5x-test@1.7.11
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-jonas5x-test@1.7.6
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-jonas5x-test@1.7.7
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-jonas5x-test@1.7.8

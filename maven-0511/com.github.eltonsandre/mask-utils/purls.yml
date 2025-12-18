@@ -1,0 +1,2 @@
+- pkg:maven/com.github.eltonsandre/mask-utils@1.0.0
+- pkg:maven/com.github.eltonsandre/mask-utils@1.0.0?classifier=sources

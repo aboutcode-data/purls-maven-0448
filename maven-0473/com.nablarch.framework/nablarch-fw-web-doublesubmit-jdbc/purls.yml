@@ -1,0 +1,2 @@
+- pkg:maven/com.nablarch.framework/nablarch-fw-web-doublesubmit-jdbc@1.0.0
+- pkg:maven/com.nablarch.framework/nablarch-fw-web-doublesubmit-jdbc@1.0.0?classifier=sources

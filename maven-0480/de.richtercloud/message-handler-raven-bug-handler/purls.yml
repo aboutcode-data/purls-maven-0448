@@ -1,2 +1,4 @@
 - pkg:maven/de.richtercloud/message-handler-raven-bug-handler@1.0
 - pkg:maven/de.richtercloud/message-handler-raven-bug-handler@1.0?classifier=sources
+- pkg:maven/de.richtercloud/message-handler-raven-bug-handler@1.1
+- pkg:maven/de.richtercloud/message-handler-raven-bug-handler@1.1?classifier=sources

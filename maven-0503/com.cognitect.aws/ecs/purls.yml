@@ -40,3 +40,11 @@
 - pkg:maven/com.cognitect.aws/ecs@773.2.576.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ecs@780.2.583.0
 - pkg:maven/com.cognitect.aws/ecs@780.2.583.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ecs@784.2.592.0
+- pkg:maven/com.cognitect.aws/ecs@784.2.592.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ecs@786.2.606.0
+- pkg:maven/com.cognitect.aws/ecs@786.2.606.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ecs@788.2.610.0
+- pkg:maven/com.cognitect.aws/ecs@788.2.610.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ecs@794.2.640.0
+- pkg:maven/com.cognitect.aws/ecs@794.2.640.0?classifier=sources

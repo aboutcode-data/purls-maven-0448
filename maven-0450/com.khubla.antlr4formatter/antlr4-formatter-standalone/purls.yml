@@ -1,2 +1,4 @@
 - pkg:maven/com.khubla.antlr4formatter/antlr4-formatter-standalone@1.1.0
 - pkg:maven/com.khubla.antlr4formatter/antlr4-formatter-standalone@1.1.0?classifier=sources
+- pkg:maven/com.khubla.antlr4formatter/antlr4-formatter-standalone@1.2.1
+- pkg:maven/com.khubla.antlr4formatter/antlr4-formatter-standalone@1.2.1?classifier=sources

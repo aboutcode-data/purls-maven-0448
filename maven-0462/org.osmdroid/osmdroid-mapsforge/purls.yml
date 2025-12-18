@@ -32,3 +32,5 @@
 - pkg:maven/org.osmdroid/osmdroid-mapsforge@6.1.4?type=aar
 - pkg:maven/org.osmdroid/osmdroid-mapsforge@6.1.5?classifier=sources
 - pkg:maven/org.osmdroid/osmdroid-mapsforge@6.1.5?type=aar
+- pkg:maven/org.osmdroid/osmdroid-mapsforge@6.1.6?classifier=sources
+- pkg:maven/org.osmdroid/osmdroid-mapsforge@6.1.6?type=aar

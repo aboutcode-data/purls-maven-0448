@@ -28,3 +28,6 @@
 - pkg:maven/io.prestosql/presto-raptor-legacy@327?classifier=sources
 - pkg:maven/io.prestosql/presto-raptor-legacy@328?classifier=sources
 - pkg:maven/io.prestosql/presto-raptor-legacy@329?classifier=sources
+- pkg:maven/io.prestosql/presto-raptor-legacy@330?classifier=sources
+- pkg:maven/io.prestosql/presto-raptor-legacy@331?classifier=sources
+- pkg:maven/io.prestosql/presto-raptor-legacy@332?classifier=sources

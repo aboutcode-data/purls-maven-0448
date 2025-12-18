@@ -1,2 +1,4 @@
 - pkg:maven/at.favre.lib/checkstyle-config@1
 - pkg:maven/at.favre.lib/checkstyle-config@1?classifier=sources
+- pkg:maven/at.favre.lib/checkstyle-config@2
+- pkg:maven/at.favre.lib/checkstyle-config@2?classifier=sources

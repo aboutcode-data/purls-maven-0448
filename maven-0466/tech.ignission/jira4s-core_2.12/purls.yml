@@ -1,0 +1,2 @@
+- pkg:maven/tech.ignission/jira4s-core_2.12@0.1.0
+- pkg:maven/tech.ignission/jira4s-core_2.12@0.1.0?classifier=sources

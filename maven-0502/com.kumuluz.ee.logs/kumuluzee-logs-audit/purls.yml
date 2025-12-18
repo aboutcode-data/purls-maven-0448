@@ -1,0 +1,4 @@
+- pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-audit@1.4.0
+- pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-audit@1.4.0-audit
+- pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-audit@1.4.0-audit?classifier=sources
+- pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-audit@1.4.0?classifier=sources

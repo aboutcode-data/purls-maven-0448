@@ -18,3 +18,5 @@
 - pkg:maven/com.phloc/phloc-poi@3.0.2?classifier=sources
 - pkg:maven/com.phloc/phloc-poi@4.1.0
 - pkg:maven/com.phloc/phloc-poi@4.1.0?classifier=sources
+- pkg:maven/com.phloc/phloc-poi@4.1.2
+- pkg:maven/com.phloc/phloc-poi@4.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.onemancrew/vertx-tftp-client@1.0
+- pkg:maven/io.github.onemancrew/vertx-tftp-client@1.0?classifier=sources

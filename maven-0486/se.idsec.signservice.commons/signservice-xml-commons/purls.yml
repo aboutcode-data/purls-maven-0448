@@ -1,0 +1,4 @@
+- pkg:maven/se.idsec.signservice.commons/signservice-xml-commons@1.0.0
+- pkg:maven/se.idsec.signservice.commons/signservice-xml-commons@1.0.0?classifier=sources
+- pkg:maven/se.idsec.signservice.commons/signservice-xml-commons@1.0.1
+- pkg:maven/se.idsec.signservice.commons/signservice-xml-commons@1.0.1?classifier=sources

@@ -34,3 +34,9 @@
 - pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.16.3?classifier=sources
 - pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.16.4
 - pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.16.4?classifier=sources
+- pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.17.0
+- pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.17.0?classifier=sources
+- pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.18.0
+- pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.18.0?classifier=sources
+- pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.19.0
+- pkg:maven/net.lecousin.framework/log.bridges.commons-logging@0.19.0?classifier=sources

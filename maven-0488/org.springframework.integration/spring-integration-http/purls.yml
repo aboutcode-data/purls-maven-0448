@@ -162,6 +162,8 @@
 - pkg:maven/org.springframework.integration/spring-integration-http@4.3.20.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-http@4.3.21.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-http@4.3.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-http@4.3.22.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-http@4.3.22.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-http@4.3.4.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-http@4.3.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-http@4.3.5.RELEASE
@@ -232,3 +234,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-http@5.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-http@5.2.3.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-http@5.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-http@5.2.4.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-http@5.2.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-http@5.2.5.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-http@5.2.5.RELEASE?classifier=sources

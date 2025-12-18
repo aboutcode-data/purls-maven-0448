@@ -1,0 +1,4 @@
+- pkg:maven/com.github.shoothzj/adapt-sdk@3.0.6.RELEASE
+- pkg:maven/com.github.shoothzj/adapt-sdk@3.0.6.RELEASE?classifier=sources
+- pkg:maven/com.github.shoothzj/adapt-sdk@3.0.7.RELEASE
+- pkg:maven/com.github.shoothzj/adapt-sdk@3.0.7.RELEASE?classifier=sources

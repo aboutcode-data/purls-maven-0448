@@ -1,0 +1,6 @@
+- pkg:maven/io.laserdisc/fs2-aws_2.13@2.28.37
+- pkg:maven/io.laserdisc/fs2-aws_2.13@2.28.37?classifier=sources
+- pkg:maven/io.laserdisc/fs2-aws_2.13@2.28.38
+- pkg:maven/io.laserdisc/fs2-aws_2.13@2.28.38?classifier=sources
+- pkg:maven/io.laserdisc/fs2-aws_2.13@2.28.39
+- pkg:maven/io.laserdisc/fs2-aws_2.13@2.28.39?classifier=sources

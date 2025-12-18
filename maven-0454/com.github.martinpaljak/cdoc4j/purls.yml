@@ -16,3 +16,5 @@
 - pkg:maven/com.github.martinpaljak/cdoc4j@17.11.27?classifier=sources
 - pkg:maven/com.github.martinpaljak/cdoc4j@17.12.20
 - pkg:maven/com.github.martinpaljak/cdoc4j@17.12.20?classifier=sources
+- pkg:maven/com.github.martinpaljak/cdoc4j@20.01.27
+- pkg:maven/com.github.martinpaljak/cdoc4j@20.01.27?classifier=sources

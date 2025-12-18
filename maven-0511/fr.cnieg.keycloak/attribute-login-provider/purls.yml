@@ -1,0 +1,2 @@
+- pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.0.0
+- pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.0.0?classifier=sources

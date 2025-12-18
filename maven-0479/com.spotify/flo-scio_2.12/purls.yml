@@ -48,3 +48,5 @@
 - pkg:maven/com.spotify/flo-scio_2.12@0.5.7?classifier=sources
 - pkg:maven/com.spotify/flo-scio_2.12@0.5.8
 - pkg:maven/com.spotify/flo-scio_2.12@0.5.8?classifier=sources
+- pkg:maven/com.spotify/flo-scio_2.12@0.6.0
+- pkg:maven/com.spotify/flo-scio_2.12@0.6.0?classifier=sources

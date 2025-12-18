@@ -1,2 +1,6 @@
 - pkg:maven/com.draagon/draagon-cache@3.5.2
 - pkg:maven/com.draagon/draagon-cache@3.5.2?classifier=sources
+- pkg:maven/com.draagon/draagon-cache@3.7.0
+- pkg:maven/com.draagon/draagon-cache@3.7.0?classifier=sources
+- pkg:maven/com.draagon/draagon-cache@3.9.0
+- pkg:maven/com.draagon/draagon-cache@3.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japgolly.test-state/util-selenium_2.13@2.4.0
+- pkg:maven/com.github.japgolly.test-state/util-selenium_2.13@2.4.0?classifier=sources

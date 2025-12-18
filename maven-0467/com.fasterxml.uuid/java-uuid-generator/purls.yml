@@ -14,3 +14,9 @@
 - pkg:maven/com.fasterxml.uuid/java-uuid-generator@3.1.5?classifier=sources
 - pkg:maven/com.fasterxml.uuid/java-uuid-generator@3.2.0
 - pkg:maven/com.fasterxml.uuid/java-uuid-generator@3.2.0?classifier=sources
+- pkg:maven/com.fasterxml.uuid/java-uuid-generator@3.3.0
+- pkg:maven/com.fasterxml.uuid/java-uuid-generator@3.3.0?classifier=sources
+- pkg:maven/com.fasterxml.uuid/java-uuid-generator@4.0
+- pkg:maven/com.fasterxml.uuid/java-uuid-generator@4.0.1
+- pkg:maven/com.fasterxml.uuid/java-uuid-generator@4.0.1?classifier=sources
+- pkg:maven/com.fasterxml.uuid/java-uuid-generator@4.0?classifier=sources

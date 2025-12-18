@@ -1,0 +1,2 @@
+- pkg:maven/engineer.echo.easyapi/annotation@0.0.2
+- pkg:maven/engineer.echo.easyapi/annotation@0.0.2?classifier=sources

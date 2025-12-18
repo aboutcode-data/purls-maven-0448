@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-projectapi@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-projectapi@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-projectapi@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-projectapi@RELEASE113?classifier=sources

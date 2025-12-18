@@ -40,3 +40,9 @@
 - pkg:maven/net.colesico.framework/colesico-profile@2.4.2?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-profile@2.4.4
 - pkg:maven/net.colesico.framework/colesico-profile@2.4.4?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-profile@2.5.1
+- pkg:maven/net.colesico.framework/colesico-profile@2.5.1?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-profile@3.1.1
+- pkg:maven/net.colesico.framework/colesico-profile@3.1.1?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-profile@3.1.2
+- pkg:maven/net.colesico.framework/colesico-profile@3.1.2?classifier=sources
