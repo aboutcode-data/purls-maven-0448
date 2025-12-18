@@ -14,3 +14,5 @@
 - pkg:maven/io.vitess/vitess-hadoop@3.0.0?classifier=sources
 - pkg:maven/io.vitess/vitess-hadoop@3.1.0
 - pkg:maven/io.vitess/vitess-hadoop@3.1.0?classifier=sources
+- pkg:maven/io.vitess/vitess-hadoop@4.0
+- pkg:maven/io.vitess/vitess-hadoop@4.0?classifier=sources

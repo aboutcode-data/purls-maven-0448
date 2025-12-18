@@ -1,0 +1,2 @@
+- pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector-testutils@1.0.0-M1
+- pkg:maven/nl.teslanet.mule.connectors.coap/mule-coap-connector-testutils@1.0.0-M1?classifier=sources

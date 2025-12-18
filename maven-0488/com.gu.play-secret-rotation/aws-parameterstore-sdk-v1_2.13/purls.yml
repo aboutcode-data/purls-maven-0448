@@ -1,0 +1,2 @@
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_2.13@0.17
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-sdk-v1_2.13@0.17?classifier=sources

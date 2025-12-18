@@ -19,3 +19,5 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@1.2.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@2.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@2.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@2.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@2.1.0.Beta1?classifier=source-release&type=zip

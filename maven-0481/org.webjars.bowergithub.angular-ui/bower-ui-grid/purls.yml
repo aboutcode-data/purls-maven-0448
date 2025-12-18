@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.angular-ui/bower-ui-grid@4.4.4
 - pkg:maven/org.webjars.bowergithub.angular-ui/bower-ui-grid@4.4.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.angular-ui/bower-ui-grid@4.8.3
+- pkg:maven/org.webjars.bowergithub.angular-ui/bower-ui-grid@4.8.3?classifier=sources

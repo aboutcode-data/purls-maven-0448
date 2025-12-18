@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-fit@1.0.5
+- pkg:maven/org.webjars.npm/react-fit@1.0.5?classifier=sources

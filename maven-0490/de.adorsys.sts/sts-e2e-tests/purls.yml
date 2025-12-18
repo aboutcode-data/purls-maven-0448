@@ -1,0 +1,4 @@
+- pkg:maven/de.adorsys.sts/sts-e2e-tests@0.30.1
+- pkg:maven/de.adorsys.sts/sts-e2e-tests@1.0.0
+- pkg:maven/de.adorsys.sts/sts-e2e-tests@1.0.1
+- pkg:maven/de.adorsys.sts/sts-e2e-tests@1.0.2

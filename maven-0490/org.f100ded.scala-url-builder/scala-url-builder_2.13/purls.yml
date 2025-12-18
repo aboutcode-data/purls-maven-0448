@@ -1,0 +1,2 @@
+- pkg:maven/org.f100ded.scala-url-builder/scala-url-builder_2.13@0.9.1
+- pkg:maven/org.f100ded.scala-url-builder/scala-url-builder_2.13@0.9.1?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/org.iota/jota@1.0.0-beta3?classifier=sources
 - pkg:maven/org.iota/jota@1.0.0-beta6
 - pkg:maven/org.iota/jota@1.0.0-beta6?classifier=sources
+- pkg:maven/org.iota/jota@1.0.0-beta7
+- pkg:maven/org.iota/jota@1.0.0-beta7?classifier=sources
+- pkg:maven/org.iota/jota@1.0.0-beta8
+- pkg:maven/org.iota/jota@1.0.0-beta8?classifier=sources

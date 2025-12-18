@@ -18,3 +18,7 @@
 - pkg:maven/dk.digst/oiosaml2.java@2.0.8?classifier=sources
 - pkg:maven/dk.digst/oiosaml2.java@2.0.9
 - pkg:maven/dk.digst/oiosaml2.java@2.0.9?classifier=sources
+- pkg:maven/dk.digst/oiosaml2.java@2.1.0
+- pkg:maven/dk.digst/oiosaml2.java@2.1.0?classifier=sources
+- pkg:maven/dk.digst/oiosaml2.java@2.1.1
+- pkg:maven/dk.digst/oiosaml2.java@2.1.1?classifier=sources

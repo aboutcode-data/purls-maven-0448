@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.haynes/gemnasium-maven-plugin@0.4.0
+- pkg:maven/com.gitlab.haynes/gemnasium-maven-plugin@0.4.0?classifier=sources

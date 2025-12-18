@@ -9,3 +9,5 @@
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.oidc.rest.api.feature@1.0.55?classifier=sources
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.oidc.rest.api.feature@1.0.56?classifier=sources
 - pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.oidc.rest.api.feature@1.0.57?classifier=sources
+- pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.oidc.rest.api.feature@1.0.58?classifier=sources
+- pkg:maven/org.wso2.carbon.auth/org.wso2.carbon.auth.oidc.rest.api.feature@1.0.59?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0
 - pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.0
 - pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.0?classifier=sources
 - pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.1
@@ -8,3 +9,12 @@
 - pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.3?classifier=sources
 - pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.4
 - pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.4?classifier=sources
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.5
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.5?classifier=sources
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.6
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.6?classifier=sources
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.7
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.7?classifier=sources
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.8
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0-RC.8?classifier=sources
+- pkg:maven/org.zalando/logbook-spring-boot-autoconfigure@2.0.0?classifier=sources

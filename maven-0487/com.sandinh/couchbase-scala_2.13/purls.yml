@@ -1,0 +1,6 @@
+- pkg:maven/com.sandinh/couchbase-scala_2.13@8.0.0
+- pkg:maven/com.sandinh/couchbase-scala_2.13@8.0.0-1-g0a620a6
+- pkg:maven/com.sandinh/couchbase-scala_2.13@8.0.0-1-g0a620a6?classifier=sources
+- pkg:maven/com.sandinh/couchbase-scala_2.13@8.0.0?classifier=sources
+- pkg:maven/com.sandinh/couchbase-scala_2.13@8.1.0
+- pkg:maven/com.sandinh/couchbase-scala_2.13@8.1.0?classifier=sources

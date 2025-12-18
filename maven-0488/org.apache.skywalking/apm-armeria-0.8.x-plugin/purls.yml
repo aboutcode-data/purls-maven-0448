@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-armeria-0.8.x-plugin@6.6.0
+- pkg:maven/org.apache.skywalking/apm-armeria-0.8.x-plugin@6.6.0?classifier=sources

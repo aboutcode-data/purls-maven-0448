@@ -1,3 +1,6 @@
 - pkg:maven/io.siddhi.extension.io.rabbitmq/siddhi-io-rabbitmq-parent@3.0.0?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.rabbitmq/siddhi-io-rabbitmq-parent@3.0.1?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.rabbitmq/siddhi-io-rabbitmq-parent@3.0.2?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.rabbitmq/siddhi-io-rabbitmq-parent@3.0.3?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.rabbitmq/siddhi-io-rabbitmq-parent@3.0.4?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.rabbitmq/siddhi-io-rabbitmq-parent@3.0.5?classifier=source-release&type=zip

@@ -77,3 +77,5 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-groovy@2.24.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-groovy@2.24.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-groovy@2.24.2?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-groovy@2.24.3?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-groovy@2.25.0?classifier=sources

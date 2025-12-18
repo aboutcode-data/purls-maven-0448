@@ -8,3 +8,5 @@
 - pkg:maven/fr.techad/edc-popover@2.4.0?classifier=sources
 - pkg:maven/fr.techad/edc-popover@2.4.1
 - pkg:maven/fr.techad/edc-popover@2.4.1?classifier=sources
+- pkg:maven/fr.techad/edc-popover@3.0.0
+- pkg:maven/fr.techad/edc-popover@3.0.0?classifier=sources

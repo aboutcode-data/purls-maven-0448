@@ -1,2 +1,4 @@
 - pkg:maven/org.jibx.schema.org.opentravel._2013B.ws/opentravel-touractivity-ws-service-archetype@1.1.2?classifier=sources
 - pkg:maven/org.jibx.schema.org.opentravel._2013B.ws/opentravel-touractivity-ws-service-archetype@1.1.4?classifier=sources
+- pkg:maven/org.jibx.schema.org.opentravel._2013B.ws/opentravel-touractivity-ws-service-archetype@1.2.0?classifier=sources
+- pkg:maven/org.jibx.schema.org.opentravel._2013B.ws/opentravel-touractivity-ws-service-archetype@1.2.1?classifier=sources

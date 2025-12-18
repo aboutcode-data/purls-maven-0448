@@ -6,5 +6,11 @@
 - pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.12?classifier=sources
 - pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.13
 - pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.13?classifier=sources
+- pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.14
+- pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.14?classifier=sources
+- pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.15
+- pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.15?classifier=sources
+- pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.16
+- pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.16?classifier=sources
 - pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.9
 - pkg:maven/org.talend.sdk.component/urlvalidation-component@1.1.9?classifier=sources

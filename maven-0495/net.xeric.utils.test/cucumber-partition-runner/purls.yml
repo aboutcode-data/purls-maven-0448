@@ -1,2 +1,6 @@
 - pkg:maven/net.xeric.utils.test/cucumber-partition-runner@1.0
 - pkg:maven/net.xeric.utils.test/cucumber-partition-runner@1.0?classifier=sources
+- pkg:maven/net.xeric.utils.test/cucumber-partition-runner@4.7.4
+- pkg:maven/net.xeric.utils.test/cucumber-partition-runner@4.7.4.a
+- pkg:maven/net.xeric.utils.test/cucumber-partition-runner@4.7.4.a?classifier=sources
+- pkg:maven/net.xeric.utils.test/cucumber-partition-runner@4.7.4?classifier=sources

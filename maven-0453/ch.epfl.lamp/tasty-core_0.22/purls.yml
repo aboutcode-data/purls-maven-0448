@@ -1,0 +1,8 @@
+- pkg:maven/ch.epfl.lamp/tasty-core_0.22@0.22.0-bin-20191218-35fbb34-NIGHTLY
+- pkg:maven/ch.epfl.lamp/tasty-core_0.22@0.22.0-bin-20191218-35fbb34-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/tasty-core_0.22@0.22.0-bin-20191219-394217e-NIGHTLY
+- pkg:maven/ch.epfl.lamp/tasty-core_0.22@0.22.0-bin-20191219-394217e-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/tasty-core_0.22@0.22.0-bin-20191220-d45fea0-NIGHTLY
+- pkg:maven/ch.epfl.lamp/tasty-core_0.22@0.22.0-bin-20191220-d45fea0-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/tasty-core_0.22@0.22.0-bin-20191222-77ec689-NIGHTLY
+- pkg:maven/ch.epfl.lamp/tasty-core_0.22@0.22.0-bin-20191222-77ec689-NIGHTLY?classifier=sources

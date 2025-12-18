@@ -54,3 +54,5 @@
 - pkg:maven/com.jnape.palatable/lambda@4.0.0?classifier=sources
 - pkg:maven/com.jnape.palatable/lambda@5.0.0
 - pkg:maven/com.jnape.palatable/lambda@5.0.0?classifier=sources
+- pkg:maven/com.jnape.palatable/lambda@5.1.0
+- pkg:maven/com.jnape.palatable/lambda@5.1.0?classifier=sources

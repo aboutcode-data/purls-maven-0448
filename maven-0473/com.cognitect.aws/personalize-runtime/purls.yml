@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/personalize-runtime@742.2.515.0?classifier=sources
 - pkg:maven/com.cognitect.aws/personalize-runtime@746.2.533.0
 - pkg:maven/com.cognitect.aws/personalize-runtime@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/personalize-runtime@770.2.568.0
+- pkg:maven/com.cognitect.aws/personalize-runtime@770.2.568.0?classifier=sources

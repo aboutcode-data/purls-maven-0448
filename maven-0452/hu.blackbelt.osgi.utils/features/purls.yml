@@ -1,1 +1,2 @@
 - pkg:maven/hu.blackbelt.osgi.utils/features@1.0.7?classifier=sources
+- pkg:maven/hu.blackbelt.osgi.utils/features@1.0.8?classifier=sources

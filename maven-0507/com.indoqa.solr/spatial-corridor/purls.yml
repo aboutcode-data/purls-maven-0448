@@ -26,3 +26,5 @@
 - pkg:maven/com.indoqa.solr/spatial-corridor@6.6.2-9
 - pkg:maven/com.indoqa.solr/spatial-corridor@6.6.2-9?classifier=sources
 - pkg:maven/com.indoqa.solr/spatial-corridor@6.6.2?classifier=sources
+- pkg:maven/com.indoqa.solr/spatial-corridor@8.3.1-0
+- pkg:maven/com.indoqa.solr/spatial-corridor@8.3.1-0?classifier=sources

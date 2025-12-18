@@ -74,3 +74,7 @@
 - pkg:maven/com.squareup.wire/wire-maven-plugin@3.0.0-rc03
 - pkg:maven/com.squareup.wire/wire-maven-plugin@3.0.0-rc03?classifier=sources
 - pkg:maven/com.squareup.wire/wire-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-maven-plugin@3.0.1
+- pkg:maven/com.squareup.wire/wire-maven-plugin@3.0.1?classifier=sources
+- pkg:maven/com.squareup.wire/wire-maven-plugin@3.0.2
+- pkg:maven/com.squareup.wire/wire-maven-plugin@3.0.2?classifier=sources

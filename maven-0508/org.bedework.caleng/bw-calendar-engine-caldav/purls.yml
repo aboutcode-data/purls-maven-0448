@@ -16,3 +16,5 @@
 - pkg:maven/org.bedework.caleng/bw-calendar-engine-caldav@3.12.7?classifier=sources
 - pkg:maven/org.bedework.caleng/bw-calendar-engine-caldav@3.13.0
 - pkg:maven/org.bedework.caleng/bw-calendar-engine-caldav@3.13.0?classifier=sources
+- pkg:maven/org.bedework.caleng/bw-calendar-engine-caldav@3.13.1
+- pkg:maven/org.bedework.caleng/bw-calendar-engine-caldav@3.13.1?classifier=sources

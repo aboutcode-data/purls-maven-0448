@@ -38,6 +38,10 @@
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.20.2?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.21.0?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.22.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.22.1?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.23.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.24.0?classifier=sources
+- pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.25.0?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.3.1?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.4.1?classifier=sources
 - pkg:maven/com.sap.cloud.s4hana.archetypes/scp-cf-spring@2.4.2?classifier=sources

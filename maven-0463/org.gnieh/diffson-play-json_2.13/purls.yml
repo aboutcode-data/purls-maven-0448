@@ -4,3 +4,5 @@
 - pkg:maven/org.gnieh/diffson-play-json_2.13@4.0.0-M5
 - pkg:maven/org.gnieh/diffson-play-json_2.13@4.0.0-M5?classifier=sources
 - pkg:maven/org.gnieh/diffson-play-json_2.13@4.0.0?classifier=sources
+- pkg:maven/org.gnieh/diffson-play-json_2.13@4.0.1
+- pkg:maven/org.gnieh/diffson-play-json_2.13@4.0.1?classifier=sources

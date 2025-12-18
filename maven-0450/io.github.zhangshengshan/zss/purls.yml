@@ -8,3 +8,14 @@
 - pkg:maven/io.github.zhangshengshan/zss@4.0?classifier=sources
 - pkg:maven/io.github.zhangshengshan/zss@5.0
 - pkg:maven/io.github.zhangshengshan/zss@5.0?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@7.1.1
+- pkg:maven/io.github.zhangshengshan/zss@7.1.1?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@7.1.3
+- pkg:maven/io.github.zhangshengshan/zss@7.1.3?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@7.1.6
+- pkg:maven/io.github.zhangshengshan/zss@7.1.6?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@7.1.7
+- pkg:maven/io.github.zhangshengshan/zss@7.1.8
+- pkg:maven/io.github.zhangshengshan/zss@7.1.8?classifier=sources
+- pkg:maven/io.github.zhangshengshan/zss@7.1.9
+- pkg:maven/io.github.zhangshengshan/zss@7.1.9?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.thirdparty-core/spark-hbase@1.0
+- pkg:maven/io.github.thirdparty-core/spark-hbase@1.0.0
+- pkg:maven/io.github.thirdparty-core/spark-hbase@1.0.0?classifier=sources
+- pkg:maven/io.github.thirdparty-core/spark-hbase@1.0.1-pre
+- pkg:maven/io.github.thirdparty-core/spark-hbase@1.0.1-pre?classifier=sources
+- pkg:maven/io.github.thirdparty-core/spark-hbase@1.0?classifier=sources

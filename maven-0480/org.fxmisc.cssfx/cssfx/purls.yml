@@ -6,3 +6,5 @@
 - pkg:maven/org.fxmisc.cssfx/cssfx@1.1.1?classifier=sources
 - pkg:maven/org.fxmisc.cssfx/cssfx@11.0.1
 - pkg:maven/org.fxmisc.cssfx/cssfx@11.0.1?classifier=sources
+- pkg:maven/org.fxmisc.cssfx/cssfx@11.1.0
+- pkg:maven/org.fxmisc.cssfx/cssfx@11.1.0?classifier=sources

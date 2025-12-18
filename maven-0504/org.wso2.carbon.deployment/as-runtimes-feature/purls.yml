@@ -26,3 +26,6 @@
 - pkg:maven/org.wso2.carbon.deployment/as-runtimes-feature@4.8.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/as-runtimes-feature@4.8.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/as-runtimes-feature@4.8.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/as-runtimes-feature@4.9.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/as-runtimes-feature@4.9.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/as-runtimes-feature@4.9.17?classifier=source-release&type=zip

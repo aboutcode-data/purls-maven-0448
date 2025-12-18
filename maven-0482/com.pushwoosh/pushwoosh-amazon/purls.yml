@@ -26,6 +26,16 @@
 - pkg:maven/com.pushwoosh/pushwoosh-amazon@5.18.2?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-amazon@5.19.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-amazon@5.19.1?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.19.2?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.19.3?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.19.4?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.19.5?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.19.6?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.19.7?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.20.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.20.1?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.21.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-amazon@5.21.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-amazon@5.4.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-amazon@5.4.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-amazon@5.4.2?type=aar

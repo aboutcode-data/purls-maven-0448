@@ -1,3 +1,5 @@
 - pkg:maven/com.twosigma.webtau/webtau-shaded@1.11
 - pkg:maven/com.twosigma.webtau/webtau-shaded@1.12
 - pkg:maven/com.twosigma.webtau/webtau-shaded@1.13
+- pkg:maven/com.twosigma.webtau/webtau-shaded@1.15
+- pkg:maven/com.twosigma.webtau/webtau-shaded@1.16

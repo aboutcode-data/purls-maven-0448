@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.gm/analyzer@1.5
+- pkg:maven/org.jboss.gm/analyzer@1.5?classifier=sources

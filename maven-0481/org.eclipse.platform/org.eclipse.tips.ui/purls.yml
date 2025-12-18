@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.ui@0.1.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.ui@0.1.700
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.ui@0.1.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.tips.ui@0.1.800
+- pkg:maven/org.eclipse.platform/org.eclipse.tips.ui@0.1.800?classifier=sources

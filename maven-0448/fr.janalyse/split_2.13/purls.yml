@@ -1,3 +1,5 @@
+- pkg:maven/fr.janalyse/split_2.13@0.3.12
+- pkg:maven/fr.janalyse/split_2.13@0.3.12?classifier=sources
 - pkg:maven/fr.janalyse/split_2.13@0.3.7
 - pkg:maven/fr.janalyse/split_2.13@0.3.7?classifier=sources
 - pkg:maven/fr.janalyse/split_2.13@0.3.8

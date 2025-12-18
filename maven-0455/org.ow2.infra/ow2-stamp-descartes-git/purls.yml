@@ -1,0 +1,3 @@
+- pkg:maven/org.ow2.infra/ow2-stamp-descartes-git@1.0.1
+- pkg:maven/org.ow2.infra/ow2-stamp-descartes-git@1.0.1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.infra/ow2-stamp-descartes-git@1.0.1?classifier=sources

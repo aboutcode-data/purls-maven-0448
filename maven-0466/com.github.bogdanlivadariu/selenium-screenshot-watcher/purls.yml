@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bogdanlivadariu/selenium-screenshot-watcher@1.0.7
+- pkg:maven/com.github.bogdanlivadariu/selenium-screenshot-watcher@1.0.7?classifier=sources

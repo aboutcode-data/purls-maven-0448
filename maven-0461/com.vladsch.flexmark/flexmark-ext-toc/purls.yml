@@ -369,6 +369,12 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.4
 - pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.40
 - pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.40?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.42
+- pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.42?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.44
+- pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.44?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.46
+- pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.46?classifier=sources
 - pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.50.4?classifier=sources
 - pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.6.0
 - pkg:maven/com.vladsch.flexmark/flexmark-ext-toc@0.6.0?classifier=sources

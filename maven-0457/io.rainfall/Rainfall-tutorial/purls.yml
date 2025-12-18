@@ -9,6 +9,7 @@
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.12
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.13
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.14
+- pkg:maven/io.rainfall/Rainfall-tutorial@1.4.16
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.2
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.3
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.4
@@ -17,3 +18,4 @@
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.7
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.8
 - pkg:maven/io.rainfall/Rainfall-tutorial@1.4.9
+- pkg:maven/io.rainfall/Rainfall-tutorial@1.5.0

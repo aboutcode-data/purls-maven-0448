@@ -1,2 +1,4 @@
 - pkg:maven/ai.tock/bot-test-base@19.9.0
 - pkg:maven/ai.tock/bot-test-base@19.9.0?classifier=sources
+- pkg:maven/ai.tock/bot-test-base@19.9.1
+- pkg:maven/ai.tock/bot-test-base@19.9.1?classifier=sources

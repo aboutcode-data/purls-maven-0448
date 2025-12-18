@@ -1,0 +1,16 @@
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@0.73.0.1
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@0.73.0.1?classifier=sources
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.6
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.6-jre12
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.6-jre12?classifier=sources
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.6-jre13
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.6-jre13?classifier=sources
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.6?classifier=sources
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.7
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.7-jre12
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.7-jre12?classifier=sources
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.7-jre13
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.7-jre13?classifier=sources
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.7-jre8
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.7-jre8?classifier=sources
+- pkg:maven/com.jwebmp.plugins.bootstrap/jwebmp-bootstrap-pro-sidebar@1.0.1.7?classifier=sources

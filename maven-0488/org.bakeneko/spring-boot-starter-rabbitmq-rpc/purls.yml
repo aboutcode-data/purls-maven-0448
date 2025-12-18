@@ -1,2 +1,4 @@
 - pkg:maven/org.bakeneko/spring-boot-starter-rabbitmq-rpc@0.0.2
 - pkg:maven/org.bakeneko/spring-boot-starter-rabbitmq-rpc@0.0.2?classifier=sources
+- pkg:maven/org.bakeneko/spring-boot-starter-rabbitmq-rpc@0.0.3-beta
+- pkg:maven/org.bakeneko/spring-boot-starter-rabbitmq-rpc@0.0.3-beta?classifier=sources

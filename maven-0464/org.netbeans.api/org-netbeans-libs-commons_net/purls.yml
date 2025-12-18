@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE90?classifier=sources

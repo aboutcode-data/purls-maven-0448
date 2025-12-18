@@ -4,3 +4,7 @@
 - pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.core@1.1.0?classifier=sources
 - pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.core@2.0.0
 - pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.core@2.0.0?classifier=sources
+- pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.core@3.0.0
+- pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.core@3.0.0?classifier=sources
+- pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.core@3.0.1
+- pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.core@3.0.1?classifier=sources

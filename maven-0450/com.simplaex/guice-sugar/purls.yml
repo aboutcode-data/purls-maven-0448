@@ -1,0 +1,2 @@
+- pkg:maven/com.simplaex/guice-sugar@2019.12.19
+- pkg:maven/com.simplaex/guice-sugar@2019.12.19?classifier=sources

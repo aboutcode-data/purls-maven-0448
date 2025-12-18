@@ -32,3 +32,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2.1@4.0.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2.1@4.0.3
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2.1@4.0.3?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2.1@4.1.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-dstu2.1@4.1.0?classifier=sources

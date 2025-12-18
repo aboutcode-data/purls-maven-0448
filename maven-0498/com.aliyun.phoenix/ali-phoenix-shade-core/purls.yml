@@ -1,4 +1,5 @@
 - pkg:maven/com.aliyun.phoenix/ali-phoenix-shade-core@4.12.0-AliHBase-1.1-0.9
+- pkg:maven/com.aliyun.phoenix/ali-phoenix-shade-core@4.12.0-AliHBase-Ha-1.1-0.1
 - pkg:maven/com.aliyun.phoenix/ali-phoenix-shade-core@5.1.0-HBase-2.0
 - pkg:maven/com.aliyun.phoenix/ali-phoenix-shade-core@5.1.0-HBase-2.0.0.1
 - pkg:maven/com.aliyun.phoenix/ali-phoenix-shade-core@5.1.0-HBase-2.0.0.1?classifier=sources

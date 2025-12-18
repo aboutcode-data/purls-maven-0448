@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.crunch/crunch-hive@0.14.0?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-hive@0.15.0
 - pkg:maven/org.apache.crunch/crunch-hive@0.15.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-hive@1.0.0
+- pkg:maven/org.apache.crunch/crunch-hive@1.0.0?classifier=sources

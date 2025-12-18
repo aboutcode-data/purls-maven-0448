@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-braintree-braintree-web-drop-in@1.21.0
+- pkg:maven/org.webjars.npm/github-com-braintree-braintree-web-drop-in@1.21.0?classifier=sources

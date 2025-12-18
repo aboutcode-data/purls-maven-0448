@@ -24,3 +24,7 @@
 - pkg:maven/io.nflow/nflow-server-common@5.6.0?classifier=sources
 - pkg:maven/io.nflow/nflow-server-common@5.7.0
 - pkg:maven/io.nflow/nflow-server-common@5.7.0?classifier=sources
+- pkg:maven/io.nflow/nflow-server-common@6.0.0
+- pkg:maven/io.nflow/nflow-server-common@6.0.0?classifier=sources
+- pkg:maven/io.nflow/nflow-server-common@6.1.0
+- pkg:maven/io.nflow/nflow-server-common@6.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.alpharogroup/servlet-kt-extensions@1
+- pkg:maven/de.alpharogroup/servlet-kt-extensions@1.1
+- pkg:maven/de.alpharogroup/servlet-kt-extensions@1.1?classifier=sources
+- pkg:maven/de.alpharogroup/servlet-kt-extensions@1?classifier=sources

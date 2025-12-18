@@ -23,3 +23,4 @@
 - pkg:maven/org.flowable/flowable-spring-boot-starter-basic@6.4.0
 - pkg:maven/org.flowable/flowable-spring-boot-starter-basic@6.4.1
 - pkg:maven/org.flowable/flowable-spring-boot-starter-basic@6.4.2
+- pkg:maven/org.flowable/flowable-spring-boot-starter-basic@6.5.0

@@ -4,6 +4,10 @@
 - pkg:maven/io.scalecube/config-vault@0.3.11?classifier=sources
 - pkg:maven/io.scalecube/config-vault@0.3.12
 - pkg:maven/io.scalecube/config-vault@0.3.12?classifier=sources
+- pkg:maven/io.scalecube/config-vault@0.3.13
+- pkg:maven/io.scalecube/config-vault@0.3.13?classifier=sources
+- pkg:maven/io.scalecube/config-vault@0.3.14
+- pkg:maven/io.scalecube/config-vault@0.3.14?classifier=sources
 - pkg:maven/io.scalecube/config-vault@0.3.2
 - pkg:maven/io.scalecube/config-vault@0.3.2?classifier=sources
 - pkg:maven/io.scalecube/config-vault@0.3.3

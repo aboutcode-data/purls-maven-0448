@@ -1,0 +1,2 @@
+- pkg:maven/org.hisp.dhis/android-core@1.0.0?classifier=sources
+- pkg:maven/org.hisp.dhis/android-core@1.0.0?type=aar

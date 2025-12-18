@@ -132,7 +132,11 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@8.1.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@8.3.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@8.3.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@8.6.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@8.6.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@9.0.0-M2
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@9.0.0-M2?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@9.0.0-M3
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@9.0.0-M3.1
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@9.0.0-M3.1?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-blacktie@9.0.0-M3?classifier=sources

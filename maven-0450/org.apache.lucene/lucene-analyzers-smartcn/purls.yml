@@ -148,3 +148,11 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.1.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.2.0
 - pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.2.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.3.0
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.3.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.3.1
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.3.1?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.4.0
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.4.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.4.1
+- pkg:maven/org.apache.lucene/lucene-analyzers-smartcn@8.4.1?classifier=sources

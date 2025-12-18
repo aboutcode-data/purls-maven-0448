@@ -1,0 +1,2 @@
+- pkg:maven/org.xpertss/JSONMarshaller@1.1.9
+- pkg:maven/org.xpertss/JSONMarshaller@1.1.9?classifier=sources

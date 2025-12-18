@@ -104,3 +104,15 @@
 - pkg:maven/it.unibo.alchemist/alchemist-time@9.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-time@9.1.0
 - pkg:maven/it.unibo.alchemist/alchemist-time@9.1.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.0
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.1
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.1-dev2a%2B66d8306e
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.1-dev2a%2B66d8306e?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.1-dev2c%2B2424904e
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.1-dev2c%2B2424904e?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.1-dev2d%2Ba3411cae
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.1-dev2d%2Ba3411cae?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.2.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.3.0
+- pkg:maven/it.unibo.alchemist/alchemist-time@9.3.0?classifier=sources

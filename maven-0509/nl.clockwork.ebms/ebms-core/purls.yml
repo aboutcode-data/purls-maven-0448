@@ -1,2 +1,4 @@
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.16.0
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.16.0?classifier=sources
+- pkg:maven/nl.clockwork.ebms/ebms-core@2.16.1
+- pkg:maven/nl.clockwork.ebms/ebms-core@2.16.1?classifier=sources

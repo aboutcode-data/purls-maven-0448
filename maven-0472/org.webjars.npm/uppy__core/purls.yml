@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/uppy__core@0.28.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__core@1.0.2
 - pkg:maven/org.webjars.npm/uppy__core@1.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__core@1.6.0
+- pkg:maven/org.webjars.npm/uppy__core@1.6.0?classifier=sources

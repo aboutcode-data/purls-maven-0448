@@ -1,0 +1,2 @@
+- pkg:maven/pl.beone.promena.communication.memory.model/promena-communication-memory-model-internal@1.0.0
+- pkg:maven/pl.beone.promena.communication.memory.model/promena-communication-memory-model-internal@1.0.0?classifier=sources

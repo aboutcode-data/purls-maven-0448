@@ -1,0 +1,2 @@
+- pkg:maven/nl.ivonet/jakartaee8-essentials-archetype@1.0?classifier=sources
+- pkg:maven/nl.ivonet/jakartaee8-essentials-archetype@1.1?classifier=sources

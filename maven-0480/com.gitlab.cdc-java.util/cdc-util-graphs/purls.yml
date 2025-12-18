@@ -22,6 +22,12 @@
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.16?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.17
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.17?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.18
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.18?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.19
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.19?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.20
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.20?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.8
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.8?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs@0.0.9

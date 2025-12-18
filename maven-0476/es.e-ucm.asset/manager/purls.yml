@@ -1,0 +1,2 @@
+- pkg:maven/es.e-ucm.asset/manager@0.3.0
+- pkg:maven/es.e-ucm.asset/manager@0.3.0?classifier=sources

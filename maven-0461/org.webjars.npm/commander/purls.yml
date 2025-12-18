@@ -30,6 +30,8 @@
 - pkg:maven/org.webjars.npm/commander@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/commander@2.20.0
 - pkg:maven/org.webjars.npm/commander@2.20.0?classifier=sources
+- pkg:maven/org.webjars.npm/commander@2.20.3
+- pkg:maven/org.webjars.npm/commander@2.20.3?classifier=sources
 - pkg:maven/org.webjars.npm/commander@2.3.0
 - pkg:maven/org.webjars.npm/commander@2.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/commander@2.5.0
@@ -42,3 +44,5 @@
 - pkg:maven/org.webjars.npm/commander@2.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/commander@3.0.0-0
 - pkg:maven/org.webjars.npm/commander@3.0.0-0?classifier=sources
+- pkg:maven/org.webjars.npm/commander@4.0.0-1
+- pkg:maven/org.webjars.npm/commander@4.0.0-1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk-versions@0.1.3
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk-versions@0.1.3?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk-versions@1.0.0
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk-versions@1.0.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk-versions@1.0.1
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-sdk-versions@1.0.1?classifier=sources

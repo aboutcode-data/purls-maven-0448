@@ -10,5 +10,11 @@
 - pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.14.0?classifier=sources
 - pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.15.0
 - pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.15.0?classifier=sources
+- pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.16.0
+- pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.16.0?classifier=sources
+- pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.17.0
+- pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.17.0?classifier=sources
+- pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.18.0
+- pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.18.0?classifier=sources
 - pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.9.0
 - pkg:maven/com.gitlab.haynes/orika-spring-boot-starter@1.9.0?classifier=sources

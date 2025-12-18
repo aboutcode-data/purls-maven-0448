@@ -6,6 +6,10 @@
 - pkg:maven/com.twosigma.webtau/webtau-cache@1.12?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-cache@1.13
 - pkg:maven/com.twosigma.webtau/webtau-cache@1.13?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-cache@1.15
+- pkg:maven/com.twosigma.webtau/webtau-cache@1.15?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-cache@1.16
+- pkg:maven/com.twosigma.webtau/webtau-cache@1.16?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-cache@1.4
 - pkg:maven/com.twosigma.webtau/webtau-cache@1.4?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-cache@1.5

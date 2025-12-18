@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.carbondata/carbondata-cli@1.5.4?classifier=sources
 - pkg:maven/org.apache.carbondata/carbondata-cli@1.6.0
 - pkg:maven/org.apache.carbondata/carbondata-cli@1.6.0?classifier=sources
+- pkg:maven/org.apache.carbondata/carbondata-cli@1.6.1
+- pkg:maven/org.apache.carbondata/carbondata-cli@1.6.1?classifier=sources

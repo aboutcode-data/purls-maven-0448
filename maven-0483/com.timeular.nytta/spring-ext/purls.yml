@@ -10,3 +10,7 @@
 - pkg:maven/com.timeular.nytta/spring-ext@2.2.1?classifier=sources
 - pkg:maven/com.timeular.nytta/spring-ext@2.3.1
 - pkg:maven/com.timeular.nytta/spring-ext@2.3.1?classifier=sources
+- pkg:maven/com.timeular.nytta/spring-ext@2.4.0
+- pkg:maven/com.timeular.nytta/spring-ext@2.4.0?classifier=sources
+- pkg:maven/com.timeular.nytta/spring-ext@3.0.0
+- pkg:maven/com.timeular.nytta/spring-ext@3.0.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/mobius1-selectr@2.4.13
+- pkg:maven/org.webjars.npm/mobius1-selectr@2.4.13?classifier=sources
 - pkg:maven/org.webjars.npm/mobius1-selectr@2.4.8
 - pkg:maven/org.webjars.npm/mobius1-selectr@2.4.8?classifier=sources

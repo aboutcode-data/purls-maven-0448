@@ -4,3 +4,5 @@
 - pkg:maven/org.scorexfoundation/scorex-testkit_2.12@2.0.0-RC2?classifier=sources
 - pkg:maven/org.scorexfoundation/scorex-testkit_2.12@2.0.0-RC3
 - pkg:maven/org.scorexfoundation/scorex-testkit_2.12@2.0.0-RC3?classifier=sources
+- pkg:maven/org.scorexfoundation/scorex-testkit_2.12@2.0.0-RC6
+- pkg:maven/org.scorexfoundation/scorex-testkit_2.12@2.0.0-RC6?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/de.terrestris/shogun-core-main@3.3.1?classifier=sources
 - pkg:maven/de.terrestris/shogun-core-main@4.0.0
 - pkg:maven/de.terrestris/shogun-core-main@4.0.0?classifier=sources
+- pkg:maven/de.terrestris/shogun-core-main@5.0.0
+- pkg:maven/de.terrestris/shogun-core-main@5.0.0?classifier=sources

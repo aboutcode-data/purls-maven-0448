@@ -4,3 +4,7 @@
 - pkg:maven/com.gu/content-api-models-scala_2.13@15.2?classifier=sources
 - pkg:maven/com.gu/content-api-models-scala_2.13@15.3
 - pkg:maven/com.gu/content-api-models-scala_2.13@15.3?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.13@15.4
+- pkg:maven/com.gu/content-api-models-scala_2.13@15.4?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.13@15.5
+- pkg:maven/com.gu/content-api-models-scala_2.13@15.5?classifier=sources

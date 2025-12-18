@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars/atmosphere-javascript@2.3.6
 - pkg:maven/org.webjars/atmosphere-javascript@2.3.8
 - pkg:maven/org.webjars/atmosphere-javascript@2.3.9
+- pkg:maven/org.webjars/atmosphere-javascript@3.0.0

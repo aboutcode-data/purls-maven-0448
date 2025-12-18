@@ -1,0 +1,2 @@
+- pkg:maven/com.walmartlabs.concord.plugins/msteams-task@1.21.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/msteams-task@1.22.0?classifier=sources

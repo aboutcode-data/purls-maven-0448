@@ -1,0 +1,4 @@
+- pkg:maven/fish.payara.server.appclient/payara-client@5.193.1
+- pkg:maven/fish.payara.server.appclient/payara-client@5.193.1?classifier=sources
+- pkg:maven/fish.payara.server.appclient/payara-client@5.194
+- pkg:maven/fish.payara.server.appclient/payara-client@5.194?classifier=sources

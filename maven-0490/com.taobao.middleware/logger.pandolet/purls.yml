@@ -2,3 +2,5 @@
 - pkg:maven/com.taobao.middleware/logger.pandolet@0.2.6?classifier=sources
 - pkg:maven/com.taobao.middleware/logger.pandolet@0.2.7
 - pkg:maven/com.taobao.middleware/logger.pandolet@0.2.7?classifier=sources
+- pkg:maven/com.taobao.middleware/logger.pandolet@0.2.8
+- pkg:maven/com.taobao.middleware/logger.pandolet@0.2.8?classifier=sources

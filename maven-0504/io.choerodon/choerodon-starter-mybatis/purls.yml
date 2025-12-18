@@ -8,5 +8,9 @@
 - pkg:maven/io.choerodon/choerodon-starter-mybatis@0.11.1.RELEASE?classifier=sources
 - pkg:maven/io.choerodon/choerodon-starter-mybatis@0.12.0.RELEASE
 - pkg:maven/io.choerodon/choerodon-starter-mybatis@0.12.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-mybatis@0.13.0.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-mybatis@0.13.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-mybatis@0.14.0.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-mybatis@0.14.0.RELEASE?classifier=sources
 - pkg:maven/io.choerodon/choerodon-starter-mybatis@0.9.3.RELEASE
 - pkg:maven/io.choerodon/choerodon-starter-mybatis@0.9.3.RELEASE?classifier=sources

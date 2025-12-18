@@ -18,3 +18,7 @@
 - pkg:maven/org.webjars.npm/d3-hierarchy@1.1.6?classifier=sources
 - pkg:maven/org.webjars.npm/d3-hierarchy@1.1.8
 - pkg:maven/org.webjars.npm/d3-hierarchy@1.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/d3-hierarchy@1.1.9
+- pkg:maven/org.webjars.npm/d3-hierarchy@1.1.9?classifier=sources
+- pkg:maven/org.webjars.npm/d3-hierarchy@2.0.0-rc.3
+- pkg:maven/org.webjars.npm/d3-hierarchy@2.0.0-rc.3?classifier=sources

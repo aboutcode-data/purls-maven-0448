@@ -1,0 +1,4 @@
+- pkg:maven/org.zkoss.common/zweb-dsp@9.0.0
+- pkg:maven/org.zkoss.common/zweb-dsp@9.0.0-RC
+- pkg:maven/org.zkoss.common/zweb-dsp@9.0.0-RC?classifier=sources
+- pkg:maven/org.zkoss.common/zweb-dsp@9.0.0?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/org.webjars.npm/react-select@2.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/react-select@3.0.4
 - pkg:maven/org.webjars.npm/react-select@3.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/react-select@3.0.8
+- pkg:maven/org.webjars.npm/react-select@3.0.8?classifier=sources

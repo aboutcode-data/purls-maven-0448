@@ -46,3 +46,9 @@
 - pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.28.0?classifier=sources
 - pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.28.1
 - pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.28.1?classifier=sources
+- pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.28.3
+- pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.28.3?classifier=sources
+- pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.29.0
+- pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.29.0?classifier=sources
+- pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.29.3
+- pkg:maven/com.kyleu/projectile-lib-admin-models_sjs0.6_2.12@1.29.3?classifier=sources

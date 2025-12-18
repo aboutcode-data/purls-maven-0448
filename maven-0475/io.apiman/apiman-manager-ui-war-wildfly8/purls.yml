@@ -36,3 +36,6 @@
 - pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.5.0.Final?type=war
 - pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.5.1.Final?type=war
 - pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.5.2.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.5.3.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.5.4.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-war-wildfly8@1.5.5.Final?type=war

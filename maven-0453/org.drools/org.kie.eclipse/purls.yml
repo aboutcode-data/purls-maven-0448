@@ -46,7 +46,12 @@
 - pkg:maven/org.drools/org.kie.eclipse@7.25.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse@7.26.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse@7.27.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse@7.28.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse@7.29.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse@7.3.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse@7.30.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse@7.31.0.Final?classifier=sources
+- pkg:maven/org.drools/org.kie.eclipse@7.32.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse@7.4.0.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse@7.4.1.Final?classifier=sources
 - pkg:maven/org.drools/org.kie.eclipse@7.5.0.Final?classifier=sources

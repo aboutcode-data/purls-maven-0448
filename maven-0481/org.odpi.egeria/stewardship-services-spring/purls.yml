@@ -1,1 +1,4 @@
 - pkg:maven/org.odpi.egeria/stewardship-services-spring@1.0
+- pkg:maven/org.odpi.egeria/stewardship-services-spring@1.1
+- pkg:maven/org.odpi.egeria/stewardship-services-spring@1.2
+- pkg:maven/org.odpi.egeria/stewardship-services-spring@1.3

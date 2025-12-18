@@ -1,0 +1,4 @@
+- pkg:maven/io.github.bweng20/jtools@1.0
+- pkg:maven/io.github.bweng20/jtools@1.01
+- pkg:maven/io.github.bweng20/jtools@1.01?classifier=sources
+- pkg:maven/io.github.bweng20/jtools@1.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/braintree-web@3.42.0?classifier=sources
 - pkg:maven/org.webjars.npm/braintree-web@3.46.0
 - pkg:maven/org.webjars.npm/braintree-web@3.46.0?classifier=sources
+- pkg:maven/org.webjars.npm/braintree-web@3.55.0
+- pkg:maven/org.webjars.npm/braintree-web@3.55.0?classifier=sources

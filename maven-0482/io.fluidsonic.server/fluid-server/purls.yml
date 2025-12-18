@@ -1,0 +1,4 @@
+- pkg:maven/io.fluidsonic.server/fluid-server@0.9.35?classifier=sources
+- pkg:maven/io.fluidsonic.server/fluid-server@0.9.36?classifier=sources
+- pkg:maven/io.fluidsonic.server/fluid-server@0.9.37?classifier=sources
+- pkg:maven/io.fluidsonic.server/fluid-server@0.9.39?classifier=sources

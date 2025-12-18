@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bowergithub.itsjavi/bootstrap-colorpicker@2.5.3
+- pkg:maven/org.webjars.bowergithub.itsjavi/bootstrap-colorpicker@2.5.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.itsjavi/bootstrap-colorpicker@3.1.2
 - pkg:maven/org.webjars.bowergithub.itsjavi/bootstrap-colorpicker@3.1.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.itsjavi/bootstrap-colorpicker@3.2.0
+- pkg:maven/org.webjars.bowergithub.itsjavi/bootstrap-colorpicker@3.2.0?classifier=sources

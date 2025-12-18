@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.carbondata/carbondata-presto@1.5.3?classifier=sources
 - pkg:maven/org.apache.carbondata/carbondata-presto@1.5.4?classifier=sources
 - pkg:maven/org.apache.carbondata/carbondata-presto@1.6.0?classifier=sources
+- pkg:maven/org.apache.carbondata/carbondata-presto@1.6.1?classifier=sources

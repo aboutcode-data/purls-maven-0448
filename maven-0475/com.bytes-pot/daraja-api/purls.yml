@@ -1,0 +1,6 @@
+- pkg:maven/com.bytes-pot/daraja-api@1.0-b
+- pkg:maven/com.bytes-pot/daraja-api@1.0-b?classifier=sources
+- pkg:maven/com.bytes-pot/daraja-api@1.1-b
+- pkg:maven/com.bytes-pot/daraja-api@1.1-b?classifier=sources
+- pkg:maven/com.bytes-pot/daraja-api@1.2-b
+- pkg:maven/com.bytes-pot/daraja-api@1.2-b?classifier=sources

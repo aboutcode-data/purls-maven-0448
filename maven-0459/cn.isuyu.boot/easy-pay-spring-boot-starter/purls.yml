@@ -1,0 +1,6 @@
+- pkg:maven/cn.isuyu.boot/easy-pay-spring-boot-starter@1.0.0
+- pkg:maven/cn.isuyu.boot/easy-pay-spring-boot-starter@1.0.0.RELEASE
+- pkg:maven/cn.isuyu.boot/easy-pay-spring-boot-starter@1.0.0.RELEASE?classifier=sources
+- pkg:maven/cn.isuyu.boot/easy-pay-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/cn.isuyu.boot/easy-pay-spring-boot-starter@1.0.1
+- pkg:maven/cn.isuyu.boot/easy-pay-spring-boot-starter@1.0.1?classifier=sources

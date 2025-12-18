@@ -2,3 +2,5 @@
 - pkg:maven/com.tvd12/ezyfox-codec@0.0.3?classifier=sources
 - pkg:maven/com.tvd12/ezyfox-codec@1.0.0
 - pkg:maven/com.tvd12/ezyfox-codec@1.0.0?classifier=sources
+- pkg:maven/com.tvd12/ezyfox-codec@1.1.0
+- pkg:maven/com.tvd12/ezyfox-codec@1.1.0?classifier=sources

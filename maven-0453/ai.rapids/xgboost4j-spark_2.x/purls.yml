@@ -1,0 +1,2 @@
+- pkg:maven/ai.rapids/xgboost4j-spark_2.x@1.0.0-Beta3
+- pkg:maven/ai.rapids/xgboost4j-spark_2.x@1.0.0-Beta3?classifier=sources

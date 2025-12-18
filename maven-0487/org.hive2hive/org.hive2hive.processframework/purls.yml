@@ -1,0 +1,2 @@
+- pkg:maven/org.hive2hive/org.hive2hive.processframework@1.2
+- pkg:maven/org.hive2hive/org.hive2hive.processframework@1.2?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/com.viaoa/oa-core@3.5.60?classifier=sources
 - pkg:maven/com.viaoa/oa-core@3.5.61
 - pkg:maven/com.viaoa/oa-core@3.5.61?classifier=sources
+- pkg:maven/com.viaoa/oa-core@3.5.62
+- pkg:maven/com.viaoa/oa-core@3.5.62?classifier=sources
+- pkg:maven/com.viaoa/oa-core@3.5.63
+- pkg:maven/com.viaoa/oa-core@3.5.63?classifier=sources

@@ -250,3 +250,5 @@
 - pkg:maven/pl.wendigo/chrome-reactive-kotlin@0.5.8?classifier=sources
 - pkg:maven/pl.wendigo/chrome-reactive-kotlin@0.6.0
 - pkg:maven/pl.wendigo/chrome-reactive-kotlin@0.6.0?classifier=sources
+- pkg:maven/pl.wendigo/chrome-reactive-kotlin@0.6.1
+- pkg:maven/pl.wendigo/chrome-reactive-kotlin@0.6.1?classifier=sources

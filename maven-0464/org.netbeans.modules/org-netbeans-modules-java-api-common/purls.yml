@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE90?classifier=sources

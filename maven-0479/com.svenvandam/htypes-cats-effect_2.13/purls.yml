@@ -1,0 +1,4 @@
+- pkg:maven/com.svenvandam/htypes-cats-effect_2.13@0.4
+- pkg:maven/com.svenvandam/htypes-cats-effect_2.13@0.4?classifier=sources
+- pkg:maven/com.svenvandam/htypes-cats-effect_2.13@0.5
+- pkg:maven/com.svenvandam/htypes-cats-effect_2.13@0.5?classifier=sources

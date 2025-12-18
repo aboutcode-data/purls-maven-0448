@@ -78,6 +78,8 @@
 - pkg:maven/net.sf.jasperreports/jasperreports@6.1.1?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports@6.10.0
 - pkg:maven/net.sf.jasperreports/jasperreports@6.10.0?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports@6.11.0
+- pkg:maven/net.sf.jasperreports/jasperreports@6.11.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports@6.2.0
 - pkg:maven/net.sf.jasperreports/jasperreports@6.2.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports@6.2.1

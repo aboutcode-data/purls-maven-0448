@@ -1,2 +1,4 @@
 - pkg:maven/de.dentrassi.iot/cayenne-lpp@0.1.0
 - pkg:maven/de.dentrassi.iot/cayenne-lpp@0.1.0?classifier=sources
+- pkg:maven/de.dentrassi.iot/cayenne-lpp@0.1.1
+- pkg:maven/de.dentrassi.iot/cayenne-lpp@0.1.1?classifier=sources

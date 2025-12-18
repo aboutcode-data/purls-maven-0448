@@ -14,3 +14,6 @@
 - pkg:maven/org.keycloak/keycloak-legacy-spring-boot-starter@6.0.0
 - pkg:maven/org.keycloak/keycloak-legacy-spring-boot-starter@6.0.1
 - pkg:maven/org.keycloak/keycloak-legacy-spring-boot-starter@7.0.0
+- pkg:maven/org.keycloak/keycloak-legacy-spring-boot-starter@7.0.1
+- pkg:maven/org.keycloak/keycloak-legacy-spring-boot-starter@8.0.0
+- pkg:maven/org.keycloak/keycloak-legacy-spring-boot-starter@8.0.1
