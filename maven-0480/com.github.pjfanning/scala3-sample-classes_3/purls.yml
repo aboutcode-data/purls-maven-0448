@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pjfanning/scala3-sample-classes_3@0.1.2
+- pkg:maven/com.github.pjfanning/scala3-sample-classes_3@0.1.2?classifier=sources

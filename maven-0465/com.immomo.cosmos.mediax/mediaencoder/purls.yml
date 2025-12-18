@@ -1,0 +1,4 @@
+- pkg:maven/com.immomo.cosmos.mediax/mediaencoder@2.3.1-20210125155002?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/mediaencoder@2.3.1-20210125155002?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/mediaencoder@2.3.1-20210427204700?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/mediaencoder@2.3.1-20210427204700?type=aar

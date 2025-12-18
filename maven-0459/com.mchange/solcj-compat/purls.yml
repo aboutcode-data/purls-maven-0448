@@ -16,3 +16,7 @@
 - pkg:maven/com.mchange/solcj-compat@0.7.6rev1?classifier=sources
 - pkg:maven/com.mchange/solcj-compat@0.8.1rev1
 - pkg:maven/com.mchange/solcj-compat@0.8.1rev1?classifier=sources
+- pkg:maven/com.mchange/solcj-compat@0.8.4rev1
+- pkg:maven/com.mchange/solcj-compat@0.8.4rev1?classifier=sources
+- pkg:maven/com.mchange/solcj-compat@0.8.4rev2
+- pkg:maven/com.mchange/solcj-compat@0.8.4rev2?classifier=sources

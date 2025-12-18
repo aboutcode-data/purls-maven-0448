@@ -8,3 +8,7 @@
 - pkg:maven/cn.ipokerface/redis-client@2.0.0?classifier=sources
 - pkg:maven/cn.ipokerface/redis-client@2.0.1
 - pkg:maven/cn.ipokerface/redis-client@2.0.1?classifier=sources
+- pkg:maven/cn.ipokerface/redis-client@2.3.0
+- pkg:maven/cn.ipokerface/redis-client@2.3.0?classifier=sources
+- pkg:maven/cn.ipokerface/redis-client@2.4.0
+- pkg:maven/cn.ipokerface/redis-client@2.4.0?classifier=sources

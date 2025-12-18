@@ -12,3 +12,7 @@
 - pkg:maven/org.apache.arrow/flight-grpc@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-grpc@3.0.0
 - pkg:maven/org.apache.arrow/flight-grpc@3.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/flight-grpc@4.0.0
+- pkg:maven/org.apache.arrow/flight-grpc@4.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/flight-grpc@4.0.1
+- pkg:maven/org.apache.arrow/flight-grpc@4.0.1?classifier=sources

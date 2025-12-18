@@ -244,6 +244,8 @@
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.script.library.common@1.0.224?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.script.library.common@1.0.225
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.script.library.common@1.0.225?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.script.library.common@1.0.226
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.script.library.common@1.0.226?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.script.library.common@1.0.65
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.script.library.common@1.0.65?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.script.library.common@1.0.66

@@ -34,3 +34,7 @@
 - pkg:maven/com.kaltura/kalturaApiClient@16.12.0?classifier=sources
 - pkg:maven/com.kaltura/kalturaApiClient@16.14.0
 - pkg:maven/com.kaltura/kalturaApiClient@16.14.0?classifier=sources
+- pkg:maven/com.kaltura/kalturaApiClient@17.1.0
+- pkg:maven/com.kaltura/kalturaApiClient@17.1.0?classifier=sources
+- pkg:maven/com.kaltura/kalturaApiClient@17.1.1
+- pkg:maven/com.kaltura/kalturaApiClient@17.1.1?classifier=sources

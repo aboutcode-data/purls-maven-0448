@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awscdk/apprunner@1.107.0
+- pkg:maven/software.amazon.awscdk/apprunner@1.107.0?classifier=sources

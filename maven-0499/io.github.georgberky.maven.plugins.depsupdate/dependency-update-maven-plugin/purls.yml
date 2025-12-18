@@ -1,0 +1,2 @@
+- pkg:maven/io.github.georgberky.maven.plugins.depsupdate/dependency-update-maven-plugin@0.7.0
+- pkg:maven/io.github.georgberky.maven.plugins.depsupdate/dependency-update-maven-plugin@0.7.0?classifier=sources

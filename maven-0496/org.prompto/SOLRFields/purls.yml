@@ -264,6 +264,8 @@
 - pkg:maven/org.prompto/SOLRFields@0.0.224?classifier=sources
 - pkg:maven/org.prompto/SOLRFields@0.0.225
 - pkg:maven/org.prompto/SOLRFields@0.0.225?classifier=sources
+- pkg:maven/org.prompto/SOLRFields@0.0.228
+- pkg:maven/org.prompto/SOLRFields@0.0.228?classifier=sources
 - pkg:maven/org.prompto/SOLRFields@0.0.22?classifier=sources
 - pkg:maven/org.prompto/SOLRFields@0.0.23
 - pkg:maven/org.prompto/SOLRFields@0.0.237

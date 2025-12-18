@@ -1,0 +1,4 @@
+- pkg:maven/com.dvmms/dejapay@2.0.13?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.13?type=aar
+- pkg:maven/com.dvmms/dejapay@2.0.14?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.14?type=aar

@@ -166,3 +166,7 @@
 - pkg:maven/de.openkeyword/core@0.2.40?classifier=sources
 - pkg:maven/de.openkeyword/core@0.2.41
 - pkg:maven/de.openkeyword/core@0.2.41?classifier=sources
+- pkg:maven/de.openkeyword/core@0.2.42
+- pkg:maven/de.openkeyword/core@0.2.42?classifier=sources
+- pkg:maven/de.openkeyword/core@0.2.43
+- pkg:maven/de.openkeyword/core@0.2.43?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.epam.reportportal/plugin-saucelabs@1.0.11?classifier=sources
+- pkg:maven/com.epam.reportportal/plugin-saucelabs@1.0.9?classifier=sources
+- pkg:maven/com.epam.reportportal/plugin-saucelabs@5.0.0?classifier=sources
+- pkg:maven/com.epam.reportportal/plugin-saucelabs@5.1.0?classifier=sources

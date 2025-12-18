@@ -1,0 +1,8 @@
+- pkg:maven/com.immomo.momomedia/mmaudio@3.2.1.201904091018?classifier=sources
+- pkg:maven/com.immomo.momomedia/mmaudio@3.2.1.201904091018?type=aar
+- pkg:maven/com.immomo.momomedia/mmaudio@3.2.1.201904091018_1?classifier=sources
+- pkg:maven/com.immomo.momomedia/mmaudio@3.2.1.201904091018_1?type=aar
+- pkg:maven/com.immomo.momomedia/mmaudio@3.2.1.201904091018_2?classifier=sources
+- pkg:maven/com.immomo.momomedia/mmaudio@3.2.1.201904091018_2?type=aar
+- pkg:maven/com.immomo.momomedia/mmaudio@3.2.1.201904091019?classifier=sources
+- pkg:maven/com.immomo.momomedia/mmaudio@3.2.1.201904091019?type=aar

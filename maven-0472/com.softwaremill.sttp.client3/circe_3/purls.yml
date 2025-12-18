@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.client3/circe_3@3.3.4
+- pkg:maven/com.softwaremill.sttp.client3/circe_3@3.3.4?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/circe_3@3.3.5
+- pkg:maven/com.softwaremill.sttp.client3/circe_3@3.3.5?classifier=sources

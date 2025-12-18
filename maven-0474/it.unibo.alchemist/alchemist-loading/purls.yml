@@ -5,6 +5,8 @@
 - pkg:maven/it.unibo.alchemist/alchemist-loading@10.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-loading@10.0.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-loading@11.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-loading@11.1.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-loading@11.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-loading@2.3.0
 - pkg:maven/it.unibo.alchemist/alchemist-loading@2.3.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-loading@2.3.1

@@ -56,3 +56,5 @@
 - pkg:maven/com.lightbend.akka.discovery/akka-discovery-aws-api_2.12@1.0.8?classifier=sources
 - pkg:maven/com.lightbend.akka.discovery/akka-discovery-aws-api_2.12@1.0.9
 - pkg:maven/com.lightbend.akka.discovery/akka-discovery-aws-api_2.12@1.0.9?classifier=sources
+- pkg:maven/com.lightbend.akka.discovery/akka-discovery-aws-api_2.12@1.1.0
+- pkg:maven/com.lightbend.akka.discovery/akka-discovery-aws-api_2.12@1.1.0?classifier=sources

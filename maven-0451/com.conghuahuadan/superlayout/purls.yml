@@ -1,0 +1,4 @@
+- pkg:maven/com.conghuahuadan/superlayout@1.0.9?classifier=sources
+- pkg:maven/com.conghuahuadan/superlayout@1.0.9?type=aar
+- pkg:maven/com.conghuahuadan/superlayout@1.1.0?classifier=sources
+- pkg:maven/com.conghuahuadan/superlayout@1.1.0?type=aar

@@ -20,9 +20,11 @@
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.5.0?classifier=sources
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.6.0
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.6.0?classifier=sources
+- pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.7.0
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.7.0-RC1
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.7.0-RC1?classifier=sources
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.7.0-RC2
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.7.0-RC2?classifier=sources
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.7.0-RC3
 - pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.7.0-RC3?classifier=sources
+- pkg:maven/es.moki.ratelimitj/ratelimitj-dropwizard@0.7.0?classifier=sources

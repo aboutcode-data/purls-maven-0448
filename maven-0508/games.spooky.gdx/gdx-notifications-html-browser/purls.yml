@@ -1,0 +1,2 @@
+- pkg:maven/games.spooky.gdx/gdx-notifications-html-browser@0.1.0?classifier=sources
+- pkg:maven/games.spooky.gdx/gdx-notifications-html-browser@1.0.0?classifier=sources

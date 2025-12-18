@@ -1,0 +1,2 @@
+- pkg:maven/ky.korins/blake3_3.0.0-RC3@2.5.1
+- pkg:maven/ky.korins/blake3_3.0.0-RC3@2.5.1?classifier=sources

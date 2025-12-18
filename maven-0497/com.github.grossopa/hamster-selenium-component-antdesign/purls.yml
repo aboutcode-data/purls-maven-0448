@@ -1,0 +1,2 @@
+- pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.4
+- pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.4?classifier=sources

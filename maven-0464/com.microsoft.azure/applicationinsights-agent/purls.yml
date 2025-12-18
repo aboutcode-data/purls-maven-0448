@@ -58,3 +58,13 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.3-BETA.3?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.3-BETA?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.3?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.4-BETA
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.4-BETA.2
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.4-BETA.2?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.0.4-BETA?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.1.0
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.1.1-BETA
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.1.1-BETA.2
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.1.1-BETA.2?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.1.1-BETA?classifier=sources

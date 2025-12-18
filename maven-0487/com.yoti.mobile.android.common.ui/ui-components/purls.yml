@@ -31,3 +31,13 @@
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.9.3?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.9.4?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-components@0.9.6?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.5.2?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.6.0?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.6.1?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.7.0?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.8.0?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.8.1?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.8.2?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.8.3?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.8.4?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-components@1.9.0?type=aar

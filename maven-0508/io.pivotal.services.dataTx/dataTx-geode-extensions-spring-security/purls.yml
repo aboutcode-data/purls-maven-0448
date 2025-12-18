@@ -1,0 +1,2 @@
+- pkg:maven/io.pivotal.services.dataTx/dataTx-geode-extensions-spring-security@2.5.0
+- pkg:maven/io.pivotal.services.dataTx/dataTx-geode-extensions-spring-security@2.5.0?classifier=sources

@@ -9,6 +9,7 @@
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@1.8
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@2.0
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@2.1
+- pkg:maven/org.odpi.egeria/it-infrastructure-client@2.10
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@2.2
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@2.3
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@2.4
@@ -16,3 +17,4 @@
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@2.6
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@2.7
 - pkg:maven/org.odpi.egeria/it-infrastructure-client@2.8
+- pkg:maven/org.odpi.egeria/it-infrastructure-client@2.9

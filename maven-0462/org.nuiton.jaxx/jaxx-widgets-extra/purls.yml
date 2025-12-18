@@ -83,6 +83,8 @@
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-extra@2.44?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-extra@2.45
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-extra@2.45?classifier=sources
+- pkg:maven/org.nuiton.jaxx/jaxx-widgets-extra@2.46
+- pkg:maven/org.nuiton.jaxx/jaxx-widgets-extra@2.46?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-extra@2.8.2
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-extra@2.8.2?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-extra@2.8.3

@@ -27,3 +27,6 @@
 - pkg:maven/co.fingerprintsoft/notification-spring-boot-starter@2.2.0
 - pkg:maven/co.fingerprintsoft/notification-spring-boot-starter@2.2.1
 - pkg:maven/co.fingerprintsoft/notification-spring-boot-starter@2.2.2
+- pkg:maven/co.fingerprintsoft/notification-spring-boot-starter@2.3.11
+- pkg:maven/co.fingerprintsoft/notification-spring-boot-starter@2.4.6
+- pkg:maven/co.fingerprintsoft/notification-spring-boot-starter@2.5.0

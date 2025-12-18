@@ -19,3 +19,6 @@
 - pkg:maven/org.jboss.errai/wildfly-dist@19.1.0.SP1?classifier=sources
 - pkg:maven/org.jboss.errai/wildfly-dist@19.1.0.SP1?classifier=src&type=zip
 - pkg:maven/org.jboss.errai/wildfly-dist@19.1.0.SP1?type=zip
+- pkg:maven/org.jboss.errai/wildfly-dist@23.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.errai/wildfly-dist@23.0.2.Final?classifier=src&type=zip
+- pkg:maven/org.jboss.errai/wildfly-dist@23.0.2.Final?type=zip

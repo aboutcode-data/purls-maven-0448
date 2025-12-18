@@ -10,3 +10,4 @@
 - pkg:maven/io.seata/seata-metrics-all@1.3.0
 - pkg:maven/io.seata/seata-metrics-all@1.4.0
 - pkg:maven/io.seata/seata-metrics-all@1.4.1
+- pkg:maven/io.seata/seata-metrics-all@1.4.2

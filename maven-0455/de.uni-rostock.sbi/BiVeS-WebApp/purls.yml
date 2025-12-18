@@ -2,6 +2,10 @@
 - pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.10.1?type=war
 - pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.10.2?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.10.2?type=war
+- pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.10.3?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.10.3?type=war
+- pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.10.4?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.10.4?type=war
 - pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.7.6?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.7.6?type=war
 - pkg:maven/de.uni-rostock.sbi/BiVeS-WebApp@1.7.7?classifier=sources

@@ -300,3 +300,7 @@
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.0.2?classifier=sources
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.0.3
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.0.3?classifier=sources
+- pkg:maven/com.qaprosoft/carina-aws-s3@7.0.4
+- pkg:maven/com.qaprosoft/carina-aws-s3@7.0.4?classifier=sources
+- pkg:maven/com.qaprosoft/carina-aws-s3@7.0.5
+- pkg:maven/com.qaprosoft/carina-aws-s3@7.0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/top.zaiyang.satoken.jwt/sa-token-jwt-spring-boot-starter@1.19.0
+- pkg:maven/top.zaiyang.satoken.jwt/sa-token-jwt-spring-boot-starter@1.19.0?classifier=sources
+- pkg:maven/top.zaiyang.satoken.jwt/sa-token-jwt-spring-boot-starter@1.19.1
+- pkg:maven/top.zaiyang.satoken.jwt/sa-token-jwt-spring-boot-starter@1.19.1?classifier=sources

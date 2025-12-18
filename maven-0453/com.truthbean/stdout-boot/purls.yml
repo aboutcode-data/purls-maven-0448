@@ -1,0 +1,2 @@
+- pkg:maven/com.truthbean/stdout-boot@0.5.0-RELEASE
+- pkg:maven/com.truthbean/stdout-boot@0.5.0-RELEASE?classifier=sources

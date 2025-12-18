@@ -26,3 +26,7 @@
 - pkg:maven/edu.hm.hafner/echarts-build-trends@1.1.2?classifier=sources
 - pkg:maven/edu.hm.hafner/echarts-build-trends@2.0.0
 - pkg:maven/edu.hm.hafner/echarts-build-trends@2.0.0?classifier=sources
+- pkg:maven/edu.hm.hafner/echarts-build-trends@2.1.0
+- pkg:maven/edu.hm.hafner/echarts-build-trends@2.1.0?classifier=sources
+- pkg:maven/edu.hm.hafner/echarts-build-trends@2.2.0
+- pkg:maven/edu.hm.hafner/echarts-build-trends@2.2.0?classifier=sources

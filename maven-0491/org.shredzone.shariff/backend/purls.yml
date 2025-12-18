@@ -17,6 +17,10 @@
 - pkg:maven/org.shredzone.shariff/backend@1.16?classifier=sources
 - pkg:maven/org.shredzone.shariff/backend@1.17
 - pkg:maven/org.shredzone.shariff/backend@1.17?classifier=sources
+- pkg:maven/org.shredzone.shariff/backend@1.18
+- pkg:maven/org.shredzone.shariff/backend@1.18?classifier=sources
+- pkg:maven/org.shredzone.shariff/backend@1.19
+- pkg:maven/org.shredzone.shariff/backend@1.19?classifier=sources
 - pkg:maven/org.shredzone.shariff/backend@1.1?classifier=sources
 - pkg:maven/org.shredzone.shariff/backend@1.2
 - pkg:maven/org.shredzone.shariff/backend@1.2?classifier=sources

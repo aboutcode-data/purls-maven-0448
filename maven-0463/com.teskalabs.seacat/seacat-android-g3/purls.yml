@@ -1,0 +1,2 @@
+- pkg:maven/com.teskalabs.seacat/seacat-android-g3@21.04.01?classifier=sources
+- pkg:maven/com.teskalabs.seacat/seacat-android-g3@21.4.0?classifier=sources

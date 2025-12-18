@@ -1,0 +1,2 @@
+- pkg:maven/ru.pocketbyte.locolaser/i18next-externals@1.0
+- pkg:maven/ru.pocketbyte.locolaser/i18next-externals@1.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.3.2?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.3.3
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.3.3?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-db2i@4.3.5
+- pkg:maven/org.liquibase.ext/liquibase-db2i@4.3.5?classifier=sources

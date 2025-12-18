@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.photon/push@2.2.8?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/push@2.2.8?type=aar

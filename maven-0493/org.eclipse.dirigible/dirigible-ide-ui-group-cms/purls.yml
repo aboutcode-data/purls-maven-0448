@@ -17,6 +17,12 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@4.6.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.0.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.10.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.10.1
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.10.2
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.10.3
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.11.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.11.1
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.4.0
@@ -32,3 +38,4 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.9.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.9.1
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.9.2
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-cms@5.9.3

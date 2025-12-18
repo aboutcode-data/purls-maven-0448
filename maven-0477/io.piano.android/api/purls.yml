@@ -42,3 +42,4 @@
 - pkg:maven/io.piano.android/api@2.0.0-beta01?type=aar
 - pkg:maven/io.piano.android/api@2.0.0?classifier=sources
 - pkg:maven/io.piano.android/api@2.0.0?type=aar
+- pkg:maven/io.piano.android/api@2.1.0?classifier=sources

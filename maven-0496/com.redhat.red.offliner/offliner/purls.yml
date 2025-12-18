@@ -14,3 +14,5 @@
 - pkg:maven/com.redhat.red.offliner/offliner@1.6?classifier=sources
 - pkg:maven/com.redhat.red.offliner/offliner@1.7
 - pkg:maven/com.redhat.red.offliner/offliner@1.7?classifier=sources
+- pkg:maven/com.redhat.red.offliner/offliner@2.0
+- pkg:maven/com.redhat.red.offliner/offliner@2.0?classifier=sources

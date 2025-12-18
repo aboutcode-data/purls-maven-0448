@@ -12,3 +12,5 @@
 - pkg:maven/dev.jlibra/jlibra-poller@0.15.0?classifier=sources
 - pkg:maven/dev.jlibra/jlibra-poller@0.16.0
 - pkg:maven/dev.jlibra/jlibra-poller@0.16.0?classifier=sources
+- pkg:maven/dev.jlibra/jlibra-poller@0.17.0
+- pkg:maven/dev.jlibra/jlibra-poller@0.17.0?classifier=sources

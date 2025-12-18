@@ -2,3 +2,7 @@
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-security@2020.12.001?classifier=sources
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-security@2020.12.002
 - pkg:maven/com.devonfw.java.starters/devon4j-starter-security@2020.12.002?classifier=sources
+- pkg:maven/com.devonfw.java.starters/devon4j-starter-security@2021.04.001
+- pkg:maven/com.devonfw.java.starters/devon4j-starter-security@2021.04.001?classifier=sources
+- pkg:maven/com.devonfw.java.starters/devon4j-starter-security@2021.04.002
+- pkg:maven/com.devonfw.java.starters/devon4j-starter-security@2021.04.002?classifier=sources

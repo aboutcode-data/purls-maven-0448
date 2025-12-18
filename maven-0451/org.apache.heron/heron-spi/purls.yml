@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.heron/heron-spi@0.20.1-incubating-rc2?classifier=sources
 - pkg:maven/org.apache.heron/heron-spi@0.20.1-incubating?classifier=sources
 - pkg:maven/org.apache.heron/heron-spi@0.20.3-incubating?classifier=sources
+- pkg:maven/org.apache.heron/heron-spi@0.20.4-incubating?classifier=sources

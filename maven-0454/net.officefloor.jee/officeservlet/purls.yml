@@ -26,3 +26,7 @@
 - pkg:maven/net.officefloor.jee/officeservlet@3.33.0?classifier=sources
 - pkg:maven/net.officefloor.jee/officeservlet@3.34.0
 - pkg:maven/net.officefloor.jee/officeservlet@3.34.0?classifier=sources
+- pkg:maven/net.officefloor.jee/officeservlet@3.35.0
+- pkg:maven/net.officefloor.jee/officeservlet@3.35.0?classifier=sources
+- pkg:maven/net.officefloor.jee/officeservlet@3.36.0
+- pkg:maven/net.officefloor.jee/officeservlet@3.36.0?classifier=sources

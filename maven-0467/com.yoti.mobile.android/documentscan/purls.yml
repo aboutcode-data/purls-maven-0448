@@ -18,3 +18,4 @@
 - pkg:maven/com.yoti.mobile.android/documentscan@2.4.3?type=aar
 - pkg:maven/com.yoti.mobile.android/documentscan@3.0.0?type=aar
 - pkg:maven/com.yoti.mobile.android/documentscan@3.0.1?type=aar
+- pkg:maven/com.yoti.mobile.android/documentscan@3.13.2?type=aar

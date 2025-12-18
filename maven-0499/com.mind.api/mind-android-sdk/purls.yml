@@ -1,0 +1,2 @@
+- pkg:maven/com.mind.api/mind-android-sdk@3.10.0?classifier=sources
+- pkg:maven/com.mind.api/mind-android-sdk@3.9.0?classifier=sources

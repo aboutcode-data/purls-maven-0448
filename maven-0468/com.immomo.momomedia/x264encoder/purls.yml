@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.momomedia/x264encoder@1.0.20200429.1828?classifier=sources
+- pkg:maven/com.immomo.momomedia/x264encoder@1.0.20200429.1828?type=aar

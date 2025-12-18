@@ -142,6 +142,8 @@
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@2.3.415?classifier=sources
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@2.30.840
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@2.30.840?classifier=sources
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@2.31.861
+- pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@2.31.861?classifier=sources
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@2.4.418
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@2.4.418?classifier=sources
 - pkg:maven/cz.habarta.typescript-generator/typescript-generator-gradle-plugin@2.5.423

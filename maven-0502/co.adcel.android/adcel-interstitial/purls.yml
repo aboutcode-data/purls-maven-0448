@@ -1,1 +1,3 @@
 - pkg:maven/co.adcel.android/adcel-interstitial@1.12.0?classifier=sources
+- pkg:maven/co.adcel.android/adcel-interstitial@1.12.1?classifier=sources
+- pkg:maven/co.adcel.android/adcel-interstitial@1.12.2?classifier=sources

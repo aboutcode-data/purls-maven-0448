@@ -62,3 +62,7 @@
 - pkg:maven/org.talend.sdk.component/checkbox-component@1.31.2?classifier=sources
 - pkg:maven/org.talend.sdk.component/checkbox-component@1.32.0
 - pkg:maven/org.talend.sdk.component/checkbox-component@1.32.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/checkbox-component@1.33.0
+- pkg:maven/org.talend.sdk.component/checkbox-component@1.33.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/checkbox-component@1.33.1
+- pkg:maven/org.talend.sdk.component/checkbox-component@1.33.1?classifier=sources

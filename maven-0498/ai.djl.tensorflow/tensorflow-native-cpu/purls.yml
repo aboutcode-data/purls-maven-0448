@@ -2,3 +2,5 @@
 - pkg:maven/ai.djl.tensorflow/tensorflow-native-cpu@2.3.0?classifier=sources
 - pkg:maven/ai.djl.tensorflow/tensorflow-native-cpu@2.3.1
 - pkg:maven/ai.djl.tensorflow/tensorflow-native-cpu@2.3.1?classifier=sources
+- pkg:maven/ai.djl.tensorflow/tensorflow-native-cpu@2.4.1
+- pkg:maven/ai.djl.tensorflow/tensorflow-native-cpu@2.4.1?classifier=sources

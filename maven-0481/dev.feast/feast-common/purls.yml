@@ -4,6 +4,14 @@
 - pkg:maven/dev.feast/feast-common@0.25.1?classifier=sources
 - pkg:maven/dev.feast/feast-common@0.25.2
 - pkg:maven/dev.feast/feast-common@0.25.2?classifier=sources
+- pkg:maven/dev.feast/feast-common@0.25.3
+- pkg:maven/dev.feast/feast-common@0.25.3?classifier=sources
+- pkg:maven/dev.feast/feast-common@0.26.0
+- pkg:maven/dev.feast/feast-common@0.26.0?classifier=sources
+- pkg:maven/dev.feast/feast-common@0.26.1
+- pkg:maven/dev.feast/feast-common@0.26.1?classifier=sources
+- pkg:maven/dev.feast/feast-common@0.26.2
+- pkg:maven/dev.feast/feast-common@0.26.2?classifier=sources
 - pkg:maven/dev.feast/feast-common@0.6.0
 - pkg:maven/dev.feast/feast-common@0.6.0?classifier=sources
 - pkg:maven/dev.feast/feast-common@0.6.1

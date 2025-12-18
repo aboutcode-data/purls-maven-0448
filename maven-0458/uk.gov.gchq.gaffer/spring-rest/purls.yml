@@ -4,3 +4,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/spring-rest@1.15.0?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/spring-rest@1.16.0
 - pkg:maven/uk.gov.gchq.gaffer/spring-rest@1.16.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/spring-rest@1.16.1
+- pkg:maven/uk.gov.gchq.gaffer/spring-rest@1.16.1?classifier=sources

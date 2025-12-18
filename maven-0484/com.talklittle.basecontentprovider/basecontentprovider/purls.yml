@@ -1,0 +1,2 @@
+- pkg:maven/com.talklittle.basecontentprovider/basecontentprovider@0.6.0?classifier=sources
+- pkg:maven/com.talklittle.basecontentprovider/basecontentprovider@0.6.1?classifier=sources

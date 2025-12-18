@@ -1,0 +1,12 @@
+- pkg:maven/com.huaweicloud/service-center-client@1.5.2-Hoxton
+- pkg:maven/com.huaweicloud/service-center-client@1.5.2-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/service-center-client@1.5.3-Hoxton
+- pkg:maven/com.huaweicloud/service-center-client@1.5.3-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/service-center-client@1.5.5-Hoxton
+- pkg:maven/com.huaweicloud/service-center-client@1.5.5-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/service-center-client@1.5.6-Hoxton
+- pkg:maven/com.huaweicloud/service-center-client@1.5.6-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/service-center-client@1.5.7-Hoxton
+- pkg:maven/com.huaweicloud/service-center-client@1.5.7-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/service-center-client@1.5.8-Hoxton
+- pkg:maven/com.huaweicloud/service-center-client@1.5.8-Hoxton?classifier=sources

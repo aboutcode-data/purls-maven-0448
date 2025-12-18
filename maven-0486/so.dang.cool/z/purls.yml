@@ -1,0 +1,5 @@
+- pkg:maven/so.dang.cool/z@0.0.0?classifier=sources
+- pkg:maven/so.dang.cool/z@0.0.1?classifier=sources
+- pkg:maven/so.dang.cool/z@0.0.2?classifier=sources
+- pkg:maven/so.dang.cool/z@1.0.0?classifier=sources
+- pkg:maven/so.dang.cool/z@1.1.0?classifier=sources

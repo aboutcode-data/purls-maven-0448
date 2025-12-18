@@ -12,3 +12,4 @@
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-pi@0.7?classifier=sources
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-pi@1.0.0-pre2
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-pi@1.0.0-pre2?classifier=sources
+- pkg:maven/io.github.animatedledstrip/animatedledstrip-pi@1.0.1?classifier=sources
