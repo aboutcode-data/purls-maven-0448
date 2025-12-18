@@ -17,6 +17,8 @@
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-dynamodb@0.10.17?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-dynamodb@0.10.18
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-dynamodb@0.10.18?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-dynamodb@0.10.19
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-dynamodb@0.10.19?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-dynamodb@0.10.1?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-dynamodb@0.10.2
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-dynamodb@0.10.2?classifier=sources

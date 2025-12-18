@@ -152,6 +152,10 @@
 - pkg:maven/com.github.p6m7g8/p6-namer@0.7.165?classifier=sources
 - pkg:maven/com.github.p6m7g8/p6-namer@0.7.166
 - pkg:maven/com.github.p6m7g8/p6-namer@0.7.166?classifier=sources
+- pkg:maven/com.github.p6m7g8/p6-namer@0.7.167
+- pkg:maven/com.github.p6m7g8/p6-namer@0.7.167?classifier=sources
+- pkg:maven/com.github.p6m7g8/p6-namer@0.7.168
+- pkg:maven/com.github.p6m7g8/p6-namer@0.7.168?classifier=sources
 - pkg:maven/com.github.p6m7g8/p6-namer@0.7.16?classifier=sources
 - pkg:maven/com.github.p6m7g8/p6-namer@0.7.17
 - pkg:maven/com.github.p6m7g8/p6-namer@0.7.17?classifier=sources

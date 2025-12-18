@@ -184,3 +184,5 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@9.3.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@9.4.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@9.4.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-core@9.5.0
+- pkg:maven/org.apache.wicket/wicket-native-websocket-core@9.5.0?classifier=sources

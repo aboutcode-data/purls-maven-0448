@@ -6,6 +6,8 @@
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-bundle@20.2?classifier=sources
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-bundle@20.3
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-bundle@20.3?classifier=sources
+- pkg:maven/org.sakaiproject.roster2/sakai-roster2-bundle@20.4
+- pkg:maven/org.sakaiproject.roster2/sakai-roster2-bundle@20.4?classifier=sources
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-bundle@21.0
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-bundle@21.0?classifier=sources
 - pkg:maven/org.sakaiproject.roster2/sakai-roster2-bundle@21.1

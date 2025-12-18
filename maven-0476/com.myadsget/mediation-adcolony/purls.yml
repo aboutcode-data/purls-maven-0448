@@ -1,0 +1,3 @@
+- pkg:maven/com.myadsget/mediation-adcolony@4.6.2.0-alpha?classifier=sources
+- pkg:maven/com.myadsget/mediation-adcolony@4.6.2.0-beta?classifier=sources
+- pkg:maven/com.myadsget/mediation-adcolony@4.6.2.0?classifier=sources

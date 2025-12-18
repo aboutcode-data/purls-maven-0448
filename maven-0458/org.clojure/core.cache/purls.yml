@@ -26,3 +26,5 @@
 - pkg:maven/org.clojure/core.cache@0.8.2?classifier=sources
 - pkg:maven/org.clojure/core.cache@1.0.207
 - pkg:maven/org.clojure/core.cache@1.0.207?classifier=sources
+- pkg:maven/org.clojure/core.cache@1.0.217
+- pkg:maven/org.clojure/core.cache@1.0.217?classifier=sources

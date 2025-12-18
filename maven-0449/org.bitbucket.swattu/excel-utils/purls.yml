@@ -84,6 +84,14 @@
 - pkg:maven/org.bitbucket.swattu/excel-utils@4.0.53?classifier=sources
 - pkg:maven/org.bitbucket.swattu/excel-utils@4.0.54
 - pkg:maven/org.bitbucket.swattu/excel-utils@4.0.54?classifier=sources
+- pkg:maven/org.bitbucket.swattu/excel-utils@4.0.55
+- pkg:maven/org.bitbucket.swattu/excel-utils@4.0.55?classifier=sources
+- pkg:maven/org.bitbucket.swattu/excel-utils@4.0.56
+- pkg:maven/org.bitbucket.swattu/excel-utils@4.0.56?classifier=sources
+- pkg:maven/org.bitbucket.swattu/excel-utils@4.0.57
+- pkg:maven/org.bitbucket.swattu/excel-utils@4.0.57?classifier=sources
+- pkg:maven/org.bitbucket.swattu/excel-utils@4.0.58
+- pkg:maven/org.bitbucket.swattu/excel-utils@4.0.58?classifier=sources
 - pkg:maven/org.bitbucket.swattu/excel-utils@4.1.0
 - pkg:maven/org.bitbucket.swattu/excel-utils@4.1.0?classifier=sources
 - pkg:maven/org.bitbucket.swattu/excel-utils@4.1.1

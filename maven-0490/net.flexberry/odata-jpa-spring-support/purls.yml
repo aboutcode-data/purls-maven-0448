@@ -1,0 +1,2 @@
+- pkg:maven/net.flexberry/odata-jpa-spring-support@0.3.9
+- pkg:maven/net.flexberry/odata-jpa-spring-support@0.3.9?classifier=sources

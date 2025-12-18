@@ -4,3 +4,5 @@
 - pkg:maven/com.github.kirich1409/viewbindingpropertydelegate-noreflection@1.4.5?classifier=sources
 - pkg:maven/com.github.kirich1409/viewbindingpropertydelegate-noreflection@1.4.6?classifier=sources
 - pkg:maven/com.github.kirich1409/viewbindingpropertydelegate-noreflection@1.4.7?classifier=sources
+- pkg:maven/com.github.kirich1409/viewbindingpropertydelegate-noreflection@1.5.0-beta01?classifier=sources
+- pkg:maven/com.github.kirich1409/viewbindingpropertydelegate-noreflection@1.5.0-beta02?classifier=sources

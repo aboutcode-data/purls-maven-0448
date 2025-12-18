@@ -130,3 +130,5 @@
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-rest-tck@3.0-RC4
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-rest-tck@3.0-RC4?classifier=sources
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-rest-tck@3.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-rest-tck@4.0-RC1
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-rest-tck@4.0-RC1?classifier=sources

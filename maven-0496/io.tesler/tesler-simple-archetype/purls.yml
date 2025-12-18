@@ -1,3 +1,5 @@
+- pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.0
+- pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.0?classifier=sources
 - pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.M10
 - pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.M10?classifier=sources
 - pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.M11
@@ -6,3 +8,9 @@
 - pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.M12?classifier=sources
 - pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.M13
 - pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.M13?classifier=sources
+- pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.M14
+- pkg:maven/io.tesler/tesler-simple-archetype@3.0.0.M14?classifier=sources
+- pkg:maven/io.tesler/tesler-simple-archetype@3.0.1
+- pkg:maven/io.tesler/tesler-simple-archetype@3.0.1?classifier=sources
+- pkg:maven/io.tesler/tesler-simple-archetype@3.0.2
+- pkg:maven/io.tesler/tesler-simple-archetype@3.0.2?classifier=sources

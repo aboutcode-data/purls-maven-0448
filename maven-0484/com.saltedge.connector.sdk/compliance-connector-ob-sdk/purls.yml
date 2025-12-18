@@ -1,0 +1,2 @@
+- pkg:maven/com.saltedge.connector.sdk/compliance-connector-ob-sdk@1.0.0
+- pkg:maven/com.saltedge.connector.sdk/compliance-connector-ob-sdk@1.0.0?classifier=sources

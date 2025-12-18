@@ -250,6 +250,16 @@
 - pkg:maven/org.gweninterpreter/gwen-web@2.52.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@2.53.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@2.53.0?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.1?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.1?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.2?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.2?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.3?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.3?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.4?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.4?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.5?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@2.53.5?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@2.6.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@2.6.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@2.7.0?classifier=sources

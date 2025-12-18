@@ -100,6 +100,8 @@
 - pkg:maven/org.webjars.npm/material__list@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__list@11.0.0
 - pkg:maven/org.webjars.npm/material__list@11.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__list@12.0.0
+- pkg:maven/org.webjars.npm/material__list@12.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__list@2.0.0
 - pkg:maven/org.webjars.npm/material__list@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__list@3.2.0

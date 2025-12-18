@@ -24,3 +24,4 @@
 - pkg:maven/org.apache.axis2/mex@1.7.7?classifier=sources
 - pkg:maven/org.apache.axis2/mex@1.7.8?classifier=sources
 - pkg:maven/org.apache.axis2/mex@1.7.9?classifier=sources
+- pkg:maven/org.apache.axis2/mex@1.8.0?classifier=sources

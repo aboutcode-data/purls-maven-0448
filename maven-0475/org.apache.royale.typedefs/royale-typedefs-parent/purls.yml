@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.royale.typedefs/royale-typedefs-parent@0.9.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.royale.typedefs/royale-typedefs-parent@0.9.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.royale.typedefs/royale-typedefs-parent@0.9.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.royale.typedefs/royale-typedefs-parent@0.9.8?classifier=source-release&type=zip

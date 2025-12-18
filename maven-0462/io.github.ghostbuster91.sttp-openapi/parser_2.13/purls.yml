@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ghostbuster91.sttp-openapi/parser_2.13@0.2.2
+- pkg:maven/io.github.ghostbuster91.sttp-openapi/parser_2.13@0.2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.isupatches.android/wisefy@5.0.0-RC1?classifier=sources
+- pkg:maven/com.isupatches.android/wisefy@5.0.0-RC2?classifier=sources

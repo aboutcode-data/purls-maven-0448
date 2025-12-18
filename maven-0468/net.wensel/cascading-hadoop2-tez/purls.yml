@@ -1,1 +1,2 @@
 - pkg:maven/net.wensel/cascading-hadoop2-tez@4.0.0?classifier=sources
+- pkg:maven/net.wensel/cascading-hadoop2-tez@4.0.1?classifier=sources

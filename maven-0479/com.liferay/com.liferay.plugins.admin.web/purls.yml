@@ -106,6 +106,9 @@
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.43
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.44
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.5
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@1.0.5?classifier=sources
@@ -172,6 +175,9 @@
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.25
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.26
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@2.0.3
@@ -253,6 +259,9 @@
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.27
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.28
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@3.0.3
@@ -316,6 +325,9 @@
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.21
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.22
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.plugins.admin.web@4.0.3

@@ -62,3 +62,4 @@
 - pkg:maven/org.webjars/highcharts@8.0.0
 - pkg:maven/org.webjars/highcharts@8.0.4
 - pkg:maven/org.webjars/highcharts@8.2.2
+- pkg:maven/org.webjars/highcharts@9.2.2

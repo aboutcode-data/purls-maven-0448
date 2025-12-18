@@ -1,0 +1,2 @@
+- pkg:maven/net.ballmerlabs.scatterbrainsdk/sdk@0.0040-alpha1?classifier=sources
+- pkg:maven/net.ballmerlabs.scatterbrainsdk/sdk@0.0042-alpha?classifier=sources

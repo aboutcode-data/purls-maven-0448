@@ -8,6 +8,8 @@
 - pkg:maven/org.pitest/pitest-junit5-plugin@0.13?classifier=sources
 - pkg:maven/org.pitest/pitest-junit5-plugin@0.14
 - pkg:maven/org.pitest/pitest-junit5-plugin@0.14?classifier=sources
+- pkg:maven/org.pitest/pitest-junit5-plugin@0.15
+- pkg:maven/org.pitest/pitest-junit5-plugin@0.15?classifier=sources
 - pkg:maven/org.pitest/pitest-junit5-plugin@0.2
 - pkg:maven/org.pitest/pitest-junit5-plugin@0.2?classifier=sources
 - pkg:maven/org.pitest/pitest-junit5-plugin@0.3

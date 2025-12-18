@@ -362,6 +362,8 @@
 - pkg:maven/com.alibaba/fastjson@1.2.68.sec10?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.68?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.69?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.2.69_sec11?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.2.69_sec12?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.6?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.7
 - pkg:maven/com.alibaba/fastjson@1.2.7.sec01
@@ -380,6 +382,8 @@
 - pkg:maven/com.alibaba/fastjson@1.2.74?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.75?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.76?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.2.77?classifier=sources
+- pkg:maven/com.alibaba/fastjson@1.2.78?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.7?classifier=sources
 - pkg:maven/com.alibaba/fastjson@1.2.8
 - pkg:maven/com.alibaba/fastjson@1.2.8.sec01

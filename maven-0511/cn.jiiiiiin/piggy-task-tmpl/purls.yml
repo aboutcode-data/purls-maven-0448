@@ -6,3 +6,11 @@
 - pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.3?classifier=sources
 - pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.4
 - pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.4?classifier=sources
+- pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.5
+- pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.5?classifier=sources
+- pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.6
+- pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.61
+- pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.61?classifier=sources
+- pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.62
+- pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.62?classifier=sources
+- pkg:maven/cn.jiiiiiin/piggy-task-tmpl@1.0.6?classifier=sources

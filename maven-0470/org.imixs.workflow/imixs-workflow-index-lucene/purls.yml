@@ -31,6 +31,8 @@
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@5.2.10?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@5.2.11
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@5.2.11?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@5.2.12
+- pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@5.2.12?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@5.2.1?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@5.2.2
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@5.2.2?classifier=sources

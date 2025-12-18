@@ -15,3 +15,5 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@3.5.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.0.0-RC1?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.0.0-RC2?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.0.0?classifier=sources

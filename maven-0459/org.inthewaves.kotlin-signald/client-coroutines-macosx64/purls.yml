@@ -1,0 +1,2 @@
+- pkg:maven/org.inthewaves.kotlin-signald/client-coroutines-macosx64@0.6.0?classifier=sources
+- pkg:maven/org.inthewaves.kotlin-signald/client-coroutines-macosx64@0.7.0?classifier=sources

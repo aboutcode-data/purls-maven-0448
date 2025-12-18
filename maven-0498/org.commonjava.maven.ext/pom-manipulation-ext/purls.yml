@@ -168,3 +168,5 @@
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-ext@4.3?classifier=sources
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-ext@4.4
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-ext@4.4?classifier=sources
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-ext@4.5
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-ext@4.5?classifier=sources

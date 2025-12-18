@@ -1,0 +1,2 @@
+- pkg:maven/icu.easyj/easyj-tencent-cloud-sdk-core@0.1.7
+- pkg:maven/icu.easyj/easyj-tencent-cloud-sdk-core@0.1.7?classifier=sources

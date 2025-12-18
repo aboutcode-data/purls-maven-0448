@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-nativeimage-debugger@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-nativeimage-debugger@RELEASE125?classifier=sources

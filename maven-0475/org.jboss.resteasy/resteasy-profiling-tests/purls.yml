@@ -1,1 +1,2 @@
 - pkg:maven/org.jboss.resteasy/resteasy-profiling-tests@4.7.1.Final
+- pkg:maven/org.jboss.resteasy/resteasy-profiling-tests@5.0.0.Alpha1

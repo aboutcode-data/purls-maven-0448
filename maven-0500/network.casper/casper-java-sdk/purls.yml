@@ -1,0 +1,2 @@
+- pkg:maven/network.casper/casper-java-sdk@0.0.5
+- pkg:maven/network.casper/casper-java-sdk@0.0.5?classifier=sources

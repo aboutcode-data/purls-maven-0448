@@ -1,0 +1,2 @@
+- pkg:maven/org.everrest/everrest-rest-assured-xml-path@1.15.0
+- pkg:maven/org.everrest/everrest-rest-assured-xml-path@1.15.0?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/io.confluent.parallelconsumer/parallel-consumer-vertx@0.3.0.3?classifier=sources
 - pkg:maven/io.confluent.parallelconsumer/parallel-consumer-vertx@0.3.1.0
 - pkg:maven/io.confluent.parallelconsumer/parallel-consumer-vertx@0.3.1.0?classifier=sources
+- pkg:maven/io.confluent.parallelconsumer/parallel-consumer-vertx@0.3.2.0
+- pkg:maven/io.confluent.parallelconsumer/parallel-consumer-vertx@0.3.2.0?classifier=sources
+- pkg:maven/io.confluent.parallelconsumer/parallel-consumer-vertx@0.4.0.0
+- pkg:maven/io.confluent.parallelconsumer/parallel-consumer-vertx@0.4.0.0?classifier=sources

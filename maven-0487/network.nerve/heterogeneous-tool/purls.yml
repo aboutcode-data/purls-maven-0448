@@ -14,3 +14,7 @@
 - pkg:maven/network.nerve/heterogeneous-tool@1.1.2-android
 - pkg:maven/network.nerve/heterogeneous-tool@1.1.2-android?classifier=sources
 - pkg:maven/network.nerve/heterogeneous-tool@1.1.2?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.2.0
+- pkg:maven/network.nerve/heterogeneous-tool@1.2.0-android
+- pkg:maven/network.nerve/heterogeneous-tool@1.2.0-android?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.2.0?classifier=sources

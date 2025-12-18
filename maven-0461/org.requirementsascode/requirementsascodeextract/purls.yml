@@ -94,3 +94,4 @@
 - pkg:maven/org.requirementsascode/requirementsascodeextract@1.9.2
 - pkg:maven/org.requirementsascode/requirementsascodeextract@1.9.2?classifier=sources
 - pkg:maven/org.requirementsascode/requirementsascodeextract@1.9?classifier=sources
+- pkg:maven/org.requirementsascode/requirementsascodeextract@2.0?classifier=sources

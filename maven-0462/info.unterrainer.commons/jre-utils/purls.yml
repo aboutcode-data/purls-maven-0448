@@ -32,3 +32,7 @@
 - pkg:maven/info.unterrainer.commons/jre-utils@0.2.1?classifier=sources
 - pkg:maven/info.unterrainer.commons/jre-utils@0.2.2
 - pkg:maven/info.unterrainer.commons/jre-utils@0.2.2?classifier=sources
+- pkg:maven/info.unterrainer.commons/jre-utils@0.2.3
+- pkg:maven/info.unterrainer.commons/jre-utils@0.2.3?classifier=sources
+- pkg:maven/info.unterrainer.commons/jre-utils@0.2.4
+- pkg:maven/info.unterrainer.commons/jre-utils@0.2.4?classifier=sources

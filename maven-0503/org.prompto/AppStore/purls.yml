@@ -273,6 +273,8 @@
 - pkg:maven/org.prompto/AppStore@0.0.232?classifier=sources
 - pkg:maven/org.prompto/AppStore@0.0.233
 - pkg:maven/org.prompto/AppStore@0.0.233?classifier=sources
+- pkg:maven/org.prompto/AppStore@0.0.234
+- pkg:maven/org.prompto/AppStore@0.0.234?classifier=sources
 - pkg:maven/org.prompto/AppStore@0.0.237
 - pkg:maven/org.prompto/AppStore@0.0.237?classifier=sources
 - pkg:maven/org.prompto/AppStore@0.0.23?classifier=sources
@@ -424,5 +426,7 @@
 - pkg:maven/org.prompto/AppStore@0.0.98?classifier=sources
 - pkg:maven/org.prompto/AppStore@0.0.99
 - pkg:maven/org.prompto/AppStore@0.0.99?classifier=sources
+- pkg:maven/org.prompto/AppStore@0.1.13
+- pkg:maven/org.prompto/AppStore@0.1.13?classifier=sources
 - pkg:maven/org.prompto/AppStore@v0.0.21
 - pkg:maven/org.prompto/AppStore@v0.0.21?classifier=sources

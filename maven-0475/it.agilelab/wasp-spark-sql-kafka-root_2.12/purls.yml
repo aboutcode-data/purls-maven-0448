@@ -1,0 +1,2 @@
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-root_2.12@0.0.0-2.2.1-2.4.8
+- pkg:maven/it.agilelab/wasp-spark-sql-kafka-root_2.12@0.0.0-2.2.1-2.4.8?classifier=sources

@@ -72,6 +72,8 @@
 - pkg:maven/org.finra.herd/herd-war@0.150.0?type=war
 - pkg:maven/org.finra.herd/herd-war@0.152.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-war@0.152.0?type=war
+- pkg:maven/org.finra.herd/herd-war@0.154.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-war@0.154.0?type=war
 - pkg:maven/org.finra.herd/herd-war@0.20.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-war@0.20.0?type=war
 - pkg:maven/org.finra.herd/herd-war@0.21.0?classifier=sources

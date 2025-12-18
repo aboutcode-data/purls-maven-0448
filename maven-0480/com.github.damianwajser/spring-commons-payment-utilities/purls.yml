@@ -48,3 +48,5 @@
 - pkg:maven/com.github.damianwajser/spring-commons-payment-utilities@1.21.0?classifier=sources
 - pkg:maven/com.github.damianwajser/spring-commons-payment-utilities@1.22.0
 - pkg:maven/com.github.damianwajser/spring-commons-payment-utilities@1.22.0?classifier=sources
+- pkg:maven/com.github.damianwajser/spring-commons-payment-utilities@1.22.1
+- pkg:maven/com.github.damianwajser/spring-commons-payment-utilities@1.22.1?classifier=sources

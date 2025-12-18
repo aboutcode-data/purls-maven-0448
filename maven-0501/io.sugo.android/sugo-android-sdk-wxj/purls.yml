@@ -40,3 +40,5 @@
 - pkg:maven/io.sugo.android/sugo-android-sdk-wxj@2.9.1?type=aar
 - pkg:maven/io.sugo.android/sugo-android-sdk-wxj@2.9.2?classifier=sources
 - pkg:maven/io.sugo.android/sugo-android-sdk-wxj@2.9.2?type=aar
+- pkg:maven/io.sugo.android/sugo-android-sdk-wxj@3.4.0?classifier=sources
+- pkg:maven/io.sugo.android/sugo-android-sdk-wxj@3.4.0?type=aar

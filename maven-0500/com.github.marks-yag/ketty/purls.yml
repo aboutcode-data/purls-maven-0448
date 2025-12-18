@@ -1,2 +1,6 @@
 - pkg:maven/com.github.marks-yag/ketty@0.18.4
 - pkg:maven/com.github.marks-yag/ketty@0.18.4?classifier=sources
+- pkg:maven/com.github.marks-yag/ketty@0.18.5
+- pkg:maven/com.github.marks-yag/ketty@0.18.5?classifier=sources
+- pkg:maven/com.github.marks-yag/ketty@0.18.6
+- pkg:maven/com.github.marks-yag/ketty@0.18.6?classifier=sources

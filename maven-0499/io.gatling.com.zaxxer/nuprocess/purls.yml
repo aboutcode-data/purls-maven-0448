@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling.com.zaxxer/nuprocess@2.0.3-M1
+- pkg:maven/io.gatling.com.zaxxer/nuprocess@2.0.3-M1?classifier=sources

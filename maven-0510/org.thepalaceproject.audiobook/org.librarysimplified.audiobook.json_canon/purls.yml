@@ -1,1 +1,2 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.json_canon@6.6.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.json_canon@6.7.0?classifier=sources

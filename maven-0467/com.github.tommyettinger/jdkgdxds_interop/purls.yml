@@ -7,3 +7,4 @@
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@0.1.4.2?classifier=sources
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@0.1.4.3?classifier=sources
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@0.1.4?classifier=sources
+- pkg:maven/com.github.tommyettinger/jdkgdxds_interop@0.2.0.0?classifier=sources

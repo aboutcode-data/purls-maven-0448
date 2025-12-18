@@ -2,6 +2,12 @@
 - pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.0.0?classifier=sources
 - pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.1.0
 - pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.1.0?classifier=sources
+- pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.11
+- pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.11?classifier=sources
+- pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.12
+- pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.12?classifier=sources
+- pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.13
+- pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.13?classifier=sources
 - pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.3
 - pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.3?classifier=sources
 - pkg:maven/fr.cnieg.keycloak/attribute-login-provider@1.2.4

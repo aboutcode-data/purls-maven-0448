@@ -4,3 +4,4 @@
 - pkg:maven/com.epam.reportportal/agent-java-junit@4.1.10?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-junit@4.1.8?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-junit@5.0.0?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-java-junit@5.1.0-RC-1?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/io.github.flayone/mercury-sdk@3.4.5.1?type=aar
 - pkg:maven/io.github.flayone/mercury-sdk@3.4.5?type=aar
 - pkg:maven/io.github.flayone/mercury-sdk@3.4.6?type=aar
+- pkg:maven/io.github.flayone/mercury-sdk@3.4.7?type=aar
+- pkg:maven/io.github.flayone/mercury-sdk@3.4.8?type=aar

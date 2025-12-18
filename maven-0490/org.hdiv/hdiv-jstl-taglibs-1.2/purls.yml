@@ -56,3 +56,5 @@
 - pkg:maven/org.hdiv/hdiv-jstl-taglibs-1.2@3.5.0.RC3
 - pkg:maven/org.hdiv/hdiv-jstl-taglibs-1.2@3.5.0.RC3?classifier=sources
 - pkg:maven/org.hdiv/hdiv-jstl-taglibs-1.2@3.5.0?classifier=sources
+- pkg:maven/org.hdiv/hdiv-jstl-taglibs-1.2@3.5.1
+- pkg:maven/org.hdiv/hdiv-jstl-taglibs-1.2@3.5.1?classifier=sources

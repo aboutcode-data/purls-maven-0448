@@ -141,7 +141,13 @@
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.10.1%2B99-e293587b?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.10.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.11.0
+- pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.11.0%2B79-d21ea0df
+- pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.11.0%2B79-d21ea0df?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.11.0%2B80-21dd59d7
+- pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.11.0%2B80-21dd59d7?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.11.0?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.11.1
+- pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.11.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.6.0
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.6.0%2B11-873b4710
 - pkg:maven/io.janstenpickle/trace4cats-sttp-client_2.13@0.6.0%2B11-873b4710?classifier=sources

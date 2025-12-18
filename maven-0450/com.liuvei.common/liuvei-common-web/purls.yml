@@ -1,0 +1,4 @@
+- pkg:maven/com.liuvei.common/liuvei-common-web@1.1.0
+- pkg:maven/com.liuvei.common/liuvei-common-web@1.1.0?classifier=sources
+- pkg:maven/com.liuvei.common/liuvei-common-web@1.2.0
+- pkg:maven/com.liuvei.common/liuvei-common-web@1.2.0?classifier=sources

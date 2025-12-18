@@ -1,0 +1,4 @@
+- pkg:maven/org.roc-streaming.roctoolkit/roc-android@0.0.1-alpha?classifier=sources
+- pkg:maven/org.roc-streaming.roctoolkit/roc-android@0.0.1-alpha?type=aar
+- pkg:maven/org.roc-streaming.roctoolkit/roc-android@0.0.2?classifier=sources
+- pkg:maven/org.roc-streaming.roctoolkit/roc-android@0.0.2?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/ml.dcjz.libs/permission@1.0.10?classifier=sources
+- pkg:maven/ml.dcjz.libs/permission@1.0.10?type=aar
+- pkg:maven/ml.dcjz.libs/permission@1.1.8?classifier=sources
+- pkg:maven/ml.dcjz.libs/permission@1.1.8?type=aar

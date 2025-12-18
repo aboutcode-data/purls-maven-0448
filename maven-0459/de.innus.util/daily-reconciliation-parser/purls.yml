@@ -1,0 +1,2 @@
+- pkg:maven/de.innus.util/daily-reconciliation-parser@1.0.0
+- pkg:maven/de.innus.util/daily-reconciliation-parser@1.0.0?classifier=sources

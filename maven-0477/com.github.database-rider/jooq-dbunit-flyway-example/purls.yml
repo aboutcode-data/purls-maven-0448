@@ -4,3 +4,13 @@
 - pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.24.0?classifier=sources
 - pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.25.0
 - pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.25.0?classifier=sources
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.26.0
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.26.0?classifier=sources
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.27.0
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.27.0?classifier=sources
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.28.0
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.28.0?classifier=sources
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.29.0
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.29.0?classifier=sources
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.30.0
+- pkg:maven/com.github.database-rider/jooq-dbunit-flyway-example@1.30.0?classifier=sources

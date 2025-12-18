@@ -29,6 +29,9 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.130.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.131.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.132.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-spark@0.133.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-spark@0.134.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-spark@0.135.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.21.0
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.21.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.22.0
@@ -225,3 +228,6 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.99.1?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.99.2
 - pkg:maven/com.netflix.spectator/spectator-ext-spark@0.99.2?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-spark@1.0.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-spark@1.0.1?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-spark@1.0.2?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/org.openmdx/catalina-openmdx@2.17.10
+- pkg:maven/org.openmdx/catalina-openmdx@2.17.10?classifier=sources
 - pkg:maven/org.openmdx/catalina-openmdx@2.17.8
 - pkg:maven/org.openmdx/catalina-openmdx@2.17.8?classifier=sources
+- pkg:maven/org.openmdx/catalina-openmdx@2.17.9
+- pkg:maven/org.openmdx/catalina-openmdx@2.17.9?classifier=sources
