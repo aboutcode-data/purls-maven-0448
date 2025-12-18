@@ -12,3 +12,5 @@
 - pkg:maven/org.tentackle/tentackle-jlink-maven-plugin@11.6.1.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-jlink-maven-plugin@11.6.2.0
 - pkg:maven/org.tentackle/tentackle-jlink-maven-plugin@11.6.2.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-jlink-maven-plugin@11.7.0.0
+- pkg:maven/org.tentackle/tentackle-jlink-maven-plugin@11.7.0.0?classifier=sources

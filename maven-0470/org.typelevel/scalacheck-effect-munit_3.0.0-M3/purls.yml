@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M3@0.1-11-ae6068f
+- pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M3@0.1-11-ae6068f?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M3@0.7.0
+- pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M3@0.7.0?classifier=sources

@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-settings-lib@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-settings-lib@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-settings-lib@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-settings-lib@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-settings-lib@RELEASE90?classifier=sources

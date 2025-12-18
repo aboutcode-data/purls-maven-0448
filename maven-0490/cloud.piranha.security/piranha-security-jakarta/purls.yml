@@ -2,6 +2,12 @@
 - pkg:maven/cloud.piranha.security/piranha-security-jakarta@19.12.0?classifier=sources
 - pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.1.2
 - pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.1.2?classifier=sources
+- pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.10.0
+- pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.10.0?classifier=sources
+- pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.11.0
+- pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.11.0?classifier=sources
+- pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.12.0
+- pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.12.0?classifier=sources
 - pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.2.0
 - pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.2.0?classifier=sources
 - pkg:maven/cloud.piranha.security/piranha-security-jakarta@20.3.0

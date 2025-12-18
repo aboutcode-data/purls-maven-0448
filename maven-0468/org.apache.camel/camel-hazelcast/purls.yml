@@ -261,3 +261,5 @@
 - pkg:maven/org.apache.camel/camel-hazelcast@3.4.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-hazelcast@3.5.0
 - pkg:maven/org.apache.camel/camel-hazelcast@3.5.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-hazelcast@3.6.0
+- pkg:maven/org.apache.camel/camel-hazelcast@3.6.0?classifier=sources

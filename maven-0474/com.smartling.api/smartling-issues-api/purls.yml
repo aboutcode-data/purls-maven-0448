@@ -18,6 +18,12 @@
 - pkg:maven/com.smartling.api/smartling-issues-api@0.14.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-issues-api@0.14.2
 - pkg:maven/com.smartling.api/smartling-issues-api@0.14.2?classifier=sources
+- pkg:maven/com.smartling.api/smartling-issues-api@0.15.0
+- pkg:maven/com.smartling.api/smartling-issues-api@0.15.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-issues-api@0.15.2
+- pkg:maven/com.smartling.api/smartling-issues-api@0.15.2?classifier=sources
+- pkg:maven/com.smartling.api/smartling-issues-api@0.16.0
+- pkg:maven/com.smartling.api/smartling-issues-api@0.16.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-issues-api@0.3.2
 - pkg:maven/com.smartling.api/smartling-issues-api@0.3.2?classifier=sources
 - pkg:maven/com.smartling.api/smartling-issues-api@0.4.0

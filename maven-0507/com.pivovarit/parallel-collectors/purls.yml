@@ -50,3 +50,5 @@
 - pkg:maven/com.pivovarit/parallel-collectors@2.3.3?classifier=sources
 - pkg:maven/com.pivovarit/parallel-collectors@2.4.0
 - pkg:maven/com.pivovarit/parallel-collectors@2.4.0?classifier=sources
+- pkg:maven/com.pivovarit/parallel-collectors@2.4.1
+- pkg:maven/com.pivovarit/parallel-collectors@2.4.1?classifier=sources

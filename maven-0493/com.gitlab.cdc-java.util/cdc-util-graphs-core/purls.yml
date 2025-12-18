@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs-core@0.3.0
+- pkg:maven/com.gitlab.cdc-java.util/cdc-util-graphs-core@0.3.0?classifier=sources

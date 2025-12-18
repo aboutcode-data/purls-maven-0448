@@ -1,0 +1,2 @@
+- pkg:maven/com.wizzdi/order-model@1.1.2
+- pkg:maven/com.wizzdi/order-model@1.1.2?classifier=sources

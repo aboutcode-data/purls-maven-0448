@@ -1,0 +1,2 @@
+- pkg:maven/com.github.testoptimal/openOptima@1.0.2
+- pkg:maven/com.github.testoptimal/openOptima@1.0.2?classifier=sources

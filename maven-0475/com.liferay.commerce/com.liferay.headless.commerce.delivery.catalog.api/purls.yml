@@ -49,12 +49,18 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@3.1.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@3.1.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@3.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@3.2.0
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@3.2.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@3.2.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.1.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.1.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.2.0
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.2.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@4.2.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.0.0?classifier=sources-commercial
@@ -73,3 +79,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.0.5
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@5.1.0?classifier=sources-commercial

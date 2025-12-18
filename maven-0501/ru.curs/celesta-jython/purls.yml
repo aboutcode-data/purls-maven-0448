@@ -38,6 +38,8 @@
 - pkg:maven/ru.curs/celesta-jython@6.2.14?classifier=sources
 - pkg:maven/ru.curs/celesta-jython@6.2.15
 - pkg:maven/ru.curs/celesta-jython@6.2.15?classifier=sources
+- pkg:maven/ru.curs/celesta-jython@6.2.16
+- pkg:maven/ru.curs/celesta-jython@6.2.16?classifier=sources
 - pkg:maven/ru.curs/celesta-jython@6.2.2
 - pkg:maven/ru.curs/celesta-jython@6.2.2?classifier=sources
 - pkg:maven/ru.curs/celesta-jython@6.2.3

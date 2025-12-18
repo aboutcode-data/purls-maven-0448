@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.granite-it-framework@1.0.36
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.granite-it-framework@1.0.36?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.granite-it-framework@1.0.54
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.granite-it-framework@1.0.54?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.cdk8s/cdk8s-plus@0.29.0?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus@0.30.0
 - pkg:maven/org.cdk8s/cdk8s-plus@0.30.0?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus@0.32.0
+- pkg:maven/org.cdk8s/cdk8s-plus@0.32.0?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus@0.33.0
+- pkg:maven/org.cdk8s/cdk8s-plus@0.33.0?classifier=sources

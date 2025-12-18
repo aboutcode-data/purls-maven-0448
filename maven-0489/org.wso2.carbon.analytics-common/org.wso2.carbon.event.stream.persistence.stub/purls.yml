@@ -75,6 +75,7 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.1.6
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.1.61
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.1.62
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.1.63
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.1.7
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.1.8
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.1.9
@@ -102,3 +103,7 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.2.29?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.2.30
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.2.30?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.2.31
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.2.31?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.2.32
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.stream.persistence.stub@5.2.32?classifier=sources

@@ -126,8 +126,10 @@
 - pkg:maven/com.graphhopper.external/hmm-lib@1.0.0
 - pkg:maven/com.graphhopper.external/hmm-lib@1.0.0?classifier=sources
 - pkg:maven/com.graphhopper.external/hmm-lib@1.0?classifier=sources
+- pkg:maven/com.graphhopper.external/hmm-lib@2.0
 - pkg:maven/com.graphhopper.external/hmm-lib@2.0-pre3
 - pkg:maven/com.graphhopper.external/hmm-lib@2.0-pre3?classifier=sources
+- pkg:maven/com.graphhopper.external/hmm-lib@2.0?classifier=sources
 - pkg:maven/com.graphhopper.external/hmm-lib@feature_1850_01
 - pkg:maven/com.graphhopper.external/hmm-lib@feature_1850_01?classifier=sources
 - pkg:maven/com.graphhopper.external/hmm-lib@feature_1850_02

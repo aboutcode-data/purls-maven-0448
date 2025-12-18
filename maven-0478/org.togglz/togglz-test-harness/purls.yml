@@ -46,3 +46,5 @@
 - pkg:maven/org.togglz/togglz-test-harness@2.7.2?classifier=sources
 - pkg:maven/org.togglz/togglz-test-harness@2.8.0
 - pkg:maven/org.togglz/togglz-test-harness@2.8.0?classifier=sources
+- pkg:maven/org.togglz/togglz-test-harness@2.9.0
+- pkg:maven/org.togglz/togglz-test-harness@2.9.0?classifier=sources

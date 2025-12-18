@@ -146,3 +146,5 @@
 - pkg:maven/com.ca.apim.gateway/config-builder@0.8.8?classifier=sources
 - pkg:maven/com.ca.apim.gateway/config-builder@1.0.0
 - pkg:maven/com.ca.apim.gateway/config-builder@1.0.0?classifier=sources
+- pkg:maven/com.ca.apim.gateway/config-builder@1.0.2
+- pkg:maven/com.ca.apim.gateway/config-builder@1.0.2?classifier=sources

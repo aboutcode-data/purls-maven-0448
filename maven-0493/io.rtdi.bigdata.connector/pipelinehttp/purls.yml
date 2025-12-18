@@ -55,8 +55,16 @@
 - pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.35?classifier=sources
 - pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.36
 - pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.36?classifier=sources
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.37
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.37?classifier=sources
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.39
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.39?classifier=sources
 - pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.3?classifier=sources
 - pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.4
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.40
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.40?classifier=sources
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.41
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.41?classifier=sources
 - pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.4?classifier=sources
 - pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.5
 - pkg:maven/io.rtdi.bigdata.connector/pipelinehttp@0.9.5?classifier=sources

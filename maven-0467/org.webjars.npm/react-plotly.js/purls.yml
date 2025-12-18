@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/react-plotly.js@1.0.3
 - pkg:maven/org.webjars.npm/react-plotly.js@1.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/react-plotly.js@2.5.0
+- pkg:maven/org.webjars.npm/react-plotly.js@2.5.0?classifier=sources

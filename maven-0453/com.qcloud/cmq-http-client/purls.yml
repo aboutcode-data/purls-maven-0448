@@ -1,2 +1,4 @@
 - pkg:maven/com.qcloud/cmq-http-client@1.0.7
+- pkg:maven/com.qcloud/cmq-http-client@1.0.7.4
+- pkg:maven/com.qcloud/cmq-http-client@1.0.7.4?classifier=sources
 - pkg:maven/com.qcloud/cmq-http-client@1.0.7?classifier=sources

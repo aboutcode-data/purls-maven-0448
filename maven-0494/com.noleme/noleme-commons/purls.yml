@@ -1,0 +1,6 @@
+- pkg:maven/com.noleme/noleme-commons@0.16
+- pkg:maven/com.noleme/noleme-commons@0.16?classifier=sources
+- pkg:maven/com.noleme/noleme-commons@0.17
+- pkg:maven/com.noleme/noleme-commons@0.17.1
+- pkg:maven/com.noleme/noleme-commons@0.17.1?classifier=sources
+- pkg:maven/com.noleme/noleme-commons@0.17?classifier=sources

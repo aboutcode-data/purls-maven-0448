@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.ms.audit/audit-client-utils-spring-boot-starter@2.4.23
+- pkg:maven/ru.i-novus.ms.audit/audit-client-utils-spring-boot-starter@2.4.23?classifier=sources

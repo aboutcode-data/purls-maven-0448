@@ -1,4 +1,8 @@
 - pkg:maven/org.webjars.npm/types__d3-axis@1.0.12
 - pkg:maven/org.webjars.npm/types__d3-axis@1.0.12?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3-axis@1.0.14
+- pkg:maven/org.webjars.npm/types__d3-axis@1.0.14?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3-axis@1.0.9
 - pkg:maven/org.webjars.npm/types__d3-axis@1.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3-axis@2.0.0
+- pkg:maven/org.webjars.npm/types__d3-axis@2.0.0?classifier=sources

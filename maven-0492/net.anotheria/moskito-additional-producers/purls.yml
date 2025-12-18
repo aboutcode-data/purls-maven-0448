@@ -1,3 +1,5 @@
+- pkg:maven/net.anotheria/moskito-additional-producers@2.10.0
+- pkg:maven/net.anotheria/moskito-additional-producers@2.10.0?classifier=sources
 - pkg:maven/net.anotheria/moskito-additional-producers@2.5.4
 - pkg:maven/net.anotheria/moskito-additional-producers@2.5.4?classifier=sources
 - pkg:maven/net.anotheria/moskito-additional-producers@2.5.5

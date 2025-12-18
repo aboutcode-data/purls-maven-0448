@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/p-locate@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/p-locate@4.1.0
 - pkg:maven/org.webjars.npm/p-locate@4.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/p-locate@5.0.0
+- pkg:maven/org.webjars.npm/p-locate@5.0.0?classifier=sources

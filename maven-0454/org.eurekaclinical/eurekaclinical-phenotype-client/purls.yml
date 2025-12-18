@@ -6,3 +6,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-phenotype-client@1.0?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-phenotype-client@1.1-Alpha-3
 - pkg:maven/org.eurekaclinical/eurekaclinical-phenotype-client@1.1-Alpha-3?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-phenotype-client@1.1-Alpha-4
+- pkg:maven/org.eurekaclinical/eurekaclinical-phenotype-client@1.1-Alpha-4?classifier=sources

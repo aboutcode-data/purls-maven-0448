@@ -16,3 +16,5 @@
 - pkg:maven/com.github.gurgendanielyan/connectorLibrary@2.3?classifier=sources
 - pkg:maven/com.github.gurgendanielyan/connectorLibrary@2.6
 - pkg:maven/com.github.gurgendanielyan/connectorLibrary@2.6?classifier=sources
+- pkg:maven/com.github.gurgendanielyan/connectorLibrary@2.7
+- pkg:maven/com.github.gurgendanielyan/connectorLibrary@2.7?classifier=sources

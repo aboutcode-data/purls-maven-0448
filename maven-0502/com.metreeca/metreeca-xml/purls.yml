@@ -1,2 +1,6 @@
 - pkg:maven/com.metreeca/metreeca-xml@0.53.0
 - pkg:maven/com.metreeca/metreeca-xml@0.53.0?classifier=sources
+- pkg:maven/com.metreeca/metreeca-xml@0.54.0
+- pkg:maven/com.metreeca/metreeca-xml@0.54.0?classifier=sources
+- pkg:maven/com.metreeca/metreeca-xml@0.54.1
+- pkg:maven/com.metreeca/metreeca-xml@0.54.1?classifier=sources

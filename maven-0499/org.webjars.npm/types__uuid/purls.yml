@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__uuid@7.0.0
 - pkg:maven/org.webjars.npm/types__uuid@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__uuid@8.3.0
+- pkg:maven/org.webjars.npm/types__uuid@8.3.0?classifier=sources

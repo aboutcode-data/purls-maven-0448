@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE90?classifier=sources

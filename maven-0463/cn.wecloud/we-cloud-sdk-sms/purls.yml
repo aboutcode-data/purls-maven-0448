@@ -1,0 +1,4 @@
+- pkg:maven/cn.wecloud/we-cloud-sdk-sms@0.0.1
+- pkg:maven/cn.wecloud/we-cloud-sdk-sms@0.0.1?classifier=sources
+- pkg:maven/cn.wecloud/we-cloud-sdk-sms@1.0.0
+- pkg:maven/cn.wecloud/we-cloud-sdk-sms@1.0.0?classifier=sources

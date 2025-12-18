@@ -1,0 +1,5 @@
+- pkg:maven/com.adobe.cq/com.adobe.cq.export.json@0.0.12?classifier=sources
+- pkg:maven/com.adobe.cq/com.adobe.cq.export.json@0.1.10?classifier=sources
+- pkg:maven/com.adobe.cq/com.adobe.cq.export.json@0.1.6?classifier=sources
+- pkg:maven/com.adobe.cq/com.adobe.cq.export.json@0.1.7-CQ-4226752-B006?classifier=sources
+- pkg:maven/com.adobe.cq/com.adobe.cq.export.json@0.1.8?classifier=sources

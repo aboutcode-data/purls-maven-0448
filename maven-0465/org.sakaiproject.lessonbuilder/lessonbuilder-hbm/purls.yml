@@ -54,3 +54,5 @@
 - pkg:maven/org.sakaiproject.lessonbuilder/lessonbuilder-hbm@20.0?classifier=sources
 - pkg:maven/org.sakaiproject.lessonbuilder/lessonbuilder-hbm@20.1
 - pkg:maven/org.sakaiproject.lessonbuilder/lessonbuilder-hbm@20.1?classifier=sources
+- pkg:maven/org.sakaiproject.lessonbuilder/lessonbuilder-hbm@20.2
+- pkg:maven/org.sakaiproject.lessonbuilder/lessonbuilder-hbm@20.2?classifier=sources

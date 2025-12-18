@@ -2,3 +2,5 @@
 - pkg:maven/rocks.spiffy/HateoasUtils@1.1.0?classifier=sources
 - pkg:maven/rocks.spiffy/HateoasUtils@2.0.0
 - pkg:maven/rocks.spiffy/HateoasUtils@2.0.0?classifier=sources
+- pkg:maven/rocks.spiffy/HateoasUtils@3.1.0
+- pkg:maven/rocks.spiffy/HateoasUtils@3.1.0?classifier=sources

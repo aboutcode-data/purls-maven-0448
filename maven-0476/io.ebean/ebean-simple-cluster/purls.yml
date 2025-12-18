@@ -1,0 +1,2 @@
+- pkg:maven/io.ebean/ebean-simple-cluster@12.6.1
+- pkg:maven/io.ebean/ebean-simple-cluster@12.6.1?classifier=sources

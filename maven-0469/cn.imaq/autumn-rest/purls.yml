@@ -6,3 +6,5 @@
 - pkg:maven/cn.imaq/autumn-rest@0.2?classifier=sources
 - pkg:maven/cn.imaq/autumn-rest@2019.06
 - pkg:maven/cn.imaq/autumn-rest@2019.06?classifier=sources
+- pkg:maven/cn.imaq/autumn-rest@2020.10
+- pkg:maven/cn.imaq/autumn-rest@2020.10?classifier=sources

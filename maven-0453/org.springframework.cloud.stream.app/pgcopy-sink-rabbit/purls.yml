@@ -26,3 +26,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/pgcopy-sink-rabbit@2.1.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/pgcopy-sink-rabbit@2.1.7.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/pgcopy-sink-rabbit@2.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/pgcopy-sink-rabbit@3.0.0
+- pkg:maven/org.springframework.cloud.stream.app/pgcopy-sink-rabbit@3.0.0?classifier=sources

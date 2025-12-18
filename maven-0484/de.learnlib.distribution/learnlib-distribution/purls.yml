@@ -7,3 +7,4 @@
 - pkg:maven/de.learnlib.distribution/learnlib-distribution@0.13.1?classifier=sources
 - pkg:maven/de.learnlib.distribution/learnlib-distribution@0.14.0?classifier=sources
 - pkg:maven/de.learnlib.distribution/learnlib-distribution@0.15.0?classifier=sources
+- pkg:maven/de.learnlib.distribution/learnlib-distribution@0.16.0?classifier=sources

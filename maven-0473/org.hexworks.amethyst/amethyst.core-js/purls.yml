@@ -1,0 +1,2 @@
+- pkg:maven/org.hexworks.amethyst/amethyst.core-js@2020.1.0-RELEASE?classifier=sources
+- pkg:maven/org.hexworks.amethyst/amethyst.core-js@2020.1.1-RELEASE?classifier=sources

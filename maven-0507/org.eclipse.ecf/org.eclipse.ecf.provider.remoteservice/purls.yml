@@ -3,3 +3,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.remoteservice@4.4.100?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.remoteservice@4.4.101?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.remoteservice@4.4.200?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.remoteservice@4.4.201?classifier=sources

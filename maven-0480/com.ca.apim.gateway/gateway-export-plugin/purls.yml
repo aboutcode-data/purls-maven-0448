@@ -128,3 +128,5 @@
 - pkg:maven/com.ca.apim.gateway/gateway-export-plugin@0.8.8?classifier=sources
 - pkg:maven/com.ca.apim.gateway/gateway-export-plugin@1.0.0
 - pkg:maven/com.ca.apim.gateway/gateway-export-plugin@1.0.0?classifier=sources
+- pkg:maven/com.ca.apim.gateway/gateway-export-plugin@1.0.2
+- pkg:maven/com.ca.apim.gateway/gateway-export-plugin@1.0.2?classifier=sources

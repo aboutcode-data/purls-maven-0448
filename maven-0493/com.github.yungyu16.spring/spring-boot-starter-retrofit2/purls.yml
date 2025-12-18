@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yungyu16.spring/spring-boot-starter-retrofit2@1.0.0
+- pkg:maven/com.github.yungyu16.spring/spring-boot-starter-retrofit2@1.0.0?classifier=sources

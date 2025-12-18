@@ -1,0 +1,16 @@
+- pkg:maven/com.day.commons/day-commons-gfx@1.1.2?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.0.0?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.0.10?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.0.13?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.0.14?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.0.16?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.0.20?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.0.4?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.0.6?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.1.10?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.1.16?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.1.26?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.1.28?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.1.2?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.1.4?classifier=sources
+- pkg:maven/com.day.commons/day-commons-gfx@2.1.8?classifier=sources

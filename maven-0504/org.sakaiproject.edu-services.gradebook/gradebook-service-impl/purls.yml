@@ -72,3 +72,5 @@
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@20.0?classifier=sources
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@20.1
 - pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@20.1?classifier=sources
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@20.2
+- pkg:maven/org.sakaiproject.edu-services.gradebook/gradebook-service-impl@20.2?classifier=sources

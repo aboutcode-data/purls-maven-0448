@@ -20,3 +20,7 @@
 - pkg:maven/com.brentcroft/spartacus@01.02.02?classifier=sources
 - pkg:maven/com.brentcroft/spartacus@01.02.03
 - pkg:maven/com.brentcroft/spartacus@01.02.03?classifier=sources
+- pkg:maven/com.brentcroft/spartacus@01.02.04
+- pkg:maven/com.brentcroft/spartacus@01.02.04?classifier=sources
+- pkg:maven/com.brentcroft/spartacus@01.02.05
+- pkg:maven/com.brentcroft/spartacus@01.02.05?classifier=sources

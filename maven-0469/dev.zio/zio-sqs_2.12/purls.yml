@@ -44,6 +44,12 @@
 - pkg:maven/dev.zio/zio-sqs_2.12@0.3.0?classifier=sources
 - pkg:maven/dev.zio/zio-sqs_2.12@0.3.1
 - pkg:maven/dev.zio/zio-sqs_2.12@0.3.1?classifier=sources
+- pkg:maven/dev.zio/zio-sqs_2.12@0.3.2
+- pkg:maven/dev.zio/zio-sqs_2.12@0.3.2?classifier=sources
+- pkg:maven/dev.zio/zio-sqs_2.12@0.4.0
+- pkg:maven/dev.zio/zio-sqs_2.12@0.4.0?classifier=sources
+- pkg:maven/dev.zio/zio-sqs_2.12@0.4.1
+- pkg:maven/dev.zio/zio-sqs_2.12@0.4.1?classifier=sources
 - pkg:maven/dev.zio/zio-sqs_2.12@0dcba9fc
 - pkg:maven/dev.zio/zio-sqs_2.12@0dcba9fc?classifier=sources
 - pkg:maven/dev.zio/zio-sqs_2.12@627b30c2

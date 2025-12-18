@@ -16,3 +16,5 @@
 - pkg:maven/com.rover12421.android.hide/core-libart@Pie_9.0_28?classifier=sources
 - pkg:maven/com.rover12421.android.hide/core-libart@Q_10.0_29
 - pkg:maven/com.rover12421.android.hide/core-libart@Q_10.0_29?classifier=sources
+- pkg:maven/com.rover12421.android.hide/core-libart@R_11.0_30
+- pkg:maven/com.rover12421.android.hide/core-libart@R_11.0_30?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.camel/camel-vm@3.4.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-vm@3.5.0
 - pkg:maven/org.apache.camel/camel-vm@3.5.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-vm@3.6.0
+- pkg:maven/org.apache.camel/camel-vm@3.6.0?classifier=sources

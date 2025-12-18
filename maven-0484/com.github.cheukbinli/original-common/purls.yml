@@ -8,3 +8,11 @@
 - pkg:maven/com.github.cheukbinli/original-common@1.0.0.2b-RELEASE?classifier=sources
 - pkg:maven/com.github.cheukbinli/original-common@1.0.0.2d-RELEASE
 - pkg:maven/com.github.cheukbinli/original-common@1.0.0.2d-RELEASE?classifier=sources
+- pkg:maven/com.github.cheukbinli/original-common@1.0.0.2e-RELEASE
+- pkg:maven/com.github.cheukbinli/original-common@1.0.0.2e-RELEASE?classifier=sources
+- pkg:maven/com.github.cheukbinli/original-common@1.0.0.2h-RELEASE-RELEASE
+- pkg:maven/com.github.cheukbinli/original-common@1.0.0.2h-RELEASE-RELEASE?classifier=sources
+- pkg:maven/com.github.cheukbinli/original-common@1.0.0.2i-RELEASE
+- pkg:maven/com.github.cheukbinli/original-common@1.0.0.2i-RELEASE?classifier=sources
+- pkg:maven/com.github.cheukbinli/original-common@1.0.0.3-RELEASE
+- pkg:maven/com.github.cheukbinli/original-common@1.0.0.3-RELEASE?classifier=sources

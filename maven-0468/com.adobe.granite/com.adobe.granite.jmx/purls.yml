@@ -1,0 +1,6 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.jmx@0.0.6?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.jmx@0.1.0?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.jmx@0.1.6?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.jmx@0.2.0?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.jmx@0.2.14?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.jmx@0.2.6?classifier=sources

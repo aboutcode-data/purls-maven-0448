@@ -1,0 +1,2 @@
+- pkg:maven/app.cash.paparazzi/layoutlib-jdk11@4.0.0-alpha02-b169460?classifier=sources
+- pkg:maven/app.cash.paparazzi/layoutlib-jdk11@b169460?classifier=sources

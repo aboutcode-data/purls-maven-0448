@@ -102,3 +102,5 @@
 - pkg:maven/org.kill-bill.billing.plugin.java/killbill-base-plugin@4.2.7?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin.java/killbill-base-plugin@4.2.8
 - pkg:maven/org.kill-bill.billing.plugin.java/killbill-base-plugin@4.2.8?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin.java/killbill-base-plugin@4.2.9
+- pkg:maven/org.kill-bill.billing.plugin.java/killbill-base-plugin@4.2.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq.examples.broker-connection/amqp-sending-messages@2.16.0
+- pkg:maven/org.apache.activemq.examples.broker-connection/amqp-sending-messages@2.16.0?classifier=sources

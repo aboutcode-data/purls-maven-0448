@@ -4,5 +4,9 @@
 - pkg:maven/com.diozero/diozero-provider-firmata@0.11?classifier=sources
 - pkg:maven/com.diozero/diozero-provider-firmata@0.12
 - pkg:maven/com.diozero/diozero-provider-firmata@0.12?classifier=sources
+- pkg:maven/com.diozero/diozero-provider-firmata@0.13
+- pkg:maven/com.diozero/diozero-provider-firmata@0.13?classifier=sources
+- pkg:maven/com.diozero/diozero-provider-firmata@0.14
+- pkg:maven/com.diozero/diozero-provider-firmata@0.14?classifier=sources
 - pkg:maven/com.diozero/diozero-provider-firmata@0.9
 - pkg:maven/com.diozero/diozero-provider-firmata@0.9?classifier=sources

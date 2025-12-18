@@ -1,0 +1,2 @@
+- pkg:maven/com.qvantel/dvalidation_2.13@0.4
+- pkg:maven/com.qvantel/dvalidation_2.13@0.4?classifier=sources

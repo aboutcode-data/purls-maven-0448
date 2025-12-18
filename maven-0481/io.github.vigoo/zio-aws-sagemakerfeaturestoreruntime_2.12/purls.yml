@@ -1,0 +1,6 @@
+- pkg:maven/io.github.vigoo/zio-aws-sagemakerfeaturestoreruntime_2.12@3.15.42.12
+- pkg:maven/io.github.vigoo/zio-aws-sagemakerfeaturestoreruntime_2.12@3.15.42.12?classifier=sources
+- pkg:maven/io.github.vigoo/zio-aws-sagemakerfeaturestoreruntime_2.12@3.15.45.1
+- pkg:maven/io.github.vigoo/zio-aws-sagemakerfeaturestoreruntime_2.12@3.15.45.1?classifier=sources
+- pkg:maven/io.github.vigoo/zio-aws-sagemakerfeaturestoreruntime_2.12@3.15.45.2
+- pkg:maven/io.github.vigoo/zio-aws-sagemakerfeaturestoreruntime_2.12@3.15.45.2?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/com.planbase.pdf/PdfLayoutMgr2@2.4.3?classifier=sources
 - pkg:maven/com.planbase.pdf/PdfLayoutMgr2@2.4.8
 - pkg:maven/com.planbase.pdf/PdfLayoutMgr2@2.4.8?classifier=sources
+- pkg:maven/com.planbase.pdf/PdfLayoutMgr2@2.4.9
+- pkg:maven/com.planbase.pdf/PdfLayoutMgr2@2.4.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.manyangled/coulomb-physical-constants_2.13@0.5.5
+- pkg:maven/com.manyangled/coulomb-physical-constants_2.13@0.5.5?classifier=sources

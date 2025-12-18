@@ -54,3 +54,7 @@
 - pkg:maven/org.webjars.npm/types__jquery@3.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/types__jquery@3.5.2
 - pkg:maven/org.webjars.npm/types__jquery@3.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/types__jquery@3.5.4
+- pkg:maven/org.webjars.npm/types__jquery@3.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__jquery@3.5.5
+- pkg:maven/org.webjars.npm/types__jquery@3.5.5?classifier=sources

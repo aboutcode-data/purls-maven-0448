@@ -94,3 +94,9 @@
 - pkg:maven/io.nosqlbench/driver-tcp@3.12.152?classifier=sources
 - pkg:maven/io.nosqlbench/driver-tcp@3.12.153
 - pkg:maven/io.nosqlbench/driver-tcp@3.12.153?classifier=sources
+- pkg:maven/io.nosqlbench/driver-tcp@3.12.154
+- pkg:maven/io.nosqlbench/driver-tcp@3.12.154?classifier=sources
+- pkg:maven/io.nosqlbench/driver-tcp@3.12.155
+- pkg:maven/io.nosqlbench/driver-tcp@3.12.155?classifier=sources
+- pkg:maven/io.nosqlbench/driver-tcp@3.12.200
+- pkg:maven/io.nosqlbench/driver-tcp@3.12.200?classifier=sources

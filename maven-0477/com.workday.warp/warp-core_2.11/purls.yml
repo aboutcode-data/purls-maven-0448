@@ -40,3 +40,11 @@
 - pkg:maven/com.workday.warp/warp-core_2.11@4.0.0?classifier=sources
 - pkg:maven/com.workday.warp/warp-core_2.11@4.1.0
 - pkg:maven/com.workday.warp/warp-core_2.11@4.1.0?classifier=sources
+- pkg:maven/com.workday.warp/warp-core_2.11@4.2.0
+- pkg:maven/com.workday.warp/warp-core_2.11@4.2.0?classifier=sources
+- pkg:maven/com.workday.warp/warp-core_2.11@4.3.0
+- pkg:maven/com.workday.warp/warp-core_2.11@4.3.0?classifier=sources
+- pkg:maven/com.workday.warp/warp-core_2.11@4.4.0
+- pkg:maven/com.workday.warp/warp-core_2.11@4.4.0?classifier=sources
+- pkg:maven/com.workday.warp/warp-core_2.11@5.0.0
+- pkg:maven/com.workday.warp/warp-core_2.11@5.0.0?classifier=sources

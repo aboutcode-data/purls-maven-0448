@@ -28,3 +28,7 @@
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-alert-wizard@3.2.3?classifier=sources
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-alert-wizard@3.2.4
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-alert-wizard@3.2.4?classifier=sources
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-alert-wizard@3.2.5
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-alert-wizard@3.2.5?classifier=sources
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-alert-wizard@3.3.0
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-alert-wizard@3.3.0?classifier=sources

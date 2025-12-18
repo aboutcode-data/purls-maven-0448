@@ -18,4 +18,8 @@
 - pkg:maven/org.danilopianini/boilerplate@0.2.1
 - pkg:maven/org.danilopianini/boilerplate@0.2.1?classifier=sources
 - pkg:maven/org.danilopianini/boilerplate@0.2.2-dev00%2Be3f6acde4b?classifier=sources
+- pkg:maven/org.danilopianini/boilerplate@0.2.2-dev17%2B1894e4cd63?classifier=sources
+- pkg:maven/org.danilopianini/boilerplate@0.2.2-dev17%2Baf43f015d4?classifier=sources
+- pkg:maven/org.danilopianini/boilerplate@0.2.2-dev18%2B7ea82f52c9?classifier=sources
+- pkg:maven/org.danilopianini/boilerplate@0.2.2-dev18%2Bacd663eedb?classifier=sources
 - pkg:maven/org.danilopianini/boilerplate@0.2.2?classifier=sources

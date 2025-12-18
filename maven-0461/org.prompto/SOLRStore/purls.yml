@@ -220,6 +220,8 @@
 - pkg:maven/org.prompto/SOLRStore@0.0.201?classifier=sources
 - pkg:maven/org.prompto/SOLRStore@0.0.202
 - pkg:maven/org.prompto/SOLRStore@0.0.202?classifier=sources
+- pkg:maven/org.prompto/SOLRStore@0.0.205
+- pkg:maven/org.prompto/SOLRStore@0.0.205?classifier=sources
 - pkg:maven/org.prompto/SOLRStore@0.0.20?classifier=sources
 - pkg:maven/org.prompto/SOLRStore@0.0.22
 - pkg:maven/org.prompto/SOLRStore@0.0.22?classifier=sources

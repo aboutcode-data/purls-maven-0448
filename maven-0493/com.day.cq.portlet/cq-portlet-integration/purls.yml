@@ -1,0 +1,4 @@
+- pkg:maven/com.day.cq.portlet/cq-portlet-integration@5.4.0?classifier=sources
+- pkg:maven/com.day.cq.portlet/cq-portlet-integration@5.4.26?classifier=sources
+- pkg:maven/com.day.cq.portlet/cq-portlet-integration@5.4.46?classifier=sources
+- pkg:maven/com.day.cq.portlet/cq-portlet-integration@5.4.66?classifier=sources

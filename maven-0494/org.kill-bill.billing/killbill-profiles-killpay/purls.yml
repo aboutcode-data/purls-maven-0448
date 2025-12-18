@@ -268,6 +268,16 @@
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.13?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.14?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.14?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.15?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.15?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.16?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.16?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.17?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.17?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.18?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.18?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.19?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.19?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.1?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.1?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killpay@0.22.2?classifier=sources

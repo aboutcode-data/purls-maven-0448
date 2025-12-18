@@ -2,6 +2,12 @@
 - pkg:maven/cloud.piranha.pages/piranha-pages-jasper@19.12.0?classifier=sources
 - pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.1.2
 - pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.1.2?classifier=sources
+- pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.10.0
+- pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.10.0?classifier=sources
+- pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.11.0
+- pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.11.0?classifier=sources
+- pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.12.0
+- pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.12.0?classifier=sources
 - pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.2.0
 - pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.2.0?classifier=sources
 - pkg:maven/cloud.piranha.pages/piranha-pages-jasper@20.3.0

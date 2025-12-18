@@ -1,0 +1,2 @@
+- pkg:maven/ch.leadrian.stubr/stubr-shaded-dependencies@1.0.1
+- pkg:maven/ch.leadrian.stubr/stubr-shaded-dependencies@1.0.1?classifier=sources

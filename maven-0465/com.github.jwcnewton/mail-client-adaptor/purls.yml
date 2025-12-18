@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jwcnewton/mail-client-adaptor@1.0.0
+- pkg:maven/com.github.jwcnewton/mail-client-adaptor@1.0.0?classifier=sources

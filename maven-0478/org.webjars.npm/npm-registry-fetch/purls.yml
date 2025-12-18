@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/npm-registry-fetch@4.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/npm-registry-fetch@6.0.2
 - pkg:maven/org.webjars.npm/npm-registry-fetch@6.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/npm-registry-fetch@8.1.5
+- pkg:maven/org.webjars.npm/npm-registry-fetch@8.1.5?classifier=sources

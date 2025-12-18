@@ -1,1 +1,5 @@
 - pkg:maven/org.seasar.doma/doma-slf4j@2.43.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-slf4j@2.44.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-slf4j@2.44.1?classifier=sources
+- pkg:maven/org.seasar.doma/doma-slf4j@2.44.2?classifier=sources
+- pkg:maven/org.seasar.doma/doma-slf4j@2.44.3?classifier=sources

@@ -51,6 +51,10 @@
 - pkg:maven/org.kie.workbench.playground/evaluation@7.43.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/evaluation@7.43.1.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/evaluation@7.44.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/evaluation@7.45.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/evaluation@7.45.0.t20201009?classifier=sources
+- pkg:maven/org.kie.workbench.playground/evaluation@7.46.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/evaluation@7.47.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/evaluation@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/evaluation@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/evaluation@7.7.0.Final?classifier=sources

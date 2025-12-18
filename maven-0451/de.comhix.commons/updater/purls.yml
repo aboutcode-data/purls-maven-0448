@@ -15,3 +15,17 @@
 - pkg:maven/de.comhix.commons/updater@3.1.174?classifier=sources
 - pkg:maven/de.comhix.commons/updater@3.1.175?classifier=sources
 - pkg:maven/de.comhix.commons/updater@3.1.177?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.2.178?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.2.179?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.2.180?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.2.181?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.3.182?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.3.183?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.3.185?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.3.186?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.3.188?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.4.189?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.4.190?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.4.191?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.4.192?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.4.193?classifier=sources

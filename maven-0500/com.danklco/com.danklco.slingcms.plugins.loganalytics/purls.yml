@@ -1,0 +1,2 @@
+- pkg:maven/com.danklco/com.danklco.slingcms.plugins.loganalytics@1.0
+- pkg:maven/com.danklco/com.danklco.slingcms.plugins.loganalytics@1.0?classifier=sources

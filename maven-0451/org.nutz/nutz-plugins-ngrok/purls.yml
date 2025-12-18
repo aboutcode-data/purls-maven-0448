@@ -38,3 +38,7 @@
 - pkg:maven/org.nutz/nutz-plugins-ngrok@1.r.68.v20200309?classifier=sources
 - pkg:maven/org.nutz/nutz-plugins-ngrok@1.r.68.v20200427
 - pkg:maven/org.nutz/nutz-plugins-ngrok@1.r.68.v20200427?classifier=sources
+- pkg:maven/org.nutz/nutz-plugins-ngrok@1.r.68.v20201011
+- pkg:maven/org.nutz/nutz-plugins-ngrok@1.r.68.v20201011?classifier=sources
+- pkg:maven/org.nutz/nutz-plugins-ngrok@1.r.68.v20201205
+- pkg:maven/org.nutz/nutz-plugins-ngrok@1.r.68.v20201205?classifier=sources

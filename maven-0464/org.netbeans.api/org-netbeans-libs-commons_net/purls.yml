@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE90?classifier=sources

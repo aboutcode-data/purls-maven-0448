@@ -1,0 +1,2 @@
+- pkg:maven/net.pincette/pincette-json-streams-plugin@1.0
+- pkg:maven/net.pincette/pincette-json-streams-plugin@1.0?classifier=sources

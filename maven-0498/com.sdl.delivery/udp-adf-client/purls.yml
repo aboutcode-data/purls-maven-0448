@@ -12,7 +12,11 @@
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1056?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1057
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1057?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1060
+- pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1060?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.1.0-1056
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.1.0-1056?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-adf-client@11.1.0-1103
+- pkg:maven/com.sdl.delivery/udp-adf-client@11.1.0-1103?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.5.0-1067
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.5.0-1067?classifier=sources

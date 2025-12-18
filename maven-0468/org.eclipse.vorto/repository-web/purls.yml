@@ -19,3 +19,4 @@
 - pkg:maven/org.eclipse.vorto/repository-web@0.12.4
 - pkg:maven/org.eclipse.vorto/repository-web@0.12.5
 - pkg:maven/org.eclipse.vorto/repository-web@0.12.6
+- pkg:maven/org.eclipse.vorto/repository-web@1.0.0

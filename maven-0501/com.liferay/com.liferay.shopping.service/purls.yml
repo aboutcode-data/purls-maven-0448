@@ -256,3 +256,6 @@
 - pkg:maven/com.liferay/com.liferay.shopping.service@2.2.8
 - pkg:maven/com.liferay/com.liferay.shopping.service@2.2.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.shopping.service@2.2.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.shopping.service@2.2.9
+- pkg:maven/com.liferay/com.liferay.shopping.service@2.2.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.shopping.service@2.2.9?classifier=sources-commercial

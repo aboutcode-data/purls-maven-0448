@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.camel/camel-debezium-sqlserver@3.4.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-debezium-sqlserver@3.5.0
 - pkg:maven/org.apache.camel/camel-debezium-sqlserver@3.5.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-debezium-sqlserver@3.6.0
+- pkg:maven/org.apache.camel/camel-debezium-sqlserver@3.6.0?classifier=sources

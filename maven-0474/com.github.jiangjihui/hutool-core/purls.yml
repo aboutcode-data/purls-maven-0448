@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jiangjihui/hutool-core@5.5.1
+- pkg:maven/com.github.jiangjihui/hutool-core@5.5.1?classifier=sources

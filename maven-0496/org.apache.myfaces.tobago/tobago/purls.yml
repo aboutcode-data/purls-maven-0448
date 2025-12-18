@@ -84,3 +84,4 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago@4.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@4.4.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@4.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.tobago/tobago@4.5.1?classifier=source-release&type=zip

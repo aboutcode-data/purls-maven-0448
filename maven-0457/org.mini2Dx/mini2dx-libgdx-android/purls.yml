@@ -1,0 +1,4 @@
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.33?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.33?type=aar
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.34?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.34?type=aar

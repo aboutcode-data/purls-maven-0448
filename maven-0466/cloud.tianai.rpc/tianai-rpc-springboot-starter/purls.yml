@@ -22,5 +22,7 @@
 - pkg:maven/cloud.tianai.rpc/tianai-rpc-springboot-starter@1.3.9
 - pkg:maven/cloud.tianai.rpc/tianai-rpc-springboot-starter@1.3.9?classifier=sources
 - pkg:maven/cloud.tianai.rpc/tianai-rpc-springboot-starter@1.3?classifier=sources
+- pkg:maven/cloud.tianai.rpc/tianai-rpc-springboot-starter@2.0.0
 - pkg:maven/cloud.tianai.rpc/tianai-rpc-springboot-starter@2.0.0.beta
 - pkg:maven/cloud.tianai.rpc/tianai-rpc-springboot-starter@2.0.0.beta?classifier=sources
+- pkg:maven/cloud.tianai.rpc/tianai-rpc-springboot-starter@2.0.0?classifier=sources

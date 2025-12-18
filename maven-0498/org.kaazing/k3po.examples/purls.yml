@@ -122,6 +122,7 @@
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-97
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-98
 - pkg:maven/org.kaazing/k3po.examples@3.0.0-alpha-99
+- pkg:maven/org.kaazing/k3po.examples@3.1.0
 - pkg:maven/org.kaazing/k3po.examples@4.0.0
 - pkg:maven/org.kaazing/k3po.examples@4.0.0-RC001
 - pkg:maven/org.kaazing/k3po.examples@4.0.1

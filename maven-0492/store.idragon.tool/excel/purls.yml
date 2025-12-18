@@ -1,0 +1,4 @@
+- pkg:maven/store.idragon.tool/excel@0.0.1-RELEASE
+- pkg:maven/store.idragon.tool/excel@0.0.1-RELEASE?classifier=sources
+- pkg:maven/store.idragon.tool/excel@0.0.2-RELEASE
+- pkg:maven/store.idragon.tool/excel@0.0.2-RELEASE?classifier=sources

@@ -150,3 +150,11 @@
 - pkg:maven/com.proofpoint.platform/audit@2.35?classifier=sources
 - pkg:maven/com.proofpoint.platform/audit@2.36
 - pkg:maven/com.proofpoint.platform/audit@2.36?classifier=sources
+- pkg:maven/com.proofpoint.platform/audit@2.37
+- pkg:maven/com.proofpoint.platform/audit@2.37?classifier=sources
+- pkg:maven/com.proofpoint.platform/audit@2.38
+- pkg:maven/com.proofpoint.platform/audit@2.38?classifier=sources
+- pkg:maven/com.proofpoint.platform/audit@2.39
+- pkg:maven/com.proofpoint.platform/audit@2.39?classifier=sources
+- pkg:maven/com.proofpoint.platform/audit@2.40
+- pkg:maven/com.proofpoint.platform/audit@2.40?classifier=sources
