@@ -34,3 +34,7 @@
 - pkg:maven/org.dyn4j/dyn4j@3.3.0?classifier=sources
 - pkg:maven/org.dyn4j/dyn4j@3.4.0
 - pkg:maven/org.dyn4j/dyn4j@3.4.0?classifier=sources
+- pkg:maven/org.dyn4j/dyn4j@4.0.0
+- pkg:maven/org.dyn4j/dyn4j@4.0.0?classifier=sources
+- pkg:maven/org.dyn4j/dyn4j@4.0.1
+- pkg:maven/org.dyn4j/dyn4j@4.0.1?classifier=sources

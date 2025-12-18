@@ -1,0 +1,2 @@
+- pkg:maven/com.google.apis/google-api-services-localservices@v1-rev20200821-1.30.10
+- pkg:maven/com.google.apis/google-api-services-localservices@v1-rev20200821-1.30.10?classifier=sources

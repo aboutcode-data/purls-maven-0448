@@ -5,5 +5,7 @@
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-maven-plugin@1.12?classifier=sources
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-maven-plugin@1.13
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-maven-plugin@1.13?classifier=sources
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-maven-plugin@1.14
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-maven-plugin@1.14?classifier=sources
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-maven-plugin@1.9
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-maven-plugin@1.9?classifier=sources

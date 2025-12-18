@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.skywalking/library-server@7.0.0
 - pkg:maven/org.apache.skywalking/library-server@8.0.0
 - pkg:maven/org.apache.skywalking/library-server@8.0.1
+- pkg:maven/org.apache.skywalking/library-server@8.1.0

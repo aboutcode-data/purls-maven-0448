@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/utest_0.27@0.7.4
+- pkg:maven/com.lihaoyi/utest_0.27@0.7.4?classifier=sources
+- pkg:maven/com.lihaoyi/utest_0.27@0.7.5
+- pkg:maven/com.lihaoyi/utest_0.27@0.7.5?classifier=sources

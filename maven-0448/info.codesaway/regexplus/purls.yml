@@ -2,3 +2,5 @@
 - pkg:maven/info.codesaway/regexplus@1.0?classifier=sources
 - pkg:maven/info.codesaway/regexplus@1.1.0
 - pkg:maven/info.codesaway/regexplus@1.1.0?classifier=sources
+- pkg:maven/info.codesaway/regexplus@2.0.0
+- pkg:maven/info.codesaway/regexplus@2.0.0?classifier=sources

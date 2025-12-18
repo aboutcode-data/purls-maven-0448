@@ -112,3 +112,9 @@
 - pkg:maven/com.proofpoint.platform/openapi@2.32?classifier=sources
 - pkg:maven/com.proofpoint.platform/openapi@2.33
 - pkg:maven/com.proofpoint.platform/openapi@2.33?classifier=sources
+- pkg:maven/com.proofpoint.platform/openapi@2.34
+- pkg:maven/com.proofpoint.platform/openapi@2.34?classifier=sources
+- pkg:maven/com.proofpoint.platform/openapi@2.35
+- pkg:maven/com.proofpoint.platform/openapi@2.35?classifier=sources
+- pkg:maven/com.proofpoint.platform/openapi@2.36
+- pkg:maven/com.proofpoint.platform/openapi@2.36?classifier=sources

@@ -41,4 +41,6 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-ontology@2.0.2?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-ontology@2.0.4
 - pkg:maven/org.eurekaclinical/eurekaclinical-ontology@2.0.4?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-ontology@2.0.5
+- pkg:maven/org.eurekaclinical/eurekaclinical-ontology@2.0.5?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-ontology@2.0?classifier=sources

@@ -80,5 +80,9 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@7.1.7?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@7.1.8
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@7.1.8?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@7.1.9
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@7.1.9?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@8.0.0
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@8.0.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@8.0.1
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-bone@8.0.1?classifier=sources

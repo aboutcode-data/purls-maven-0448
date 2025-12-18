@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lukfor/magic-progress@0.3.2
+- pkg:maven/com.github.lukfor/magic-progress@0.3.2?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.apache.skywalking/skywalking-sharing-server-plugin@7.0.0
 - pkg:maven/org.apache.skywalking/skywalking-sharing-server-plugin@8.0.0
 - pkg:maven/org.apache.skywalking/skywalking-sharing-server-plugin@8.0.1
+- pkg:maven/org.apache.skywalking/skywalking-sharing-server-plugin@8.1.0

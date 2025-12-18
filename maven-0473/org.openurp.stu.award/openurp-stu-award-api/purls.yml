@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.stu.award/openurp-stu-award-api@0.18.0
+- pkg:maven/org.openurp.stu.award/openurp-stu-award-api@0.18.0?classifier=sources

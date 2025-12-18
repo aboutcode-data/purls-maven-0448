@@ -11,3 +11,7 @@
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.5.0?classifier=sources
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.6.0
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.6.0?classifier=sources
+- pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.7.0
+- pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.7.0?classifier=sources
+- pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.8.0
+- pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.8.0?classifier=sources

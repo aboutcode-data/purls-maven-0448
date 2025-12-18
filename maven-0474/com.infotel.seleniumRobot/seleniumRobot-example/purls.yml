@@ -1,1 +1,2 @@
 - pkg:maven/com.infotel.seleniumRobot/seleniumRobot-example@4.0.0?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/seleniumRobot-example@4.0.1?classifier=sources

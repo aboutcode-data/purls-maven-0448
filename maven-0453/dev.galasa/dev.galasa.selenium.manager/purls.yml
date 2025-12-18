@@ -1,3 +1,5 @@
+- pkg:maven/dev.galasa/dev.galasa.selenium.manager@0.10.0
+- pkg:maven/dev.galasa/dev.galasa.selenium.manager@0.10.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.selenium.manager@0.6.0
 - pkg:maven/dev.galasa/dev.galasa.selenium.manager@0.6.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.selenium.manager@0.7.0

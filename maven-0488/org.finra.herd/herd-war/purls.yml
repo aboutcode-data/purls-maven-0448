@@ -44,6 +44,14 @@
 - pkg:maven/org.finra.herd/herd-war@0.123.0?type=war
 - pkg:maven/org.finra.herd/herd-war@0.124.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-war@0.124.0?type=war
+- pkg:maven/org.finra.herd/herd-war@0.125.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-war@0.125.0?type=war
+- pkg:maven/org.finra.herd/herd-war@0.130.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-war@0.130.0?type=war
+- pkg:maven/org.finra.herd/herd-war@0.131.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-war@0.131.0?type=war
+- pkg:maven/org.finra.herd/herd-war@0.132.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-war@0.132.0?type=war
 - pkg:maven/org.finra.herd/herd-war@0.20.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-war@0.20.0?type=war
 - pkg:maven/org.finra.herd/herd-war@0.21.0?classifier=sources

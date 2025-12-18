@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/google-closure-compiler-js@20170423.0.0
 - pkg:maven/org.webjars.npm/google-closure-compiler-js@20170423.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/google-closure-compiler-js@20200518.0.0-nightly
+- pkg:maven/org.webjars.npm/google-closure-compiler-js@20200518.0.0-nightly?classifier=sources

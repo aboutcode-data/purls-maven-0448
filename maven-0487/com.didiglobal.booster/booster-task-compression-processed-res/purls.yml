@@ -12,6 +12,7 @@
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@1.5.1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@1.5.2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@1.5.3?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@1.5.4?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@1.6.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@1.7.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@1.7.1?classifier=sources
@@ -19,3 +20,8 @@
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@2.0.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@2.1.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@2.2.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@2.3.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@2.3.1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@2.3.2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@2.3.3?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-task-compression-processed-res@2.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.billzabob/play-json-extensions_2.12@0.42.1
+- pkg:maven/com.github.billzabob/play-json-extensions_2.12@0.42.1?classifier=sources

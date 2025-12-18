@@ -1,2 +1,7 @@
 - pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-dynamodb-wrapper@1.11.816
 - pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-dynamodb-wrapper@1.11.820
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-dynamodb-wrapper@1.11.834
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-dynamodb-wrapper@1.11.856
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-dynamodb-wrapper@1.11.867
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-dynamodb-wrapper@1.11.875
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-dynamodb-wrapper@1.11.876

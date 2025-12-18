@@ -10,3 +10,8 @@
 - pkg:maven/de.comhix.commons/updater@2.2.4?classifier=sources
 - pkg:maven/de.comhix.commons/updater@2.2.5
 - pkg:maven/de.comhix.commons/updater@2.2.5?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.0.172?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.1.173?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.1.174?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.1.175?classifier=sources
+- pkg:maven/de.comhix.commons/updater@3.1.177?classifier=sources

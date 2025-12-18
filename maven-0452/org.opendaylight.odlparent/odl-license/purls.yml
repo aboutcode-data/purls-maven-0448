@@ -54,6 +54,8 @@
 - pkg:maven/org.opendaylight.odlparent/odl-license@4.0.9
 - pkg:maven/org.opendaylight.odlparent/odl-license@5.0.0
 - pkg:maven/org.opendaylight.odlparent/odl-license@5.0.1
+- pkg:maven/org.opendaylight.odlparent/odl-license@5.0.10
+- pkg:maven/org.opendaylight.odlparent/odl-license@5.0.11
 - pkg:maven/org.opendaylight.odlparent/odl-license@5.0.2
 - pkg:maven/org.opendaylight.odlparent/odl-license@5.0.3
 - pkg:maven/org.opendaylight.odlparent/odl-license@5.0.4
@@ -61,3 +63,4 @@
 - pkg:maven/org.opendaylight.odlparent/odl-license@5.0.6
 - pkg:maven/org.opendaylight.odlparent/odl-license@5.0.7
 - pkg:maven/org.opendaylight.odlparent/odl-license@5.0.8
+- pkg:maven/org.opendaylight.odlparent/odl-license@5.0.9

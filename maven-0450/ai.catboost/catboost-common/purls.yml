@@ -1,0 +1,2 @@
+- pkg:maven/ai.catboost/catboost-common@0.24
+- pkg:maven/ai.catboost/catboost-common@0.24?classifier=sources

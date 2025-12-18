@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rayou/cdk-url-shortener@0.1.2
+- pkg:maven/com.github.rayou/cdk-url-shortener@0.1.2?classifier=sources

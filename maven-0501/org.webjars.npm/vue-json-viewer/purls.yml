@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue-json-viewer@2.2.14
+- pkg:maven/org.webjars.npm/vue-json-viewer@2.2.14?classifier=sources

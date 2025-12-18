@@ -1,0 +1,6 @@
+- pkg:maven/org.scalameta/mdoc_0.27@2.2.7
+- pkg:maven/org.scalameta/mdoc_0.27@2.2.7?classifier=sources
+- pkg:maven/org.scalameta/mdoc_0.27@2.2.8
+- pkg:maven/org.scalameta/mdoc_0.27@2.2.8?classifier=sources
+- pkg:maven/org.scalameta/mdoc_0.27@2.2.9
+- pkg:maven/org.scalameta/mdoc_0.27@2.2.9?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.vaadin/vaadin-time-picker-testbench@3.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-time-picker-testbench@3.1.0
 - pkg:maven/com.vaadin/vaadin-time-picker-testbench@3.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-time-picker-testbench@4.0.0
+- pkg:maven/com.vaadin/vaadin-time-picker-testbench@4.0.0?classifier=sources

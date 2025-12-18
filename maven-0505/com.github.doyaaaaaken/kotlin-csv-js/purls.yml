@@ -1,6 +1,8 @@
 - pkg:maven/com.github.doyaaaaaken/kotlin-csv-js@0.10.0?classifier=sources
 - pkg:maven/com.github.doyaaaaaken/kotlin-csv-js@0.10.1?classifier=sources
 - pkg:maven/com.github.doyaaaaaken/kotlin-csv-js@0.10.4?classifier=sources
+- pkg:maven/com.github.doyaaaaaken/kotlin-csv-js@0.11.0?classifier=sources
+- pkg:maven/com.github.doyaaaaaken/kotlin-csv-js@0.11.1?classifier=sources
 - pkg:maven/com.github.doyaaaaaken/kotlin-csv-js@0.7.2?classifier=sources
 - pkg:maven/com.github.doyaaaaaken/kotlin-csv-js@0.7.3?classifier=sources
 - pkg:maven/com.github.doyaaaaaken/kotlin-csv-js@0.8.0?classifier=sources

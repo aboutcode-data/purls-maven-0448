@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@10.0.0-M6?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@10.0.0-M7
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@10.0.0-M7?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@10.0.0-M8
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@10.0.0-M8?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.0
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.0?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.100
@@ -20,6 +22,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.104?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.105
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.105?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.106
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.106?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.11
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.11?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@7.0.12
@@ -329,6 +333,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.56?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.57
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.57?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.58
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.58?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.5?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.6
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@8.5.6?classifier=sources
@@ -422,6 +428,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.36?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.37
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.37?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.38
+- pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.38?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.4
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.4?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-annotations-api@9.0.5

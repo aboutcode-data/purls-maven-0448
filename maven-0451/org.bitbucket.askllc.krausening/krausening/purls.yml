@@ -10,3 +10,5 @@
 - pkg:maven/org.bitbucket.askllc.krausening/krausening@7?classifier=sources
 - pkg:maven/org.bitbucket.askllc.krausening/krausening@8
 - pkg:maven/org.bitbucket.askllc.krausening/krausening@8?classifier=sources
+- pkg:maven/org.bitbucket.askllc.krausening/krausening@9
+- pkg:maven/org.bitbucket.askllc.krausening/krausening@9?classifier=sources

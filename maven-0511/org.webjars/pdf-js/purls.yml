@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars/pdf-js@1.9.426
 - pkg:maven/org.webjars/pdf-js@2.1.266
 - pkg:maven/org.webjars/pdf-js@2.3.200
+- pkg:maven/org.webjars/pdf-js@2.5.207
+- pkg:maven/org.webjars/pdf-js@2.6.347

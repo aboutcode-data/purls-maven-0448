@@ -29,3 +29,6 @@
 - pkg:maven/com.google.mug/mug-benchmarks@4.3
 - pkg:maven/com.google.mug/mug-benchmarks@4.4
 - pkg:maven/com.google.mug/mug-benchmarks@4.5
+- pkg:maven/com.google.mug/mug-benchmarks@4.6
+- pkg:maven/com.google.mug/mug-benchmarks@4.7
+- pkg:maven/com.google.mug/mug-benchmarks@4.8

@@ -1,0 +1,4 @@
+- pkg:maven/com.budwk.nb/budwk-nutzboot-starter-swagger@6.1.0
+- pkg:maven/com.budwk.nb/budwk-nutzboot-starter-swagger@6.1.0?classifier=sources
+- pkg:maven/com.budwk.nb/budwk-nutzboot-starter-swagger@6.1.1
+- pkg:maven/com.budwk.nb/budwk-nutzboot-starter-swagger@6.1.1?classifier=sources

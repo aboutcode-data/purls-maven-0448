@@ -18,3 +18,5 @@
 - pkg:maven/com.sdl.web/content-ambient-model@8.5.0-1101?classifier=sources
 - pkg:maven/com.sdl.web/content-ambient-model@8.5.0-1132
 - pkg:maven/com.sdl.web/content-ambient-model@8.5.0-1132?classifier=sources
+- pkg:maven/com.sdl.web/content-ambient-model@8.5.0-1155
+- pkg:maven/com.sdl.web/content-ambient-model@8.5.0-1155?classifier=sources

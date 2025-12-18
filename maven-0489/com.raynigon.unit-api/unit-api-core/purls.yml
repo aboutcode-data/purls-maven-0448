@@ -1,0 +1,2 @@
+- pkg:maven/com.raynigon.unit-api/unit-api-core@1.0.0?classifier=sources
+- pkg:maven/com.raynigon.unit-api/unit-api-core@1.0.1?classifier=sources

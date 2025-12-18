@@ -11,6 +11,14 @@
 - pkg:maven/com.mparticle/android-plugin@5.14.0
 - pkg:maven/com.mparticle/android-plugin@5.14.0?classifier=sources
 - pkg:maven/com.mparticle/android-plugin@5.14.1
+- pkg:maven/com.mparticle/android-plugin@5.14.10
+- pkg:maven/com.mparticle/android-plugin@5.14.10?classifier=sources
+- pkg:maven/com.mparticle/android-plugin@5.14.11
+- pkg:maven/com.mparticle/android-plugin@5.14.11?classifier=sources
+- pkg:maven/com.mparticle/android-plugin@5.14.12
+- pkg:maven/com.mparticle/android-plugin@5.14.12?classifier=sources
+- pkg:maven/com.mparticle/android-plugin@5.14.13
+- pkg:maven/com.mparticle/android-plugin@5.14.13?classifier=sources
 - pkg:maven/com.mparticle/android-plugin@5.14.1?classifier=sources
 - pkg:maven/com.mparticle/android-plugin@5.14.2
 - pkg:maven/com.mparticle/android-plugin@5.14.2?classifier=sources
@@ -22,3 +30,7 @@
 - pkg:maven/com.mparticle/android-plugin@5.14.5?classifier=sources
 - pkg:maven/com.mparticle/android-plugin@5.14.6
 - pkg:maven/com.mparticle/android-plugin@5.14.6?classifier=sources
+- pkg:maven/com.mparticle/android-plugin@5.14.8
+- pkg:maven/com.mparticle/android-plugin@5.14.8?classifier=sources
+- pkg:maven/com.mparticle/android-plugin@5.14.9
+- pkg:maven/com.mparticle/android-plugin@5.14.9?classifier=sources

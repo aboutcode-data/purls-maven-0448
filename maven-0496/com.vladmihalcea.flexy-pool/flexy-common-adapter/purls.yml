@@ -26,3 +26,5 @@
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-common-adapter@2.1.2
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-common-adapter@2.2.0
 - pkg:maven/com.vladmihalcea.flexy-pool/flexy-common-adapter@2.2.1
+- pkg:maven/com.vladmihalcea.flexy-pool/flexy-common-adapter@2.2.2
+- pkg:maven/com.vladmihalcea.flexy-pool/flexy-common-adapter@2.2.3

@@ -38,3 +38,4 @@
 - pkg:maven/com.netflix.nebula/nebula-grails-plugin@5.0.3?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-grails-plugin@5.0.4
 - pkg:maven/com.netflix.nebula/nebula-grails-plugin@5.0.4?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-grails-plugin@5.1.0?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/io.apicurio/apicurio-data-models@1.1.3?classifier=sources
 - pkg:maven/io.apicurio/apicurio-data-models@1.1.4
 - pkg:maven/io.apicurio/apicurio-data-models@1.1.4?classifier=sources
+- pkg:maven/io.apicurio/apicurio-data-models@1.1.5
+- pkg:maven/io.apicurio/apicurio-data-models@1.1.5?classifier=sources

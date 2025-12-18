@@ -288,6 +288,8 @@
 - pkg:maven/io.nextflow/nextflow@20.01.0-rc1
 - pkg:maven/io.nextflow/nextflow@20.01.0-rc1?classifier=sources
 - pkg:maven/io.nextflow/nextflow@20.01.0?classifier=sources
+- pkg:maven/io.nextflow/nextflow@20.01.1
+- pkg:maven/io.nextflow/nextflow@20.01.1?classifier=sources
 - pkg:maven/io.nextflow/nextflow@20.02.0-edge
 - pkg:maven/io.nextflow/nextflow@20.02.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nextflow@20.03.0-edge
@@ -306,3 +308,15 @@
 - pkg:maven/io.nextflow/nextflow@20.05.0?classifier=sources
 - pkg:maven/io.nextflow/nextflow@20.06.0-edge
 - pkg:maven/io.nextflow/nextflow@20.06.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nextflow@20.07.0
+- pkg:maven/io.nextflow/nextflow@20.07.0-RC1
+- pkg:maven/io.nextflow/nextflow@20.07.0-RC1?classifier=sources
+- pkg:maven/io.nextflow/nextflow@20.07.0?classifier=sources
+- pkg:maven/io.nextflow/nextflow@20.07.1
+- pkg:maven/io.nextflow/nextflow@20.07.1?classifier=sources
+- pkg:maven/io.nextflow/nextflow@20.08.0-edge
+- pkg:maven/io.nextflow/nextflow@20.08.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nextflow@20.08.1-edge
+- pkg:maven/io.nextflow/nextflow@20.08.1-edge?classifier=sources
+- pkg:maven/io.nextflow/nextflow@20.09.0-edge
+- pkg:maven/io.nextflow/nextflow@20.09.0-edge?classifier=sources

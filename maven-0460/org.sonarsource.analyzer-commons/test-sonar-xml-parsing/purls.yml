@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.12.0.632
+- pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.12.0.632?classifier=sources

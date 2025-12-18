@@ -1,0 +1,4 @@
+- pkg:maven/com.thirtyai/nezha-sentinel-starter@0.4.8-202x207-RELEASE
+- pkg:maven/com.thirtyai/nezha-sentinel-starter@0.4.8-202x207-RELEASE?classifier=sources
+- pkg:maven/com.thirtyai/nezha-sentinel-starter@0.4.9-202x207-RELEASE
+- pkg:maven/com.thirtyai/nezha-sentinel-starter@0.4.9-202x207-RELEASE?classifier=sources

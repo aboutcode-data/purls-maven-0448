@@ -1,1 +1,3 @@
 - pkg:maven/com.github.guilhe/styling-lint@1.0.0?classifier=sources
+- pkg:maven/com.github.guilhe/styling-lint@2.0.0?classifier=sources
+- pkg:maven/com.github.guilhe/styling-lint@2.0.0?type=aar

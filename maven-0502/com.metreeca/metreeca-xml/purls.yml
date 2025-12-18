@@ -1,0 +1,2 @@
+- pkg:maven/com.metreeca/metreeca-xml@0.53.0
+- pkg:maven/com.metreeca/metreeca-xml@0.53.0?classifier=sources

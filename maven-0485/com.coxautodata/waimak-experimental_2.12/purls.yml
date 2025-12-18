@@ -12,3 +12,7 @@
 - pkg:maven/com.coxautodata/waimak-experimental_2.12@2.7
 - pkg:maven/com.coxautodata/waimak-experimental_2.12@2.8
 - pkg:maven/com.coxautodata/waimak-experimental_2.12@2.8.1
+- pkg:maven/com.coxautodata/waimak-experimental_2.12@2.8.2
+- pkg:maven/com.coxautodata/waimak-experimental_2.12@2.8.3
+- pkg:maven/com.coxautodata/waimak-experimental_2.12@2.8.4
+- pkg:maven/com.coxautodata/waimak-experimental_2.12@2.8.5

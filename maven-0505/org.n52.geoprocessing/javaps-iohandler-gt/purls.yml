@@ -4,3 +4,5 @@
 - pkg:maven/org.n52.geoprocessing/javaps-iohandler-gt@1.4.0?classifier=sources
 - pkg:maven/org.n52.geoprocessing/javaps-iohandler-gt@2
 - pkg:maven/org.n52.geoprocessing/javaps-iohandler-gt@2?classifier=sources
+- pkg:maven/org.n52.geoprocessing/javaps-iohandler-gt@3
+- pkg:maven/org.n52.geoprocessing/javaps-iohandler-gt@3?classifier=sources

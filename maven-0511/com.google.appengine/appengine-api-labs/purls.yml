@@ -116,4 +116,6 @@
 - pkg:maven/com.google.appengine/appengine-api-labs@1.9.79
 - pkg:maven/com.google.appengine/appengine-api-labs@1.9.8
 - pkg:maven/com.google.appengine/appengine-api-labs@1.9.80
+- pkg:maven/com.google.appengine/appengine-api-labs@1.9.81
+- pkg:maven/com.google.appengine/appengine-api-labs@1.9.82
 - pkg:maven/com.google.appengine/appengine-api-labs@1.9.9

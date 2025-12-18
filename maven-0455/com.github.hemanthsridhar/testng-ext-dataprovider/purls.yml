@@ -1,2 +1,4 @@
 - pkg:maven/com.github.hemanthsridhar/testng-ext-dataprovider@1.0
 - pkg:maven/com.github.hemanthsridhar/testng-ext-dataprovider@1.0?classifier=sources
+- pkg:maven/com.github.hemanthsridhar/testng-ext-dataprovider@8.0
+- pkg:maven/com.github.hemanthsridhar/testng-ext-dataprovider@8.0?classifier=sources

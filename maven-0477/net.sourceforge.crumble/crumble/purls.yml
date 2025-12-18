@@ -26,6 +26,7 @@
 - pkg:maven/net.sourceforge.crumble/crumble@0.21?classifier=sources
 - pkg:maven/net.sourceforge.crumble/crumble@0.22?classifier=sources
 - pkg:maven/net.sourceforge.crumble/crumble@0.23?classifier=sources
+- pkg:maven/net.sourceforge.crumble/crumble@0.24?classifier=sources
 - pkg:maven/net.sourceforge.crumble/crumble@0.2?classifier=sources
 - pkg:maven/net.sourceforge.crumble/crumble@0.3
 - pkg:maven/net.sourceforge.crumble/crumble@0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.avionos.aem.veneer/veneer-api@0.1.0
+- pkg:maven/com.avionos.aem.veneer/veneer-api@0.1.0?classifier=sources

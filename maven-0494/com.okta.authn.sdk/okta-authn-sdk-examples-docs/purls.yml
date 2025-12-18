@@ -6,3 +6,5 @@
 - pkg:maven/com.okta.authn.sdk/okta-authn-sdk-examples-docs@0.4.0?classifier=sources
 - pkg:maven/com.okta.authn.sdk/okta-authn-sdk-examples-docs@1.0.0
 - pkg:maven/com.okta.authn.sdk/okta-authn-sdk-examples-docs@1.0.0?classifier=sources
+- pkg:maven/com.okta.authn.sdk/okta-authn-sdk-examples-docs@2.0.0
+- pkg:maven/com.okta.authn.sdk/okta-authn-sdk-examples-docs@2.0.0?classifier=sources

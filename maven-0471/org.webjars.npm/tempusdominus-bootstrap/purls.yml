@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/tempusdominus-bootstrap@5.23.0
 - pkg:maven/org.webjars.npm/tempusdominus-bootstrap@5.23.0?classifier=sources
+- pkg:maven/org.webjars.npm/tempusdominus-bootstrap@5.32.0
+- pkg:maven/org.webjars.npm/tempusdominus-bootstrap@5.32.0?classifier=sources
+- pkg:maven/org.webjars.npm/tempusdominus-bootstrap@5.32.1
+- pkg:maven/org.webjars.npm/tempusdominus-bootstrap@5.32.1?classifier=sources

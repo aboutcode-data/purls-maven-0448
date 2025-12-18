@@ -1,0 +1,2 @@
+- pkg:maven/org.iharu.crypto/iharu-cryptography@0.1.0-beta
+- pkg:maven/org.iharu.crypto/iharu-cryptography@0.1.0-beta?classifier=sources

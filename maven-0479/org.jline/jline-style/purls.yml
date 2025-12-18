@@ -20,6 +20,8 @@
 - pkg:maven/org.jline/jline-style@3.14.1?classifier=sources
 - pkg:maven/org.jline/jline-style@3.15.0
 - pkg:maven/org.jline/jline-style@3.15.0?classifier=sources
+- pkg:maven/org.jline/jline-style@3.16.0
+- pkg:maven/org.jline/jline-style@3.16.0?classifier=sources
 - pkg:maven/org.jline/jline-style@3.4.0
 - pkg:maven/org.jline/jline-style@3.4.0?classifier=sources
 - pkg:maven/org.jline/jline-style@3.5.0

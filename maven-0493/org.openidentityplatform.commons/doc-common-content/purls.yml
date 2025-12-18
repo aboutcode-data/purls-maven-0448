@@ -1,0 +1,2 @@
+- pkg:maven/org.openidentityplatform.commons/doc-common-content@2.0.7
+- pkg:maven/org.openidentityplatform.commons/doc-common-content@2.0.7?classifier=sources

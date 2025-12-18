@@ -56,3 +56,5 @@
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client@2.2.8?classifier=sources
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client@2.2.9
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-client@2.2.9?classifier=sources
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-client@2.3.0
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-client@2.3.0?classifier=sources

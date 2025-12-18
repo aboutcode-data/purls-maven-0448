@@ -5,4 +5,6 @@
 - pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE113
 - pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE120
 - pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE120-1
+- pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE120-u1
+- pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE121
 - pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE90

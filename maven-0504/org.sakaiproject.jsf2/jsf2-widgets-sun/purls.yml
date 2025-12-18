@@ -8,6 +8,8 @@
 - pkg:maven/org.sakaiproject.jsf2/jsf2-widgets-sun@19.3?classifier=sources
 - pkg:maven/org.sakaiproject.jsf2/jsf2-widgets-sun@19.4
 - pkg:maven/org.sakaiproject.jsf2/jsf2-widgets-sun@19.4?classifier=sources
+- pkg:maven/org.sakaiproject.jsf2/jsf2-widgets-sun@19.5
+- pkg:maven/org.sakaiproject.jsf2/jsf2-widgets-sun@19.5?classifier=sources
 - pkg:maven/org.sakaiproject.jsf2/jsf2-widgets-sun@20.0
 - pkg:maven/org.sakaiproject.jsf2/jsf2-widgets-sun@20.0?classifier=sources
 - pkg:maven/org.sakaiproject.jsf2/jsf2-widgets-sun@20.1

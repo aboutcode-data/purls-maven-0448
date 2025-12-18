@@ -1,0 +1,2 @@
+- pkg:maven/com.disneystreaming/weaver-monixBio_sjs1_2.13@0.5.0-RC2
+- pkg:maven/com.disneystreaming/weaver-monixBio_sjs1_2.13@0.5.0-RC2?classifier=sources

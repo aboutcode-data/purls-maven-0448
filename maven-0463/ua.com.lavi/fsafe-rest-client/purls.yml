@@ -1,0 +1,4 @@
+- pkg:maven/ua.com.lavi/fsafe-rest-client@1.0.0
+- pkg:maven/ua.com.lavi/fsafe-rest-client@1.0.0?classifier=sources
+- pkg:maven/ua.com.lavi/fsafe-rest-client@1.0.1
+- pkg:maven/ua.com.lavi/fsafe-rest-client@1.0.1?classifier=sources

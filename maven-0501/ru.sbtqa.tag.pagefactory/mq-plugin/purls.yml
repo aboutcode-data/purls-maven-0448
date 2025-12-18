@@ -88,5 +88,11 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.4.8?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.5.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.5.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.6.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.6.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.7.2
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.7.2?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.8.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@15.8.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@4.9.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@4.9.0?classifier=sources

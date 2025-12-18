@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-monix_2.12@3.0.0-RC4
+- pkg:maven/com.softwaremill.sttp.client3/async-http-client-backend-monix_2.12@3.0.0-RC4?classifier=sources

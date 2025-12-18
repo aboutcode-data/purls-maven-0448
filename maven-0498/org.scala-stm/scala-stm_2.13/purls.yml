@@ -1,2 +1,4 @@
+- pkg:maven/org.scala-stm/scala-stm_2.13@0.10.0
+- pkg:maven/org.scala-stm/scala-stm_2.13@0.10.0?classifier=sources
 - pkg:maven/org.scala-stm/scala-stm_2.13@0.9.1
 - pkg:maven/org.scala-stm/scala-stm_2.13@0.9.1?classifier=sources

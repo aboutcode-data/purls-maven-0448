@@ -9,3 +9,13 @@
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.1.22?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.1.23?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.4.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/identity-agent-sso@5.5.9?classifier=source-release&type=zip

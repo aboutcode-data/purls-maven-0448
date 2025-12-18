@@ -17,3 +17,4 @@
 - pkg:maven/org.odpi.egeria/open-metadata-assemblies@1.8
 - pkg:maven/org.odpi.egeria/open-metadata-assemblies@1.8?classifier=sources
 - pkg:maven/org.odpi.egeria/open-metadata-assemblies@2.0
+- pkg:maven/org.odpi.egeria/open-metadata-assemblies@2.1

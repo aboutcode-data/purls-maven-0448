@@ -1,4 +1,7 @@
+- pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-macosx64@0.10.0?classifier=sources
+- pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-macosx64@0.10.2?classifier=sources
 - pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-macosx64@0.9.28?classifier=sources
 - pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-macosx64@0.9.29?classifier=sources
 - pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-macosx64@0.9.30?classifier=sources
 - pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-macosx64@0.9.31?classifier=sources
+- pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-macosx64@0.9.32?classifier=sources

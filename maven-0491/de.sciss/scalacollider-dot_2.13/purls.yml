@@ -2,3 +2,5 @@
 - pkg:maven/de.sciss/scalacollider-dot_2.13@0.10.3?classifier=sources
 - pkg:maven/de.sciss/scalacollider-dot_2.13@0.10.4
 - pkg:maven/de.sciss/scalacollider-dot_2.13@0.10.4?classifier=sources
+- pkg:maven/de.sciss/scalacollider-dot_2.13@1.0.0
+- pkg:maven/de.sciss/scalacollider-dot_2.13@1.0.0?classifier=sources

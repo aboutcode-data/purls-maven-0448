@@ -1,0 +1,2 @@
+- pkg:maven/ch.softappeal.yass2/yass2-reflect-metadata@6.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-reflect-metadata@6.1.0?classifier=sources

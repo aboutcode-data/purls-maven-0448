@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.geode/spring-geode-bom@1.3.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.geode/spring-geode-bom@1.3.4.RELEASE?classifier=sources

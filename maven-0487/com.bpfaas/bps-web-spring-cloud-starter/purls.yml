@@ -1,0 +1,2 @@
+- pkg:maven/com.bpfaas/bps-web-spring-cloud-starter@0.0.3
+- pkg:maven/com.bpfaas/bps-web-spring-cloud-starter@0.0.3?classifier=sources

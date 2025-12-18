@@ -13,3 +13,7 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-reactjs-default-components@1.40.2
 - pkg:maven/org.testingisdocumenting.znai/znai-reactjs-default-components@1.41
 - pkg:maven/org.testingisdocumenting.znai/znai-reactjs-default-components@1.42
+- pkg:maven/org.testingisdocumenting.znai/znai-reactjs-default-components@1.43
+- pkg:maven/org.testingisdocumenting.znai/znai-reactjs-default-components@1.43.1
+- pkg:maven/org.testingisdocumenting.znai/znai-reactjs-default-components@1.44
+- pkg:maven/org.testingisdocumenting.znai/znai-reactjs-default-components@1.45.1

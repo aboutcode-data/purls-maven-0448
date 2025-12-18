@@ -82,3 +82,7 @@
 - pkg:maven/org.craftercms/crafter-commons-git@3.1.8?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-git@3.1.8E
 - pkg:maven/org.craftercms/crafter-commons-git@3.1.8E?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-git@3.1.9
+- pkg:maven/org.craftercms/crafter-commons-git@3.1.9?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-git@3.1.9E
+- pkg:maven/org.craftercms/crafter-commons-git@3.1.9E?classifier=sources

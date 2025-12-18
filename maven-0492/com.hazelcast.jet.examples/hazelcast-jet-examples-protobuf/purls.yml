@@ -2,3 +2,5 @@
 - pkg:maven/com.hazelcast.jet.examples/hazelcast-jet-examples-protobuf@4.1.1
 - pkg:maven/com.hazelcast.jet.examples/hazelcast-jet-examples-protobuf@4.1.1?classifier=sources
 - pkg:maven/com.hazelcast.jet.examples/hazelcast-jet-examples-protobuf@4.1?classifier=sources
+- pkg:maven/com.hazelcast.jet.examples/hazelcast-jet-examples-protobuf@4.2
+- pkg:maven/com.hazelcast.jet.examples/hazelcast-jet-examples-protobuf@4.2?classifier=sources

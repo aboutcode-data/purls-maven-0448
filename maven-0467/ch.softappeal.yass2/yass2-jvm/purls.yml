@@ -19,3 +19,4 @@
 - pkg:maven/ch.softappeal.yass2/yass2-jvm@2.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-jvm@3.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-jvm@4.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-jvm@5.0.0?classifier=sources

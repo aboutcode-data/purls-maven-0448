@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/tensorflow__tfjs-converter@1.1.2
 - pkg:maven/org.webjars.npm/tensorflow__tfjs-converter@1.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/tensorflow__tfjs-converter@1.2.11
+- pkg:maven/org.webjars.npm/tensorflow__tfjs-converter@1.2.11?classifier=sources
 - pkg:maven/org.webjars.npm/tensorflow__tfjs-converter@1.6.0
 - pkg:maven/org.webjars.npm/tensorflow__tfjs-converter@1.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/tensorflow__tfjs-converter@1.7.0

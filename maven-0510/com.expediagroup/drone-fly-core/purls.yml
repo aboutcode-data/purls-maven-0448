@@ -1,0 +1,2 @@
+- pkg:maven/com.expediagroup/drone-fly-core@0.0.1
+- pkg:maven/com.expediagroup/drone-fly-core@0.0.1?classifier=sources

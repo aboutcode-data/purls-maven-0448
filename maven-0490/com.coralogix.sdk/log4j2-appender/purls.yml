@@ -6,3 +6,5 @@
 - pkg:maven/com.coralogix.sdk/log4j2-appender@2.0.2?classifier=sources
 - pkg:maven/com.coralogix.sdk/log4j2-appender@2.0.3
 - pkg:maven/com.coralogix.sdk/log4j2-appender@2.0.3?classifier=sources
+- pkg:maven/com.coralogix.sdk/log4j2-appender@2.0.4
+- pkg:maven/com.coralogix.sdk/log4j2-appender@2.0.4?classifier=sources

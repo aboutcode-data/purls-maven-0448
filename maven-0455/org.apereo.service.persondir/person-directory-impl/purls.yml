@@ -30,6 +30,7 @@
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@1.8.8?classifier=sources
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@1.8.9
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@1.8.9?classifier=sources
+- pkg:maven/org.apereo.service.persondir/person-directory-impl@2.0.0
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@2.0.0-RC1
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@2.0.0-RC1?classifier=sources
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@2.0.0-RC2
@@ -46,3 +47,4 @@
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@2.0.0-RC7?classifier=sources
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@2.0.0-RC8
 - pkg:maven/org.apereo.service.persondir/person-directory-impl@2.0.0-RC8?classifier=sources
+- pkg:maven/org.apereo.service.persondir/person-directory-impl@2.0.0?classifier=sources

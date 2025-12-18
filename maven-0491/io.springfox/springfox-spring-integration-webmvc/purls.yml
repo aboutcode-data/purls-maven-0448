@@ -10,3 +10,5 @@
 - pkg:maven/io.springfox/springfox-spring-integration-webmvc@2.10.4?classifier=sources
 - pkg:maven/io.springfox/springfox-spring-integration-webmvc@2.10.5
 - pkg:maven/io.springfox/springfox-spring-integration-webmvc@2.10.5?classifier=sources
+- pkg:maven/io.springfox/springfox-spring-integration-webmvc@3.0.0
+- pkg:maven/io.springfox/springfox-spring-integration-webmvc@3.0.0?classifier=sources

@@ -47,3 +47,4 @@
 - pkg:maven/org.xbib/marc@2.1.0
 - pkg:maven/org.xbib/marc@2.1.0?classifier=sources
 - pkg:maven/org.xbib/marc@2.3.0?classifier=sources
+- pkg:maven/org.xbib/marc@2.3.1?classifier=sources

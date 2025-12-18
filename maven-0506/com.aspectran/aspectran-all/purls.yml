@@ -254,3 +254,7 @@
 - pkg:maven/com.aspectran/aspectran-all@6.9.2?classifier=sources
 - pkg:maven/com.aspectran/aspectran-all@6.9.3
 - pkg:maven/com.aspectran/aspectran-all@6.9.3?classifier=sources
+- pkg:maven/com.aspectran/aspectran-all@6.9.4
+- pkg:maven/com.aspectran/aspectran-all@6.9.4?classifier=sources
+- pkg:maven/com.aspectran/aspectran-all@6.9.5
+- pkg:maven/com.aspectran/aspectran-all@6.9.5?classifier=sources

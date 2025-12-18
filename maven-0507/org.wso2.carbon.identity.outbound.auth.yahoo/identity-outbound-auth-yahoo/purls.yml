@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.yahoo/identity-outbound-auth-yahoo@5.1.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.yahoo/identity-outbound-auth-yahoo@5.1.7?classifier=source-release&type=zip

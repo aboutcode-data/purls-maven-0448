@@ -1,0 +1,2 @@
+- pkg:maven/br.com.anteros/br.com.anteros.mqtt.utility@1.2.2
+- pkg:maven/br.com.anteros/br.com.anteros.mqtt.utility@1.2.2?classifier=sources

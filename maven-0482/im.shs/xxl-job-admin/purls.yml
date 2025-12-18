@@ -1,0 +1,2 @@
+- pkg:maven/im.shs/xxl-job-admin@3.0.0.0
+- pkg:maven/im.shs/xxl-job-admin@3.0.0.0?classifier=sources

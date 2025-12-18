@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-prometheus-exporter@7.1.9
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-prometheus-exporter@7.1.9?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-prometheus-exporter@8.0.1
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-prometheus-exporter@8.0.1?classifier=sources

@@ -16,3 +16,9 @@
 - pkg:maven/com.linecorp.armeria/armeria-bucket4j@0.99.7?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-bucket4j@0.99.8
 - pkg:maven/com.linecorp.armeria/armeria-bucket4j@0.99.8?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-bucket4j@0.99.9
+- pkg:maven/com.linecorp.armeria/armeria-bucket4j@0.99.9?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-bucket4j@1.0.0
+- pkg:maven/com.linecorp.armeria/armeria-bucket4j@1.0.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-bucket4j@1.1.0
+- pkg:maven/com.linecorp.armeria/armeria-bucket4j@1.1.0?classifier=sources

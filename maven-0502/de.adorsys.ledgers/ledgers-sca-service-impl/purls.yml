@@ -83,6 +83,8 @@
 - pkg:maven/de.adorsys.ledgers/ledgers-sca-service-impl@3.0.3?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-sca-service-impl@3.0?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-sca-service-impl@3.1
+- pkg:maven/de.adorsys.ledgers/ledgers-sca-service-impl@3.10
+- pkg:maven/de.adorsys.ledgers/ledgers-sca-service-impl@3.10?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-sca-service-impl@3.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/ledgers-sca-service-impl@3.2
 - pkg:maven/de.adorsys.ledgers/ledgers-sca-service-impl@3.2?classifier=sources

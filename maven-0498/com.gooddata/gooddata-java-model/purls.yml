@@ -20,3 +20,7 @@
 - pkg:maven/com.gooddata/gooddata-java-model@3.0.0-RC.9%2Bapi3?classifier=sources
 - pkg:maven/com.gooddata/gooddata-java-model@3.0.1%2Bapi3
 - pkg:maven/com.gooddata/gooddata-java-model@3.0.1%2Bapi3?classifier=sources
+- pkg:maven/com.gooddata/gooddata-java-model@3.1.0%2Bapi3
+- pkg:maven/com.gooddata/gooddata-java-model@3.1.0%2Bapi3?classifier=sources
+- pkg:maven/com.gooddata/gooddata-java-model@3.2.0%2Bapi3
+- pkg:maven/com.gooddata/gooddata-java-model@3.2.0%2Bapi3?classifier=sources

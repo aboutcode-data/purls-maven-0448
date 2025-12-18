@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mvysny.kaributesting/karibu-testing-v10-spring@1.2.5
+- pkg:maven/com.github.mvysny.kaributesting/karibu-testing-v10-spring@1.2.5?classifier=sources

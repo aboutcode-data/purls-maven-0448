@@ -12,3 +12,7 @@
 - pkg:maven/za.co.absa.spline/rest-gateway@0.5.2?type=war
 - pkg:maven/za.co.absa.spline/rest-gateway@0.5.3?classifier=sources
 - pkg:maven/za.co.absa.spline/rest-gateway@0.5.3?type=war
+- pkg:maven/za.co.absa.spline/rest-gateway@0.5.4?classifier=sources
+- pkg:maven/za.co.absa.spline/rest-gateway@0.5.4?type=war
+- pkg:maven/za.co.absa.spline/rest-gateway@0.5.5?classifier=sources
+- pkg:maven/za.co.absa.spline/rest-gateway@0.5.5?type=war

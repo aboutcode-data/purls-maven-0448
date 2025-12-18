@@ -275,6 +275,11 @@
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.10.2?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.10.3?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.10.4?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.10.5?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.11.0?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.11.1?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.11.2?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.12.0?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.2.0
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.2.0?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@5.2.1

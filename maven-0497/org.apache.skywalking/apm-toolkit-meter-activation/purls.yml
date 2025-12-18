@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-toolkit-meter-activation@8.1.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-meter-activation@8.1.0?classifier=sources

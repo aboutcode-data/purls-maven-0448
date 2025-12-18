@@ -1,0 +1,4 @@
+- pkg:maven/io.joyrpc/joyrpc-transport-resteasy@1.2.0-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-transport-resteasy@1.2.0-RELEASE?classifier=sources
+- pkg:maven/io.joyrpc/joyrpc-transport-resteasy@1.3.0-RELEASE
+- pkg:maven/io.joyrpc/joyrpc-transport-resteasy@1.3.0-RELEASE?classifier=sources

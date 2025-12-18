@@ -1,0 +1,2 @@
+- pkg:maven/org.piwik.java.tracking/matomo-java-tracker@1.5
+- pkg:maven/org.piwik.java.tracking/matomo-java-tracker@1.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.reactjs/react-bower@15.6.1
 - pkg:maven/org.webjars.bowergithub.reactjs/react-bower@15.6.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.reactjs/react-bower@16.1.0
+- pkg:maven/org.webjars.bowergithub.reactjs/react-bower@16.1.0?classifier=sources

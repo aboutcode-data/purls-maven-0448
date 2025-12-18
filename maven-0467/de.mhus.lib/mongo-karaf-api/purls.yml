@@ -4,3 +4,5 @@
 - pkg:maven/de.mhus.lib/mongo-karaf-api@6.3.0?classifier=sources
 - pkg:maven/de.mhus.lib/mongo-karaf-api@7.0.0
 - pkg:maven/de.mhus.lib/mongo-karaf-api@7.0.0?classifier=sources
+- pkg:maven/de.mhus.lib/mongo-karaf-api@7.1.0
+- pkg:maven/de.mhus.lib/mongo-karaf-api@7.1.0?classifier=sources

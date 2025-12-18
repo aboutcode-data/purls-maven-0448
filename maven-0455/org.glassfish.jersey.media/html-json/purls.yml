@@ -67,6 +67,8 @@
 - pkg:maven/org.glassfish.jersey.media/html-json@2.30?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/html-json@2.31
 - pkg:maven/org.glassfish.jersey.media/html-json@2.31?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/html-json@2.32
+- pkg:maven/org.glassfish.jersey.media/html-json@2.32?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/html-json@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/html-json@2.4
 - pkg:maven/org.glassfish.jersey.media/html-json@2.4.1

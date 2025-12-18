@@ -37,3 +37,8 @@
 - pkg:maven/io.prestosql/presto-kudu@336?classifier=sources
 - pkg:maven/io.prestosql/presto-kudu@337?classifier=sources
 - pkg:maven/io.prestosql/presto-kudu@338?classifier=sources
+- pkg:maven/io.prestosql/presto-kudu@339?classifier=sources
+- pkg:maven/io.prestosql/presto-kudu@340?classifier=sources
+- pkg:maven/io.prestosql/presto-kudu@341?classifier=sources
+- pkg:maven/io.prestosql/presto-kudu@342?classifier=sources
+- pkg:maven/io.prestosql/presto-kudu@343?classifier=sources

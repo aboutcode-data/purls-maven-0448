@@ -1,0 +1,4 @@
+- pkg:maven/com.heliorm/generate-model-plugin@0.71
+- pkg:maven/com.heliorm/generate-model-plugin@0.71?classifier=sources
+- pkg:maven/com.heliorm/generate-model-plugin@0.72
+- pkg:maven/com.heliorm/generate-model-plugin@0.72?classifier=sources

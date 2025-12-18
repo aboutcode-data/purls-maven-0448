@@ -53,3 +53,4 @@
 - pkg:maven/org.ldaptive/ldaptive@2.0.0-RC4
 - pkg:maven/org.ldaptive/ldaptive@2.0.0-RC4?classifier=sources
 - pkg:maven/org.ldaptive/ldaptive@2.0.0-RC5?classifier=sources
+- pkg:maven/org.ldaptive/ldaptive@2.0.0?classifier=sources

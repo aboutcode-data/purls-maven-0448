@@ -6,3 +6,5 @@
 - pkg:maven/org.iota/jota@1.0.0-beta7?classifier=sources
 - pkg:maven/org.iota/jota@1.0.0-beta8
 - pkg:maven/org.iota/jota@1.0.0-beta8?classifier=sources
+- pkg:maven/org.iota/jota@1.0.0-beta9
+- pkg:maven/org.iota/jota@1.0.0-beta9?classifier=sources

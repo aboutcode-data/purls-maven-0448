@@ -19,3 +19,4 @@
 - pkg:maven/org.robotframework/swinglibrary@1.9.7
 - pkg:maven/org.robotframework/swinglibrary@1.9.8
 - pkg:maven/org.robotframework/swinglibrary@1.9.9
+- pkg:maven/org.robotframework/swinglibrary@2.0.0

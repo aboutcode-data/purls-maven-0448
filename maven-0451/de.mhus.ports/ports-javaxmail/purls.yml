@@ -12,3 +12,5 @@
 - pkg:maven/de.mhus.ports/ports-javaxmail@6.2.0?classifier=sources
 - pkg:maven/de.mhus.ports/ports-javaxmail@7.0.0
 - pkg:maven/de.mhus.ports/ports-javaxmail@7.0.0?classifier=sources
+- pkg:maven/de.mhus.ports/ports-javaxmail@7.1.0
+- pkg:maven/de.mhus.ports/ports-javaxmail@7.1.0?classifier=sources

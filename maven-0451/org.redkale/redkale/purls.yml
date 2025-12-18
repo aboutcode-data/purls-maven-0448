@@ -57,3 +57,4 @@
 - pkg:maven/org.redkale/redkale@2.0.0.rc3?classifier=sources
 - pkg:maven/org.redkale/redkale@2.0.0.rc4?classifier=sources
 - pkg:maven/org.redkale/redkale@2.0.0?classifier=sources
+- pkg:maven/org.redkale/redkale@2.1.0?classifier=sources
