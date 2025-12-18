@@ -24,6 +24,10 @@
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.11.0?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.12.0
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.12.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-pebble@6.13.0
+- pkg:maven/com.aspectran/aspectran-with-pebble@6.13.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-pebble@6.13.1
+- pkg:maven/com.aspectran/aspectran-with-pebble@6.13.1?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.2.0
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.2.0-M1
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.2.0-M1?classifier=sources
@@ -162,3 +166,9 @@
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.9.8?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.9.9
 - pkg:maven/com.aspectran/aspectran-with-pebble@6.9.9?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-pebble@7.0.0
+- pkg:maven/com.aspectran/aspectran-with-pebble@7.0.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-pebble@7.0.1
+- pkg:maven/com.aspectran/aspectran-with-pebble@7.0.1?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-pebble@7.0.2
+- pkg:maven/com.aspectran/aspectran-with-pebble@7.0.2?classifier=sources

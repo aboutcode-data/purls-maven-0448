@@ -3,4 +3,6 @@
 - pkg:maven/org.atp-fivt/ljv@1.01?classifier=sources
 - pkg:maven/org.atp-fivt/ljv@1.02
 - pkg:maven/org.atp-fivt/ljv@1.02?classifier=sources
+- pkg:maven/org.atp-fivt/ljv@1.03
+- pkg:maven/org.atp-fivt/ljv@1.03?classifier=sources
 - pkg:maven/org.atp-fivt/ljv@1.0?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/com.twitter/util-cache-guava_2.12@21.1.0?classifier=sources
 - pkg:maven/com.twitter/util-cache-guava_2.12@21.2.0
 - pkg:maven/com.twitter/util-cache-guava_2.12@21.2.0?classifier=sources
+- pkg:maven/com.twitter/util-cache-guava_2.12@21.3.0
+- pkg:maven/com.twitter/util-cache-guava_2.12@21.3.0?classifier=sources

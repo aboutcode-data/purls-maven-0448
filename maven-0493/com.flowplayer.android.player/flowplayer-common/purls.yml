@@ -1,0 +1,4 @@
+- pkg:maven/com.flowplayer.android.player/flowplayer-common@1.3.1?classifier=sources
+- pkg:maven/com.flowplayer.android.player/flowplayer-common@1.3.2?classifier=sources
+- pkg:maven/com.flowplayer.android.player/flowplayer-common@1.3.2_beta01?classifier=sources
+- pkg:maven/com.flowplayer.android.player/flowplayer-common@1.3.3_beta01?classifier=sources

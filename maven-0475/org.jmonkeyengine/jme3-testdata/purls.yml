@@ -1,0 +1,10 @@
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-alpha3
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-alpha3?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-alpha4
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-alpha4?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-alpha6
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-alpha6?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-alpha7
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-alpha7?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-beta1
+- pkg:maven/org.jmonkeyengine/jme3-testdata@3.4.0-beta1?classifier=sources

@@ -30,3 +30,7 @@
 - pkg:maven/com.heliorm/generate-model-plugin@0.86?classifier=sources
 - pkg:maven/com.heliorm/generate-model-plugin@0.87
 - pkg:maven/com.heliorm/generate-model-plugin@0.87?classifier=sources
+- pkg:maven/com.heliorm/generate-model-plugin@0.88
+- pkg:maven/com.heliorm/generate-model-plugin@0.88?classifier=sources
+- pkg:maven/com.heliorm/generate-model-plugin@0.89
+- pkg:maven/com.heliorm/generate-model-plugin@0.89?classifier=sources

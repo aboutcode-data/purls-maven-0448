@@ -64,6 +64,10 @@
 - pkg:maven/net.officefloor.server/officeserver_netty@3.31.0?classifier=sources
 - pkg:maven/net.officefloor.server/officeserver_netty@3.32.0
 - pkg:maven/net.officefloor.server/officeserver_netty@3.32.0?classifier=sources
+- pkg:maven/net.officefloor.server/officeserver_netty@3.33.0
+- pkg:maven/net.officefloor.server/officeserver_netty@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.server/officeserver_netty@3.34.0
+- pkg:maven/net.officefloor.server/officeserver_netty@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.server/officeserver_netty@3.4.0
 - pkg:maven/net.officefloor.server/officeserver_netty@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.server/officeserver_netty@3.5.0

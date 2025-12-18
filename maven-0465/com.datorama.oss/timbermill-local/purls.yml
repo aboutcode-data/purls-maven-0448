@@ -70,3 +70,7 @@
 - pkg:maven/com.datorama.oss/timbermill-local@2.2.9?classifier=sources
 - pkg:maven/com.datorama.oss/timbermill-local@2.3.0
 - pkg:maven/com.datorama.oss/timbermill-local@2.3.0?classifier=sources
+- pkg:maven/com.datorama.oss/timbermill-local@2.4.0
+- pkg:maven/com.datorama.oss/timbermill-local@2.4.0?classifier=sources
+- pkg:maven/com.datorama.oss/timbermill-local@2.4.1
+- pkg:maven/com.datorama.oss/timbermill-local@2.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hccake/ballcat-extend-pay-wx@0.0.8
+- pkg:maven/com.hccake/ballcat-extend-pay-wx@0.0.8?classifier=sources

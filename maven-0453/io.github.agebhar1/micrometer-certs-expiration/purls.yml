@@ -1,0 +1,2 @@
+- pkg:maven/io.github.agebhar1/micrometer-certs-expiration@0.1.0
+- pkg:maven/io.github.agebhar1/micrometer-certs-expiration@0.1.0?classifier=sources

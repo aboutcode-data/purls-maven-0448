@@ -1,0 +1,2 @@
+- pkg:maven/com.buession/buession-beans@1.2.0
+- pkg:maven/com.buession/buession-beans@1.2.0?classifier=sources

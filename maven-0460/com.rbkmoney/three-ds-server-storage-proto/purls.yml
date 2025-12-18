@@ -1,2 +1,4 @@
 - pkg:maven/com.rbkmoney/three-ds-server-storage-proto@1.23-e8e35de
 - pkg:maven/com.rbkmoney/three-ds-server-storage-proto@1.23-e8e35de?classifier=sources
+- pkg:maven/com.rbkmoney/three-ds-server-storage-proto@1.24-ab05a55
+- pkg:maven/com.rbkmoney/three-ds-server-storage-proto@1.24-ab05a55?classifier=sources

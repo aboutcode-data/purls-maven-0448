@@ -32,3 +32,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-open-api@1.38?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-open-api@1.39
 - pkg:maven/org.testingisdocumenting.webtau/webtau-open-api@1.39?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-open-api@1.40
+- pkg:maven/org.testingisdocumenting.webtau/webtau-open-api@1.40?classifier=sources

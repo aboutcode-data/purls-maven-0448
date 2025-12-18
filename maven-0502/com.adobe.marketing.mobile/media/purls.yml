@@ -5,3 +5,4 @@
 - pkg:maven/com.adobe.marketing.mobile/media@2.0.0?type=aar
 - pkg:maven/com.adobe.marketing.mobile/media@2.0.1?type=aar
 - pkg:maven/com.adobe.marketing.mobile/media@2.1.0?type=aar
+- pkg:maven/com.adobe.marketing.mobile/media@2.1.1?type=aar

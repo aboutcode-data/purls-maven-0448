@@ -20,6 +20,7 @@
 - pkg:maven/it.unibo.alchemist/alchemist-implementationbase@10.0.0-dev0z%2Ba6d7708ef?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-implementationbase@10.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-implementationbase@10.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-implementationbase@11.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-implementationbase@2.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-implementationbase@2.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-implementationbase@2.1.0

@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.james/james-server-protocols-library@3.4.0?classifier=sources
 - pkg:maven/org.apache.james/james-server-protocols-library@3.5.0
 - pkg:maven/org.apache.james/james-server-protocols-library@3.5.0?classifier=sources
+- pkg:maven/org.apache.james/james-server-protocols-library@3.6.0
+- pkg:maven/org.apache.james/james-server-protocols-library@3.6.0?classifier=sources

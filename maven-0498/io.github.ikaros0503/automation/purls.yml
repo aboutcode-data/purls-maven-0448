@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ikaros0503/automation@1.0.0
+- pkg:maven/io.github.ikaros0503/automation@1.0.0?classifier=sources

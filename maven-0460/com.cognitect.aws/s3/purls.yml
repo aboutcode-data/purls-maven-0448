@@ -52,3 +52,7 @@
 - pkg:maven/com.cognitect.aws/s3@810.2.801.0?classifier=sources
 - pkg:maven/com.cognitect.aws/s3@810.2.817.0
 - pkg:maven/com.cognitect.aws/s3@810.2.817.0?classifier=sources
+- pkg:maven/com.cognitect.aws/s3@811.2.858.0
+- pkg:maven/com.cognitect.aws/s3@811.2.858.0?classifier=sources
+- pkg:maven/com.cognitect.aws/s3@811.2.865.0
+- pkg:maven/com.cognitect.aws/s3@811.2.865.0?classifier=sources

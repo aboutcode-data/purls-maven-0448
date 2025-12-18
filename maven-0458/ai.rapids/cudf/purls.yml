@@ -6,6 +6,10 @@
 - pkg:maven/ai.rapids/cudf@0.16?classifier=sources
 - pkg:maven/ai.rapids/cudf@0.17
 - pkg:maven/ai.rapids/cudf@0.17?classifier=sources
+- pkg:maven/ai.rapids/cudf@0.18
+- pkg:maven/ai.rapids/cudf@0.18.1
+- pkg:maven/ai.rapids/cudf@0.18.1?classifier=sources
+- pkg:maven/ai.rapids/cudf@0.18?classifier=sources
 - pkg:maven/ai.rapids/cudf@0.8
 - pkg:maven/ai.rapids/cudf@0.8-Beta
 - pkg:maven/ai.rapids/cudf@0.8-Beta?classifier=sources

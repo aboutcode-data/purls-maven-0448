@@ -141,6 +141,8 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.32?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.33
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.34
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.34?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.4
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jackson@2.4.1

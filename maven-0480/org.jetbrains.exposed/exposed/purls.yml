@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.exposed/exposed@0.17.10?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed@0.17.11?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed@0.17.12?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed@0.17.13?classifier=sources

@@ -9,4 +9,6 @@
 - pkg:maven/uk.ac.gate/gate-spring@8.6.1?classifier=sources
 - pkg:maven/uk.ac.gate/gate-spring@8.6?classifier=sources
 - pkg:maven/uk.ac.gate/gate-spring@9.0
+- pkg:maven/uk.ac.gate/gate-spring@9.0.1
+- pkg:maven/uk.ac.gate/gate-spring@9.0.1?classifier=sources
 - pkg:maven/uk.ac.gate/gate-spring@9.0?classifier=sources

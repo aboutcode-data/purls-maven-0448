@@ -1,0 +1,2 @@
+- pkg:maven/de.schegge.test/greenmail-extension@0.1.1
+- pkg:maven/de.schegge.test/greenmail-extension@0.1.1?classifier=sources

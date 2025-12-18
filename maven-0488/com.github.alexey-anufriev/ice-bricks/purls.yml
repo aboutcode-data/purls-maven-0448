@@ -30,6 +30,8 @@
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.0.9?classifier=sources
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.1.0
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.1.0?classifier=sources
+- pkg:maven/com.github.alexey-anufriev/ice-bricks@0.10.0
+- pkg:maven/com.github.alexey-anufriev/ice-bricks@0.10.0?classifier=sources
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.2.0
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.2.0?classifier=sources
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.3.0
@@ -40,3 +42,9 @@
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.5.0?classifier=sources
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.6.0
 - pkg:maven/com.github.alexey-anufriev/ice-bricks@0.6.0?classifier=sources
+- pkg:maven/com.github.alexey-anufriev/ice-bricks@0.7.0
+- pkg:maven/com.github.alexey-anufriev/ice-bricks@0.7.0?classifier=sources
+- pkg:maven/com.github.alexey-anufriev/ice-bricks@0.8.0
+- pkg:maven/com.github.alexey-anufriev/ice-bricks@0.8.0?classifier=sources
+- pkg:maven/com.github.alexey-anufriev/ice-bricks@0.9.0
+- pkg:maven/com.github.alexey-anufriev/ice-bricks@0.9.0?classifier=sources

@@ -14,8 +14,12 @@
 - pkg:maven/io.joynr.java/coverage@1.14.3
 - pkg:maven/io.joynr.java/coverage@1.14.4
 - pkg:maven/io.joynr.java/coverage@1.14.5
+- pkg:maven/io.joynr.java/coverage@1.14.6
 - pkg:maven/io.joynr.java/coverage@1.15.0
 - pkg:maven/io.joynr.java/coverage@1.15.1
+- pkg:maven/io.joynr.java/coverage@1.15.10
+- pkg:maven/io.joynr.java/coverage@1.15.11
+- pkg:maven/io.joynr.java/coverage@1.15.12
 - pkg:maven/io.joynr.java/coverage@1.15.2
 - pkg:maven/io.joynr.java/coverage@1.15.3
 - pkg:maven/io.joynr.java/coverage@1.15.4
@@ -24,3 +28,4 @@
 - pkg:maven/io.joynr.java/coverage@1.15.7
 - pkg:maven/io.joynr.java/coverage@1.15.7.1
 - pkg:maven/io.joynr.java/coverage@1.15.8
+- pkg:maven/io.joynr.java/coverage@1.15.9

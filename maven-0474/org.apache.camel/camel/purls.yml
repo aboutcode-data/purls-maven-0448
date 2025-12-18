@@ -128,4 +128,6 @@
 - pkg:maven/org.apache.camel/camel@3.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@3.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@3.7.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@3.7.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@3.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@3.9.0?classifier=source-release&type=zip

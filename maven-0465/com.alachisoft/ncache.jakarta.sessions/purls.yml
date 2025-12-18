@@ -1,2 +1,8 @@
 - pkg:maven/com.alachisoft/ncache.jakarta.sessions@5.2-alpha-16
 - pkg:maven/com.alachisoft/ncache.jakarta.sessions@5.2-alpha-16?classifier=sources
+- pkg:maven/com.alachisoft/ncache.jakarta.sessions@5.2-alpha-20
+- pkg:maven/com.alachisoft/ncache.jakarta.sessions@5.2-alpha-20?classifier=sources
+- pkg:maven/com.alachisoft/ncache.jakarta.sessions@5.2-alpha-21
+- pkg:maven/com.alachisoft/ncache.jakarta.sessions@5.2-alpha-21?classifier=sources
+- pkg:maven/com.alachisoft/ncache.jakarta.sessions@5.2-alpha-23
+- pkg:maven/com.alachisoft/ncache.jakarta.sessions@5.2-alpha-23?classifier=sources

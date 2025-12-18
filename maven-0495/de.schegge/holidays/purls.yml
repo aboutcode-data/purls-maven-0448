@@ -1,0 +1,2 @@
+- pkg:maven/de.schegge/holidays@0.1.7
+- pkg:maven/de.schegge/holidays@0.1.7?classifier=sources

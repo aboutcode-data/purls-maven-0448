@@ -14,3 +14,9 @@
 - pkg:maven/tech.grasshopper/cucumber-pdf-report@1.6.0?classifier=sources
 - pkg:maven/tech.grasshopper/cucumber-pdf-report@1.7.0
 - pkg:maven/tech.grasshopper/cucumber-pdf-report@1.7.0?classifier=sources
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.0.0
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.0.0?classifier=sources
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.1.0
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.1.0?classifier=sources
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.2.0
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.2.0?classifier=sources

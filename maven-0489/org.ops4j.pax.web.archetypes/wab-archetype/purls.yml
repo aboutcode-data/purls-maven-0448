@@ -144,3 +144,5 @@
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-archetype@7.3.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-archetype@7.3.8?classifier=sources
 - pkg:maven/org.ops4j.pax.web.archetypes/wab-archetype@7.3.9?classifier=sources
+- pkg:maven/org.ops4j.pax.web.archetypes/wab-archetype@7.4.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.archetypes/wab-archetype@7.4.1?classifier=sources

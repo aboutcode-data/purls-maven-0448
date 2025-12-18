@@ -1,2 +1,4 @@
 - pkg:maven/com.github.fanzezhen.common/common-web@2.0.5
 - pkg:maven/com.github.fanzezhen.common/common-web@2.0.5?classifier=sources
+- pkg:maven/com.github.fanzezhen.common/common-web@2.0.6
+- pkg:maven/com.github.fanzezhen.common/common-web@2.0.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.cloud/cloudant-examples@0.0.23
+- pkg:maven/com.ibm.cloud/cloudant-examples@0.0.23?classifier=sources

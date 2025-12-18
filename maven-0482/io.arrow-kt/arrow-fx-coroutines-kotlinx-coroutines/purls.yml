@@ -1,1 +1,2 @@
 - pkg:maven/io.arrow-kt/arrow-fx-coroutines-kotlinx-coroutines@0.11.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-fx-coroutines-kotlinx-coroutines@0.12.0?classifier=sources

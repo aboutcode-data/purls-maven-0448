@@ -56,3 +56,5 @@
 - pkg:maven/org.webjars.bower/echarts@4.5.0?classifier=sources
 - pkg:maven/org.webjars.bower/echarts@4.7.0
 - pkg:maven/org.webjars.bower/echarts@4.7.0?classifier=sources
+- pkg:maven/org.webjars.bower/echarts@5.0.2
+- pkg:maven/org.webjars.bower/echarts@5.0.2?classifier=sources

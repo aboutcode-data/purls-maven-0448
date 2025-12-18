@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.4
+- pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.4?classifier=sources

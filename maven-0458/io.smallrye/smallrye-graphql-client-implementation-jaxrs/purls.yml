@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye/smallrye-graphql-client-implementation-jaxrs@1.2.0.Alpha1
+- pkg:maven/io.smallrye/smallrye-graphql-client-implementation-jaxrs@1.2.0.Alpha1?classifier=sources

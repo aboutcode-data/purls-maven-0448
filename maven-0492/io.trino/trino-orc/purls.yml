@@ -2,3 +2,9 @@
 - pkg:maven/io.trino/trino-orc@351?classifier=sources
 - pkg:maven/io.trino/trino-orc@352
 - pkg:maven/io.trino/trino-orc@352?classifier=sources
+- pkg:maven/io.trino/trino-orc@353
+- pkg:maven/io.trino/trino-orc@353?classifier=sources
+- pkg:maven/io.trino/trino-orc@354
+- pkg:maven/io.trino/trino-orc@354?classifier=sources
+- pkg:maven/io.trino/trino-orc@355
+- pkg:maven/io.trino/trino-orc@355?classifier=sources

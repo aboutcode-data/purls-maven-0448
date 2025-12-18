@@ -1,1 +1,2 @@
+- pkg:maven/io.kuberig/kuberig-dsl-generator@0.1.6-RC5a?classifier=sources
 - pkg:maven/io.kuberig/kuberig-dsl-generator@1.5.0-RC1?classifier=sources

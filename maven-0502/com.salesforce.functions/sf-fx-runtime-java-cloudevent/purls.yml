@@ -1,0 +1,4 @@
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-cloudevent@0.1.0-ea
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-cloudevent@0.1.0-ea?classifier=sources
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-cloudevent@0.1.1-ea
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-cloudevent@0.1.1-ea?classifier=sources

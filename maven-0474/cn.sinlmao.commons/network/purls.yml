@@ -56,3 +56,7 @@
 - pkg:maven/cn.sinlmao.commons/network@1.5.2?classifier=sources
 - pkg:maven/cn.sinlmao.commons/network@1.5.3
 - pkg:maven/cn.sinlmao.commons/network@1.5.3?classifier=sources
+- pkg:maven/cn.sinlmao.commons/network@1.5.4
+- pkg:maven/cn.sinlmao.commons/network@1.5.4?classifier=sources
+- pkg:maven/cn.sinlmao.commons/network@1.5.5
+- pkg:maven/cn.sinlmao.commons/network@1.5.5?classifier=sources

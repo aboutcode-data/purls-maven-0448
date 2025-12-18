@@ -4,3 +4,7 @@
 - pkg:maven/nl.praegus/toolchain-azuredevops-runlistener@1.0.2?classifier=sources
 - pkg:maven/nl.praegus/toolchain-azuredevops-runlistener@1.0.3
 - pkg:maven/nl.praegus/toolchain-azuredevops-runlistener@1.0.3?classifier=sources
+- pkg:maven/nl.praegus/toolchain-azuredevops-runlistener@1.0.4
+- pkg:maven/nl.praegus/toolchain-azuredevops-runlistener@1.0.4?classifier=sources
+- pkg:maven/nl.praegus/toolchain-azuredevops-runlistener@1.0.5
+- pkg:maven/nl.praegus/toolchain-azuredevops-runlistener@1.0.5?classifier=sources

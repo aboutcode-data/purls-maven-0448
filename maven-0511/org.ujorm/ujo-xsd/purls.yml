@@ -98,3 +98,7 @@
 - pkg:maven/org.ujorm/ujo-xsd@2.12?classifier=sources
 - pkg:maven/org.ujorm/ujo-xsd@2.13
 - pkg:maven/org.ujorm/ujo-xsd@2.13?classifier=sources
+- pkg:maven/org.ujorm/ujo-xsd@2.14
+- pkg:maven/org.ujorm/ujo-xsd@2.14?classifier=sources
+- pkg:maven/org.ujorm/ujo-xsd@2.15
+- pkg:maven/org.ujorm/ujo-xsd@2.15?classifier=sources

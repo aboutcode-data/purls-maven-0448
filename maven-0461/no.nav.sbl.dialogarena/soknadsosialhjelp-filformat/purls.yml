@@ -130,3 +130,7 @@
 - pkg:maven/no.nav.sbl.dialogarena/soknadsosialhjelp-filformat@1.2021.02.23-17.17-2b90547959dd?classifier=sources
 - pkg:maven/no.nav.sbl.dialogarena/soknadsosialhjelp-filformat@1.2021.03.02-10.58-415c44e55124
 - pkg:maven/no.nav.sbl.dialogarena/soknadsosialhjelp-filformat@1.2021.03.02-10.58-415c44e55124?classifier=sources
+- pkg:maven/no.nav.sbl.dialogarena/soknadsosialhjelp-filformat@1.2021.03.23-11.40-3b31ec676f45
+- pkg:maven/no.nav.sbl.dialogarena/soknadsosialhjelp-filformat@1.2021.03.23-11.40-3b31ec676f45?classifier=sources
+- pkg:maven/no.nav.sbl.dialogarena/soknadsosialhjelp-filformat@1.2021.04.15-10.42-6eb47b47da27
+- pkg:maven/no.nav.sbl.dialogarena/soknadsosialhjelp-filformat@1.2021.04.15-10.42-6eb47b47da27?classifier=sources

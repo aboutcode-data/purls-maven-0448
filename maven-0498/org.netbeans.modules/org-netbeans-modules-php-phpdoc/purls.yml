@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE123?classifier=sources

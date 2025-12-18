@@ -1,2 +1,4 @@
 - pkg:maven/com.applovin.mediation/google-ad-manager-adapter@19.7.0.2?classifier=sources
 - pkg:maven/com.applovin.mediation/google-ad-manager-adapter@19.7.0.2?type=aar
+- pkg:maven/com.applovin.mediation/google-ad-manager-adapter@19.8.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/google-ad-manager-adapter@19.8.0.0?type=aar

@@ -1,2 +1,6 @@
 - pkg:maven/net.officefloor.maven/officefloor-sam-maven-plugin@3.32.0
 - pkg:maven/net.officefloor.maven/officefloor-sam-maven-plugin@3.32.0?classifier=sources
+- pkg:maven/net.officefloor.maven/officefloor-sam-maven-plugin@3.33.0
+- pkg:maven/net.officefloor.maven/officefloor-sam-maven-plugin@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.maven/officefloor-sam-maven-plugin@3.34.0
+- pkg:maven/net.officefloor.maven/officefloor-sam-maven-plugin@3.34.0?classifier=sources

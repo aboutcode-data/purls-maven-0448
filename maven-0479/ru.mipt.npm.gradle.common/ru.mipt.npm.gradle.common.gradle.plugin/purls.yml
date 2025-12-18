@@ -1,1 +1,2 @@
 - pkg:maven/ru.mipt.npm.gradle.common/ru.mipt.npm.gradle.common.gradle.plugin@0.8.0?classifier=sources
+- pkg:maven/ru.mipt.npm.gradle.common/ru.mipt.npm.gradle.common.gradle.plugin@0.9.0?classifier=sources

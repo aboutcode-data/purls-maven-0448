@@ -1,2 +1,8 @@
 - pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.1.0-alpha-6-g871c59e
 - pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.1.0-alpha-6-g871c59e?classifier=sources
+- pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.1.0-beta
+- pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.1.0-beta.2
+- pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.1.0-beta.2?classifier=sources
+- pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.1.0-beta.3
+- pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.1.0-beta.3?classifier=sources
+- pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.1.0-beta?classifier=sources

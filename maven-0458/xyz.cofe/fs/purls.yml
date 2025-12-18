@@ -4,3 +4,7 @@
 - pkg:maven/xyz.cofe/fs@1.0?classifier=sources
 - pkg:maven/xyz.cofe/fs@1.1
 - pkg:maven/xyz.cofe/fs@1.1?classifier=sources
+- pkg:maven/xyz.cofe/fs@1.2
+- pkg:maven/xyz.cofe/fs@1.2.1
+- pkg:maven/xyz.cofe/fs@1.2.1?classifier=sources
+- pkg:maven/xyz.cofe/fs@1.2?classifier=sources

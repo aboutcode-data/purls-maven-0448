@@ -1,0 +1,2 @@
+- pkg:maven/org.pageseeder/pso-psml@0.6.23?classifier=sources
+- pkg:maven/org.pageseeder/pso-psml@0.6.24?classifier=sources

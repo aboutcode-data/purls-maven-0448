@@ -9,4 +9,6 @@
 - pkg:maven/org.webjars.npm/memoizee@0.4.12?classifier=sources
 - pkg:maven/org.webjars.npm/memoizee@0.4.14
 - pkg:maven/org.webjars.npm/memoizee@0.4.14?classifier=sources
+- pkg:maven/org.webjars.npm/memoizee@0.4.15
+- pkg:maven/org.webjars.npm/memoizee@0.4.15?classifier=sources
 - pkg:maven/org.webjars.npm/memoizee@0.4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/backplane-cassandra-common@3.0.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/backplane-cassandra-common@3.0.0?classifier=sources

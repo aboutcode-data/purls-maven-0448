@@ -42,3 +42,5 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-core@3.1.1?type=aar
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-core@3.2.0?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-core@3.2.0?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-core@4.0.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-core@4.0.0?type=aar

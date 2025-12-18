@@ -10,3 +10,5 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-bootable@3.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-bootable@3.0.1.Final
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-bootable@3.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-bootable@4.0.0.Alpha1
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-container-bootable@4.0.0.Alpha1?classifier=sources

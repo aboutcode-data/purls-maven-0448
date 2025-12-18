@@ -1,0 +1,2 @@
+- pkg:maven/org.snf4j/snf4j-sctp@1.7.0
+- pkg:maven/org.snf4j/snf4j-sctp@1.7.0?classifier=sources

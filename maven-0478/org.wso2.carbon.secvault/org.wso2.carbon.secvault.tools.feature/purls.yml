@@ -1,3 +1,4 @@
 - pkg:maven/org.wso2.carbon.secvault/org.wso2.carbon.secvault.tools.feature@5.0.10?classifier=sources
 - pkg:maven/org.wso2.carbon.secvault/org.wso2.carbon.secvault.tools.feature@5.0.11?classifier=sources
 - pkg:maven/org.wso2.carbon.secvault/org.wso2.carbon.secvault.tools.feature@5.0.12?classifier=sources
+- pkg:maven/org.wso2.carbon.secvault/org.wso2.carbon.secvault.tools.feature@5.0.16?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.getkeepsafe.cashier/cashier-iab-debug@0.3.7?classifier=sources
+- pkg:maven/com.getkeepsafe.cashier/cashier-iab-debug@0.3.8?classifier=sources

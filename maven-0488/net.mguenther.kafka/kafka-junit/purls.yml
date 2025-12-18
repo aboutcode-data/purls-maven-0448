@@ -36,3 +36,5 @@
 - pkg:maven/net.mguenther.kafka/kafka-junit@2.6.0?classifier=sources
 - pkg:maven/net.mguenther.kafka/kafka-junit@2.7.0
 - pkg:maven/net.mguenther.kafka/kafka-junit@2.7.0?classifier=sources
+- pkg:maven/net.mguenther.kafka/kafka-junit@2.8.0
+- pkg:maven/net.mguenther.kafka/kafka-junit@2.8.0?classifier=sources

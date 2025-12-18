@@ -105,3 +105,7 @@
 - pkg:maven/org.wso2.carbon.business-process/carbon-business-process@4.5.35?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.business-process/carbon-business-process@4.5.36?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.business-process/carbon-business-process@4.5.37?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.business-process/carbon-business-process@4.5.38?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.business-process/carbon-business-process@4.5.39?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.business-process/carbon-business-process@4.5.40?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.business-process/carbon-business-process@4.5.41?classifier=source-release&type=zip

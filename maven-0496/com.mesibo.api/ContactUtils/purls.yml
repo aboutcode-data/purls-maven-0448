@@ -1,0 +1,5 @@
+- pkg:maven/com.mesibo.api/ContactUtils@0.1.30?classifier=sources
+- pkg:maven/com.mesibo.api/ContactUtils@0.1.30?type=aar
+- pkg:maven/com.mesibo.api/ContactUtils@0.1.31?classifier=sources
+- pkg:maven/com.mesibo.api/ContactUtils@0.1.31?type=aar
+- pkg:maven/com.mesibo.api/ContactUtils@0.1.32?classifier=sources

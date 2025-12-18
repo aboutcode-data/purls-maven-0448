@@ -1,0 +1,1 @@
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@3.76.0?classifier=sources

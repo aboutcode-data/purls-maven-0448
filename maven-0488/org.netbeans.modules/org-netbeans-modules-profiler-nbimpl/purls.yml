@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-nbimpl@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-nbimpl@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-nbimpl@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-nbimpl@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-nbimpl@RELEASE90?classifier=sources

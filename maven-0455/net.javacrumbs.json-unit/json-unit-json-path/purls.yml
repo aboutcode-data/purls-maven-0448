@@ -72,6 +72,8 @@
 - pkg:maven/net.javacrumbs.json-unit/json-unit-json-path@2.23.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-json-path@2.24.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-json-path@2.24.0?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-json-path@2.25.0
+- pkg:maven/net.javacrumbs.json-unit/json-unit-json-path@2.25.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-json-path@2.3.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-json-path@2.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-json-path@2.4.0

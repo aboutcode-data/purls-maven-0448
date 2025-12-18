@@ -2,3 +2,4 @@
 - pkg:maven/org.citygml4j.ade/iur-ade-citygml4j@1.0.0?classifier=sources
 - pkg:maven/org.citygml4j.ade/iur-ade-citygml4j@1.4.0
 - pkg:maven/org.citygml4j.ade/iur-ade-citygml4j@1.4.0?classifier=sources
+- pkg:maven/org.citygml4j.ade/iur-ade-citygml4j@1.4.1?classifier=sources

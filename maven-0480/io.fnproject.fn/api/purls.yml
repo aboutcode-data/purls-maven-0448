@@ -1,0 +1,4 @@
+- pkg:maven/io.fnproject.fn/api@1.0.124
+- pkg:maven/io.fnproject.fn/api@1.0.124?classifier=sources
+- pkg:maven/io.fnproject.fn/api@99.99.999
+- pkg:maven/io.fnproject.fn/api@99.99.999?classifier=sources

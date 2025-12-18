@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-textile-core@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-textile-core@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-textile-core@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-textile-core@RELEASE123?classifier=sources

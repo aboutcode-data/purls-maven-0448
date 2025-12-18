@@ -28,3 +28,5 @@
 - pkg:maven/com.gitee.l0km/jimgutil@0.4.3?classifier=sources
 - pkg:maven/com.gitee.l0km/jimgutil@0.5.0
 - pkg:maven/com.gitee.l0km/jimgutil@0.5.0?classifier=sources
+- pkg:maven/com.gitee.l0km/jimgutil@0.5.1
+- pkg:maven/com.gitee.l0km/jimgutil@0.5.1?classifier=sources

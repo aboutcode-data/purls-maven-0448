@@ -8,3 +8,5 @@
 - pkg:maven/org.openurp.std.fee/openurp-std-fee-studentapp@0.0.15?type=war
 - pkg:maven/org.openurp.std.fee/openurp-std-fee-studentapp@0.0.16?classifier=sources
 - pkg:maven/org.openurp.std.fee/openurp-std-fee-studentapp@0.0.16?type=war
+- pkg:maven/org.openurp.std.fee/openurp-std-fee-studentapp@0.0.17?classifier=sources
+- pkg:maven/org.openurp.std.fee/openurp-std-fee-studentapp@0.0.17?type=war

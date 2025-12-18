@@ -25,3 +25,4 @@
 - pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gtk-contrast-high-icons@3.22.1-1.0.76
 - pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gtk-contrast-high-icons@3.22.1-1.0.76?classifier=sources
 - pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gtk-contrast-high-icons@3.22.1-1.1.121
+- pkg:maven/net.anwiba.commons.swing.icons/org.gnome.gtk-contrast-high-icons@3.22.1-1.1.121?classifier=sources

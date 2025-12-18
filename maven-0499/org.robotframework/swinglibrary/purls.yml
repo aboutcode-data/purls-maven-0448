@@ -22,3 +22,4 @@
 - pkg:maven/org.robotframework/swinglibrary@2.0.0
 - pkg:maven/org.robotframework/swinglibrary@2.1.0
 - pkg:maven/org.robotframework/swinglibrary@2.2.0
+- pkg:maven/org.robotframework/swinglibrary@2.2.1

@@ -72,3 +72,5 @@
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@1.4.3?classifier=sources
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@1.4.4
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@1.4.4?classifier=sources
+- pkg:maven/com.cognite/cognite-sdk-scala_2.12@1.4.5
+- pkg:maven/com.cognite/cognite-sdk-scala_2.12@1.4.5?classifier=sources

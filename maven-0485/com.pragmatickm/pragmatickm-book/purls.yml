@@ -10,6 +10,8 @@
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.14.0?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.15.0
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.15.0?classifier=sources
+- pkg:maven/com.pragmatickm/pragmatickm-book@1.15.1
+- pkg:maven/com.pragmatickm/pragmatickm-book@1.15.1?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.6.5
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.6.5?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-book@1.7.0

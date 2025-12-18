@@ -2,3 +2,7 @@
 - pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.12.0.632?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.13.0.662
 - pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.13.0.662?classifier=sources
+- pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.14.0.678
+- pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.14.0.678?classifier=sources
+- pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.14.0.681
+- pkg:maven/org.sonarsource.analyzer-commons/test-sonar-xml-parsing@1.14.0.681?classifier=sources

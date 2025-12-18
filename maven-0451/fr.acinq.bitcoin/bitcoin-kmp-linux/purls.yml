@@ -1,0 +1,1 @@
+- pkg:maven/fr.acinq.bitcoin/bitcoin-kmp-linux@0.7.0?classifier=sources

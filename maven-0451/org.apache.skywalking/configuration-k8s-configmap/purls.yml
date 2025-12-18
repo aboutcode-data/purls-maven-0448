@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.skywalking/configuration-k8s-configmap@8.2.0
 - pkg:maven/org.apache.skywalking/configuration-k8s-configmap@8.3.0
 - pkg:maven/org.apache.skywalking/configuration-k8s-configmap@8.4.0
+- pkg:maven/org.apache.skywalking/configuration-k8s-configmap@8.5.0

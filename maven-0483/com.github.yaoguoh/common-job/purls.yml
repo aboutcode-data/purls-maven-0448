@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yaoguoh/common-job@2.4.4
+- pkg:maven/com.github.yaoguoh/common-job@2.4.4?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.22
 - pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.23
 - pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.23?classifier=sources
+- pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.24
+- pkg:maven/io.reactiverse/vertx-maven-plugin@1.0.24?classifier=sources

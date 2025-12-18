@@ -1,5 +1,7 @@
 - pkg:maven/com.github.king019/fw_dependency@1.0
 - pkg:maven/com.github.king019/fw_dependency@1.0?classifier=sources
+- pkg:maven/com.github.king019/fw_dependency@fw_v_1.10
+- pkg:maven/com.github.king019/fw_dependency@fw_v_1.10?classifier=sources
 - pkg:maven/com.github.king019/fw_dependency@fw_v_1.2
 - pkg:maven/com.github.king019/fw_dependency@fw_v_1.2?classifier=sources
 - pkg:maven/com.github.king019/fw_dependency@fw_v_1.3
@@ -14,3 +16,5 @@
 - pkg:maven/com.github.king019/fw_dependency@fw_v_1.7?classifier=sources
 - pkg:maven/com.github.king019/fw_dependency@fw_v_1.8
 - pkg:maven/com.github.king019/fw_dependency@fw_v_1.8?classifier=sources
+- pkg:maven/com.github.king019/fw_dependency@fw_v_1.9
+- pkg:maven/com.github.king019/fw_dependency@fw_v_1.9?classifier=sources
