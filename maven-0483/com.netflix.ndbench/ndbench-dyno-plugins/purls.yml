@@ -76,3 +76,5 @@
 - pkg:maven/com.netflix.ndbench/ndbench-dyno-plugins@0.5.1?classifier=sources
 - pkg:maven/com.netflix.ndbench/ndbench-dyno-plugins@0.6.0-rc.1?classifier=sources
 - pkg:maven/com.netflix.ndbench/ndbench-dyno-plugins@0.6.0?classifier=sources
+- pkg:maven/com.netflix.ndbench/ndbench-dyno-plugins@0.6.1?classifier=sources
+- pkg:maven/com.netflix.ndbench/ndbench-dyno-plugins@0.6.2?classifier=sources

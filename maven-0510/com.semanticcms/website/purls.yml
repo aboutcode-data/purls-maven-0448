@@ -1,0 +1,2 @@
+- pkg:maven/com.semanticcms/website@1.13.0?classifier=sources
+- pkg:maven/com.semanticcms/website@1.13.0?type=war

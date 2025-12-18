@@ -1,0 +1,2 @@
+- pkg:maven/io.github.astrapi69/jobj-contract-verifier@3.4
+- pkg:maven/io.github.astrapi69/jobj-contract-verifier@3.4?classifier=sources

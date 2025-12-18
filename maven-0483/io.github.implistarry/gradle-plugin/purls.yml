@@ -1,0 +1,2 @@
+- pkg:maven/io.github.implistarry/gradle-plugin@0.4.90
+- pkg:maven/io.github.implistarry/gradle-plugin@0.4.90?classifier=sources

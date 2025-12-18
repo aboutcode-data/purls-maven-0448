@@ -3,3 +3,5 @@
 - pkg:maven/com.linecorp.lich/viewmodel-test@3.0.0?classifier=sources
 - pkg:maven/com.linecorp.lich/viewmodel-test@3.1.0?classifier=sources
 - pkg:maven/com.linecorp.lich/viewmodel-test@3.2.0?classifier=sources
+- pkg:maven/com.linecorp.lich/viewmodel-test@3.3.0?classifier=sources
+- pkg:maven/com.linecorp.lich/viewmodel-test@3.4.0?classifier=sources

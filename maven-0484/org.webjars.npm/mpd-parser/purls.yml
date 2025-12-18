@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/mpd-parser@0.15.0?classifier=sources
 - pkg:maven/org.webjars.npm/mpd-parser@0.16.0
 - pkg:maven/org.webjars.npm/mpd-parser@0.16.0?classifier=sources
+- pkg:maven/org.webjars.npm/mpd-parser@0.17.0
+- pkg:maven/org.webjars.npm/mpd-parser@0.17.0?classifier=sources
 - pkg:maven/org.webjars.npm/mpd-parser@0.5.0
 - pkg:maven/org.webjars.npm/mpd-parser@0.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/mpd-parser@0.6.1

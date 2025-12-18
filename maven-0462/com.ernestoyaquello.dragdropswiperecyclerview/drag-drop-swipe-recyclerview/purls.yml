@@ -4,3 +4,4 @@
 - pkg:maven/com.ernestoyaquello.dragdropswiperecyclerview/drag-drop-swipe-recyclerview@1.0.1?type=aar
 - pkg:maven/com.ernestoyaquello.dragdropswiperecyclerview/drag-drop-swipe-recyclerview@1.0.2?classifier=sources
 - pkg:maven/com.ernestoyaquello.dragdropswiperecyclerview/drag-drop-swipe-recyclerview@1.0.2?type=aar
+- pkg:maven/com.ernestoyaquello.dragdropswiperecyclerview/drag-drop-swipe-recyclerview@1.1.0?classifier=sources

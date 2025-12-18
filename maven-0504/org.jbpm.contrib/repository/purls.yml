@@ -98,6 +98,12 @@
 - pkg:maven/org.jbpm.contrib/repository@7.53.0.Final?type=zip
 - pkg:maven/org.jbpm.contrib/repository@7.54.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository@7.54.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.55.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.55.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.56.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.56.0.Final?type=zip
+- pkg:maven/org.jbpm.contrib/repository@7.57.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository@7.57.0.Final?type=zip
 - pkg:maven/org.jbpm.contrib/repository@7.6.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository@7.6.0.Final?type=zip
 - pkg:maven/org.jbpm.contrib/repository@7.7.0.Final?classifier=sources

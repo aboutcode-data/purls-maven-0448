@@ -18,6 +18,8 @@
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1078?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1090
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1090?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1091
+- pkg:maven/com.sdl.delivery/udp-adf-client@11.0.0-1091?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.0.1-1020
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.0.1-1020?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-adf-client@11.1.0-1056

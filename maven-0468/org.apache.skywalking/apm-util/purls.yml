@@ -20,3 +20,4 @@
 - pkg:maven/org.apache.skywalking/apm-util@8.3.0
 - pkg:maven/org.apache.skywalking/apm-util@8.4.0
 - pkg:maven/org.apache.skywalking/apm-util@8.5.0
+- pkg:maven/org.apache.skywalking/apm-util@8.6.0

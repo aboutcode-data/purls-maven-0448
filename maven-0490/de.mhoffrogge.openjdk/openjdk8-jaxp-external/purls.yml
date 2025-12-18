@@ -1,0 +1,2 @@
+- pkg:maven/de.mhoffrogge.openjdk/openjdk8-jaxp-external@8.144.34
+- pkg:maven/de.mhoffrogge.openjdk/openjdk8-jaxp-external@8.144.34?classifier=sources

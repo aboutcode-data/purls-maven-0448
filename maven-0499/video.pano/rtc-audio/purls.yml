@@ -1,0 +1,2 @@
+- pkg:maven/video.pano/rtc-audio@1.5.3?classifier=sources
+- pkg:maven/video.pano/rtc-audio@1.5.3?type=aar

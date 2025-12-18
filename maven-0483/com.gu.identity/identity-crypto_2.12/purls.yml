@@ -243,6 +243,8 @@
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.239-C1?classifier=sources
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.239-C2
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.239-C2?classifier=sources
+- pkg:maven/com.gu.identity/identity-crypto_2.12@3.239-C3
+- pkg:maven/com.gu.identity/identity-crypto_2.12@3.239-C3?classifier=sources
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.239-M1
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.239-M1?classifier=sources
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.239?classifier=sources
@@ -252,6 +254,8 @@
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.246?classifier=sources
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.247
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.247?classifier=sources
+- pkg:maven/com.gu.identity/identity-crypto_2.12@3.248
+- pkg:maven/com.gu.identity/identity-crypto_2.12@3.248?classifier=sources
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.84
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.84?classifier=sources
 - pkg:maven/com.gu.identity/identity-crypto_2.12@3.86

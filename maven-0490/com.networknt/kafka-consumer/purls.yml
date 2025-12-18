@@ -6,6 +6,8 @@
 - pkg:maven/com.networknt/kafka-consumer@1.6.34?classifier=sources
 - pkg:maven/com.networknt/kafka-consumer@1.6.35
 - pkg:maven/com.networknt/kafka-consumer@1.6.35?classifier=sources
+- pkg:maven/com.networknt/kafka-consumer@1.6.36
+- pkg:maven/com.networknt/kafka-consumer@1.6.36?classifier=sources
 - pkg:maven/com.networknt/kafka-consumer@2.0.18
 - pkg:maven/com.networknt/kafka-consumer@2.0.18?classifier=sources
 - pkg:maven/com.networknt/kafka-consumer@2.0.19
@@ -26,3 +28,7 @@
 - pkg:maven/com.networknt/kafka-consumer@2.0.26?classifier=sources
 - pkg:maven/com.networknt/kafka-consumer@2.0.27
 - pkg:maven/com.networknt/kafka-consumer@2.0.27?classifier=sources
+- pkg:maven/com.networknt/kafka-consumer@2.0.28
+- pkg:maven/com.networknt/kafka-consumer@2.0.28?classifier=sources
+- pkg:maven/com.networknt/kafka-consumer@2.0.29
+- pkg:maven/com.networknt/kafka-consumer@2.0.29?classifier=sources

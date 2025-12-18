@@ -1,0 +1,2 @@
+- pkg:maven/ch.exense.step/step-functions-package-client@3.17.0
+- pkg:maven/ch.exense.step/step-functions-package-client@3.17.0?classifier=sources

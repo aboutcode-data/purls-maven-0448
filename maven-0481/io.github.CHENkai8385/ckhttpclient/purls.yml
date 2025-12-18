@@ -1,0 +1,2 @@
+- pkg:maven/io.github.CHENkai8385/ckhttpclient@1.0.0
+- pkg:maven/io.github.CHENkai8385/ckhttpclient@1.0.0?classifier=sources

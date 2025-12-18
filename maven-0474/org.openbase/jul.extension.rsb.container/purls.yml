@@ -50,3 +50,4 @@
 - pkg:maven/org.openbase/jul.extension.rsb.container@1.6.7
 - pkg:maven/org.openbase/jul.extension.rsb.container@1.6.8
 - pkg:maven/org.openbase/jul.extension.rsb.container@1.6.9
+- pkg:maven/org.openbase/jul.extension.rsb.container@2.0.0

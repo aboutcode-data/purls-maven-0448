@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.cloud.article/guerlab-cloud-article-core@21.7.2
+- pkg:maven/net.guerlab.cloud.article/guerlab-cloud-article-core@21.7.2?classifier=sources

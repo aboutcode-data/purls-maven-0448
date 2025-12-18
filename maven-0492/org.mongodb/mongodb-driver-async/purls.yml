@@ -66,6 +66,8 @@
 - pkg:maven/org.mongodb/mongodb-driver-async@3.12.7?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-async@3.12.8
 - pkg:maven/org.mongodb/mongodb-driver-async@3.12.8?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-async@3.12.9
+- pkg:maven/org.mongodb/mongodb-driver-async@3.12.9?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-async@3.2.0
 - pkg:maven/org.mongodb/mongodb-driver-async@3.2.0-rc0
 - pkg:maven/org.mongodb/mongodb-driver-async@3.2.0-rc0?classifier=sources

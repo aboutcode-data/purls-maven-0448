@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecgframework.cloud/sentinel-dashboard@1.8.2
+- pkg:maven/org.jeecgframework.cloud/sentinel-dashboard@1.8.2?classifier=sources

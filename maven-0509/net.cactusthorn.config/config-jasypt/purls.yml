@@ -1,2 +1,8 @@
 - pkg:maven/net.cactusthorn.config/config-jasypt@0.31
 - pkg:maven/net.cactusthorn.config/config-jasypt@0.31?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-jasypt@0.40
+- pkg:maven/net.cactusthorn.config/config-jasypt@0.40?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-jasypt@0.50
+- pkg:maven/net.cactusthorn.config/config-jasypt@0.50?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-jasypt@0.60
+- pkg:maven/net.cactusthorn.config/config-jasypt@0.60?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.charlemaznable/logback-miner-annotations@0.1.2
+- pkg:maven/com.github.charlemaznable/logback-miner-annotations@0.1.2?classifier=sources

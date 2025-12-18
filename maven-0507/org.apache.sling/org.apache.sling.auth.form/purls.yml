@@ -17,6 +17,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.20
 - pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.20?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.20?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.24
+- pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.24?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.24?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.auth.form@1.0.4

@@ -1,0 +1,2 @@
+- pkg:maven/dev.aspectj/plantuml-maven-plugin@1.5.2.J8
+- pkg:maven/dev.aspectj/plantuml-maven-plugin@1.5.2.J8?classifier=sources

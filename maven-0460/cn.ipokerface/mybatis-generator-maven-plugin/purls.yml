@@ -10,3 +10,5 @@
 - pkg:maven/cn.ipokerface/mybatis-generator-maven-plugin@1.5.0?classifier=sources
 - pkg:maven/cn.ipokerface/mybatis-generator-maven-plugin@1.6.0
 - pkg:maven/cn.ipokerface/mybatis-generator-maven-plugin@1.6.0?classifier=sources
+- pkg:maven/cn.ipokerface/mybatis-generator-maven-plugin@2.3.0
+- pkg:maven/cn.ipokerface/mybatis-generator-maven-plugin@2.3.0?classifier=sources

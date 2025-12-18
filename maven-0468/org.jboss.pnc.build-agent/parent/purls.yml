@@ -3,3 +3,5 @@
 - pkg:maven/org.jboss.pnc.build-agent/parent@0.7.0?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.build-agent/parent@0.8.0?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.build-agent/parent@0.8.1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.build-agent/parent@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.build-agent/parent@1.0.1?classifier=source-release&type=zip

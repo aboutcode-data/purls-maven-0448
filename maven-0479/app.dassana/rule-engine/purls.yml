@@ -1,0 +1,12 @@
+- pkg:maven/app.dassana/rule-engine@1.6.8
+- pkg:maven/app.dassana/rule-engine@1.6.8?classifier=sources
+- pkg:maven/app.dassana/rule-engine@1.6.9
+- pkg:maven/app.dassana/rule-engine@1.6.9?classifier=sources
+- pkg:maven/app.dassana/rule-engine@1.7.0
+- pkg:maven/app.dassana/rule-engine@1.7.0?classifier=sources
+- pkg:maven/app.dassana/rule-engine@1.7.1
+- pkg:maven/app.dassana/rule-engine@1.7.1?classifier=sources
+- pkg:maven/app.dassana/rule-engine@1.8.0
+- pkg:maven/app.dassana/rule-engine@1.8.0?classifier=sources
+- pkg:maven/app.dassana/rule-engine@1.9.0
+- pkg:maven/app.dassana/rule-engine@1.9.0?classifier=sources

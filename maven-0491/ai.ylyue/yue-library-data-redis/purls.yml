@@ -26,6 +26,8 @@
 - pkg:maven/ai.ylyue/yue-library-data-redis@j11.2.3.2?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-data-redis@j11.2.3.3
 - pkg:maven/ai.ylyue/yue-library-data-redis@j11.2.3.3?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-data-redis@j11.2.4.0
+- pkg:maven/ai.ylyue/yue-library-data-redis@j11.2.4.0?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-data-redis@j8.2.2.0
 - pkg:maven/ai.ylyue/yue-library-data-redis@j8.2.2.0?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-data-redis@j8.2.3.0
@@ -36,3 +38,5 @@
 - pkg:maven/ai.ylyue/yue-library-data-redis@j8.2.3.2?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-data-redis@j8.2.3.3
 - pkg:maven/ai.ylyue/yue-library-data-redis@j8.2.3.3?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-data-redis@j8.2.4.0
+- pkg:maven/ai.ylyue/yue-library-data-redis@j8.2.4.0?classifier=sources

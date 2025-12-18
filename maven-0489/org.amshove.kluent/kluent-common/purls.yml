@@ -4,3 +4,9 @@
 - pkg:maven/org.amshove.kluent/kluent-common@1.64?classifier=sources
 - pkg:maven/org.amshove.kluent/kluent-common@1.65
 - pkg:maven/org.amshove.kluent/kluent-common@1.65?classifier=sources
+- pkg:maven/org.amshove.kluent/kluent-common@1.66
+- pkg:maven/org.amshove.kluent/kluent-common@1.66?classifier=sources
+- pkg:maven/org.amshove.kluent/kluent-common@1.67
+- pkg:maven/org.amshove.kluent/kluent-common@1.67?classifier=sources
+- pkg:maven/org.amshove.kluent/kluent-common@1.68
+- pkg:maven/org.amshove.kluent/kluent-common@1.68?classifier=sources

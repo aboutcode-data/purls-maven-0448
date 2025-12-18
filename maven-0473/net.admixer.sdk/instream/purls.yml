@@ -11,3 +11,7 @@
 - pkg:maven/net.admixer.sdk/instream@1.2.1.0?type=aar
 - pkg:maven/net.admixer.sdk/instream@1.2.2.0?type=aar
 - pkg:maven/net.admixer.sdk/instream@1.2.3.0?type=aar
+- pkg:maven/net.admixer.sdk/instream@1.2.4.0?type=aar
+- pkg:maven/net.admixer.sdk/instream@1.2.5.0?type=aar
+- pkg:maven/net.admixer.sdk/instream@1.2.6.0?type=aar
+- pkg:maven/net.admixer.sdk/instream@1.2.7.0?type=aar

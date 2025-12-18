@@ -1,0 +1,2 @@
+- pkg:maven/xyz.cp74/evdev@1.0
+- pkg:maven/xyz.cp74/evdev@1.0?classifier=sources

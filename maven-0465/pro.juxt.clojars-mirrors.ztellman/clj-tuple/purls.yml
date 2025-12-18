@@ -1,0 +1,2 @@
+- pkg:maven/pro.juxt.clojars-mirrors.ztellman/clj-tuple@0.2.2
+- pkg:maven/pro.juxt.clojars-mirrors.ztellman/clj-tuple@0.2.2?classifier=sources

@@ -48,6 +48,8 @@
 - pkg:maven/com.urbanairship.android/urbanairship-adm@14.4.2?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-adm@14.4.3?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-adm@14.4.4?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-adm@14.5.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-adm@14.5.1?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-adm@9.1.0?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-adm@9.1.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-adm@9.2.0?type=aar

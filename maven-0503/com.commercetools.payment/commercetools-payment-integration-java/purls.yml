@@ -1,0 +1,2 @@
+- pkg:maven/com.commercetools.payment/commercetools-payment-integration-java@1.4.5?classifier=sources
+- pkg:maven/com.commercetools.payment/commercetools-payment-integration-java@unspecified?classifier=sources

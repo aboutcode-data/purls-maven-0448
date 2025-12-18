@@ -12,6 +12,8 @@
 - pkg:maven/dev.feast/feast-common@0.26.1?classifier=sources
 - pkg:maven/dev.feast/feast-common@0.26.2
 - pkg:maven/dev.feast/feast-common@0.26.2?classifier=sources
+- pkg:maven/dev.feast/feast-common@0.26.3
+- pkg:maven/dev.feast/feast-common@0.26.3?classifier=sources
 - pkg:maven/dev.feast/feast-common@0.6.0
 - pkg:maven/dev.feast/feast-common@0.6.0?classifier=sources
 - pkg:maven/dev.feast/feast-common@0.6.1

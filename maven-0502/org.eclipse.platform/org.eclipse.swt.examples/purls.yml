@@ -12,6 +12,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.106.1100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.106.1200
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.106.1200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.106.1300
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.106.1300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.106.200
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.106.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.106.300

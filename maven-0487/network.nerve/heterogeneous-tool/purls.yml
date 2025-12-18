@@ -2,3 +2,15 @@
 - pkg:maven/network.nerve/heterogeneous-tool@1.0.8-BETA?classifier=sources
 - pkg:maven/network.nerve/heterogeneous-tool@1.0.8-android-BETA
 - pkg:maven/network.nerve/heterogeneous-tool@1.0.8-android-BETA?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.0
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.0-android
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.0-android?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.0?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.1
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.1-android
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.1-android?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.1?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.2
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.2-android
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.2-android?classifier=sources
+- pkg:maven/network.nerve/heterogeneous-tool@1.1.2?classifier=sources

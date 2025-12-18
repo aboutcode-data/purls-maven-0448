@@ -81,6 +81,8 @@
 - pkg:maven/com.salesforce.dockerfile-image-update/dockerfile-image-update@1.0.141?classifier=sources
 - pkg:maven/com.salesforce.dockerfile-image-update/dockerfile-image-update@1.0.142
 - pkg:maven/com.salesforce.dockerfile-image-update/dockerfile-image-update@1.0.142?classifier=sources
+- pkg:maven/com.salesforce.dockerfile-image-update/dockerfile-image-update@1.0.143
+- pkg:maven/com.salesforce.dockerfile-image-update/dockerfile-image-update@1.0.143?classifier=sources
 - pkg:maven/com.salesforce.dockerfile-image-update/dockerfile-image-update@1.0.14?classifier=sources
 - pkg:maven/com.salesforce.dockerfile-image-update/dockerfile-image-update@1.0.15
 - pkg:maven/com.salesforce.dockerfile-image-update/dockerfile-image-update@1.0.15?classifier=sources

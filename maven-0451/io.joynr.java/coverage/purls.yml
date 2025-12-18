@@ -32,4 +32,10 @@
 - pkg:maven/io.joynr.java/coverage@1.15.9
 - pkg:maven/io.joynr.java/coverage@1.16.0
 - pkg:maven/io.joynr.java/coverage@1.16.1
+- pkg:maven/io.joynr.java/coverage@1.16.2
+- pkg:maven/io.joynr.java/coverage@1.16.3
 - pkg:maven/io.joynr.java/coverage@1.17.0
+- pkg:maven/io.joynr.java/coverage@1.17.1
+- pkg:maven/io.joynr.java/coverage@1.17.2
+- pkg:maven/io.joynr.java/coverage@1.17.3
+- pkg:maven/io.joynr.java/coverage@1.17.4

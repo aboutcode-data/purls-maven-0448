@@ -4,3 +4,4 @@
 - pkg:maven/ru.surfstudio.android/easyadapter@6.6.6?classifier=sources
 - pkg:maven/ru.surfstudio.android/easyadapter@6.6.6?type=aar
 - pkg:maven/ru.surfstudio.android/easyadapter@7.0.0?classifier=sources
+- pkg:maven/ru.surfstudio.android/easyadapter@7.0.1?classifier=sources

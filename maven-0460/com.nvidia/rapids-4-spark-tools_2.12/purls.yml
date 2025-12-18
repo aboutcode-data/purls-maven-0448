@@ -1,0 +1,2 @@
+- pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@21.06.0
+- pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@21.06.0?classifier=sources

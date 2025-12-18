@@ -31,3 +31,4 @@
 - pkg:maven/org.languagetool/language-all@5.1
 - pkg:maven/org.languagetool/language-all@5.2
 - pkg:maven/org.languagetool/language-all@5.3
+- pkg:maven/org.languagetool/language-all@5.4

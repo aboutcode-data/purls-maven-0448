@@ -1,0 +1,4 @@
+- pkg:maven/com.playtika.testcontainers/embedded-prometheus@2.0.10
+- pkg:maven/com.playtika.testcontainers/embedded-prometheus@2.0.10?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-prometheus@2.0.9
+- pkg:maven/com.playtika.testcontainers/embedded-prometheus@2.0.9?classifier=sources

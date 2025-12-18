@@ -14,3 +14,5 @@
 - pkg:maven/se.digg.dgc/dgc-schema@0.9.9?classifier=sources
 - pkg:maven/se.digg.dgc/dgc-schema@1.0.0
 - pkg:maven/se.digg.dgc/dgc-schema@1.0.0?classifier=sources
+- pkg:maven/se.digg.dgc/dgc-schema@1.0.1
+- pkg:maven/se.digg.dgc/dgc-schema@1.0.1?classifier=sources

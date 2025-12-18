@@ -8,3 +8,5 @@
 - pkg:maven/com.ibm.fhir/fhir-bulkdata-webapp@4.8.1?type=war
 - pkg:maven/com.ibm.fhir/fhir-bulkdata-webapp@4.8.2?classifier=sources
 - pkg:maven/com.ibm.fhir/fhir-bulkdata-webapp@4.8.2?type=war
+- pkg:maven/com.ibm.fhir/fhir-bulkdata-webapp@4.8.3?classifier=sources
+- pkg:maven/com.ibm.fhir/fhir-bulkdata-webapp@4.8.3?type=war

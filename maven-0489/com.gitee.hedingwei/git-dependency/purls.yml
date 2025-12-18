@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.hedingwei/git-dependency@0.0.2
+- pkg:maven/com.gitee.hedingwei/git-dependency@0.0.2?classifier=sources

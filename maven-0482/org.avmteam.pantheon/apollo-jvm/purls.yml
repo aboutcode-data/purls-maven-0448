@@ -1,0 +1,2 @@
+- pkg:maven/org.avmteam.pantheon/apollo-jvm@0.1.7-dev-preview?classifier=sources
+- pkg:maven/org.avmteam.pantheon/apollo-jvm@0.1.8-dev?classifier=sources

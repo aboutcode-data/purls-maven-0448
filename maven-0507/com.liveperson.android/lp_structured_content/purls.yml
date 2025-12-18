@@ -1,0 +1,2 @@
+- pkg:maven/com.liveperson.android/lp_structured_content@1.1.0?classifier=sources
+- pkg:maven/com.liveperson.android/lp_structured_content@2.1.0?classifier=sources

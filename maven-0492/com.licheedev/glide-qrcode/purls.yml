@@ -1,0 +1,2 @@
+- pkg:maven/com.licheedev/glide-qrcode@1.0.7?classifier=sources
+- pkg:maven/com.licheedev/glide-qrcode@1.0.8?classifier=sources

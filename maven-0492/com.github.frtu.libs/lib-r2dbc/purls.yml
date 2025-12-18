@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frtu.libs/lib-r2dbc@1.1.1
+- pkg:maven/com.github.frtu.libs/lib-r2dbc@1.1.1?classifier=sources

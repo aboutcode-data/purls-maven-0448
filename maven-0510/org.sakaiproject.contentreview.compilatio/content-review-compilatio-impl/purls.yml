@@ -38,3 +38,5 @@
 - pkg:maven/org.sakaiproject.contentreview.compilatio/content-review-compilatio-impl@20.3?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.compilatio/content-review-compilatio-impl@21.0
 - pkg:maven/org.sakaiproject.contentreview.compilatio/content-review-compilatio-impl@21.0?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview.compilatio/content-review-compilatio-impl@21.1
+- pkg:maven/org.sakaiproject.contentreview.compilatio/content-review-compilatio-impl@21.1?classifier=sources

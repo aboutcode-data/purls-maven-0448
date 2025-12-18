@@ -29,3 +29,8 @@
 - pkg:maven/org.kie/kie-dmn-pmml-tests-legacy@7.54.0.Beta1
 - pkg:maven/org.kie/kie-dmn-pmml-tests-legacy@7.54.0.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-legacy@7.55.0.Beta1
+- pkg:maven/org.kie/kie-dmn-pmml-tests-legacy@7.55.0.Final
+- pkg:maven/org.kie/kie-dmn-pmml-tests-legacy@7.56.0.Final
+- pkg:maven/org.kie/kie-dmn-pmml-tests-legacy@7.57.0.Beta1
+- pkg:maven/org.kie/kie-dmn-pmml-tests-legacy@7.57.0.Final
+- pkg:maven/org.kie/kie-dmn-pmml-tests-legacy@7.58.0.Beta1

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cocomikes/android-crop@3.0.4?classifier=sources
+- pkg:maven/io.github.cocomikes/android-crop@3.0.4?type=aar
