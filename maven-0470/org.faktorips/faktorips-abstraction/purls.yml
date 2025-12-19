@@ -1,0 +1,2 @@
+- pkg:maven/org.faktorips/faktorips-abstraction@22.6.0-m02
+- pkg:maven/org.faktorips/faktorips-abstraction@22.6.0-m02?classifier=sources

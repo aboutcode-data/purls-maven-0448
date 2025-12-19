@@ -16,3 +16,5 @@
 - pkg:maven/com.gu.identity/identity-cookie_2.13@3.250?classifier=sources
 - pkg:maven/com.gu.identity/identity-cookie_2.13@3.251
 - pkg:maven/com.gu.identity/identity-cookie_2.13@3.251?classifier=sources
+- pkg:maven/com.gu.identity/identity-cookie_2.13@3.252
+- pkg:maven/com.gu.identity/identity-cookie_2.13@3.252?classifier=sources

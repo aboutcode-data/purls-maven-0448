@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ciaica-anastasia.urlvalidator/urlvalidator@0.1
+- pkg:maven/io.github.ciaica-anastasia.urlvalidator/urlvalidator@0.1?classifier=sources

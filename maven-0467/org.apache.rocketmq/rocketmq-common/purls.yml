@@ -36,5 +36,7 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-common@4.9.2?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-common@4.9.3
 - pkg:maven/org.apache.rocketmq/rocketmq-common@4.9.3?classifier=sources
+- pkg:maven/org.apache.rocketmq/rocketmq-common@5.0.0-ALPHA
+- pkg:maven/org.apache.rocketmq/rocketmq-common@5.0.0-ALPHA?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-common@5.0.0-PREVIEW
 - pkg:maven/org.apache.rocketmq/rocketmq-common@5.0.0-PREVIEW?classifier=sources

@@ -5,7 +5,11 @@
 - pkg:maven/eu.hansolo.fx/countries@17.0.15?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.16?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.18?classifier=sources
+- pkg:maven/eu.hansolo.fx/countries@17.0.19?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.1?classifier=sources
+- pkg:maven/eu.hansolo.fx/countries@17.0.20?classifier=sources
+- pkg:maven/eu.hansolo.fx/countries@17.0.21?classifier=sources
+- pkg:maven/eu.hansolo.fx/countries@17.0.22?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.2?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.5?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.8?classifier=sources

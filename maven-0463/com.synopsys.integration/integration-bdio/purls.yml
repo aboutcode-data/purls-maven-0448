@@ -38,3 +38,5 @@
 - pkg:maven/com.synopsys.integration/integration-bdio@22.1.8?classifier=sources
 - pkg:maven/com.synopsys.integration/integration-bdio@22.1.9?classifier=sources
 - pkg:maven/com.synopsys.integration/integration-bdio@23.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-bdio@24.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-bdio@25.0.0?classifier=sources

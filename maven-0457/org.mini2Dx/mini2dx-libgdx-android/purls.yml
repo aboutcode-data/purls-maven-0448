@@ -92,3 +92,9 @@
 - pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.92?type=aar
 - pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.93?classifier=sources
 - pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.93?type=aar
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.95?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.95?type=aar
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.96?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.96?type=aar
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.97?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-android@2.0.0-alpha.97?type=aar

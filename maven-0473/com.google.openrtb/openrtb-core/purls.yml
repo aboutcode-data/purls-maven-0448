@@ -128,3 +128,5 @@
 - pkg:maven/com.google.openrtb/openrtb-core@1.5.9?classifier=sources
 - pkg:maven/com.google.openrtb/openrtb-core@2.0.0
 - pkg:maven/com.google.openrtb/openrtb-core@2.0.0?classifier=sources
+- pkg:maven/com.google.openrtb/openrtb-core@2.0.1
+- pkg:maven/com.google.openrtb/openrtb-core@2.0.1?classifier=sources

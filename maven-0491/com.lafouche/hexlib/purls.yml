@@ -1,0 +1,2 @@
+- pkg:maven/com.lafouche/hexlib@0.50
+- pkg:maven/com.lafouche/hexlib@0.50?classifier=sources

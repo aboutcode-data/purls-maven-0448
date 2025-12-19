@@ -20,3 +20,9 @@
 - pkg:maven/io.trino/trino-google-sheets@370?classifier=sources
 - pkg:maven/io.trino/trino-google-sheets@371?classifier=sources
 - pkg:maven/io.trino/trino-google-sheets@372?classifier=sources
+- pkg:maven/io.trino/trino-google-sheets@373?classifier=sources
+- pkg:maven/io.trino/trino-google-sheets@374?classifier=sources
+- pkg:maven/io.trino/trino-google-sheets@375?classifier=sources
+- pkg:maven/io.trino/trino-google-sheets@376?classifier=sources
+- pkg:maven/io.trino/trino-google-sheets@377?classifier=sources
+- pkg:maven/io.trino/trino-google-sheets@378?classifier=sources

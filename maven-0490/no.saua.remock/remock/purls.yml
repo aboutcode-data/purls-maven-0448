@@ -28,3 +28,5 @@
 - pkg:maven/no.saua.remock/remock@1.0.0?classifier=sources
 - pkg:maven/no.saua.remock/remock@1.1.0
 - pkg:maven/no.saua.remock/remock@1.1.0?classifier=sources
+- pkg:maven/no.saua.remock/remock@2.0.0
+- pkg:maven/no.saua.remock/remock@2.0.0?classifier=sources

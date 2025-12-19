@@ -104,3 +104,5 @@
 - pkg:maven/com.powsybl/powsybl-entsoe-util@4.7.0-RC2
 - pkg:maven/com.powsybl/powsybl-entsoe-util@4.7.0-RC2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-entsoe-util@4.7.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-entsoe-util@4.8.0-RC1
+- pkg:maven/com.powsybl/powsybl-entsoe-util@4.8.0-RC1?classifier=sources

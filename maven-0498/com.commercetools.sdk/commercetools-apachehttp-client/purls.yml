@@ -13,6 +13,13 @@
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@7.4.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@7.5.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@7.6.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@7.6.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.0.0-Beta.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.0.0-beta.2?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.0.0-beta.3?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.0.1?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.3.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@8.4.0?classifier=sources

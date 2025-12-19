@@ -1,0 +1,4 @@
+- pkg:maven/cn.gjing/excel-temp-valid@2022.1.0
+- pkg:maven/cn.gjing/excel-temp-valid@2022.1.0?classifier=sources
+- pkg:maven/cn.gjing/excel-temp-valid@2022.1.1
+- pkg:maven/cn.gjing/excel-temp-valid@2022.1.1?classifier=sources

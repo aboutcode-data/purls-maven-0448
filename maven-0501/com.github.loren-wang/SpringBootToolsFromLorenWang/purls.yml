@@ -1,2 +1,4 @@
 - pkg:maven/com.github.loren-wang/SpringBootToolsFromLorenWang@1.0.0-alpha01
 - pkg:maven/com.github.loren-wang/SpringBootToolsFromLorenWang@1.0.0-alpha01?classifier=sources
+- pkg:maven/com.github.loren-wang/SpringBootToolsFromLorenWang@1.0.0-alpha02
+- pkg:maven/com.github.loren-wang/SpringBootToolsFromLorenWang@1.0.0-alpha02?classifier=sources

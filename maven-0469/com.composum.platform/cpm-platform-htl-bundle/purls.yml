@@ -2,3 +2,5 @@
 - pkg:maven/com.composum.platform/cpm-platform-htl-bundle@1.0.0?classifier=sources
 - pkg:maven/com.composum.platform/cpm-platform-htl-bundle@1.1.0
 - pkg:maven/com.composum.platform/cpm-platform-htl-bundle@1.1.0?classifier=sources
+- pkg:maven/com.composum.platform/cpm-platform-htl-bundle@1.1.1
+- pkg:maven/com.composum.platform/cpm-platform-htl-bundle@1.1.1?classifier=sources

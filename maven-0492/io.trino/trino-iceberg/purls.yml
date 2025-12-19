@@ -20,3 +20,9 @@
 - pkg:maven/io.trino/trino-iceberg@370?classifier=sources
 - pkg:maven/io.trino/trino-iceberg@371?classifier=sources
 - pkg:maven/io.trino/trino-iceberg@372?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@373?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@374?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@375?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@376?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@377?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@378?classifier=sources

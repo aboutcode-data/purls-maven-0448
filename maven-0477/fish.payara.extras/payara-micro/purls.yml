@@ -71,8 +71,10 @@
 - pkg:maven/fish.payara.extras/payara-micro@5.2021.8?classifier=sources
 - pkg:maven/fish.payara.extras/payara-micro@5.2021.9?classifier=sources
 - pkg:maven/fish.payara.extras/payara-micro@5.2022.1?classifier=sources
+- pkg:maven/fish.payara.extras/payara-micro@5.2022.2?classifier=sources
 - pkg:maven/fish.payara.extras/payara-micro@5.Beta1
 - pkg:maven/fish.payara.extras/payara-micro@5.Beta1?classifier=sources
 - pkg:maven/fish.payara.extras/payara-micro@5.Beta2
 - pkg:maven/fish.payara.extras/payara-micro@5.Beta2?classifier=sources
 - pkg:maven/fish.payara.extras/payara-micro@6.2021.1.Alpha1?classifier=sources
+- pkg:maven/fish.payara.extras/payara-micro@6.2022.1.Alpha2?classifier=sources

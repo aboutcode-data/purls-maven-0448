@@ -158,3 +158,5 @@
 - pkg:maven/com.facebook.presto/presto-testing-docker@0.270?classifier=sources
 - pkg:maven/com.facebook.presto/presto-testing-docker@0.271
 - pkg:maven/com.facebook.presto/presto-testing-docker@0.271?classifier=sources
+- pkg:maven/com.facebook.presto/presto-testing-docker@0.272
+- pkg:maven/com.facebook.presto/presto-testing-docker@0.272?classifier=sources

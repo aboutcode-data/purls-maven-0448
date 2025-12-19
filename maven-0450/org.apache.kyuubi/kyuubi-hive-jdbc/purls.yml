@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.kyuubi/kyuubi-hive-jdbc@1.4.0-incubating?classifier=sources
 - pkg:maven/org.apache.kyuubi/kyuubi-hive-jdbc@1.4.1-incubating
 - pkg:maven/org.apache.kyuubi/kyuubi-hive-jdbc@1.4.1-incubating?classifier=sources
+- pkg:maven/org.apache.kyuubi/kyuubi-hive-jdbc@1.5.0-incubating
+- pkg:maven/org.apache.kyuubi/kyuubi-hive-jdbc@1.5.0-incubating?classifier=sources
+- pkg:maven/org.apache.kyuubi/kyuubi-hive-jdbc@1.5.1-incubating
+- pkg:maven/org.apache.kyuubi/kyuubi-hive-jdbc@1.5.1-incubating?classifier=sources

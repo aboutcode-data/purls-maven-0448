@@ -1,0 +1,2 @@
+- pkg:maven/com.exp-blog/soapui@1.7.1
+- pkg:maven/com.exp-blog/soapui@1.7.1?classifier=sources

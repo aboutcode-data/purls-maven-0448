@@ -31,3 +31,4 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.resolver.impl@2.5.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.resolver.impl@2.6.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.resolver.impl@2.7.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.resolver.impl@2.7.1?classifier=sources

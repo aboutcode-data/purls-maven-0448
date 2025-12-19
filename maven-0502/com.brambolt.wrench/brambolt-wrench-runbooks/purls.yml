@@ -4,3 +4,8 @@
 - pkg:maven/com.brambolt.wrench/brambolt-wrench-runbooks@2021.12.03-5135?classifier=sources
 - pkg:maven/com.brambolt.wrench/brambolt-wrench-runbooks@2021.12.07-5139?classifier=sources
 - pkg:maven/com.brambolt.wrench/brambolt-wrench-runbooks@2022.02.22-6022?classifier=sources
+- pkg:maven/com.brambolt.wrench/brambolt-wrench-runbooks@2022.04.01-7011?classifier=sources
+- pkg:maven/com.brambolt.wrench/brambolt-wrench-runbooks@2022.04.01-7013?classifier=sources
+- pkg:maven/com.brambolt.wrench/brambolt-wrench-runbooks@2022.04.01-7014?classifier=sources
+- pkg:maven/com.brambolt.wrench/brambolt-wrench-runbooks@2022.04.01-7015?classifier=sources
+- pkg:maven/com.brambolt.wrench/brambolt-wrench-runbooks@2022.04.01-7016?classifier=sources

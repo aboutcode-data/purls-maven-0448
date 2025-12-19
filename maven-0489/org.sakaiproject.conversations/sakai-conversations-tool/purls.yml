@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject.conversations/sakai-conversations-tool@22.0?classifier=sources
+- pkg:maven/org.sakaiproject.conversations/sakai-conversations-tool@22.0?type=war

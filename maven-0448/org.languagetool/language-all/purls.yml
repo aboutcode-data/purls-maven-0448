@@ -1,3 +1,4 @@
+- pkg:maven/org.languagetool/language-all@%24%257Brevision%257D
 - pkg:maven/org.languagetool/language-all@2.1
 - pkg:maven/org.languagetool/language-all@2.2
 - pkg:maven/org.languagetool/language-all@2.3.1
@@ -34,3 +35,4 @@
 - pkg:maven/org.languagetool/language-all@5.4
 - pkg:maven/org.languagetool/language-all@5.5
 - pkg:maven/org.languagetool/language-all@5.6
+- pkg:maven/org.languagetool/language-all@5.7

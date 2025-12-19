@@ -36,3 +36,5 @@
 - pkg:maven/nl.inl.blacklab/blacklab@2.1.1?classifier=sources
 - pkg:maven/nl.inl.blacklab/blacklab@2.2.0
 - pkg:maven/nl.inl.blacklab/blacklab@2.2.0?classifier=sources
+- pkg:maven/nl.inl.blacklab/blacklab@2.3.0
+- pkg:maven/nl.inl.blacklab/blacklab@2.3.0?classifier=sources

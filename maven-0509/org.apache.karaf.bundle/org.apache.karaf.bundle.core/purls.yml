@@ -118,3 +118,5 @@
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.core@4.3.5?classifier=sources
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.core@4.3.6
 - pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.core@4.3.6?classifier=sources
+- pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.core@4.4.0
+- pkg:maven/org.apache.karaf.bundle/org.apache.karaf.bundle.core@4.4.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.gitlab.swissclash79/unleash-spring-boot-starter@1.0.0
+- pkg:maven/io.gitlab.swissclash79/unleash-spring-boot-starter@1.0.0-alpha1
+- pkg:maven/io.gitlab.swissclash79/unleash-spring-boot-starter@1.0.0-alpha1?classifier=sources
+- pkg:maven/io.gitlab.swissclash79/unleash-spring-boot-starter@1.0.0-alpha2
+- pkg:maven/io.gitlab.swissclash79/unleash-spring-boot-starter@1.0.0-alpha2?classifier=sources
+- pkg:maven/io.gitlab.swissclash79/unleash-spring-boot-starter@1.0.0?classifier=sources

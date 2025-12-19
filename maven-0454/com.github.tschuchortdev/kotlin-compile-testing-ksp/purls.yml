@@ -21,3 +21,4 @@
 - pkg:maven/com.github.tschuchortdev/kotlin-compile-testing-ksp@1.4.7?classifier=sources
 - pkg:maven/com.github.tschuchortdev/kotlin-compile-testing-ksp@1.4.8-alpha01?classifier=sources
 - pkg:maven/com.github.tschuchortdev/kotlin-compile-testing-ksp@1.4.8-alpha02?classifier=sources
+- pkg:maven/com.github.tschuchortdev/kotlin-compile-testing-ksp@1.4.8?classifier=sources

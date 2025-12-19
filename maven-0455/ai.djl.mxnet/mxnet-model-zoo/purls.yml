@@ -10,6 +10,8 @@
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.14.0?classifier=sources
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.15.0
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.15.0?classifier=sources
+- pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.16.0
+- pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.16.0?classifier=sources
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.2.0?classifier=sources
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.2.1
 - pkg:maven/ai.djl.mxnet/mxnet-model-zoo@0.2.1?classifier=sources

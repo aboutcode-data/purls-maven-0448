@@ -1,0 +1,4 @@
+- pkg:maven/org.specs2/specs2-scalaz_3@4.14.1-cross
+- pkg:maven/org.specs2/specs2-scalaz_3@4.14.1-cross?classifier=sources
+- pkg:maven/org.specs2/specs2-scalaz_3@4.15.0
+- pkg:maven/org.specs2/specs2-scalaz_3@4.15.0?classifier=sources

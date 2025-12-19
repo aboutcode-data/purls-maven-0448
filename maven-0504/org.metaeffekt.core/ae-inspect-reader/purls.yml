@@ -1,0 +1,4 @@
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.48.0
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.48.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.49.0
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.49.0?classifier=sources

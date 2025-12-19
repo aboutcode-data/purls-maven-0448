@@ -16,3 +16,5 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-service-infinispan@1.1.0.Beta.1?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-service-infinispan@1.1.0.Beta2
 - pkg:maven/io.quarkus.qe/quarkus-test-service-infinispan@1.1.0.Beta2?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-service-infinispan@1.1.0.Beta3
+- pkg:maven/io.quarkus.qe/quarkus-test-service-infinispan@1.1.0.Beta3?classifier=sources

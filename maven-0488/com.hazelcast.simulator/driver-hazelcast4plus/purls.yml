@@ -1,2 +1,4 @@
 - pkg:maven/com.hazelcast.simulator/driver-hazelcast4plus@0.13
 - pkg:maven/com.hazelcast.simulator/driver-hazelcast4plus@0.13?classifier=sources
+- pkg:maven/com.hazelcast.simulator/driver-hazelcast4plus@1.0
+- pkg:maven/com.hazelcast.simulator/driver-hazelcast4plus@1.0?classifier=sources

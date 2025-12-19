@@ -1,0 +1,2 @@
+- pkg:maven/net.corda/corda-standalone-shell@4.9
+- pkg:maven/net.corda/corda-standalone-shell@4.9?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/billingconductor@1.150.0
+- pkg:maven/software.amazon.awscdk/billingconductor@1.150.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/billingconductor@1.151.0
+- pkg:maven/software.amazon.awscdk/billingconductor@1.151.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/billingconductor@1.152.0
+- pkg:maven/software.amazon.awscdk/billingconductor@1.152.0?classifier=sources

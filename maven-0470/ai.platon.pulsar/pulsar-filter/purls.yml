@@ -12,3 +12,11 @@
 - pkg:maven/ai.platon.pulsar/pulsar-filter@1.7.3?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-filter@1.7.4
 - pkg:maven/ai.platon.pulsar/pulsar-filter@1.7.4?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-filter@1.7.5
+- pkg:maven/ai.platon.pulsar/pulsar-filter@1.7.5?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-filter@1.8.0
+- pkg:maven/ai.platon.pulsar/pulsar-filter@1.8.0?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-filter@1.8.2
+- pkg:maven/ai.platon.pulsar/pulsar-filter@1.8.2?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-filter@1.8.3
+- pkg:maven/ai.platon.pulsar/pulsar-filter@1.8.3?classifier=sources

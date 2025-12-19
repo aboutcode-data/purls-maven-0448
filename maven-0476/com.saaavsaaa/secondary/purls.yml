@@ -1,4 +1,6 @@
 - pkg:maven/com.saaavsaaa/secondary@0.0.1
 - pkg:maven/com.saaavsaaa/secondary@0.0.1?classifier=sources
+- pkg:maven/com.saaavsaaa/secondary@0.0.2
 - pkg:maven/com.saaavsaaa/secondary@0.0.2-beta
 - pkg:maven/com.saaavsaaa/secondary@0.0.2-beta?classifier=sources
+- pkg:maven/com.saaavsaaa/secondary@0.0.2?classifier=sources

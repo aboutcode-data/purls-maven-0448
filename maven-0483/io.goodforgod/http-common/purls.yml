@@ -1,0 +1,2 @@
+- pkg:maven/io.goodforgod/http-common@0.10.0?classifier=sources
+- pkg:maven/io.goodforgod/http-common@0.9.0?classifier=sources

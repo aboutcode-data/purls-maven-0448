@@ -4,6 +4,8 @@
 - pkg:maven/org.beangle.commons/beangle-commons-dbf_3@5.2.11?classifier=sources
 - pkg:maven/org.beangle.commons/beangle-commons-dbf_3@5.2.12
 - pkg:maven/org.beangle.commons/beangle-commons-dbf_3@5.2.12?classifier=sources
+- pkg:maven/org.beangle.commons/beangle-commons-dbf_3@5.2.13
+- pkg:maven/org.beangle.commons/beangle-commons-dbf_3@5.2.13?classifier=sources
 - pkg:maven/org.beangle.commons/beangle-commons-dbf_3@5.2.4
 - pkg:maven/org.beangle.commons/beangle-commons-dbf_3@5.2.4?classifier=sources
 - pkg:maven/org.beangle.commons/beangle-commons-dbf_3@5.2.5

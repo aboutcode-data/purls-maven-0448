@@ -1,0 +1,2 @@
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.10?classifier=sources
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.9.1?classifier=sources

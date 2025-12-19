@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexyavo/scala-md-tag_2.13@0.3.5
+- pkg:maven/io.github.alexyavo/scala-md-tag_2.13@0.3.5?classifier=sources

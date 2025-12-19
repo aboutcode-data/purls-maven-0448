@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/qktest20210908@1.0.1
+- pkg:maven/com.aliyun/qktest20210908@1.0.1?classifier=sources

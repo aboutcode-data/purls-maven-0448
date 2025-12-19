@@ -1,5 +1,9 @@
 - pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.10
 - pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.10?classifier=sources
+- pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.11
+- pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.11?classifier=sources
+- pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.12
+- pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.12?classifier=sources
 - pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.4
 - pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.4?classifier=sources
 - pkg:maven/io.github.dimitarg/weaver-test-extra_2.13@0.4.5

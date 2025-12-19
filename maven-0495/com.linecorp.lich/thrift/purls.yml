@@ -7,3 +7,5 @@
 - pkg:maven/com.linecorp.lich/thrift@2.2.0?classifier=sources
 - pkg:maven/com.linecorp.lich/thrift@2.3.0?classifier=sources
 - pkg:maven/com.linecorp.lich/thrift@2.4.0?classifier=sources
+- pkg:maven/com.linecorp.lich/thrift@2.5.0?classifier=sources
+- pkg:maven/com.linecorp.lich/thrift@2.6.0?classifier=sources

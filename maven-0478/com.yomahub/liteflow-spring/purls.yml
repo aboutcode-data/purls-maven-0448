@@ -1,0 +1,4 @@
+- pkg:maven/com.yomahub/liteflow-spring@2.6.11
+- pkg:maven/com.yomahub/liteflow-spring@2.6.11?classifier=sources
+- pkg:maven/com.yomahub/liteflow-spring@2.6.12
+- pkg:maven/com.yomahub/liteflow-spring@2.6.12?classifier=sources

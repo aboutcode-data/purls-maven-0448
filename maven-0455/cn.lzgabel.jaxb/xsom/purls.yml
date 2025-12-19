@@ -1,0 +1,2 @@
+- pkg:maven/cn.lzgabel.jaxb/xsom@4.0.0
+- pkg:maven/cn.lzgabel.jaxb/xsom@4.0.0?classifier=sources

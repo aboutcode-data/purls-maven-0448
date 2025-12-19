@@ -1,0 +1,6 @@
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-polaris-config@1.2.0-2020.0.5
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-polaris-config@1.2.0-2020.0.5?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-polaris-config@1.2.0-Greenwich
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-polaris-config@1.2.0-Greenwich?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-polaris-config@1.2.0-Hoxton.SR9
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-polaris-config@1.2.0-Hoxton.SR9?classifier=sources

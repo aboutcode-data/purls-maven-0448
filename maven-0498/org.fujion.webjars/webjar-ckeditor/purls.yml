@@ -2,3 +2,4 @@
 - pkg:maven/org.fujion.webjars/webjar-ckeditor@4.16.1
 - pkg:maven/org.fujion.webjars/webjar-ckeditor@4.17.1
 - pkg:maven/org.fujion.webjars/webjar-ckeditor@4.17.2
+- pkg:maven/org.fujion.webjars/webjar-ckeditor@4.18.0

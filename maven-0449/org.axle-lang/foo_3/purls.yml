@@ -1,0 +1,2 @@
+- pkg:maven/org.axle-lang/foo_3@0.1.10
+- pkg:maven/org.axle-lang/foo_3@0.1.10?classifier=sources

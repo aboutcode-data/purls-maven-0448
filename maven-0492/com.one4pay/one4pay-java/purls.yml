@@ -1,0 +1,4 @@
+- pkg:maven/com.one4pay/one4pay-java@1.0.0
+- pkg:maven/com.one4pay/one4pay-java@1.0.0?classifier=sources
+- pkg:maven/com.one4pay/one4pay-java@1.0.1
+- pkg:maven/com.one4pay/one4pay-java@1.0.1?classifier=sources

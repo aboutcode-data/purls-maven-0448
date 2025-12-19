@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.doris/spark-doris-connector-2.3_2.11@1.0.1
+- pkg:maven/org.apache.doris/spark-doris-connector-2.3_2.11@1.0.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.bardframework.validator/bard-validator@0.4?classifier=sources
 - pkg:maven/org.bardframework.validator/bard-validator@0.9.3
 - pkg:maven/org.bardframework.validator/bard-validator@0.9.3?classifier=sources
+- pkg:maven/org.bardframework.validator/bard-validator@1.1.18
+- pkg:maven/org.bardframework.validator/bard-validator@1.1.18?classifier=sources

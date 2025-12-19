@@ -1,4 +1,5 @@
 - pkg:maven/io.arrow-kt.arrow-gradle-config-formatter/io.arrow-kt.arrow-gradle-config-formatter.gradle.plugin@0.10.0?classifier=sources
+- pkg:maven/io.arrow-kt.arrow-gradle-config-formatter/io.arrow-kt.arrow-gradle-config-formatter.gradle.plugin@0.10.1-alpha.1?classifier=sources
 - pkg:maven/io.arrow-kt.arrow-gradle-config-formatter/io.arrow-kt.arrow-gradle-config-formatter.gradle.plugin@0.3.3?classifier=sources
 - pkg:maven/io.arrow-kt.arrow-gradle-config-formatter/io.arrow-kt.arrow-gradle-config-formatter.gradle.plugin@0.3.4?classifier=sources
 - pkg:maven/io.arrow-kt.arrow-gradle-config-formatter/io.arrow-kt.arrow-gradle-config-formatter.gradle.plugin@0.3.5?classifier=sources

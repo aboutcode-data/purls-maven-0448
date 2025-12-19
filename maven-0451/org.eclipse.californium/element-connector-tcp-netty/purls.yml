@@ -48,6 +48,10 @@
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@2.6.6?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@2.7.0
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@2.7.0?classifier=sources
+- pkg:maven/org.eclipse.californium/element-connector-tcp-netty@2.7.1
+- pkg:maven/org.eclipse.californium/element-connector-tcp-netty@2.7.1?classifier=sources
+- pkg:maven/org.eclipse.californium/element-connector-tcp-netty@2.7.2
+- pkg:maven/org.eclipse.californium/element-connector-tcp-netty@2.7.2?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.0.0
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.0.0-M1
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.0.0-M1?classifier=sources
@@ -70,3 +74,5 @@
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.3.0?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.3.1
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.3.1?classifier=sources
+- pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.4.0
+- pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.4.0?classifier=sources

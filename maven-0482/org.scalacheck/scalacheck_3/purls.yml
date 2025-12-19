@@ -2,3 +2,5 @@
 - pkg:maven/org.scalacheck/scalacheck_3@1.15.3?classifier=sources
 - pkg:maven/org.scalacheck/scalacheck_3@1.15.4
 - pkg:maven/org.scalacheck/scalacheck_3@1.15.4?classifier=sources
+- pkg:maven/org.scalacheck/scalacheck_3@1.16.0
+- pkg:maven/org.scalacheck/scalacheck_3@1.16.0?classifier=sources

@@ -145,3 +145,7 @@
 - pkg:maven/com.github.binarywang/wx-java-open-spring-boot-starter@4.2.6.B?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-open-spring-boot-starter@4.2.7.B
 - pkg:maven/com.github.binarywang/wx-java-open-spring-boot-starter@4.2.7.B?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-open-spring-boot-starter@4.2.8.B
+- pkg:maven/com.github.binarywang/wx-java-open-spring-boot-starter@4.2.8.B?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-open-spring-boot-starter@4.2.9.B
+- pkg:maven/com.github.binarywang/wx-java-open-spring-boot-starter@4.2.9.B?classifier=sources

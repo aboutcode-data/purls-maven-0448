@@ -1,3 +1,5 @@
+- pkg:maven/de.resol/vbus@0.10.0
+- pkg:maven/de.resol/vbus@0.10.0?classifier=sources
 - pkg:maven/de.resol/vbus@0.4.0
 - pkg:maven/de.resol/vbus@0.4.0?classifier=sources
 - pkg:maven/de.resol/vbus@0.5.0

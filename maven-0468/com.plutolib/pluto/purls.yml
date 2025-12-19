@@ -7,3 +7,4 @@
 - pkg:maven/com.plutolib/pluto@1.1.8-alpha?classifier=sources
 - pkg:maven/com.plutolib/pluto@1.2.0?classifier=sources
 - pkg:maven/com.plutolib/pluto@2.0.0?classifier=sources
+- pkg:maven/com.plutolib/pluto@2.0.1-beta?classifier=sources

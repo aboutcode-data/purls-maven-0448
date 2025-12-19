@@ -1,0 +1,2 @@
+- pkg:maven/io.xream.rey/rey-spring-boot-starter@1.0.0.RELEASE
+- pkg:maven/io.xream.rey/rey-spring-boot-starter@1.0.0.RELEASE?classifier=sources

@@ -42,3 +42,7 @@
 - pkg:maven/com.github.zdtjss/nway-jdbc@1.5.7?classifier=sources
 - pkg:maven/com.github.zdtjss/nway-jdbc@1.5.8
 - pkg:maven/com.github.zdtjss/nway-jdbc@1.5.8?classifier=sources
+- pkg:maven/com.github.zdtjss/nway-jdbc@1.5.9
+- pkg:maven/com.github.zdtjss/nway-jdbc@1.5.9?classifier=sources
+- pkg:maven/com.github.zdtjss/nway-jdbc@1.6.0
+- pkg:maven/com.github.zdtjss/nway-jdbc@1.6.0?classifier=sources
