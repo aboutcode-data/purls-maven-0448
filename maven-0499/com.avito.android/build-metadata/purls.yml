@@ -35,4 +35,6 @@
 - pkg:maven/com.avito.android/build-metadata@2021.40?classifier=sources
 - pkg:maven/com.avito.android/build-metadata@2021.41?classifier=sources
 - pkg:maven/com.avito.android/build-metadata@2021.42?classifier=sources
+- pkg:maven/com.avito.android/build-metadata@2022.12?classifier=sources
+- pkg:maven/com.avito.android/build-metadata@2022.14?classifier=sources
 - pkg:maven/com.avito.android/build-metadata@2022.1?classifier=sources

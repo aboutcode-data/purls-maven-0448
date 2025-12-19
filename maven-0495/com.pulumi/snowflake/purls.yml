@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/snowflake@0.12.1-alpha.1660927856%2Ba949bfde?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.13.0?classifier=sources

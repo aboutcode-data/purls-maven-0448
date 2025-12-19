@@ -3,3 +3,5 @@
 - pkg:maven/com.paysera.lib/kotlin-lib-auth-sdk@3.8.3-LOCAL?classifier=sources
 - pkg:maven/com.paysera.lib/kotlin-lib-auth-sdk@3.8.4?classifier=sources
 - pkg:maven/com.paysera.lib/kotlin-lib-auth-sdk@3.8.5?classifier=sources
+- pkg:maven/com.paysera.lib/kotlin-lib-auth-sdk@3.8.6?classifier=sources
+- pkg:maven/com.paysera.lib/kotlin-lib-auth-sdk@3.8.7?classifier=sources

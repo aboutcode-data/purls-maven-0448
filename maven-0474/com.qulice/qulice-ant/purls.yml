@@ -104,3 +104,11 @@
 - pkg:maven/com.qulice/qulice-ant@0.19.3?classifier=sources
 - pkg:maven/com.qulice/qulice-ant@0.19.4
 - pkg:maven/com.qulice/qulice-ant@0.19.4?classifier=sources
+- pkg:maven/com.qulice/qulice-ant@0.19.5
+- pkg:maven/com.qulice/qulice-ant@0.19.5?classifier=sources
+- pkg:maven/com.qulice/qulice-ant@0.20.0
+- pkg:maven/com.qulice/qulice-ant@0.20.0?classifier=sources
+- pkg:maven/com.qulice/qulice-ant@0.21.0
+- pkg:maven/com.qulice/qulice-ant@0.21.0?classifier=sources
+- pkg:maven/com.qulice/qulice-ant@0.21.1
+- pkg:maven/com.qulice/qulice-ant@0.21.1?classifier=sources

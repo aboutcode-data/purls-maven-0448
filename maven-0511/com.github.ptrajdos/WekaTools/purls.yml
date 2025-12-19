@@ -46,6 +46,8 @@
 - pkg:maven/com.github.ptrajdos/WekaTools@1.12.0?classifier=sources
 - pkg:maven/com.github.ptrajdos/WekaTools@1.13.0
 - pkg:maven/com.github.ptrajdos/WekaTools@1.13.0?classifier=sources
+- pkg:maven/com.github.ptrajdos/WekaTools@1.14.0
+- pkg:maven/com.github.ptrajdos/WekaTools@1.14.0?classifier=sources
 - pkg:maven/com.github.ptrajdos/WekaTools@1.2.0
 - pkg:maven/com.github.ptrajdos/WekaTools@1.2.0?classifier=sources
 - pkg:maven/com.github.ptrajdos/WekaTools@1.3.0

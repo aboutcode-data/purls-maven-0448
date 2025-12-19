@@ -12,5 +12,11 @@
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.6.29?classifier=sources
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.6.8
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.6.8?classifier=sources
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.7.13
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.7.13?classifier=sources
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.7.20
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.7.20?classifier=sources
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.7.6
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.7.6?classifier=sources
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.8.10
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.8.10?classifier=sources

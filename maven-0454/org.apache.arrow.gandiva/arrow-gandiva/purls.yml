@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@7.0.0?classifier=sources
 - pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@8.0.0
 - pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@8.0.0?classifier=sources
+- pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@9.0.0
+- pkg:maven/org.apache.arrow.gandiva/arrow-gandiva@9.0.0?classifier=sources

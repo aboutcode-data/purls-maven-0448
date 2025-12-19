@@ -54,6 +54,10 @@
 - pkg:maven/com.kaltura/kalturaApiClient@18.0.1?classifier=sources
 - pkg:maven/com.kaltura/kalturaApiClient@18.1.1
 - pkg:maven/com.kaltura/kalturaApiClient@18.1.1?classifier=sources
+- pkg:maven/com.kaltura/kalturaApiClient@18.10.1
+- pkg:maven/com.kaltura/kalturaApiClient@18.10.1?classifier=sources
+- pkg:maven/com.kaltura/kalturaApiClient@18.11.0
+- pkg:maven/com.kaltura/kalturaApiClient@18.11.0?classifier=sources
 - pkg:maven/com.kaltura/kalturaApiClient@18.2.0
 - pkg:maven/com.kaltura/kalturaApiClient@18.2.0?classifier=sources
 - pkg:maven/com.kaltura/kalturaApiClient@18.7.0

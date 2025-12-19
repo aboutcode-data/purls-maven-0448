@@ -2,6 +2,10 @@
 - pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B100-f0fb2228?classifier=sources
 - pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B102-14930b47
 - pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B102-14930b47?classifier=sources
+- pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B104-65f0c6cf
+- pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B104-65f0c6cf?classifier=sources
+- pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B105-b4f09d40
+- pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B105-b4f09d40?classifier=sources
 - pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B78-2f262b2d%2B20210327-1705
 - pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B78-2f262b2d%2B20210327-1705?classifier=sources
 - pkg:maven/io.github.pityka/aten-scala-jni-linux@0.0.0%2B79-38ef41c2

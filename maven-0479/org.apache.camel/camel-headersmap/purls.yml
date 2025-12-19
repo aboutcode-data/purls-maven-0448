@@ -120,6 +120,8 @@
 - pkg:maven/org.apache.camel/camel-headersmap@3.17.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-headersmap@3.18.0
 - pkg:maven/org.apache.camel/camel-headersmap@3.18.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-headersmap@3.18.1
+- pkg:maven/org.apache.camel/camel-headersmap@3.18.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-headersmap@3.2.0
 - pkg:maven/org.apache.camel/camel-headersmap@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-headersmap@3.3.0

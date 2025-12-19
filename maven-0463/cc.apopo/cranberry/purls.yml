@@ -1,0 +1,2 @@
+- pkg:maven/cc.apopo/cranberry@1.0-release
+- pkg:maven/cc.apopo/cranberry@1.0-release?classifier=sources

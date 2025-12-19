@@ -11,3 +11,4 @@
 - pkg:maven/com.eventstore/db-client-java@1.0.0?classifier=sources
 - pkg:maven/com.eventstore/db-client-java@2.0.0?classifier=sources
 - pkg:maven/com.eventstore/db-client-java@3.0.0?classifier=sources
+- pkg:maven/com.eventstore/db-client-java@3.0.1?classifier=sources

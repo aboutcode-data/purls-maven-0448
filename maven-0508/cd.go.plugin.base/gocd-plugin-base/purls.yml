@@ -3,3 +3,4 @@
 - pkg:maven/cd.go.plugin.base/gocd-plugin-base@0.0.2
 - pkg:maven/cd.go.plugin.base/gocd-plugin-base@0.0.2?classifier=sources
 - pkg:maven/cd.go.plugin.base/gocd-plugin-base@0.0.3?classifier=sources
+- pkg:maven/cd.go.plugin.base/gocd-plugin-base@0.0.4?classifier=sources

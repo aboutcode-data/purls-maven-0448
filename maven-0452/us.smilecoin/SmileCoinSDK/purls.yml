@@ -1,0 +1,2 @@
+- pkg:maven/us.smilecoin/SmileCoinSDK@1.01?classifier=sources
+- pkg:maven/us.smilecoin/SmileCoinSDK@1.0?classifier=sources

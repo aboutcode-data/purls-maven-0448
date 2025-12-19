@@ -10,3 +10,5 @@
 - pkg:maven/se.kth.castor/sorald@0.4.1?classifier=sources
 - pkg:maven/se.kth.castor/sorald@0.5.0
 - pkg:maven/se.kth.castor/sorald@0.5.0?classifier=sources
+- pkg:maven/se.kth.castor/sorald@0.6.0
+- pkg:maven/se.kth.castor/sorald@0.6.0?classifier=sources

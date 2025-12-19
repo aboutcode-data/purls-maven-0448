@@ -4,3 +4,5 @@
 - pkg:maven/io.netty/netty5-testsuite@5.0.0.Alpha2?classifier=sources
 - pkg:maven/io.netty/netty5-testsuite@5.0.0.Alpha3
 - pkg:maven/io.netty/netty5-testsuite@5.0.0.Alpha3?classifier=sources
+- pkg:maven/io.netty/netty5-testsuite@5.0.0.Alpha4
+- pkg:maven/io.netty/netty5-testsuite@5.0.0.Alpha4?classifier=sources

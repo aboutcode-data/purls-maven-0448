@@ -4,3 +4,5 @@
 - pkg:maven/de.codecentric/batch-web-spring-boot-starter@2.0.3.RELEASE
 - pkg:maven/de.codecentric/batch-web-spring-boot-starter@2.0.4.RELEASE
 - pkg:maven/de.codecentric/batch-web-spring-boot-starter@2.1.0.RELEASE
+- pkg:maven/de.codecentric/batch-web-spring-boot-starter@2.2.0
+- pkg:maven/de.codecentric/batch-web-spring-boot-starter@2.3.0

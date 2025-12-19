@@ -1,0 +1,2 @@
+- pkg:maven/ru.aslcraft.bell.oauth.discord/OAuth2Discord@1.0
+- pkg:maven/ru.aslcraft.bell.oauth.discord/OAuth2Discord@1.0?classifier=sources

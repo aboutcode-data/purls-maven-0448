@@ -47,3 +47,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-classic-docs@2.9.2
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-classic-docs@2.9.3
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-classic-docs@2.9.4
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-classic-docs@2.9.5

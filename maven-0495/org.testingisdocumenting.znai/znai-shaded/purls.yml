@@ -29,3 +29,6 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.55
 - pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.56
 - pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.57
+- pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.58
+- pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.59
+- pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.59.1

@@ -39,3 +39,4 @@
 - pkg:maven/me.proton.core/util-android-work-manager@8.2.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-work-manager@8.3.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-work-manager@8.4.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-work-manager@8.5.0?classifier=sources

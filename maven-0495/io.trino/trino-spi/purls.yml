@@ -76,3 +76,11 @@
 - pkg:maven/io.trino/trino-spi@388?classifier=sources
 - pkg:maven/io.trino/trino-spi@389
 - pkg:maven/io.trino/trino-spi@389?classifier=sources
+- pkg:maven/io.trino/trino-spi@390
+- pkg:maven/io.trino/trino-spi@390?classifier=sources
+- pkg:maven/io.trino/trino-spi@391
+- pkg:maven/io.trino/trino-spi@391?classifier=sources
+- pkg:maven/io.trino/trino-spi@392
+- pkg:maven/io.trino/trino-spi@392?classifier=sources
+- pkg:maven/io.trino/trino-spi@393
+- pkg:maven/io.trino/trino-spi@393?classifier=sources

@@ -14,3 +14,9 @@
 - pkg:maven/com.xtdb/xtdb-core@1.21.0.1
 - pkg:maven/com.xtdb/xtdb-core@1.21.0.1?classifier=sources
 - pkg:maven/com.xtdb/xtdb-core@1.21.0?classifier=sources
+- pkg:maven/com.xtdb/xtdb-core@1.22.0-alpha1
+- pkg:maven/com.xtdb/xtdb-core@1.22.0-alpha1?classifier=sources
+- pkg:maven/com.xtdb/xtdb-core@1.22.0-alpha2
+- pkg:maven/com.xtdb/xtdb-core@1.22.0-alpha2?classifier=sources
+- pkg:maven/com.xtdb/xtdb-core@1.22.0-rc1
+- pkg:maven/com.xtdb/xtdb-core@1.22.0-rc1?classifier=sources

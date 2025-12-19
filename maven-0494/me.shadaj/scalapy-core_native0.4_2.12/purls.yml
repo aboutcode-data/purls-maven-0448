@@ -137,4 +137,6 @@
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.1%2B9-ab5ca61c?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.1?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.2
+- pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.2%2B1-2e601d11
+- pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.2%2B1-2e601d11?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_native0.4_2.12@0.5.2?classifier=sources

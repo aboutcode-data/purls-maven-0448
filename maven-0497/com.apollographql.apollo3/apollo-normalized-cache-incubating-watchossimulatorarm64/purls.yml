@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-incubating-watchossimulatorarm64@3.4.0?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-normalized-cache-incubating-watchossimulatorarm64@3.5.0?classifier=sources

@@ -98,6 +98,8 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator@6.2.2.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator@6.2.3.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator@6.2.3.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator@6.2.4.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator@6.2.4.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator@7.0.0.Alpha1
 - pkg:maven/org.hibernate.validator/hibernate-validator@7.0.0.Alpha1?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator@7.0.0.Alpha2
@@ -122,6 +124,8 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator@7.0.3.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator@7.0.4.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator@7.0.4.Final?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator@7.0.5.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator@7.0.5.Final?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.Alpha1
 - pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.Alpha1?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.Alpha2
@@ -130,3 +134,7 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.Alpha3?classifier=sources
 - pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.CR1
 - pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.CR1?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.CR2
+- pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.CR2?classifier=sources
+- pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.CR3
+- pkg:maven/org.hibernate.validator/hibernate-validator@8.0.0.CR3?classifier=sources

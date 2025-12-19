@@ -8,3 +8,4 @@
 - pkg:maven/com.freeletics.flowredux/flowredux-jvm@0.7.0?classifier=sources
 - pkg:maven/com.freeletics.flowredux/flowredux-jvm@0.8.0?classifier=sources
 - pkg:maven/com.freeletics.flowredux/flowredux-jvm@0.9.0?classifier=sources
+- pkg:maven/com.freeletics.flowredux/flowredux-jvm@1.0.0?classifier=sources

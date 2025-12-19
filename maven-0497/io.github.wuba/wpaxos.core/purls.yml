@@ -1,0 +1,5 @@
+- pkg:maven/io.github.wuba/wpaxos.core@1.0.0-Release
+- pkg:maven/io.github.wuba/wpaxos.core@1.0.0-Release?classifier=sources
+- pkg:maven/io.github.wuba/wpaxos.core@1.0.0?classifier=sources
+- pkg:maven/io.github.wuba/wpaxos.core@1.0.1-Release
+- pkg:maven/io.github.wuba/wpaxos.core@1.0.1-Release?classifier=sources

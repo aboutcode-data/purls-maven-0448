@@ -78,3 +78,11 @@
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.69.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.70.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.70.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.71.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.71.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.72.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.72.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.73.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.73.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.74.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata-v4-onpremise-2020@3.74.0?classifier=sources

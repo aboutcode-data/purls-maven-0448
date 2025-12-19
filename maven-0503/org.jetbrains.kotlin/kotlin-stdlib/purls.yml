@@ -368,3 +368,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.7.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.7.10
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.7.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.7.20-Beta
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@1.7.20-Beta?classifier=sources

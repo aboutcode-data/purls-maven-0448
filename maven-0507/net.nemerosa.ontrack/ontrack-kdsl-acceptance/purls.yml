@@ -60,6 +60,7 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.30?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.31?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.32?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.33?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.3?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.4?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.5?classifier=sources
@@ -67,3 +68,4 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.7?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.8?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.2.9?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-kdsl-acceptance@4.3-beta.0?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.google.code.gson/gson@2.8.9?classifier=sources
 - pkg:maven/com.google.code.gson/gson@2.9.0
 - pkg:maven/com.google.code.gson/gson@2.9.0?classifier=sources
+- pkg:maven/com.google.code.gson/gson@2.9.1
+- pkg:maven/com.google.code.gson/gson@2.9.1?classifier=sources

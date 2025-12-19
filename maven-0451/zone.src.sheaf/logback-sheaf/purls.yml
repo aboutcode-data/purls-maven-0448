@@ -8,6 +8,8 @@
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.1.6?classifier=sources
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.1.7
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.1.7?classifier=sources
+- pkg:maven/zone.src.sheaf/logback-sheaf@1.2.11
+- pkg:maven/zone.src.sheaf/logback-sheaf@1.2.11?classifier=sources
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.2.2
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.2.2?classifier=sources
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.2.3

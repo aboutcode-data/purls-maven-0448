@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.karaf.specs/org.apache.karaf.specs.locator@4.3.7?classifier=sources
 - pkg:maven/org.apache.karaf.specs/org.apache.karaf.specs.locator@4.4.0
 - pkg:maven/org.apache.karaf.specs/org.apache.karaf.specs.locator@4.4.0?classifier=sources
+- pkg:maven/org.apache.karaf.specs/org.apache.karaf.specs.locator@4.4.1
+- pkg:maven/org.apache.karaf.specs/org.apache.karaf.specs.locator@4.4.1?classifier=sources

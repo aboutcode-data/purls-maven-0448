@@ -1,0 +1,2 @@
+- pkg:maven/com.lxgnb/xxl-job-boot-starter@2.3.0-jobinfo-executor
+- pkg:maven/com.lxgnb/xxl-job-boot-starter@2.3.0-jobinfo-executor?classifier=sources

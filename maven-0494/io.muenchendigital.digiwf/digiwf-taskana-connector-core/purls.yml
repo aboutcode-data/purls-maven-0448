@@ -1,0 +1,2 @@
+- pkg:maven/io.muenchendigital.digiwf/digiwf-taskana-connector-core@0.10.0
+- pkg:maven/io.muenchendigital.digiwf/digiwf-taskana-connector-core@0.10.0?classifier=sources

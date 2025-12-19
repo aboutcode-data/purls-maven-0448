@@ -1,2 +1,4 @@
 - pkg:maven/com.manorrock.flounder/flounder-impl@22.1.0
 - pkg:maven/com.manorrock.flounder/flounder-impl@22.1.0?classifier=sources
+- pkg:maven/com.manorrock.flounder/flounder-impl@22.7.0
+- pkg:maven/com.manorrock.flounder/flounder-impl@22.7.0?classifier=sources

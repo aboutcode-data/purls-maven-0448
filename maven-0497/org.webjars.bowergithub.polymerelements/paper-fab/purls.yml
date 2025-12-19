@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bowergithub.polymerelements/paper-fab@1.2.2
+- pkg:maven/org.webjars.bowergithub.polymerelements/paper-fab@1.2.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/paper-fab@2.0.0
 - pkg:maven/org.webjars.bowergithub.polymerelements/paper-fab@2.0.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/paper-fab@2.1.0

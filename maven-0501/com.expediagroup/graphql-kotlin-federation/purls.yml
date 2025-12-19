@@ -111,3 +111,8 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-federation@6.0.0-alpha.3?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federation@6.0.0-alpha.4?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federation@6.0.0-alpha.5?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federation@6.0.0-alpha.6?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federation@6.0.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federation@6.1.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federation@6.2.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federation@6.2.1?classifier=sources

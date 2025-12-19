@@ -88,3 +88,5 @@
 - pkg:maven/com.datorama.oss/timbermill-local@2.4.7?classifier=sources
 - pkg:maven/com.datorama.oss/timbermill-local@2.4.8
 - pkg:maven/com.datorama.oss/timbermill-local@2.4.8?classifier=sources
+- pkg:maven/com.datorama.oss/timbermill-local@2.4.9
+- pkg:maven/com.datorama.oss/timbermill-local@2.4.9?classifier=sources

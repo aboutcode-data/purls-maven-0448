@@ -6,3 +6,5 @@
 - pkg:maven/io.netty/netty-build-glibccheck-maven-plugin@29?classifier=sources
 - pkg:maven/io.netty/netty-build-glibccheck-maven-plugin@30
 - pkg:maven/io.netty/netty-build-glibccheck-maven-plugin@30?classifier=sources
+- pkg:maven/io.netty/netty-build-glibccheck-maven-plugin@31
+- pkg:maven/io.netty/netty-build-glibccheck-maven-plugin@31?classifier=sources

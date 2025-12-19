@@ -2,5 +2,7 @@
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-rabbitmq@1.0.0-beta
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-rabbitmq@1.0.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-rabbitmq@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-rabbitmq@2.0.0
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-rabbitmq@2.0.0-preview
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-rabbitmq@2.0.0-preview?classifier=sources
+- pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-rabbitmq@2.0.0?classifier=sources

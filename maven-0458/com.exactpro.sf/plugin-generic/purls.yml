@@ -32,3 +32,8 @@
 - pkg:maven/com.exactpro.sf/plugin-generic@3.2.1771?classifier=sources
 - pkg:maven/com.exactpro.sf/plugin-generic@3.2.1776?classifier=sources
 - pkg:maven/com.exactpro.sf/plugin-generic@3.2.1811?classifier=sources
+- pkg:maven/com.exactpro.sf/plugin-generic@3.2.1847?classifier=sources
+- pkg:maven/com.exactpro.sf/plugin-generic@3.2.1852?classifier=sources
+- pkg:maven/com.exactpro.sf/plugin-generic@3.2.1859?classifier=sources
+- pkg:maven/com.exactpro.sf/plugin-generic@3.2.1860?classifier=sources
+- pkg:maven/com.exactpro.sf/plugin-generic@3.2.1877?classifier=sources

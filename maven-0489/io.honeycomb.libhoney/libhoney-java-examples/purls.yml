@@ -1,0 +1,2 @@
+- pkg:maven/io.honeycomb.libhoney/libhoney-java-examples@1.5.2
+- pkg:maven/io.honeycomb.libhoney/libhoney-java-examples@1.5.2?classifier=sources

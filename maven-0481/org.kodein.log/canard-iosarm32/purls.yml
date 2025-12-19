@@ -1,1 +1,2 @@
 - pkg:maven/org.kodein.log/canard-iosarm32@0.14.0?classifier=sources
+- pkg:maven/org.kodein.log/canard-iosarm32@0.15.0?classifier=sources

@@ -38,5 +38,7 @@
 - pkg:maven/org.apache.camel.springboot/camel-java-joor-dsl-starter@3.17.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-java-joor-dsl-starter@3.18.0
 - pkg:maven/org.apache.camel.springboot/camel-java-joor-dsl-starter@3.18.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-java-joor-dsl-starter@3.18.1
+- pkg:maven/org.apache.camel.springboot/camel-java-joor-dsl-starter@3.18.1?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-java-joor-dsl-starter@3.9.0
 - pkg:maven/org.apache.camel.springboot/camel-java-joor-dsl-starter@3.9.0?classifier=sources

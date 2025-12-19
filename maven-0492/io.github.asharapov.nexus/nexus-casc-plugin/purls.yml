@@ -38,3 +38,7 @@
 - pkg:maven/io.github.asharapov.nexus/nexus-casc-plugin@3.38.0.1?classifier=sources
 - pkg:maven/io.github.asharapov.nexus/nexus-casc-plugin@3.39.0.1
 - pkg:maven/io.github.asharapov.nexus/nexus-casc-plugin@3.39.0.1?classifier=sources
+- pkg:maven/io.github.asharapov.nexus/nexus-casc-plugin@3.40.1.1
+- pkg:maven/io.github.asharapov.nexus/nexus-casc-plugin@3.40.1.1?classifier=sources
+- pkg:maven/io.github.asharapov.nexus/nexus-casc-plugin@3.41.0.1
+- pkg:maven/io.github.asharapov.nexus/nexus-casc-plugin@3.41.0.1?classifier=sources

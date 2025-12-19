@@ -1,2 +1,4 @@
 - pkg:maven/com.emc.ecs/smart-client-core@3.0.0
 - pkg:maven/com.emc.ecs/smart-client-core@3.0.0?classifier=sources
+- pkg:maven/com.emc.ecs/smart-client-core@3.0.1
+- pkg:maven/com.emc.ecs/smart-client-core@3.0.1?classifier=sources

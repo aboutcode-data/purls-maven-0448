@@ -325,6 +325,8 @@
 - pkg:maven/org.apache.camel/camel-stream@3.17.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-stream@3.18.0
 - pkg:maven/org.apache.camel/camel-stream@3.18.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-stream@3.18.1
+- pkg:maven/org.apache.camel/camel-stream@3.18.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-stream@3.2.0
 - pkg:maven/org.apache.camel/camel-stream@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-stream@3.3.0

@@ -34,3 +34,7 @@
 - pkg:maven/org.blazingcache/blazingcache-jcache@2.5.0?classifier=sources
 - pkg:maven/org.blazingcache/blazingcache-jcache@2.6.0
 - pkg:maven/org.blazingcache/blazingcache-jcache@2.6.0?classifier=sources
+- pkg:maven/org.blazingcache/blazingcache-jcache@2.7.0
+- pkg:maven/org.blazingcache/blazingcache-jcache@2.7.0?classifier=sources
+- pkg:maven/org.blazingcache/blazingcache-jcache@3.0.0
+- pkg:maven/org.blazingcache/blazingcache-jcache@3.0.0?classifier=sources

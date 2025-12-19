@@ -1,0 +1,4 @@
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta10
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta10?classifier=sources
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta11
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta11?classifier=sources

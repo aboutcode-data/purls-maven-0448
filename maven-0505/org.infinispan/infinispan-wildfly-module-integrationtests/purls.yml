@@ -90,6 +90,7 @@
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@14.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@14.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@14.0.0.Dev03
+- pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@14.0.0.Dev04
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@9.0.0.Beta1
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@9.3.0.Alpha1

@@ -2,3 +2,5 @@
 - pkg:maven/io.specgen/java-maven-plugin@2.1.1798?classifier=sources
 - pkg:maven/io.specgen/java-maven-plugin@2.1.1814
 - pkg:maven/io.specgen/java-maven-plugin@2.1.1814?classifier=sources
+- pkg:maven/io.specgen/java-maven-plugin@2.1.1828
+- pkg:maven/io.specgen/java-maven-plugin@2.1.1828?classifier=sources

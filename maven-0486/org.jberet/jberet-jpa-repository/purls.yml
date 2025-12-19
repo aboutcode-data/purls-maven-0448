@@ -1,0 +1,2 @@
+- pkg:maven/org.jberet/jberet-jpa-repository@2.1.1.Final
+- pkg:maven/org.jberet/jberet-jpa-repository@2.1.1.Final?classifier=sources

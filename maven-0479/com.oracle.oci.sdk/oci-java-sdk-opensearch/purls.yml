@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-opensearch@2.38.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-opensearch@2.38.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-opensearch@2.39.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-opensearch@2.39.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-opensearch@2.40.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-opensearch@2.40.0?classifier=sources

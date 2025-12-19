@@ -43,3 +43,9 @@
 - pkg:maven/tech.relaycorp/awala@1.65.1?classifier=sources
 - pkg:maven/tech.relaycorp/awala@1.65.2?classifier=sources
 - pkg:maven/tech.relaycorp/awala@1.65.3?classifier=sources
+- pkg:maven/tech.relaycorp/awala@1.65.4?classifier=sources
+- pkg:maven/tech.relaycorp/awala@1.65.5?classifier=sources
+- pkg:maven/tech.relaycorp/awala@1.66.0?classifier=sources
+- pkg:maven/tech.relaycorp/awala@1.66.1?classifier=sources
+- pkg:maven/tech.relaycorp/awala@1.66.2?classifier=sources
+- pkg:maven/tech.relaycorp/awala@1.66.3?classifier=sources

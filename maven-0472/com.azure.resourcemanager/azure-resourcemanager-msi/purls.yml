@@ -24,6 +24,8 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-msi@2.15.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-msi@2.16.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-msi@2.16.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-msi@2.17.0
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-msi@2.17.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-msi@2.2.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-msi@2.2.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-msi@2.3.0

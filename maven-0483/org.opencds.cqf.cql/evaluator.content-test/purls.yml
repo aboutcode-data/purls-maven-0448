@@ -6,3 +6,5 @@
 - pkg:maven/org.opencds.cqf.cql/evaluator.content-test@1.4.2
 - pkg:maven/org.opencds.cqf.cql/evaluator.content-test@1.4.3
 - pkg:maven/org.opencds.cqf.cql/evaluator.content-test@1.4.4
+- pkg:maven/org.opencds.cqf.cql/evaluator.content-test@1.4.5
+- pkg:maven/org.opencds.cqf.cql/evaluator.content-test@1.4.6

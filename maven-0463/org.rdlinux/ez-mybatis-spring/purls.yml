@@ -48,3 +48,9 @@
 - pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.4.RS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.5.RS
 - pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.5.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.6.RS
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.6.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.7.RS
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.7.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.8.RS
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.2.8.RS?classifier=sources
