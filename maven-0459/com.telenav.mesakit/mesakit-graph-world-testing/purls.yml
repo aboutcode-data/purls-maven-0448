@@ -8,6 +8,10 @@
 - pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.13.0?classifier=sources
 - pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.14.0
 - pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.14.0?classifier=sources
+- pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.15.0
+- pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.15.0?classifier=sources
+- pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.16.0
+- pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.16.0?classifier=sources
 - pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.9.14
 - pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.9.14?classifier=sources
 - pkg:maven/com.telenav.mesakit/mesakit-graph-world-testing@0.9.15

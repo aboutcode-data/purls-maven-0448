@@ -145,6 +145,8 @@
 - pkg:maven/com.vaadin/fusion-endpoint@9.0.24?classifier=sources
 - pkg:maven/com.vaadin/fusion-endpoint@9.0.25
 - pkg:maven/com.vaadin/fusion-endpoint@9.0.25?classifier=sources
+- pkg:maven/com.vaadin/fusion-endpoint@9.0.26
+- pkg:maven/com.vaadin/fusion-endpoint@9.0.26?classifier=sources
 - pkg:maven/com.vaadin/fusion-endpoint@9.0.2?classifier=sources
 - pkg:maven/com.vaadin/fusion-endpoint@9.0.3?classifier=sources
 - pkg:maven/com.vaadin/fusion-endpoint@9.0.4

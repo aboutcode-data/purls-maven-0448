@@ -1,0 +1,6 @@
+- pkg:maven/com.applitools/eyes-playwright-java5@5.41.0
+- pkg:maven/com.applitools/eyes-playwright-java5@5.41.0?classifier=sources
+- pkg:maven/com.applitools/eyes-playwright-java5@5.42.0
+- pkg:maven/com.applitools/eyes-playwright-java5@5.42.0?classifier=sources
+- pkg:maven/com.applitools/eyes-playwright-java5@5.43.0
+- pkg:maven/com.applitools/eyes-playwright-java5@5.43.0?classifier=sources

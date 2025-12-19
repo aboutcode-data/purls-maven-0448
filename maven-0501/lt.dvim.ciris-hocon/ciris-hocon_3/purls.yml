@@ -2,3 +2,5 @@
 - pkg:maven/lt.dvim.ciris-hocon/ciris-hocon_3@1.0.0?classifier=sources
 - pkg:maven/lt.dvim.ciris-hocon/ciris-hocon_3@1.0.1
 - pkg:maven/lt.dvim.ciris-hocon/ciris-hocon_3@1.0.1?classifier=sources
+- pkg:maven/lt.dvim.ciris-hocon/ciris-hocon_3@1.1.0
+- pkg:maven/lt.dvim.ciris-hocon/ciris-hocon_3@1.1.0?classifier=sources

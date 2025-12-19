@@ -38,3 +38,4 @@
 - pkg:maven/io.purchasely/huawei-services@3.4.3?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@3.4.4?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@3.5.0?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@3.6.0?classifier=sources

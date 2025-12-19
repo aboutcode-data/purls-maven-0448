@@ -1,1 +1,2 @@
 - pkg:maven/com.patrykandpatrick.vico/core@1.6.2?classifier=sources
+- pkg:maven/com.patrykandpatrick.vico/core@1.6.3?classifier=sources

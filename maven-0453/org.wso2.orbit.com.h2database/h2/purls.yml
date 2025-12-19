@@ -1,3 +1,4 @@
 - pkg:maven/org.wso2.orbit.com.h2database/h2@1.4.200.wso2v1
 - pkg:maven/org.wso2.orbit.com.h2database/h2@2.0.206.wso2v1
 - pkg:maven/org.wso2.orbit.com.h2database/h2@2.1.210.wso2v1
+- pkg:maven/org.wso2.orbit.com.h2database/h2@2.1.214.wso2v1

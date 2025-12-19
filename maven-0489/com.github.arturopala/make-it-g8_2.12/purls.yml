@@ -26,5 +26,7 @@
 - pkg:maven/com.github.arturopala/make-it-g8_2.12@1.22.0?classifier=sources
 - pkg:maven/com.github.arturopala/make-it-g8_2.12@1.23.0
 - pkg:maven/com.github.arturopala/make-it-g8_2.12@1.23.0?classifier=sources
+- pkg:maven/com.github.arturopala/make-it-g8_2.12@1.24.0
+- pkg:maven/com.github.arturopala/make-it-g8_2.12@1.24.0?classifier=sources
 - pkg:maven/com.github.arturopala/make-it-g8_2.12@1.9.0
 - pkg:maven/com.github.arturopala/make-it-g8_2.12@1.9.0?classifier=sources

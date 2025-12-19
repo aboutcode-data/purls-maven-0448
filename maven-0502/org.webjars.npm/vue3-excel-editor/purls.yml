@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue3-excel-editor@1.0.17
+- pkg:maven/org.webjars.npm/vue3-excel-editor@1.0.17?classifier=sources

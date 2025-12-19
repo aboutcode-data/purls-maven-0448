@@ -150,3 +150,13 @@
 - pkg:maven/software.amazon.awscdk/healthlake@1.188.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/healthlake@1.189.0
 - pkg:maven/software.amazon.awscdk/healthlake@1.189.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/healthlake@1.190.0
+- pkg:maven/software.amazon.awscdk/healthlake@1.190.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/healthlake@1.191.0
+- pkg:maven/software.amazon.awscdk/healthlake@1.191.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/healthlake@1.192.0
+- pkg:maven/software.amazon.awscdk/healthlake@1.192.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/healthlake@1.193.0
+- pkg:maven/software.amazon.awscdk/healthlake@1.193.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/healthlake@1.194.0
+- pkg:maven/software.amazon.awscdk/healthlake@1.194.0?classifier=sources

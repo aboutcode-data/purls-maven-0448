@@ -34,3 +34,5 @@
 - pkg:maven/com.cassbana/risk-data-collection@3.0.9?classifier=sources
 - pkg:maven/com.cassbana/risk-data-collection@3.1.0?classifier=sources
 - pkg:maven/com.cassbana/risk-data-collection@3.2.0?classifier=sources
+- pkg:maven/com.cassbana/risk-data-collection@3.2.1?classifier=sources
+- pkg:maven/com.cassbana/risk-data-collection@3.2.2?classifier=sources

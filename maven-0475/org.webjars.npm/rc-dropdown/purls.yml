@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/rc-dropdown@3.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/rc-dropdown@3.5.2
 - pkg:maven/org.webjars.npm/rc-dropdown@3.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/rc-dropdown@4.0.1
+- pkg:maven/org.webjars.npm/rc-dropdown@4.0.1?classifier=sources

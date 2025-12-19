@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-uihandler-exceptionreporter@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-uihandler-exceptionreporter@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-uihandler-exceptionreporter@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-uihandler-exceptionreporter@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-uihandler-exceptionreporter@RELEASE90?classifier=sources

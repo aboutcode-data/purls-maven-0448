@@ -1,0 +1,2 @@
+- pkg:maven/tech.xixing.sync/faster-core@0.1
+- pkg:maven/tech.xixing.sync/faster-core@0.1?classifier=sources

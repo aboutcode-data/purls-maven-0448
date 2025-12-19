@@ -32,5 +32,7 @@
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-config-spring-boot-starter@1.0.50?classifier=sources
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-config-spring-boot-starter@1.0.51
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-config-spring-boot-starter@1.0.51?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-config-spring-boot-starter@1.0.54
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-config-spring-boot-starter@1.0.54?classifier=sources
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-config-spring-boot-starter@v1.0.46
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-config-spring-boot-starter@v1.0.46?classifier=sources

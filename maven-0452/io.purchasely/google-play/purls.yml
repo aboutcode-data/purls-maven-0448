@@ -40,3 +40,4 @@
 - pkg:maven/io.purchasely/google-play@3.4.3?classifier=sources
 - pkg:maven/io.purchasely/google-play@3.4.4?classifier=sources
 - pkg:maven/io.purchasely/google-play@3.5.0?classifier=sources
+- pkg:maven/io.purchasely/google-play@3.6.0?classifier=sources

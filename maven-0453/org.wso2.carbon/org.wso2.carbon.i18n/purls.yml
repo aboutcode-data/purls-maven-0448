@@ -125,6 +125,8 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.7.0?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.7.1
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.7.1?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.8.0-beta
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.8.0-beta?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.8.0-m1
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.8.0-m1?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.8.0-m2
@@ -141,3 +143,7 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.9.0-m3
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.9.0-m3?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.9.0?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.9.1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.9.1-m1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.9.1-m1?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.i18n@4.9.1?classifier=sources

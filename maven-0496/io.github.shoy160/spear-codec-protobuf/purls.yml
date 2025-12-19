@@ -1,0 +1,2 @@
+- pkg:maven/io.github.shoy160/spear-codec-protobuf@1.0.1
+- pkg:maven/io.github.shoy160/spear-codec-protobuf@1.0.1?classifier=sources

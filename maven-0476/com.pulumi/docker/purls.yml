@@ -18,6 +18,9 @@
 - pkg:maven/com.pulumi/docker@4.0.0-alpha.1669755549%2Bb61ec5bb?classifier=sources
 - pkg:maven/com.pulumi/docker@4.0.0-alpha.1669762947%2B24828709?classifier=sources
 - pkg:maven/com.pulumi/docker@4.0.0-alpha.1?classifier=sources
+- pkg:maven/com.pulumi/docker@4.0.0-alpha.2?classifier=sources
+- pkg:maven/com.pulumi/docker@4.0.0-alpha.3?classifier=sources
+- pkg:maven/com.pulumi/docker@4.0.0-alpha.4?classifier=sources
 - pkg:maven/com.pulumi/docker@4.1.0-alpha.1669826638%2B48ca6e90?classifier=sources
 - pkg:maven/com.pulumi/docker@4.1.0-alpha.1670009442%2B8ebdf9c7?classifier=sources
 - pkg:maven/com.pulumi/docker@4.1.0-alpha.1670282730%2B7cfa185a?classifier=sources
@@ -31,3 +34,16 @@
 - pkg:maven/com.pulumi/docker@4.1.0-alpha.1674238018%2Ba359430d?classifier=sources
 - pkg:maven/com.pulumi/docker@4.1.0-alpha.1674242081%2B842da371?classifier=sources
 - pkg:maven/com.pulumi/docker@4.1.0-alpha.1674243650%2B4dca334c?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1674779486%2Bb929d2be?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1674841740%2B1bd4f688?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1674854554%2Bdbec7b69?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1675106644%2Bcc38b667?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1675293202%2B38830b1c?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1675461090%2B0e19b796?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1675880360%2Bc1c4cfb7?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1675883858%2B25f504e8?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1675890623%2Be5f913e6?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1675965337%2B5d852bc9?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1676416758%2B4705df3b?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1676424709%2B1bd61e4d?classifier=sources
+- pkg:maven/com.pulumi/docker@4.1.0-alpha.1676567140%2B84f4dd64?classifier=sources

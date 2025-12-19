@@ -28,3 +28,15 @@
 - pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.68?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.69
 - pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.69?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.70
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.70?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.71
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.71?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.72
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.72?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.73
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.73?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.74
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.74?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.75
+- pkg:maven/uk.gov.nationalarchives/ecr-utils_2.13@0.1.75?classifier=sources

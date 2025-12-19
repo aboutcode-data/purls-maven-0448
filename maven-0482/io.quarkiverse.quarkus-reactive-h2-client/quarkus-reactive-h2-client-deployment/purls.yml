@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.quarkus-reactive-h2-client/quarkus-reactive-h2-client-deployment@0.1.1
+- pkg:maven/io.quarkiverse.quarkus-reactive-h2-client/quarkus-reactive-h2-client-deployment@0.1.1?classifier=sources

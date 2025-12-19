@@ -1,0 +1,2 @@
+- pkg:maven/com.github.olivergondza.dumpling/dumpling-test-utils@2.6
+- pkg:maven/com.github.olivergondza.dumpling/dumpling-test-utils@2.6?classifier=sources

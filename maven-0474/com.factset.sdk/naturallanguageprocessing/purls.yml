@@ -3,3 +3,4 @@
 - pkg:maven/com.factset.sdk/naturallanguageprocessing@0.21.2?classifier=sources
 - pkg:maven/com.factset.sdk/naturallanguageprocessing@0.21.3?classifier=sources
 - pkg:maven/com.factset.sdk/naturallanguageprocessing@0.21.4?classifier=sources
+- pkg:maven/com.factset.sdk/naturallanguageprocessing@0.22.0?classifier=sources

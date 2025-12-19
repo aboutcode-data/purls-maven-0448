@@ -1,0 +1,2 @@
+- pkg:maven/com.thesamet.scalapb/sparksql33-scalapb0_10_2.13@1.0.2
+- pkg:maven/com.thesamet.scalapb/sparksql33-scalapb0_10_2.13@1.0.2?classifier=sources

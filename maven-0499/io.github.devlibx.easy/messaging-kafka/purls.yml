@@ -84,8 +84,10 @@
 - pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.137.java19.loom?classifier=sources
 - pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.137.java19?classifier=sources
 - pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.137?classifier=sources
+- pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.138
 - pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.138.java19.loom
 - pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.138.java19.loom?classifier=sources
+- pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.138?classifier=sources
 - pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.139.java19.loom
 - pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.139.java19.loom?classifier=sources
 - pkg:maven/io.github.devlibx.easy/messaging-kafka@0.0.48

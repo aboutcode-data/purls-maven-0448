@@ -6,3 +6,12 @@
 - pkg:maven/dev.skomlach/soter-core@2.1.42?classifier=sources
 - pkg:maven/dev.skomlach/soter-core@2.1.43?classifier=sources
 - pkg:maven/dev.skomlach/soter-core@2.1.44?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.45?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.46?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.47?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.48?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.49?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.50?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.51?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.52?classifier=sources
+- pkg:maven/dev.skomlach/soter-core@2.1.53?classifier=sources

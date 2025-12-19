@@ -12,6 +12,8 @@
 - pkg:maven/com.github.davidmoten/kool-json@0.1.21?classifier=sources
 - pkg:maven/com.github.davidmoten/kool-json@0.1.23
 - pkg:maven/com.github.davidmoten/kool-json@0.1.23?classifier=sources
+- pkg:maven/com.github.davidmoten/kool-json@0.1.24
+- pkg:maven/com.github.davidmoten/kool-json@0.1.24?classifier=sources
 - pkg:maven/com.github.davidmoten/kool-json@0.1.4
 - pkg:maven/com.github.davidmoten/kool-json@0.1.4?classifier=sources
 - pkg:maven/com.github.davidmoten/kool-json@0.1.5

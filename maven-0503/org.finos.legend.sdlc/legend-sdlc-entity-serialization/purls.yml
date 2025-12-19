@@ -30,6 +30,14 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.111.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.112.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.112.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.113.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.113.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.114.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.114.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.114.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.114.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.115.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.115.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.12.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.12.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.13.0

@@ -12,5 +12,9 @@
 - pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.4.5?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.4.6
 - pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.4.6?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.4.7
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.4.7?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.4.8
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.4.8?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.5.0
 - pkg:maven/org.linkki-framework/linkki-application-framework-vaadin14@1.5.0?classifier=sources

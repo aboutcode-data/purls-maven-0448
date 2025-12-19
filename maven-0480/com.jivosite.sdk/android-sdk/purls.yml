@@ -33,3 +33,4 @@
 - pkg:maven/com.jivosite.sdk/android-sdk@1.1.0-alpha03?classifier=sources
 - pkg:maven/com.jivosite.sdk/android-sdk@1.1.0?classifier=sources
 - pkg:maven/com.jivosite.sdk/android-sdk@1.2.0?classifier=sources
+- pkg:maven/com.jivosite.sdk/android-sdk@1.2.1?classifier=sources

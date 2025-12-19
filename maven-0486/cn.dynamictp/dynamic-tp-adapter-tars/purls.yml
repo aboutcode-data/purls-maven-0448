@@ -1,0 +1,2 @@
+- pkg:maven/cn.dynamictp/dynamic-tp-adapter-tars@1.1.0
+- pkg:maven/cn.dynamictp/dynamic-tp-adapter-tars@1.1.0?classifier=sources

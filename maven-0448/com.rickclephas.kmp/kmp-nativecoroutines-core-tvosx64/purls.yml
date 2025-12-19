@@ -66,3 +66,4 @@
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-tvosx64@1.0.0-ALPHA-2?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-tvosx64@1.0.0-ALPHA-3?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-tvosx64@1.0.0-ALPHA-4?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-core-tvosx64@1.0.0-ALPHA-5?classifier=sources

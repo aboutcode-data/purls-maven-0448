@@ -24,3 +24,5 @@
 - pkg:maven/org.http4s/http4s-scalafix-internal_3@1.0.0-M37?classifier=sources
 - pkg:maven/org.http4s/http4s-scalafix-internal_3@1.0.0-M38
 - pkg:maven/org.http4s/http4s-scalafix-internal_3@1.0.0-M38?classifier=sources
+- pkg:maven/org.http4s/http4s-scalafix-internal_3@1.0.0-M39
+- pkg:maven/org.http4s/http4s-scalafix-internal_3@1.0.0-M39?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/tech.guanli.boot.suite/redis-plus-spring-boot-starter@1.0.0-RELEASE
+- pkg:maven/tech.guanli.boot.suite/redis-plus-spring-boot-starter@1.0.0-RELEASE?classifier=sources
+- pkg:maven/tech.guanli.boot.suite/redis-plus-spring-boot-starter@1.1.0-RELEASE
+- pkg:maven/tech.guanli.boot.suite/redis-plus-spring-boot-starter@1.1.0-RELEASE?classifier=sources

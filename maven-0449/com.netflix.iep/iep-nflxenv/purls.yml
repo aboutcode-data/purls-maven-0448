@@ -110,3 +110,5 @@
 - pkg:maven/com.netflix.iep/iep-nflxenv@4.0.4?classifier=sources
 - pkg:maven/com.netflix.iep/iep-nflxenv@4.1.0
 - pkg:maven/com.netflix.iep/iep-nflxenv@4.1.0?classifier=sources
+- pkg:maven/com.netflix.iep/iep-nflxenv@4.1.1
+- pkg:maven/com.netflix.iep/iep-nflxenv@4.1.1?classifier=sources

@@ -60,3 +60,9 @@
 - pkg:maven/io.shiftleft/overflowdb-formats_3@1.159?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-formats_3@1.160
 - pkg:maven/io.shiftleft/overflowdb-formats_3@1.160?classifier=sources
+- pkg:maven/io.shiftleft/overflowdb-formats_3@1.166
+- pkg:maven/io.shiftleft/overflowdb-formats_3@1.166?classifier=sources
+- pkg:maven/io.shiftleft/overflowdb-formats_3@1.167
+- pkg:maven/io.shiftleft/overflowdb-formats_3@1.167?classifier=sources
+- pkg:maven/io.shiftleft/overflowdb-formats_3@1.168
+- pkg:maven/io.shiftleft/overflowdb-formats_3@1.168?classifier=sources

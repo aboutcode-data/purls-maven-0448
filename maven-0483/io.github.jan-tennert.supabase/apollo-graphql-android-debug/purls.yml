@@ -1,0 +1,4 @@
+- pkg:maven/io.github.jan-tennert.supabase/apollo-graphql-android-debug@0.8.0-beta-2-ios?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/apollo-graphql-android-debug@0.8.0-beta-2?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/apollo-graphql-android-debug@0.8.0-ios?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/apollo-graphql-android-debug@0.8.0?classifier=sources

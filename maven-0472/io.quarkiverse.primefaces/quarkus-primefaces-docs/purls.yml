@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-docs@2.12.0
+- pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-docs@2.12.0?classifier=sources

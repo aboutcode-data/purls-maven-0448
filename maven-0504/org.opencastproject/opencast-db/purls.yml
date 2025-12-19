@@ -60,10 +60,16 @@
 - pkg:maven/org.opencastproject/opencast-db@12.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-db@12.6
 - pkg:maven/org.opencastproject/opencast-db@12.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-db@12.7
+- pkg:maven/org.opencastproject/opencast-db@12.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-db@12.8
+- pkg:maven/org.opencastproject/opencast-db@12.8?classifier=sources
 - pkg:maven/org.opencastproject/opencast-db@13.0
 - pkg:maven/org.opencastproject/opencast-db@13.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-db@13.1
 - pkg:maven/org.opencastproject/opencast-db@13.1?classifier=sources
+- pkg:maven/org.opencastproject/opencast-db@13.2
+- pkg:maven/org.opencastproject/opencast-db@13.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-db@6.6
 - pkg:maven/org.opencastproject/opencast-db@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-db@7.2

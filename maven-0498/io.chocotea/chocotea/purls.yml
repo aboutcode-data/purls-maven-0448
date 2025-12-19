@@ -4,6 +4,8 @@
 - pkg:maven/io.chocotea/chocotea@1.0?classifier=sources
 - pkg:maven/io.chocotea/chocotea@1.0A
 - pkg:maven/io.chocotea/chocotea@1.0A?classifier=sources
+- pkg:maven/io.chocotea/chocotea@1.0EA
+- pkg:maven/io.chocotea/chocotea@1.0EA?classifier=sources
 - pkg:maven/io.chocotea/chocotea@1.0EE
 - pkg:maven/io.chocotea/chocotea@1.0EE?classifier=sources
 - pkg:maven/io.chocotea/chocotea@1.0R

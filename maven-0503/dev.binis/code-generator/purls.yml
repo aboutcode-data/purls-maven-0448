@@ -86,3 +86,5 @@
 - pkg:maven/dev.binis/code-generator@0.4.3?classifier=sources
 - pkg:maven/dev.binis/code-generator@1.0.0
 - pkg:maven/dev.binis/code-generator@1.0.0?classifier=sources
+- pkg:maven/dev.binis/code-generator@1.0.1
+- pkg:maven/dev.binis/code-generator@1.0.1?classifier=sources

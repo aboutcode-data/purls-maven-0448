@@ -2,6 +2,10 @@
 - pkg:maven/tv.hd3g/ffprobejaxb@10.0.0?classifier=sources
 - pkg:maven/tv.hd3g/ffprobejaxb@10.1.0
 - pkg:maven/tv.hd3g/ffprobejaxb@10.1.0?classifier=sources
+- pkg:maven/tv.hd3g/ffprobejaxb@11.0.0
+- pkg:maven/tv.hd3g/ffprobejaxb@11.0.0?classifier=sources
+- pkg:maven/tv.hd3g/ffprobejaxb@11.1.0
+- pkg:maven/tv.hd3g/ffprobejaxb@11.1.0?classifier=sources
 - pkg:maven/tv.hd3g/ffprobejaxb@4.0.2-3
 - pkg:maven/tv.hd3g/ffprobejaxb@4.0.2-3?classifier=sources
 - pkg:maven/tv.hd3g/ffprobejaxb@4.2.2

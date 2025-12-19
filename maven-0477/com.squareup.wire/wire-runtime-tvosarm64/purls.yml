@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.wire/wire-runtime-tvosarm64@4.5.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-runtime-tvosarm64@4.5.1?classifier=sources

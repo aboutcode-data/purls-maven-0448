@@ -403,3 +403,4 @@
 - pkg:maven/org.springframework/spring-jdbc@6.0.2?classifier=sources
 - pkg:maven/org.springframework/spring-jdbc@6.0.3?classifier=sources
 - pkg:maven/org.springframework/spring-jdbc@6.0.4?classifier=sources
+- pkg:maven/org.springframework/spring-jdbc@6.0.5?classifier=sources

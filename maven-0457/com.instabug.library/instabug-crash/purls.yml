@@ -68,6 +68,8 @@
 - pkg:maven/com.instabug.library/instabug-crash@11.5.4?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@11.6.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@11.7.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-crash@11.8.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-crash@11.9.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@4.1.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@4.1.0?type=aar
 - pkg:maven/com.instabug.library/instabug-crash@4.1.1?classifier=sources

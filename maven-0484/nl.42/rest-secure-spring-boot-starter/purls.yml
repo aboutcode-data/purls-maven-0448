@@ -20,6 +20,10 @@
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@10.0.1?classifier=sources
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@11.0.0
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@11.0.0?classifier=sources
+- pkg:maven/nl.42/rest-secure-spring-boot-starter@11.1.0
+- pkg:maven/nl.42/rest-secure-spring-boot-starter@11.1.0?classifier=sources
+- pkg:maven/nl.42/rest-secure-spring-boot-starter@11.1.1
+- pkg:maven/nl.42/rest-secure-spring-boot-starter@11.1.1?classifier=sources
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@2.0.0
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@2.0.0?classifier=sources
 - pkg:maven/nl.42/rest-secure-spring-boot-starter@2.1.0

@@ -60,3 +60,5 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-condition@3.5.2-EXT200?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-condition@3.5.2-EXT201
 - pkg:maven/com.tangzc/mybatis-plus-ext-condition@3.5.2-EXT201?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-condition@3.5.3.1-EXT300-alpha
+- pkg:maven/com.tangzc/mybatis-plus-ext-condition@3.5.3.1-EXT300-alpha?classifier=sources

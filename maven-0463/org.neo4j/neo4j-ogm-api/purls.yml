@@ -210,5 +210,9 @@
 - pkg:maven/org.neo4j/neo4j-ogm-api@4.0.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-api@4.0.1
 - pkg:maven/org.neo4j/neo4j-ogm-api@4.0.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-api@4.0.2
+- pkg:maven/org.neo4j/neo4j-ogm-api@4.0.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-api@4.0.3
+- pkg:maven/org.neo4j/neo4j-ogm-api@4.0.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-api@v3.2.13
 - pkg:maven/org.neo4j/neo4j-ogm-api@v3.2.13?classifier=sources

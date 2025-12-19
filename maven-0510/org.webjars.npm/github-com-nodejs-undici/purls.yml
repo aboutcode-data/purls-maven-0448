@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-nodejs-undici@5.19.1
+- pkg:maven/org.webjars.npm/github-com-nodejs-undici@5.19.1?classifier=sources

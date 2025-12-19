@@ -16,6 +16,10 @@
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.17?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.18
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.18?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.19
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.19?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.20
+- pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.20?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.3
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.api/org.wso2.carbon.identity.rest.api.user.organization.v1@1.0.4

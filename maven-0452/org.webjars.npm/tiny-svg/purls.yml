@@ -10,4 +10,5 @@
 - pkg:maven/org.webjars.npm/tiny-svg@2.2.3?classifier=sources
 - pkg:maven/org.webjars.npm/tiny-svg@2.2.4
 - pkg:maven/org.webjars.npm/tiny-svg@2.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/tiny-svg@3.0.0
 - pkg:maven/org.webjars.npm/tiny-svg@3.0.0?classifier=sources

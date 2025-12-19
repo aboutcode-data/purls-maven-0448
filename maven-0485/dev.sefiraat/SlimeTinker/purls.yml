@@ -1,0 +1,2 @@
+- pkg:maven/dev.sefiraat/SlimeTinker@0.1.1.2
+- pkg:maven/dev.sefiraat/SlimeTinker@0.1.1.2?classifier=sources

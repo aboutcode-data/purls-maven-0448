@@ -11,3 +11,6 @@
 - pkg:maven/no.digipost.signature/signature-api-specification@2.8-RC1
 - pkg:maven/no.digipost.signature/signature-api-specification@2.8-RC2
 - pkg:maven/no.digipost.signature/signature-api-specification@2.8-RC3
+- pkg:maven/no.digipost.signature/signature-api-specification@3.0.0-RC3
+- pkg:maven/no.digipost.signature/signature-api-specification@dummy-2
+- pkg:maven/no.digipost.signature/signature-api-specification@dummy-3

@@ -88,3 +88,6 @@
 - pkg:maven/com.yubico/webauthn-server-attestation@2.2.0?classifier=sources
 - pkg:maven/com.yubico/webauthn-server-attestation@2.3.0-RC1?classifier=sources
 - pkg:maven/com.yubico/webauthn-server-attestation@2.3.0?classifier=sources
+- pkg:maven/com.yubico/webauthn-server-attestation@2.4.0-RC1?classifier=sources
+- pkg:maven/com.yubico/webauthn-server-attestation@2.4.0-RC2?classifier=sources
+- pkg:maven/com.yubico/webauthn-server-attestation@2.4.0?classifier=sources

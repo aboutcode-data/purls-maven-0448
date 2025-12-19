@@ -4,6 +4,8 @@
 - pkg:maven/org.opengis.cite/ets-kml22@1.13?classifier=sources
 - pkg:maven/org.opengis.cite/ets-kml22@1.14
 - pkg:maven/org.opengis.cite/ets-kml22@1.14?classifier=sources
+- pkg:maven/org.opengis.cite/ets-kml22@1.15
+- pkg:maven/org.opengis.cite/ets-kml22@1.15?classifier=sources
 - pkg:maven/org.opengis.cite/ets-kml22@2.2-r10
 - pkg:maven/org.opengis.cite/ets-kml22@2.2-r10?classifier=sources
 - pkg:maven/org.opengis.cite/ets-kml22@2.2-r11

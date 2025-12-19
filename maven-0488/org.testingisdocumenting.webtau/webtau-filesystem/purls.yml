@@ -56,3 +56,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-filesystem@1.49?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-filesystem@1.50
 - pkg:maven/org.testingisdocumenting.webtau/webtau-filesystem@1.50?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-filesystem@1.51
+- pkg:maven/org.testingisdocumenting.webtau/webtau-filesystem@1.51?classifier=sources

@@ -98,6 +98,16 @@
 - pkg:maven/io.ebean/ebean-core@13.11.2-beta-jakarta
 - pkg:maven/io.ebean/ebean-core@13.11.2-beta-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-core@13.11.2?classifier=sources
+- pkg:maven/io.ebean/ebean-core@13.11.3
+- pkg:maven/io.ebean/ebean-core@13.11.3?classifier=sources
+- pkg:maven/io.ebean/ebean-core@13.11.4
+- pkg:maven/io.ebean/ebean-core@13.11.4?classifier=sources
+- pkg:maven/io.ebean/ebean-core@13.12.0
+- pkg:maven/io.ebean/ebean-core@13.12.0?classifier=sources
+- pkg:maven/io.ebean/ebean-core@13.13.0
+- pkg:maven/io.ebean/ebean-core@13.13.0?classifier=sources
+- pkg:maven/io.ebean/ebean-core@13.13.1-beta-jakarta
+- pkg:maven/io.ebean/ebean-core@13.13.1-beta-jakarta?classifier=sources
 - pkg:maven/io.ebean/ebean-core@13.2.0
 - pkg:maven/io.ebean/ebean-core@13.2.0?classifier=sources
 - pkg:maven/io.ebean/ebean-core@13.3.0

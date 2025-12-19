@@ -316,3 +316,5 @@
 - pkg:maven/com.gu.identity/identity-crypto_2.12@4.7?classifier=sources
 - pkg:maven/com.gu.identity/identity-crypto_2.12@4.8
 - pkg:maven/com.gu.identity/identity-crypto_2.12@4.8?classifier=sources
+- pkg:maven/com.gu.identity/identity-crypto_2.12@4.9
+- pkg:maven/com.gu.identity/identity-crypto_2.12@4.9?classifier=sources

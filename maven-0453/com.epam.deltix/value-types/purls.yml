@@ -1,1 +1,2 @@
 - pkg:maven/com.epam.deltix/value-types@0.9.3?classifier=sources
+- pkg:maven/com.epam.deltix/value-types@0.9.4?classifier=sources

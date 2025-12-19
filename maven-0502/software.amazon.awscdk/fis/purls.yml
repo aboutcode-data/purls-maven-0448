@@ -204,6 +204,16 @@
 - pkg:maven/software.amazon.awscdk/fis@1.188.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/fis@1.189.0
 - pkg:maven/software.amazon.awscdk/fis@1.189.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/fis@1.190.0
+- pkg:maven/software.amazon.awscdk/fis@1.190.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/fis@1.191.0
+- pkg:maven/software.amazon.awscdk/fis@1.191.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/fis@1.192.0
+- pkg:maven/software.amazon.awscdk/fis@1.192.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/fis@1.193.0
+- pkg:maven/software.amazon.awscdk/fis@1.193.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/fis@1.194.0
+- pkg:maven/software.amazon.awscdk/fis@1.194.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/fis@1.95.0
 - pkg:maven/software.amazon.awscdk/fis@1.95.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/fis@1.95.1

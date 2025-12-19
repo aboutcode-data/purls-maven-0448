@@ -163,8 +163,13 @@
 - pkg:maven/systems.manifold/manifold-darkj-test@2022.1.35
 - pkg:maven/systems.manifold/manifold-darkj-test@2022.1.36
 - pkg:maven/systems.manifold/manifold-darkj-test@2022.1.37
+- pkg:maven/systems.manifold/manifold-darkj-test@2022.1.38
 - pkg:maven/systems.manifold/manifold-darkj-test@2022.1.4
 - pkg:maven/systems.manifold/manifold-darkj-test@2022.1.5
 - pkg:maven/systems.manifold/manifold-darkj-test@2022.1.7
 - pkg:maven/systems.manifold/manifold-darkj-test@2022.1.8
 - pkg:maven/systems.manifold/manifold-darkj-test@2022.1.9
+- pkg:maven/systems.manifold/manifold-darkj-test@2023.1.0
+- pkg:maven/systems.manifold/manifold-darkj-test@2023.1.1
+- pkg:maven/systems.manifold/manifold-darkj-test@2023.1.2
+- pkg:maven/systems.manifold/manifold-darkj-test@2023.1.3

@@ -1,1 +1,2 @@
 - pkg:maven/blog.greengoblet.pyrus.api/pyrus-api-dsl@1.0.0?classifier=sources
+- pkg:maven/blog.greengoblet.pyrus.api/pyrus-api-dsl@1.1.0?classifier=sources

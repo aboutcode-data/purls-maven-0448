@@ -47,3 +47,5 @@
 - pkg:maven/com.soywiz.korlibs.korau/korau-android@3.3.1?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-android@3.4.0?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korau/korau-android@4.0.0-alpha-1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-android@4.0.0-alpha-2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korau/korau-android@4.0.0-alpha-3?classifier=sources
