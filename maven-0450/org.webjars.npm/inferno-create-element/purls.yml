@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/inferno-create-element@8.0.0-alpha.6
+- pkg:maven/org.webjars.npm/inferno-create-element@8.0.0-alpha.6?classifier=sources

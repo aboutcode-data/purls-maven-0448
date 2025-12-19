@@ -92,3 +92,7 @@
 - pkg:maven/io.github.hakky54/sslcontext-kickstart-for-netty@7.4.5?classifier=sources
 - pkg:maven/io.github.hakky54/sslcontext-kickstart-for-netty@7.4.6
 - pkg:maven/io.github.hakky54/sslcontext-kickstart-for-netty@7.4.6?classifier=sources
+- pkg:maven/io.github.hakky54/sslcontext-kickstart-for-netty@7.4.7
+- pkg:maven/io.github.hakky54/sslcontext-kickstart-for-netty@7.4.7?classifier=sources
+- pkg:maven/io.github.hakky54/sslcontext-kickstart-for-netty@7.4.8
+- pkg:maven/io.github.hakky54/sslcontext-kickstart-for-netty@7.4.8?classifier=sources

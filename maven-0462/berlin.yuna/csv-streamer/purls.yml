@@ -2,3 +2,5 @@
 - pkg:maven/berlin.yuna/csv-streamer@1.0.0?classifier=sources
 - pkg:maven/berlin.yuna/csv-streamer@1.1.0
 - pkg:maven/berlin.yuna/csv-streamer@1.1.0?classifier=sources
+- pkg:maven/berlin.yuna/csv-streamer@1.1.1
+- pkg:maven/berlin.yuna/csv-streamer@1.1.1?classifier=sources

@@ -9,3 +9,6 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-lambda-events-2.2@1.16.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-lambda-events-2.2@1.17.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-lambda-events-2.2@1.18.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-lambda-events-2.2@1.19.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-lambda-events-2.2@1.19.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-aws-lambda-events-2.2@1.19.2-alpha?classifier=sources

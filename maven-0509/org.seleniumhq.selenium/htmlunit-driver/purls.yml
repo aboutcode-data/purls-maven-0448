@@ -126,6 +126,10 @@
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.63.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.64.0
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.64.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.65.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.65.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.66.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@2.66.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@3.55.0
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@3.55.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@3.56.0
@@ -146,3 +150,9 @@
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@3.63.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@3.64.0
 - pkg:maven/org.seleniumhq.selenium/htmlunit-driver@3.64.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@4.5.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@4.5.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@4.5.2
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@4.5.2?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@4.6.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit-driver@4.6.0?classifier=sources

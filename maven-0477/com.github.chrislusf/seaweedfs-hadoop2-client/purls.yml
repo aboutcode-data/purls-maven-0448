@@ -116,3 +116,7 @@
 - pkg:maven/com.github.chrislusf/seaweedfs-hadoop2-client@2.85?classifier=sources
 - pkg:maven/com.github.chrislusf/seaweedfs-hadoop2-client@3.13
 - pkg:maven/com.github.chrislusf/seaweedfs-hadoop2-client@3.13?classifier=sources
+- pkg:maven/com.github.chrislusf/seaweedfs-hadoop2-client@3.30
+- pkg:maven/com.github.chrislusf/seaweedfs-hadoop2-client@3.30?classifier=sources
+- pkg:maven/com.github.chrislusf/seaweedfs-hadoop2-client@3.33
+- pkg:maven/com.github.chrislusf/seaweedfs-hadoop2-client@3.33?classifier=sources

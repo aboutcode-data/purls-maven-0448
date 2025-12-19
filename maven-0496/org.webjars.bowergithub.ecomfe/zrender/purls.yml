@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.bowergithub.ecomfe/zrender@4.3.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.ecomfe/zrender@5.1.0
 - pkg:maven/org.webjars.bowergithub.ecomfe/zrender@5.1.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.ecomfe/zrender@5.4.0
+- pkg:maven/org.webjars.bowergithub.ecomfe/zrender@5.4.0?classifier=sources

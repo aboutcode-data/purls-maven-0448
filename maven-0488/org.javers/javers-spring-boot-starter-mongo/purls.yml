@@ -409,3 +409,4 @@
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.6.5?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.7.0?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.7.1?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.8.0?classifier=sources

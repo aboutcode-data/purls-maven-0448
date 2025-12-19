@@ -1,0 +1,2 @@
+- pkg:maven/com.inteligr8/merge-maven-plugin@1.0.0
+- pkg:maven/com.inteligr8/merge-maven-plugin@1.0.0?classifier=sources

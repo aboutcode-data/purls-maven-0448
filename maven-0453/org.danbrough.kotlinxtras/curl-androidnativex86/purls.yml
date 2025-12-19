@@ -1,2 +1,4 @@
 - pkg:maven/org.danbrough.kotlinxtras/curl-androidnativex86@0.0.1-beta02?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/curl-androidnativex86@0.0.1-beta04?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/curl-androidnativex86@7_86_0?classifier=sources
 - pkg:maven/org.danbrough.kotlinxtras/curl-androidnativex86@curl-7_85_0?classifier=sources

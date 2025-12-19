@@ -181,6 +181,14 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.42.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.43.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.43.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.44.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.44.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.45.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.45.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.46.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.46.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.47.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.47.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.5.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.5.1
@@ -199,3 +207,5 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.8.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.9.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@2.9.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@3.0.0-beta1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-blockchain@3.0.0-beta1?classifier=sources

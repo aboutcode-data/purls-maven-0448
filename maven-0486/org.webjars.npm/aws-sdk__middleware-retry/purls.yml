@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/aws-sdk__middleware-retry@3.118.1
 - pkg:maven/org.webjars.npm/aws-sdk__middleware-retry@3.118.1?classifier=sources
+- pkg:maven/org.webjars.npm/aws-sdk__middleware-retry@3.190.0
+- pkg:maven/org.webjars.npm/aws-sdk__middleware-retry@3.190.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__middleware-retry@3.6.1
 - pkg:maven/org.webjars.npm/aws-sdk__middleware-retry@3.6.1?classifier=sources

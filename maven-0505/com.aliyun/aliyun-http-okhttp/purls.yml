@@ -26,3 +26,7 @@
 - pkg:maven/com.aliyun/aliyun-http-okhttp@0.1.5-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-http-okhttp@0.1.6-beta
 - pkg:maven/com.aliyun/aliyun-http-okhttp@0.1.6-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-http-okhttp@0.1.7-beta
+- pkg:maven/com.aliyun/aliyun-http-okhttp@0.1.7-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-http-okhttp@0.1.8-beta
+- pkg:maven/com.aliyun/aliyun-http-okhttp@0.1.8-beta?classifier=sources

@@ -2,5 +2,7 @@
 - pkg:maven/com.immomo.cosmos.baseutil/mmfile@3.0.2?type=aar
 - pkg:maven/com.immomo.cosmos.baseutil/mmfile@3.0.5?classifier=sources
 - pkg:maven/com.immomo.cosmos.baseutil/mmfile@3.0.5?type=aar
+- pkg:maven/com.immomo.cosmos.baseutil/mmfile@3.0.5_tie?classifier=sources
+- pkg:maven/com.immomo.cosmos.baseutil/mmfile@3.0.5_tie?type=aar
 - pkg:maven/com.immomo.cosmos.baseutil/mmfile@3.0.5_tietie?classifier=sources
 - pkg:maven/com.immomo.cosmos.baseutil/mmfile@3.0.5_tietie?type=aar

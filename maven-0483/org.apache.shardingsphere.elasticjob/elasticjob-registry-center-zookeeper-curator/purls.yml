@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere.elasticjob/elasticjob-registry-center-zookeeper-curator@3.0.2
+- pkg:maven/org.apache.shardingsphere.elasticjob/elasticjob-registry-center-zookeeper-curator@3.0.2?classifier=sources

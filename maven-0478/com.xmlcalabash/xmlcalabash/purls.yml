@@ -176,3 +176,5 @@
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.5.0-100?classifier=sources
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.5.0-110?classifier=sources
 - pkg:maven/com.xmlcalabash/xmlcalabash@1.5.0a1-110?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.5.1-100?classifier=sources
+- pkg:maven/com.xmlcalabash/xmlcalabash@1.5.1-110?classifier=sources

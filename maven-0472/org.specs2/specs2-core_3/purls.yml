@@ -68,5 +68,7 @@
 - pkg:maven/org.specs2/specs2-core_3@5.0.6?classifier=sources
 - pkg:maven/org.specs2/specs2-core_3@5.0.7
 - pkg:maven/org.specs2/specs2-core_3@5.0.7?classifier=sources
+- pkg:maven/org.specs2/specs2-core_3@5.1.0
+- pkg:maven/org.specs2/specs2-core_3@5.1.0?classifier=sources
 - pkg:maven/org.specs2/specs2-core_3@SPECS2-5.0.0-RC0
 - pkg:maven/org.specs2/specs2-core_3@SPECS2-5.0.0-RC0?classifier=sources

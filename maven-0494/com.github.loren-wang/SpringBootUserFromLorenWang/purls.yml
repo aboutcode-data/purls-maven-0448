@@ -24,3 +24,11 @@
 - pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.0-alpha12?classifier=sources
 - pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha01
 - pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha01?classifier=sources
+- pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha02
+- pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha02?classifier=sources
+- pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha03
+- pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha03?classifier=sources
+- pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha04
+- pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha04?classifier=sources
+- pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha05
+- pkg:maven/com.github.loren-wang/SpringBootUserFromLorenWang@1.0.1-alpha05?classifier=sources

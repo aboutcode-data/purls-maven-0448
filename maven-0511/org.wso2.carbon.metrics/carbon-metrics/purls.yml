@@ -5,6 +5,7 @@
 - pkg:maven/org.wso2.carbon.metrics/carbon-metrics@1.3.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.metrics/carbon-metrics@2.3.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.metrics/carbon-metrics@2.3.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.metrics/carbon-metrics@2.3.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.metrics/carbon-metrics@2.3.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.metrics/carbon-metrics@2.3.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.metrics/carbon-metrics@2.3.5?classifier=source-release&type=zip

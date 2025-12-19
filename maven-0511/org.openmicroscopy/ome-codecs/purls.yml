@@ -18,3 +18,7 @@
 - pkg:maven/org.openmicroscopy/ome-codecs@0.3.1?classifier=sources
 - pkg:maven/org.openmicroscopy/ome-codecs@0.3.2
 - pkg:maven/org.openmicroscopy/ome-codecs@0.3.2?classifier=sources
+- pkg:maven/org.openmicroscopy/ome-codecs@0.4.0
+- pkg:maven/org.openmicroscopy/ome-codecs@0.4.0?classifier=sources
+- pkg:maven/org.openmicroscopy/ome-codecs@0.4.1
+- pkg:maven/org.openmicroscopy/ome-codecs@0.4.1?classifier=sources

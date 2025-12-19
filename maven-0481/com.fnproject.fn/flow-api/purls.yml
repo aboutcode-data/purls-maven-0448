@@ -96,6 +96,10 @@
 - pkg:maven/com.fnproject.fn/flow-api@1.0.149?classifier=sources
 - pkg:maven/com.fnproject.fn/flow-api@1.0.150
 - pkg:maven/com.fnproject.fn/flow-api@1.0.150?classifier=sources
+- pkg:maven/com.fnproject.fn/flow-api@1.0.151
+- pkg:maven/com.fnproject.fn/flow-api@1.0.151?classifier=sources
+- pkg:maven/com.fnproject.fn/flow-api@1.0.154
+- pkg:maven/com.fnproject.fn/flow-api@1.0.154?classifier=sources
 - pkg:maven/com.fnproject.fn/flow-api@1.0.70
 - pkg:maven/com.fnproject.fn/flow-api@1.0.70?classifier=sources
 - pkg:maven/com.fnproject.fn/flow-api@1.0.71

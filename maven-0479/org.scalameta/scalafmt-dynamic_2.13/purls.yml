@@ -146,3 +146,7 @@
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.13@3.5.8?classifier=sources
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.13@3.5.9
 - pkg:maven/org.scalameta/scalafmt-dynamic_2.13@3.5.9?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.13@3.6.0
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.13@3.6.0?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.13@3.6.1
+- pkg:maven/org.scalameta/scalafmt-dynamic_2.13@3.6.1?classifier=sources

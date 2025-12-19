@@ -21,3 +21,4 @@
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@1.0.3.2?classifier=sources
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@1.0.3.3?classifier=sources
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@1.0.4.0?classifier=sources
+- pkg:maven/com.github.tommyettinger/jdkgdxds_interop@1.0.4.1?classifier=sources

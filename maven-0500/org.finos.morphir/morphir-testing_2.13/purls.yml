@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.morphir/morphir-testing_2.13@0.1.1-M02
+- pkg:maven/org.finos.morphir/morphir-testing_2.13@0.1.1-M02?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-testing_2.13@0.1.1-M03
+- pkg:maven/org.finos.morphir/morphir-testing_2.13@0.1.1-M03?classifier=sources

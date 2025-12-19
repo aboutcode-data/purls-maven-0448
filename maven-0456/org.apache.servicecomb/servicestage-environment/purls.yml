@@ -68,3 +68,7 @@
 - pkg:maven/org.apache.servicecomb/servicestage-environment@2.7.8?classifier=sources
 - pkg:maven/org.apache.servicecomb/servicestage-environment@2.7.9
 - pkg:maven/org.apache.servicecomb/servicestage-environment@2.7.9?classifier=sources
+- pkg:maven/org.apache.servicecomb/servicestage-environment@2.8.0
+- pkg:maven/org.apache.servicecomb/servicestage-environment@2.8.0?classifier=sources
+- pkg:maven/org.apache.servicecomb/servicestage-environment@2.8.1
+- pkg:maven/org.apache.servicecomb/servicestage-environment@2.8.1?classifier=sources

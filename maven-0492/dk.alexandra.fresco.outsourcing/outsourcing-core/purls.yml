@@ -1,0 +1,2 @@
+- pkg:maven/dk.alexandra.fresco.outsourcing/outsourcing-core@0.1
+- pkg:maven/dk.alexandra.fresco.outsourcing/outsourcing-core@0.1?classifier=sources

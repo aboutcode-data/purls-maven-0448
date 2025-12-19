@@ -40,6 +40,8 @@
 - pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.16.3?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.17.0
 - pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.17.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.18.0
+- pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.18.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.8.0
 - pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.8.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kafka-2-0-processors@1.9.0

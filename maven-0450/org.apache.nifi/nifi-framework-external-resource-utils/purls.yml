@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.nifi/nifi-framework-external-resource-utils@1.17.0
 - pkg:maven/org.apache.nifi/nifi-framework-external-resource-utils@1.17.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-framework-external-resource-utils@1.18.0
+- pkg:maven/org.apache.nifi/nifi-framework-external-resource-utils@1.18.0?classifier=sources

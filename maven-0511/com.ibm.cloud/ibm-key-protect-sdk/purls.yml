@@ -2,3 +2,7 @@
 - pkg:maven/com.ibm.cloud/ibm-key-protect-sdk@0.1.0?classifier=sources
 - pkg:maven/com.ibm.cloud/ibm-key-protect-sdk@0.2.0
 - pkg:maven/com.ibm.cloud/ibm-key-protect-sdk@0.2.0?classifier=sources
+- pkg:maven/com.ibm.cloud/ibm-key-protect-sdk@0.2.3
+- pkg:maven/com.ibm.cloud/ibm-key-protect-sdk@0.2.3?classifier=sources
+- pkg:maven/com.ibm.cloud/ibm-key-protect-sdk@0.2.4
+- pkg:maven/com.ibm.cloud/ibm-key-protect-sdk@0.2.4?classifier=sources

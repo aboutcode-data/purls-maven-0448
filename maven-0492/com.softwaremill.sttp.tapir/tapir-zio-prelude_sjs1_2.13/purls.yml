@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio-prelude_sjs1_2.13@1.1.4
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-zio-prelude_sjs1_2.13@1.1.4?classifier=sources

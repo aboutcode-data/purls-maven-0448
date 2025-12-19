@@ -150,3 +150,9 @@
 - pkg:maven/org.talend.sdk.component/dropdownlist-component@1.48.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/dropdownlist-component@1.49.0
 - pkg:maven/org.talend.sdk.component/dropdownlist-component@1.49.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/dropdownlist-component@1.49.1
+- pkg:maven/org.talend.sdk.component/dropdownlist-component@1.49.1?classifier=sources
+- pkg:maven/org.talend.sdk.component/dropdownlist-component@1.50.0
+- pkg:maven/org.talend.sdk.component/dropdownlist-component@1.50.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/dropdownlist-component@1.50.1
+- pkg:maven/org.talend.sdk.component/dropdownlist-component@1.50.1?classifier=sources

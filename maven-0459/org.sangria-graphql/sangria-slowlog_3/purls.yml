@@ -1,0 +1,2 @@
+- pkg:maven/org.sangria-graphql/sangria-slowlog_3@2.0.5
+- pkg:maven/org.sangria-graphql/sangria-slowlog_3@2.0.5?classifier=sources

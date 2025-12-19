@@ -1,4 +1,6 @@
 - pkg:maven/com.tenqube/ibk@0.0.1-alpha02?classifier=sources
+- pkg:maven/com.tenqube/ibk@1.0.0?classifier=sources
+- pkg:maven/com.tenqube/ibk@1.0.1?classifier=sources
 - pkg:maven/com.tenqube/ibk@1.6.3?classifier=sources
 - pkg:maven/com.tenqube/ibk@1.6.7?classifier=sources
 - pkg:maven/com.tenqube/ibk@1.6.8?classifier=sources

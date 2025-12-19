@@ -124,6 +124,10 @@
 - pkg:maven/com.wavefront/yammer-metrics@2022-08.1?classifier=sources
 - pkg:maven/com.wavefront/yammer-metrics@2022-08.2
 - pkg:maven/com.wavefront/yammer-metrics@2022-08.2?classifier=sources
+- pkg:maven/com.wavefront/yammer-metrics@2022-09.1
+- pkg:maven/com.wavefront/yammer-metrics@2022-09.1?classifier=sources
+- pkg:maven/com.wavefront/yammer-metrics@2022-10.1
+- pkg:maven/com.wavefront/yammer-metrics@2022-10.1?classifier=sources
 - pkg:maven/com.wavefront/yammer-metrics@4.10
 - pkg:maven/com.wavefront/yammer-metrics@4.10?classifier=sources
 - pkg:maven/com.wavefront/yammer-metrics@4.11

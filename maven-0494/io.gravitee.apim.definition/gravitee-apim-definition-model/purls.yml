@@ -30,6 +30,8 @@
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.15.15?classifier=sources
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.15.16
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.15.16?classifier=sources
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.15.17
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.15.17?classifier=sources
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.15.7
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.15.7?classifier=sources
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.15.8
@@ -59,6 +61,10 @@
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.1
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.10
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.10?classifier=sources
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.11
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.11?classifier=sources
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.12
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.12?classifier=sources
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.2
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-model@3.18.2?classifier=sources

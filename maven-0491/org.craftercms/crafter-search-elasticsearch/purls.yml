@@ -127,3 +127,4 @@
 - pkg:maven/org.craftercms/crafter-search-elasticsearch@4.0.0-rc2E
 - pkg:maven/org.craftercms/crafter-search-elasticsearch@4.0.0-rc2E?classifier=sources
 - pkg:maven/org.craftercms/crafter-search-elasticsearch@4.0.1
+- pkg:maven/org.craftercms/crafter-search-elasticsearch@4.0.2

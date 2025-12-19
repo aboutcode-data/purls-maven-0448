@@ -14,3 +14,5 @@
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.84?classifier=sources
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.85
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.85?classifier=sources
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.86
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.86?classifier=sources

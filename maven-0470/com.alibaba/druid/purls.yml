@@ -188,8 +188,12 @@
 - pkg:maven/com.alibaba/druid@1.2.10?classifier=sources
 - pkg:maven/com.alibaba/druid@1.2.11?classifier=sources
 - pkg:maven/com.alibaba/druid@1.2.12?classifier=sources
+- pkg:maven/com.alibaba/druid@1.2.13
 - pkg:maven/com.alibaba/druid@1.2.13-SNSAPSHOT
 - pkg:maven/com.alibaba/druid@1.2.13-SNSAPSHOT?classifier=sources
+- pkg:maven/com.alibaba/druid@1.2.13?classifier=sources
+- pkg:maven/com.alibaba/druid@1.2.14
+- pkg:maven/com.alibaba/druid@1.2.14?classifier=sources
 - pkg:maven/com.alibaba/druid@1.2.1?classifier=sources
 - pkg:maven/com.alibaba/druid@1.2.2?classifier=sources
 - pkg:maven/com.alibaba/druid@1.2.3?classifier=sources

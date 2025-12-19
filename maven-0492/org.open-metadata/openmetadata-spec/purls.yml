@@ -1,2 +1,4 @@
+- pkg:maven/org.open-metadata/openmetadata-spec@0.12.1
 - pkg:maven/org.open-metadata/openmetadata-spec@0.12.1.preview
 - pkg:maven/org.open-metadata/openmetadata-spec@0.12.1.preview?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-spec@0.12.1?classifier=sources

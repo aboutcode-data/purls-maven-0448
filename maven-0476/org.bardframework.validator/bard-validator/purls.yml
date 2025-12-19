@@ -28,3 +28,5 @@
 - pkg:maven/org.bardframework.validator/bard-validator@1.5.30?classifier=sources
 - pkg:maven/org.bardframework.validator/bard-validator@1.6.20
 - pkg:maven/org.bardframework.validator/bard-validator@1.6.20?classifier=sources
+- pkg:maven/org.bardframework.validator/bard-validator@1.7.5
+- pkg:maven/org.bardframework.validator/bard-validator@1.7.5?classifier=sources

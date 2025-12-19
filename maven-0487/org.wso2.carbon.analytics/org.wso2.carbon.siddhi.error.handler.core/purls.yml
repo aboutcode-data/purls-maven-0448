@@ -38,3 +38,5 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.error.handler.core@3.0.56?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.error.handler.core@3.0.57
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.error.handler.core@3.0.57?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.error.handler.core@3.0.63
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.error.handler.core@3.0.63?classifier=sources

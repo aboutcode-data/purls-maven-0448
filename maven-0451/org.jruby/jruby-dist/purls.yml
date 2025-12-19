@@ -60,3 +60,4 @@
 - pkg:maven/org.jruby/jruby-dist@9.3.6.0?classifier=src&type=zip
 - pkg:maven/org.jruby/jruby-dist@9.3.7.0?classifier=src&type=zip
 - pkg:maven/org.jruby/jruby-dist@9.3.8.0?classifier=src&type=zip
+- pkg:maven/org.jruby/jruby-dist@9.3.9.0?classifier=src&type=zip

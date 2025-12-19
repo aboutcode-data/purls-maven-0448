@@ -7,3 +7,6 @@
 - pkg:maven/com.criteo.mediation.google/criteo-adapter-development@4.6.1.0-20220823.0915?classifier=sources
 - pkg:maven/com.criteo.mediation.google/criteo-adapter-development@4.7.0.0-20220829.1631?classifier=sources
 - pkg:maven/com.criteo.mediation.google/criteo-adapter-development@4.7.0.0-20220920.1642?classifier=sources
+- pkg:maven/com.criteo.mediation.google/criteo-adapter-development@4.7.0.0-20220923.1049?classifier=sources
+- pkg:maven/com.criteo.mediation.google/criteo-adapter-development@4.7.0.0-20220926.0833?classifier=sources
+- pkg:maven/com.criteo.mediation.google/criteo-adapter-development@4.8.0.0-20221004.0751?classifier=sources

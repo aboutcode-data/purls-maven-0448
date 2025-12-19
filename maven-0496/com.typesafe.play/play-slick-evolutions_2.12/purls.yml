@@ -62,3 +62,5 @@
 - pkg:maven/com.typesafe.play/play-slick-evolutions_2.12@5.0.0?classifier=sources
 - pkg:maven/com.typesafe.play/play-slick-evolutions_2.12@5.0.2
 - pkg:maven/com.typesafe.play/play-slick-evolutions_2.12@5.0.2?classifier=sources
+- pkg:maven/com.typesafe.play/play-slick-evolutions_2.12@5.1.0
+- pkg:maven/com.typesafe.play/play-slick-evolutions_2.12@5.1.0?classifier=sources

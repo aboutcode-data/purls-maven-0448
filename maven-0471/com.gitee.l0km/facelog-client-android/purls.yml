@@ -106,3 +106,7 @@
 - pkg:maven/com.gitee.l0km/facelog-client-android@5.2.1?classifier=sources
 - pkg:maven/com.gitee.l0km/facelog-client-android@5.2.2
 - pkg:maven/com.gitee.l0km/facelog-client-android@5.2.2?classifier=sources
+- pkg:maven/com.gitee.l0km/facelog-client-android@5.2.3
+- pkg:maven/com.gitee.l0km/facelog-client-android@5.2.3?classifier=sources
+- pkg:maven/com.gitee.l0km/facelog-client-android@5.2.4
+- pkg:maven/com.gitee.l0km/facelog-client-android@5.2.4?classifier=sources

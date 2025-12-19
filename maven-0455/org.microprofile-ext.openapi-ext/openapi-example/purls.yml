@@ -14,3 +14,5 @@
 - pkg:maven/org.microprofile-ext.openapi-ext/openapi-example@1.1.4?type=war
 - pkg:maven/org.microprofile-ext.openapi-ext/openapi-example@1.1.5?classifier=sources
 - pkg:maven/org.microprofile-ext.openapi-ext/openapi-example@1.1.5?type=war
+- pkg:maven/org.microprofile-ext.openapi-ext/openapi-example@2.0.0?classifier=sources
+- pkg:maven/org.microprofile-ext.openapi-ext/openapi-example@2.0.0?type=war

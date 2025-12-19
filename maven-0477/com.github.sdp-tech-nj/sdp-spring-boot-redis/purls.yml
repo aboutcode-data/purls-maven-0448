@@ -15,4 +15,6 @@
 - pkg:maven/com.github.sdp-tech-nj/sdp-spring-boot-redis@2.6.7?classifier=sources
 - pkg:maven/com.github.sdp-tech-nj/sdp-spring-boot-redis@2.6.8
 - pkg:maven/com.github.sdp-tech-nj/sdp-spring-boot-redis@2.6.8?classifier=sources
+- pkg:maven/com.github.sdp-tech-nj/sdp-spring-boot-redis@2.6.9
+- pkg:maven/com.github.sdp-tech-nj/sdp-spring-boot-redis@2.6.9?classifier=sources
 - pkg:maven/com.github.sdp-tech-nj/sdp-spring-boot-redis@2.6?classifier=sources

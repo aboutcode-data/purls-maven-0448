@@ -3,3 +3,4 @@
 - pkg:maven/com.okta.kotlin/legacy-token-migration@0.6.0-BETA?classifier=sources
 - pkg:maven/com.okta.kotlin/legacy-token-migration@1.0.0?classifier=sources
 - pkg:maven/com.okta.kotlin/legacy-token-migration@1.1.0?classifier=sources
+- pkg:maven/com.okta.kotlin/legacy-token-migration@1.1.1?classifier=sources

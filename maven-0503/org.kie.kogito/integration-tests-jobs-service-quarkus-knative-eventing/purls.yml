@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-knative-eventing@1.29.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-knative-eventing@1.29.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-knative-eventing@1.30.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-jobs-service-quarkus-knative-eventing@1.30.0.Final?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/com.github.tharwaninitin/etlflow-db_2.12@0.15.0?classifier=sources
 - pkg:maven/com.github.tharwaninitin/etlflow-db_2.12@0.16.0
 - pkg:maven/com.github.tharwaninitin/etlflow-db_2.12@0.16.0?classifier=sources
+- pkg:maven/com.github.tharwaninitin/etlflow-db_2.12@1.0.0
+- pkg:maven/com.github.tharwaninitin/etlflow-db_2.12@1.0.0?classifier=sources
+- pkg:maven/com.github.tharwaninitin/etlflow-db_2.12@1.1.0
+- pkg:maven/com.github.tharwaninitin/etlflow-db_2.12@1.1.0?classifier=sources

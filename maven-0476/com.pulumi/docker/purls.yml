@@ -4,3 +4,7 @@
 - pkg:maven/com.pulumi/docker@3.4.0?classifier=sources
 - pkg:maven/com.pulumi/docker@3.4.1?classifier=sources
 - pkg:maven/com.pulumi/docker@3.5.0-alpha.1660680787%2B9d280bb7?classifier=sources
+- pkg:maven/com.pulumi/docker@3.5.0-alpha.1666065731%2B710a278f?classifier=sources
+- pkg:maven/com.pulumi/docker@3.5.0?classifier=sources
+- pkg:maven/com.pulumi/docker@3.6.0-alpha.1666905392%2Bfcef4c78?classifier=sources
+- pkg:maven/com.pulumi/docker@3.6.0-alpha.1666991174%2B8b546d6c?classifier=sources

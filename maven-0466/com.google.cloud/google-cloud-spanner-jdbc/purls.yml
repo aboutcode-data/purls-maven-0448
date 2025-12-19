@@ -134,6 +134,12 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.0
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.1
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.10
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.10?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.11
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.11?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.12
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.12?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.2
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.2?classifier=sources
@@ -147,3 +153,7 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.6?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.7
 - pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.7?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.8
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.8?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.9
+- pkg:maven/com.google.cloud/google-cloud-spanner-jdbc@2.7.9?classifier=sources

@@ -29,4 +29,6 @@
 - pkg:maven/org.rrd4j/rrd4j@3.8
 - pkg:maven/org.rrd4j/rrd4j@3.8.1
 - pkg:maven/org.rrd4j/rrd4j@3.8.1?classifier=sources
+- pkg:maven/org.rrd4j/rrd4j@3.8.2
+- pkg:maven/org.rrd4j/rrd4j@3.8.2?classifier=sources
 - pkg:maven/org.rrd4j/rrd4j@3.8?classifier=sources

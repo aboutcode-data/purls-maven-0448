@@ -13,3 +13,4 @@
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@0.7
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@0.7?classifier=sources
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@0.8?classifier=sources
+- pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@0.9?classifier=sources

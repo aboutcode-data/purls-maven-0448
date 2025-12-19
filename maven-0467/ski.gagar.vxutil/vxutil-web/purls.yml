@@ -31,6 +31,12 @@
 - pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha2
 - pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha20
 - pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha20?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha21
+- pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha21?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha22
+- pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha22?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha23
+- pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha23?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha2?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha3
 - pkg:maven/ski.gagar.vxutil/vxutil-web@1.0.0-alpha3?classifier=sources

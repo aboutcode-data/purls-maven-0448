@@ -17,3 +17,4 @@
 - pkg:maven/net.folivo/trixnity-serverserverapi-model-mingwx64@2.3.6?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-model-mingwx64@2.3.7?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-model-mingwx64@2.3.8?classifier=sources
+- pkg:maven/net.folivo/trixnity-serverserverapi-model-mingwx64@3.0.0-beta1?classifier=sources

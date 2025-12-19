@@ -148,6 +148,8 @@
 - pkg:maven/com.sap.cloud.sdk.services/scp-machine-learning@3.73.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/scp-machine-learning@3.74.0
 - pkg:maven/com.sap.cloud.sdk.services/scp-machine-learning@3.74.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/scp-machine-learning@3.75.0
+- pkg:maven/com.sap.cloud.sdk.services/scp-machine-learning@3.75.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/scp-machine-learning@3.8.0
 - pkg:maven/com.sap.cloud.sdk.services/scp-machine-learning@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/scp-machine-learning@3.9.0
