@@ -1,5 +1,8 @@
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0
 - pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.10
 - pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.10?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.11
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.11?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.3
 - pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.3?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.4
@@ -14,3 +17,8 @@
 - pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.8?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.9
 - pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0-PR.9?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.0?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.1
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.1?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.2
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-sensorthings@2.0.2?classifier=sources

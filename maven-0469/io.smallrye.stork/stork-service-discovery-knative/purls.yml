@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.stork/stork-service-discovery-knative@1.4.1
+- pkg:maven/io.smallrye.stork/stork-service-discovery-knative@1.4.1?classifier=sources

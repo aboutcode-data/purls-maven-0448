@@ -2,3 +2,11 @@
 - pkg:maven/net.sf.extcos/extcos@0.3b?classifier=sources
 - pkg:maven/net.sf.extcos/extcos@0.4b
 - pkg:maven/net.sf.extcos/extcos@0.4b?classifier=sources
+- pkg:maven/net.sf.extcos/extcos@0.5
+- pkg:maven/net.sf.extcos/extcos@0.5.1
+- pkg:maven/net.sf.extcos/extcos@0.5.1?classifier=sources
+- pkg:maven/net.sf.extcos/extcos@0.5.2
+- pkg:maven/net.sf.extcos/extcos@0.5.2?classifier=sources
+- pkg:maven/net.sf.extcos/extcos@0.5.3
+- pkg:maven/net.sf.extcos/extcos@0.5.3?classifier=sources
+- pkg:maven/net.sf.extcos/extcos@0.5?classifier=sources

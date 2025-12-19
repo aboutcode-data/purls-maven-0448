@@ -20,3 +20,5 @@
 - pkg:maven/com.ibm.cloud/firewall-api@0.30.0?classifier=sources
 - pkg:maven/com.ibm.cloud/firewall-api@0.31.0
 - pkg:maven/com.ibm.cloud/firewall-api@0.31.0?classifier=sources
+- pkg:maven/com.ibm.cloud/firewall-api@0.31.1
+- pkg:maven/com.ibm.cloud/firewall-api@0.31.1?classifier=sources

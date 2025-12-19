@@ -110,3 +110,7 @@
 - pkg:maven/xin.alum/aim-cluster@1.5.9?classifier=sources
 - pkg:maven/xin.alum/aim-cluster@1.6.0
 - pkg:maven/xin.alum/aim-cluster@1.6.0?classifier=sources
+- pkg:maven/xin.alum/aim-cluster@1.6.2
+- pkg:maven/xin.alum/aim-cluster@1.6.2?classifier=sources
+- pkg:maven/xin.alum/aim-cluster@1.6.3
+- pkg:maven/xin.alum/aim-cluster@1.6.3?classifier=sources

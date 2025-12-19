@@ -1,0 +1,12 @@
+- pkg:maven/io.chocotea/chocotea@1.0
+- pkg:maven/io.chocotea/chocotea@1.0.1
+- pkg:maven/io.chocotea/chocotea@1.0.1?classifier=sources
+- pkg:maven/io.chocotea/chocotea@1.0?classifier=sources
+- pkg:maven/io.chocotea/chocotea@1.0A
+- pkg:maven/io.chocotea/chocotea@1.0A?classifier=sources
+- pkg:maven/io.chocotea/chocotea@1.0EE
+- pkg:maven/io.chocotea/chocotea@1.0EE?classifier=sources
+- pkg:maven/io.chocotea/chocotea@1.0R
+- pkg:maven/io.chocotea/chocotea@1.0R?classifier=sources
+- pkg:maven/io.chocotea/chocotea@1.0T
+- pkg:maven/io.chocotea/chocotea@1.0T?classifier=sources

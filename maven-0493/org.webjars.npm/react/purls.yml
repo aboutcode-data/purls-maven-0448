@@ -202,3 +202,5 @@
 - pkg:maven/org.webjars.npm/react@18.2.0-next-e531a4a62-20220505
 - pkg:maven/org.webjars.npm/react@18.2.0-next-e531a4a62-20220505?classifier=sources
 - pkg:maven/org.webjars.npm/react@18.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/react@18.3.0-next-fecc288b7-20221025
+- pkg:maven/org.webjars.npm/react@18.3.0-next-fecc288b7-20221025?classifier=sources

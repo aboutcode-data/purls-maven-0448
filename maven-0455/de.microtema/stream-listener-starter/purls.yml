@@ -1,0 +1,2 @@
+- pkg:maven/de.microtema/stream-listener-starter@3.0.0
+- pkg:maven/de.microtema/stream-listener-starter@3.0.0?classifier=sources

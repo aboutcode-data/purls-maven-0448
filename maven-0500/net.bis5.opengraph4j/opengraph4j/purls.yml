@@ -1,2 +1,6 @@
 - pkg:maven/net.bis5.opengraph4j/opengraph4j@0.1.0
 - pkg:maven/net.bis5.opengraph4j/opengraph4j@0.1.0?classifier=sources
+- pkg:maven/net.bis5.opengraph4j/opengraph4j@1.0.0
+- pkg:maven/net.bis5.opengraph4j/opengraph4j@1.0.0?classifier=sources
+- pkg:maven/net.bis5.opengraph4j/opengraph4j@1.0.1
+- pkg:maven/net.bis5.opengraph4j/opengraph4j@1.0.1?classifier=sources

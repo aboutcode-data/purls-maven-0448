@@ -1,0 +1,4 @@
+- pkg:maven/io.miragon.miranum/miranum-deployment-proxy-example@0.1.0
+- pkg:maven/io.miragon.miranum/miranum-deployment-proxy-example@0.1.0?classifier=sources
+- pkg:maven/io.miragon.miranum/miranum-deployment-proxy-example@0.1.1
+- pkg:maven/io.miragon.miranum/miranum-deployment-proxy-example@0.1.1?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-consul-store@2.0.0?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-consul-store@3.0.0?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-consul-store@4.0.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-consul-store@5.0.0?classifier=sources

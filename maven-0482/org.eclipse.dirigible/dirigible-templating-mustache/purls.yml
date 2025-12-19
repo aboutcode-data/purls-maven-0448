@@ -18,3 +18,11 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@6.3.29?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@6.3.30
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@6.3.30?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@6.3.31
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@6.3.31?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@7.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@7.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@7.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@7.1.1
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-mustache@7.1.1?classifier=sources

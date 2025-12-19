@@ -1,2 +1,4 @@
 - pkg:maven/cc.kkon/gmssl_provider@2022
 - pkg:maven/cc.kkon/gmssl_provider@2022?classifier=sources
+- pkg:maven/cc.kkon/gmssl_provider@2023
+- pkg:maven/cc.kkon/gmssl_provider@2023?classifier=sources

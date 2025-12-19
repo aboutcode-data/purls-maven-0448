@@ -1,0 +1,2 @@
+- pkg:maven/se.solrike.aws/solrike-aws-extras@0.1.0?classifier=sources
+- pkg:maven/se.solrike.aws/solrike-aws-extras@0.2.0?classifier=sources

@@ -374,3 +374,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http@3.5.4?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http@3.5.5
 - pkg:maven/org.apache.cxf/cxf-rt-transports-http@3.5.5?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http@4.0.0
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http@4.0.0?classifier=sources

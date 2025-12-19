@@ -10,3 +10,5 @@
 - pkg:maven/com.wizzdi/dynamic-properties-converter-postgresql@1.2.0?classifier=sources
 - pkg:maven/com.wizzdi/dynamic-properties-converter-postgresql@2.0.0
 - pkg:maven/com.wizzdi/dynamic-properties-converter-postgresql@2.0.0?classifier=sources
+- pkg:maven/com.wizzdi/dynamic-properties-converter-postgresql@3.0.0
+- pkg:maven/com.wizzdi/dynamic-properties-converter-postgresql@3.0.0?classifier=sources

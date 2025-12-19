@@ -72,3 +72,5 @@
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.0-M2?type=war
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.0?classifier=sources
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.0?type=war
+- pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.1?classifier=sources
+- pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.1?type=war

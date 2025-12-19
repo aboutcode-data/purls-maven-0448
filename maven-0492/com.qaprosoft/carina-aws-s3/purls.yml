@@ -348,6 +348,8 @@
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.4.26?classifier=sources
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.4.27
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.4.27?classifier=sources
+- pkg:maven/com.qaprosoft/carina-aws-s3@7.4.28
+- pkg:maven/com.qaprosoft/carina-aws-s3@7.4.28?classifier=sources
 - pkg:maven/com.qaprosoft/carina-aws-s3@8.0.0
 - pkg:maven/com.qaprosoft/carina-aws-s3@8.0.0?classifier=sources
 - pkg:maven/com.qaprosoft/carina-aws-s3@8.0.1
@@ -356,3 +358,4 @@
 - pkg:maven/com.qaprosoft/carina-aws-s3@8.0.2?classifier=sources
 - pkg:maven/com.qaprosoft/carina-aws-s3@8.0.3
 - pkg:maven/com.qaprosoft/carina-aws-s3@8.0.3?classifier=sources
+- pkg:maven/com.qaprosoft/carina-aws-s3@8.0.4

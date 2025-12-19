@@ -1,2 +1,8 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss-aliyun@1.0.0
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-aliyun@1.0.0-jdk17
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-aliyun@1.0.0-jdk17?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss-aliyun@1.0.0?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-aliyun@1.0.1-jdk17
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-aliyun@1.0.1-jdk17?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-aliyun@1.0.2-jdk17
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-aliyun@1.0.2-jdk17?classifier=sources

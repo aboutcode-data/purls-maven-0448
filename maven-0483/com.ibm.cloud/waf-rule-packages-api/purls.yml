@@ -20,3 +20,5 @@
 - pkg:maven/com.ibm.cloud/waf-rule-packages-api@0.30.0?classifier=sources
 - pkg:maven/com.ibm.cloud/waf-rule-packages-api@0.31.0
 - pkg:maven/com.ibm.cloud/waf-rule-packages-api@0.31.0?classifier=sources
+- pkg:maven/com.ibm.cloud/waf-rule-packages-api@0.31.1
+- pkg:maven/com.ibm.cloud/waf-rule-packages-api@0.31.1?classifier=sources

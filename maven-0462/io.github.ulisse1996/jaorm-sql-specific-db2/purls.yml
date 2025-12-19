@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-db2@2.0.0-RC2
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-db2@2.0.0-RC2?classifier=sources

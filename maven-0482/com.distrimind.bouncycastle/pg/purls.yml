@@ -2,3 +2,5 @@
 - pkg:maven/com.distrimind.bouncycastle/pg@1.69?classifier=sources
 - pkg:maven/com.distrimind.bouncycastle/pg@1.71?classifier=sources
 - pkg:maven/com.distrimind.bouncycastle/pg@1.72?classifier=sources
+- pkg:maven/com.distrimind.bouncycastle/pg@1.72c?classifier=sources
+- pkg:maven/com.distrimind.bouncycastle/pg@1.72d?classifier=sources

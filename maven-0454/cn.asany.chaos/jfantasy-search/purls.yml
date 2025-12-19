@@ -1,2 +1,3 @@
 - pkg:maven/cn.asany.chaos/jfantasy-search@2.10.0?classifier=sources
 - pkg:maven/cn.asany.chaos/jfantasy-search@2.10.2?classifier=sources
+- pkg:maven/cn.asany.chaos/jfantasy-search@2.11.0?classifier=sources

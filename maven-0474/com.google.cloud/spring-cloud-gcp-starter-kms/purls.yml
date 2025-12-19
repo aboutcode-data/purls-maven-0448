@@ -16,3 +16,4 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-kms@3.2.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-kms@3.3.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-kms@3.4.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-kms@3.4.1

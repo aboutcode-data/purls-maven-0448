@@ -1,0 +1,6 @@
+- pkg:maven/com.promcteam/proskillapi@1.0
+- pkg:maven/com.promcteam/proskillapi@1.0?classifier=sources
+- pkg:maven/com.promcteam/proskillapi@1.1.7.19
+- pkg:maven/com.promcteam/proskillapi@1.1.7.19?classifier=sources
+- pkg:maven/com.promcteam/proskillapi@1.1.8
+- pkg:maven/com.promcteam/proskillapi@1.1.8?classifier=sources

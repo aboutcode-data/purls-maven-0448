@@ -1,0 +1,2 @@
+- pkg:maven/org.sila-standard.sila_java.interoperability/repository@0.10.0
+- pkg:maven/org.sila-standard.sila_java.interoperability/repository@0.10.0?classifier=sources

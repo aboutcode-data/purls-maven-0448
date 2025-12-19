@@ -1,0 +1,2 @@
+- pkg:maven/com.mydataharbor/jdbc-clickhouse-0.3.x-plugin@2.0.0
+- pkg:maven/com.mydataharbor/jdbc-clickhouse-0.3.x-plugin@2.0.0?classifier=sources

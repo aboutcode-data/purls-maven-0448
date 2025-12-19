@@ -16,3 +16,7 @@
 - pkg:maven/org.apache.camel/camel-knative-http@3.18.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-knative-http@3.19.0
 - pkg:maven/org.apache.camel/camel-knative-http@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-knative-http@3.20.0
+- pkg:maven/org.apache.camel/camel-knative-http@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-knative-http@3.20.1
+- pkg:maven/org.apache.camel/camel-knative-http@3.20.1?classifier=sources

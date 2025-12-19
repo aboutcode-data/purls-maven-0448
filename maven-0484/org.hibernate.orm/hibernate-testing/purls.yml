@@ -29,3 +29,4 @@
 - pkg:maven/org.hibernate.orm/hibernate-testing@6.1.4.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-testing@6.1.5.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-testing@6.1.6.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-testing@6.2.0.CR1?classifier=sources

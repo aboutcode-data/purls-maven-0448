@@ -1,1 +1,2 @@
+- pkg:maven/com.fragula2/fragula-compose@2.4.1?classifier=sources
 - pkg:maven/com.fragula2/fragula-compose@2.4?classifier=sources

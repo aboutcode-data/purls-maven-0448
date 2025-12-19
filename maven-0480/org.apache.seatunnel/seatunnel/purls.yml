@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.seatunnel/seatunnel@2.1.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.seatunnel/seatunnel@2.2.0-beta?classifier=source-release&type=zip
 - pkg:maven/org.apache.seatunnel/seatunnel@2.3.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.apache.seatunnel/seatunnel@2.3.0?classifier=source-release&type=zip

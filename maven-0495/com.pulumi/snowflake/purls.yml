@@ -3,3 +3,6 @@
 - pkg:maven/com.pulumi/snowflake@0.13.3-alpha.1664476054%2B58464b78?classifier=sources
 - pkg:maven/com.pulumi/snowflake@0.14.0?classifier=sources
 - pkg:maven/com.pulumi/snowflake@0.14.1-alpha.1668646077%2B715bcd64?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.14.1-alpha.1672951590%2B23ff29f5?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.15.0?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.15.1-alpha.1673556345%2B92f30106?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-helidon3@1.8.3326
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-helidon3@1.8.3326?classifier=sources

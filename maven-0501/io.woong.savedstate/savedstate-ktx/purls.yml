@@ -1,1 +1,4 @@
 - pkg:maven/io.woong.savedstate/savedstate-ktx@1.0.0-alpha1?classifier=sources
+- pkg:maven/io.woong.savedstate/savedstate-ktx@1.0.0-beta1?classifier=sources
+- pkg:maven/io.woong.savedstate/savedstate-ktx@1.0.0?classifier=sources
+- pkg:maven/io.woong.savedstate/savedstate-ktx@1.1.0?classifier=sources

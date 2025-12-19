@@ -46,6 +46,10 @@
 - pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.3.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.30.0
 - pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.30.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.31.0
+- pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.31.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.32.0
+- pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.32.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.4.0
 - pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.4.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-bundle-uuid@0.5.0

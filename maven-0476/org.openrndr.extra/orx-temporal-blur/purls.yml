@@ -14,3 +14,4 @@
 - pkg:maven/org.openrndr.extra/orx-temporal-blur@0.4.1?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-temporal-blur@0.4.2-rc.1?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-temporal-blur@0.4.2-rc.2?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-temporal-blur@0.4.2-rc.3?classifier=sources

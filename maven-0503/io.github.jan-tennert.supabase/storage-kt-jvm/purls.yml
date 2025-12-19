@@ -18,6 +18,17 @@
 - pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.6.0-beta-1?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.6.0?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.6.1?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.0-RC-1?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.0-alpha-1?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.0-alpha-2?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.0-beta-1?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.0-beta-2?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.0-beta-3?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.0?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.1?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.2?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.3?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.4-alpha?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.4?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.5?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/storage-kt-jvm@0.7.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.bkbn/kompendium-enrichment@3.10.0?classifier=sources
+- pkg:maven/io.bkbn/kompendium-enrichment@3.11.0?classifier=sources

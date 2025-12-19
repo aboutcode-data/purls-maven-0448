@@ -1,0 +1,2 @@
+- pkg:maven/com.ditchoom/mqtt-5-models-macosarm64@1.0.26?classifier=sources
+- pkg:maven/com.ditchoom/mqtt-5-models-macosarm64@1.0.27?classifier=sources

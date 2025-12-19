@@ -1,2 +1,6 @@
 - pkg:maven/io.github.ungle/kong-admin-client-core@2.0.0
 - pkg:maven/io.github.ungle/kong-admin-client-core@2.0.0?classifier=sources
+- pkg:maven/io.github.ungle/kong-admin-client-core@2.1.0
+- pkg:maven/io.github.ungle/kong-admin-client-core@2.1.0?classifier=sources
+- pkg:maven/io.github.ungle/kong-admin-client-core@2.1.1
+- pkg:maven/io.github.ungle/kong-admin-client-core@2.1.1?classifier=sources

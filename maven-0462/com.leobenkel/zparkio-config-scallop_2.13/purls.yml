@@ -1,0 +1,4 @@
+- pkg:maven/com.leobenkel/zparkio-config-scallop_2.13@3.2.3_1.1.0
+- pkg:maven/com.leobenkel/zparkio-config-scallop_2.13@3.2.3_1.1.0?classifier=sources
+- pkg:maven/com.leobenkel/zparkio-config-scallop_2.13@3.3.1_1.1.0
+- pkg:maven/com.leobenkel/zparkio-config-scallop_2.13@3.3.1_1.1.0?classifier=sources

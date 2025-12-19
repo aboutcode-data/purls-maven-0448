@@ -1,0 +1,2 @@
+- pkg:maven/com.dahuatech.harriet.icc/eco-brm-client@1.0.1
+- pkg:maven/com.dahuatech.harriet.icc/eco-brm-client@1.0.1?classifier=sources

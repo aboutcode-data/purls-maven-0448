@@ -22,3 +22,4 @@
 - pkg:maven/org.pageseeder/pso-psml@0.7.0-beta-7?classifier=sources
 - pkg:maven/org.pageseeder/pso-psml@0.7.0-beta-8?classifier=sources
 - pkg:maven/org.pageseeder/pso-psml@0.7.0-beta-9?classifier=sources
+- pkg:maven/org.pageseeder/pso-psml@1.0.0?classifier=sources

@@ -260,6 +260,8 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-codegenerator@1.5.3.SP1?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-codegenerator@1.5.3.SP2
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-codegenerator@1.5.3.SP2?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-codegenerator@1.5.3.SP3
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-codegenerator@1.5.3.SP3?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-codegenerator@1.5.4.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-codegenerator@1.5.4.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-codegenerator@1.5.5.Final

@@ -80,5 +80,9 @@
 - pkg:maven/org.querqy/querqy-solr@5.4.lucene900.1?classifier=sources
 - pkg:maven/org.querqy/querqy-solr@5.5.lucene811.0
 - pkg:maven/org.querqy/querqy-solr@5.5.lucene811.0?classifier=sources
+- pkg:maven/org.querqy/querqy-solr@5.5.lucene811.1
+- pkg:maven/org.querqy/querqy-solr@5.5.lucene811.1?classifier=sources
 - pkg:maven/org.querqy/querqy-solr@5.5.lucene900.0
 - pkg:maven/org.querqy/querqy-solr@5.5.lucene900.0?classifier=sources
+- pkg:maven/org.querqy/querqy-solr@5.5.lucene900.1
+- pkg:maven/org.querqy/querqy-solr@5.5.lucene900.1?classifier=sources

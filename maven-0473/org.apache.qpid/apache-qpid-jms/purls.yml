@@ -60,5 +60,7 @@
 - pkg:maven/org.apache.qpid/apache-qpid-jms@1.5.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-jms@1.6.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-jms@1.7.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-jms@1.8.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-jms@2.0.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-jms@2.1.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-jms@2.2.0?classifier=src&type=tar.gz

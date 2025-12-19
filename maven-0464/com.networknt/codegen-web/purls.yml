@@ -111,6 +111,8 @@
 - pkg:maven/com.networknt/codegen-web@1.6.42?classifier=sources
 - pkg:maven/com.networknt/codegen-web@1.6.43
 - pkg:maven/com.networknt/codegen-web@1.6.43?classifier=sources
+- pkg:maven/com.networknt/codegen-web@1.6.44
+- pkg:maven/com.networknt/codegen-web@1.6.44?classifier=sources
 - pkg:maven/com.networknt/codegen-web@1.6.4?classifier=sources
 - pkg:maven/com.networknt/codegen-web@1.6.5
 - pkg:maven/com.networknt/codegen-web@1.6.5?classifier=sources
@@ -196,3 +198,5 @@
 - pkg:maven/com.networknt/codegen-web@2.1.3?classifier=sources
 - pkg:maven/com.networknt/codegen-web@2.1.4
 - pkg:maven/com.networknt/codegen-web@2.1.4?classifier=sources
+- pkg:maven/com.networknt/codegen-web@2.1.5
+- pkg:maven/com.networknt/codegen-web@2.1.5?classifier=sources

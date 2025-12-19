@@ -6,3 +6,5 @@
 - pkg:maven/org.openl.rules/org.openl.security.oauth2@5.26.2?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.security.oauth2@5.26.3
 - pkg:maven/org.openl.rules/org.openl.security.oauth2@5.26.3?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.security.oauth2@5.26.4
+- pkg:maven/org.openl.rules/org.openl.security.oauth2@5.26.4?classifier=sources

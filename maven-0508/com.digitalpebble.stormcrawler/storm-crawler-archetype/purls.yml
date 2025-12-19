@@ -37,3 +37,4 @@
 - pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-archetype@2.4
 - pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-archetype@2.5
 - pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-archetype@2.6
+- pkg:maven/com.digitalpebble.stormcrawler/storm-crawler-archetype@2.7

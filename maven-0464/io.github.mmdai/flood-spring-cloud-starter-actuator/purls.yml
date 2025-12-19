@@ -1,2 +1,6 @@
 - pkg:maven/io.github.mmdai/flood-spring-cloud-starter-actuator@2.7.5.0
 - pkg:maven/io.github.mmdai/flood-spring-cloud-starter-actuator@2.7.5.0?classifier=sources
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-actuator@2.7.6.0
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-actuator@2.7.6.0?classifier=sources
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-actuator@2.7.6.1
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-actuator@2.7.6.1?classifier=sources

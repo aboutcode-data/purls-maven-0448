@@ -1,0 +1,3 @@
+- pkg:maven/com.tianscar.awt.x11/colorful-xcursor@1.0.1?classifier=sources
+- pkg:maven/com.tianscar.awt.x11/colorful-xcursor@1.1.0?classifier=sources
+- pkg:maven/com.tianscar.awt.x11/colorful-xcursor@1.1.1?classifier=sources

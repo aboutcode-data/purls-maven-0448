@@ -13,3 +13,4 @@
 - pkg:maven/com.meilisearch.sdk/meilisearch-java@0.7.0?classifier=sources
 - pkg:maven/com.meilisearch.sdk/meilisearch-java@0.7.2?classifier=sources
 - pkg:maven/com.meilisearch.sdk/meilisearch-java@0.8.0?classifier=sources
+- pkg:maven/com.meilisearch.sdk/meilisearch-java@0.9.0?classifier=sources

@@ -408,3 +408,5 @@
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.9?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.9.0
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.9.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.9.1
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.9.1?classifier=sources

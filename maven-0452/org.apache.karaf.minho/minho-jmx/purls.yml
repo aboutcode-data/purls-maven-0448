@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.minho/minho-jmx@0.1
+- pkg:maven/org.apache.karaf.minho/minho-jmx@0.1?classifier=sources

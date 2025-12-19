@@ -2,3 +2,5 @@
 - pkg:maven/de.julielab/jcore-version-normalizer@1.0.0?classifier=sources
 - pkg:maven/de.julielab/jcore-version-normalizer@1.1.0
 - pkg:maven/de.julielab/jcore-version-normalizer@1.1.0?classifier=sources
+- pkg:maven/de.julielab/jcore-version-normalizer@1.2.0
+- pkg:maven/de.julielab/jcore-version-normalizer@1.2.0?classifier=sources

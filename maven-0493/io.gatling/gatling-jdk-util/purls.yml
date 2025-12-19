@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/gatling-jdk-util@3.9.0
+- pkg:maven/io.gatling/gatling-jdk-util@3.9.0?classifier=sources

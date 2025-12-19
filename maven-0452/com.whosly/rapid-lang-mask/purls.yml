@@ -2,3 +2,7 @@
 - pkg:maven/com.whosly/rapid-lang-mask@4.0.0-RELEASE?classifier=sources
 - pkg:maven/com.whosly/rapid-lang-mask@4.1.0
 - pkg:maven/com.whosly/rapid-lang-mask@4.1.0?classifier=sources
+- pkg:maven/com.whosly/rapid-lang-mask@4.1.1
+- pkg:maven/com.whosly/rapid-lang-mask@4.1.1-snapshots
+- pkg:maven/com.whosly/rapid-lang-mask@4.1.1-snapshots?classifier=sources
+- pkg:maven/com.whosly/rapid-lang-mask@4.1.1?classifier=sources

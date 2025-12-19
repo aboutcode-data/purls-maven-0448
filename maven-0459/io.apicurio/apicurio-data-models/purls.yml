@@ -96,3 +96,5 @@
 - pkg:maven/io.apicurio/apicurio-data-models@1.1.8?classifier=sources
 - pkg:maven/io.apicurio/apicurio-data-models@1.1.9
 - pkg:maven/io.apicurio/apicurio-data-models@1.1.9?classifier=sources
+- pkg:maven/io.apicurio/apicurio-data-models@2.0.0.RC1
+- pkg:maven/io.apicurio/apicurio-data-models@2.0.0.RC1?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/unpoly@2.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/unpoly@2.6.1
 - pkg:maven/org.webjars.npm/unpoly@2.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/unpoly@2.7.1
+- pkg:maven/org.webjars.npm/unpoly@2.7.1?classifier=sources

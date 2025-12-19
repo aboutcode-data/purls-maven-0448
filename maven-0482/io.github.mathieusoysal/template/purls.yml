@@ -1,0 +1,8 @@
+- pkg:maven/io.github.mathieusoysal/template@15
+- pkg:maven/io.github.mathieusoysal/template@15?classifier=sources
+- pkg:maven/io.github.mathieusoysal/template@7
+- pkg:maven/io.github.mathieusoysal/template@7?classifier=sources
+- pkg:maven/io.github.mathieusoysal/template@8
+- pkg:maven/io.github.mathieusoysal/template@8?classifier=sources
+- pkg:maven/io.github.mathieusoysal/template@9
+- pkg:maven/io.github.mathieusoysal/template@9?classifier=sources

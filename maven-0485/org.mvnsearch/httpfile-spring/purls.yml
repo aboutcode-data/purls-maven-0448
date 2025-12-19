@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnsearch/httpfile-spring@1.0.0-RC3
 - pkg:maven/org.mvnsearch/httpfile-spring@1.0.0-RC3?classifier=sources
 - pkg:maven/org.mvnsearch/httpfile-spring@1.0.0?classifier=sources
+- pkg:maven/org.mvnsearch/httpfile-spring@1.0.1
+- pkg:maven/org.mvnsearch/httpfile-spring@1.0.1?classifier=sources

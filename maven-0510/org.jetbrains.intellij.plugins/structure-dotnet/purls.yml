@@ -73,3 +73,4 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-dotnet@3.243?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-dotnet@3.245?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-dotnet@3.246?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-dotnet@3.247?classifier=sources

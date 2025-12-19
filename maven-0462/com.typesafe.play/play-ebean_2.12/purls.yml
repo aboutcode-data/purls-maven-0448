@@ -48,6 +48,7 @@
 - pkg:maven/com.typesafe.play/play-ebean_2.12@5.0.2?classifier=sources
 - pkg:maven/com.typesafe.play/play-ebean_2.12@6.0.0
 - pkg:maven/com.typesafe.play/play-ebean_2.12@6.0.0?classifier=sources
+- pkg:maven/com.typesafe.play/play-ebean_2.12@6.2.0
 - pkg:maven/com.typesafe.play/play-ebean_2.12@6.2.0-RC3
 - pkg:maven/com.typesafe.play/play-ebean_2.12@6.2.0-RC3?classifier=sources
 - pkg:maven/com.typesafe.play/play-ebean_2.12@6.2.0-RC4
@@ -58,3 +59,4 @@
 - pkg:maven/com.typesafe.play/play-ebean_2.12@6.2.0-RC6?classifier=sources
 - pkg:maven/com.typesafe.play/play-ebean_2.12@6.2.0-RC7
 - pkg:maven/com.typesafe.play/play-ebean_2.12@6.2.0-RC7?classifier=sources
+- pkg:maven/com.typesafe.play/play-ebean_2.12@6.2.0?classifier=sources

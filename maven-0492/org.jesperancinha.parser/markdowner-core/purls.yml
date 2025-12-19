@@ -26,3 +26,5 @@
 - pkg:maven/org.jesperancinha.parser/markdowner-core@3.0.6?classifier=sources
 - pkg:maven/org.jesperancinha.parser/markdowner-core@3.0.7
 - pkg:maven/org.jesperancinha.parser/markdowner-core@3.0.7?classifier=sources
+- pkg:maven/org.jesperancinha.parser/markdowner-core@4.0.0
+- pkg:maven/org.jesperancinha.parser/markdowner-core@4.0.0?classifier=sources

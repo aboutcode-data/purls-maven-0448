@@ -1,1 +1,2 @@
 - pkg:maven/org.glassfish.main.common/amx-jakartaee@7.0.0-M10?classifier=sources
+- pkg:maven/org.glassfish.main.common/amx-jakartaee@7.0.0?classifier=sources

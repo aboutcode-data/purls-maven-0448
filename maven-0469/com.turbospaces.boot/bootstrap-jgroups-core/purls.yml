@@ -134,3 +134,11 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.85?classifier=sources
 - pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.86
 - pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.86?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.92
+- pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.92?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.93
+- pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.93?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.94
+- pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.94?classifier=sources
+- pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.95
+- pkg:maven/com.turbospaces.boot/bootstrap-jgroups-core@1.0.95?classifier=sources

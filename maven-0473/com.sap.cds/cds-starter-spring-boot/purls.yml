@@ -46,3 +46,5 @@
 - pkg:maven/com.sap.cds/cds-starter-spring-boot@1.28.1
 - pkg:maven/com.sap.cds/cds-starter-spring-boot@1.29.0
 - pkg:maven/com.sap.cds/cds-starter-spring-boot@1.29.1
+- pkg:maven/com.sap.cds/cds-starter-spring-boot@1.30.0
+- pkg:maven/com.sap.cds/cds-starter-spring-boot@1.30.1

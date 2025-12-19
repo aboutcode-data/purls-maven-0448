@@ -3,3 +3,4 @@
 - pkg:maven/eu.cloudnetservice.cloudnet/simplenametags@4.0.0-RC3?classifier=sources
 - pkg:maven/eu.cloudnetservice.cloudnet/simplenametags@4.0.0-RC4?classifier=sources
 - pkg:maven/eu.cloudnetservice.cloudnet/simplenametags@4.0.0-RC5?classifier=sources
+- pkg:maven/eu.cloudnetservice.cloudnet/simplenametags@4.0.0-RC6?classifier=sources

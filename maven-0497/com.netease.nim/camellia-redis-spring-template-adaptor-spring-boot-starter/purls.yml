@@ -1,0 +1,6 @@
+- pkg:maven/com.netease.nim/camellia-redis-spring-template-adaptor-spring-boot-starter@1.1.10
+- pkg:maven/com.netease.nim/camellia-redis-spring-template-adaptor-spring-boot-starter@1.1.10?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-spring-template-adaptor-spring-boot-starter@1.1.11
+- pkg:maven/com.netease.nim/camellia-redis-spring-template-adaptor-spring-boot-starter@1.1.11?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-spring-template-adaptor-spring-boot-starter@1.1.12
+- pkg:maven/com.netease.nim/camellia-redis-spring-template-adaptor-spring-boot-starter@1.1.12?classifier=sources

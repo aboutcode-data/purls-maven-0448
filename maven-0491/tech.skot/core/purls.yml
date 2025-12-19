@@ -79,5 +79,8 @@
 - pkg:maven/tech.skot/core@1.1.7?classifier=sources
 - pkg:maven/tech.skot/core@1.1.80?classifier=sources
 - pkg:maven/tech.skot/core@1.1.81?classifier=sources
+- pkg:maven/tech.skot/core@1.1.82?classifier=sources
 - pkg:maven/tech.skot/core@1.1.8?classifier=sources
 - pkg:maven/tech.skot/core@1.1.9?classifier=sources
+- pkg:maven/tech.skot/core@1.2.0?classifier=sources
+- pkg:maven/tech.skot/core@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mini-mo/mini-orm@0.0.1
+- pkg:maven/io.github.mini-mo/mini-orm@0.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.ovoenergy/natchez-extras-ce3_2.13@6.2.4
 - pkg:maven/com.ovoenergy/natchez-extras-ce3_2.13@6.2.4?classifier=sources
+- pkg:maven/com.ovoenergy/natchez-extras-ce3_2.13@6.2.5
+- pkg:maven/com.ovoenergy/natchez-extras-ce3_2.13@6.2.5?classifier=sources

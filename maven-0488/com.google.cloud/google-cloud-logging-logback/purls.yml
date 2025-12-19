@@ -199,6 +199,8 @@
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.1-alpha
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.1-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.10-alpha
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.10-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.2-alpha
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.2-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.3-alpha
@@ -207,6 +209,14 @@
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.4-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.5-alpha
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.5-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.6-alpha
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.6-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.7-alpha
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.7-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.8-alpha
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.8-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.9-alpha
+- pkg:maven/com.google.cloud/google-cloud-logging-logback@0.129.9-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.19.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.19.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-logging-logback@0.20.0-alpha

@@ -1,2 +1,4 @@
 - pkg:maven/cloud.pangea/pangea-sdk@1.0.0
 - pkg:maven/cloud.pangea/pangea-sdk@1.0.0?classifier=sources
+- pkg:maven/cloud.pangea/pangea-sdk@1.1.0
+- pkg:maven/cloud.pangea/pangea-sdk@1.1.0?classifier=sources

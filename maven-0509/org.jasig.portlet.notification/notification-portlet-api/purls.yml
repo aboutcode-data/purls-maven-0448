@@ -90,3 +90,5 @@
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-api@4.7.2?classifier=sources
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-api@4.7.3
 - pkg:maven/org.jasig.portlet.notification/notification-portlet-api@4.7.3?classifier=sources
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-api@4.8.0
+- pkg:maven/org.jasig.portlet.notification/notification-portlet-api@4.8.0?classifier=sources

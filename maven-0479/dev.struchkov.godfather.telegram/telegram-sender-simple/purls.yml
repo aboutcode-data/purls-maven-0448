@@ -20,3 +20,13 @@
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.40?classifier=sources
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.41
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.41?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.42
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.42?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.43
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.43?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.44
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.44?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.47
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.47?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.48
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-sender-simple@0.0.48?classifier=sources
