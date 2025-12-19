@@ -12,3 +12,5 @@
 - pkg:maven/org.reactivemongo/reactivemongo-kamon_3@1.1.0-RC7?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-kamon_3@1.1.0-RC8
 - pkg:maven/org.reactivemongo/reactivemongo-kamon_3@1.1.0-RC8?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-kamon_3@1.1.0-RC9
+- pkg:maven/org.reactivemongo/reactivemongo-kamon_3@1.1.0-RC9?classifier=sources

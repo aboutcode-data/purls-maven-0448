@@ -30,3 +30,7 @@
 - pkg:maven/io.zeebe/zeebe-exporter-protobuf@1.2.0?classifier=sources
 - pkg:maven/io.zeebe/zeebe-exporter-protobuf@1.2.1
 - pkg:maven/io.zeebe/zeebe-exporter-protobuf@1.2.1?classifier=sources
+- pkg:maven/io.zeebe/zeebe-exporter-protobuf@1.3.0
+- pkg:maven/io.zeebe/zeebe-exporter-protobuf@1.3.0?classifier=sources
+- pkg:maven/io.zeebe/zeebe-exporter-protobuf@1.4.0-alpha1
+- pkg:maven/io.zeebe/zeebe-exporter-protobuf@1.4.0-alpha1?classifier=sources

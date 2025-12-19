@@ -103,6 +103,10 @@
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.14?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.15
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.15?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.16
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.16?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.17
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.17?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.1?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.2
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.2?classifier=sources
@@ -124,3 +128,7 @@
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.0?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.1
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.1?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.2
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.2?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.3
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.3?classifier=sources

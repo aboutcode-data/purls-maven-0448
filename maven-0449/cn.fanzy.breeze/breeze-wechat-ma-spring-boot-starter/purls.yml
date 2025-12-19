@@ -18,3 +18,7 @@
 - pkg:maven/cn.fanzy.breeze/breeze-wechat-ma-spring-boot-starter@2.1.4?classifier=sources
 - pkg:maven/cn.fanzy.breeze/breeze-wechat-ma-spring-boot-starter@2.1.5
 - pkg:maven/cn.fanzy.breeze/breeze-wechat-ma-spring-boot-starter@2.1.5?classifier=sources
+- pkg:maven/cn.fanzy.breeze/breeze-wechat-ma-spring-boot-starter@2.1.6
+- pkg:maven/cn.fanzy.breeze/breeze-wechat-ma-spring-boot-starter@2.1.6?classifier=sources
+- pkg:maven/cn.fanzy.breeze/breeze-wechat-ma-spring-boot-starter@2.1.7
+- pkg:maven/cn.fanzy.breeze/breeze-wechat-ma-spring-boot-starter@2.1.7?classifier=sources

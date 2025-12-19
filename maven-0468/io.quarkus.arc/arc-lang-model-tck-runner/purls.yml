@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus.arc/arc-lang-model-tck-runner@3.0.0.Alpha6
+- pkg:maven/io.quarkus.arc/arc-lang-model-tck-runner@3.0.0.Beta1

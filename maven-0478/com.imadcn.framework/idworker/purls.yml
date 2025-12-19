@@ -26,5 +26,7 @@
 - pkg:maven/com.imadcn.framework/idworker@1.4.0?classifier=sources
 - pkg:maven/com.imadcn.framework/idworker@1.5.0
 - pkg:maven/com.imadcn.framework/idworker@1.5.0?classifier=sources
+- pkg:maven/com.imadcn.framework/idworker@1.6.0
 - pkg:maven/com.imadcn.framework/idworker@1.6.0.RC
 - pkg:maven/com.imadcn.framework/idworker@1.6.0.RC?classifier=sources
+- pkg:maven/com.imadcn.framework/idworker@1.6.0?classifier=sources

@@ -68,3 +68,9 @@
 - pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.41.1-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.43.0-table-api-public
 - pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.43.0-table-api-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.43.1-public
+- pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.43.1-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.43.2-public
+- pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.43.2-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.43.3-public
+- pkg:maven/com.aliyun.odps/odps-mapred-bridge@0.43.3-public?classifier=sources

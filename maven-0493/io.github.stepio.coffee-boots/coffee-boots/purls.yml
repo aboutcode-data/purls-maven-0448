@@ -16,3 +16,7 @@
 - pkg:maven/io.github.stepio.coffee-boots/coffee-boots@2.2.0?classifier=sources
 - pkg:maven/io.github.stepio.coffee-boots/coffee-boots@3.0.0
 - pkg:maven/io.github.stepio.coffee-boots/coffee-boots@3.0.0?classifier=sources
+- pkg:maven/io.github.stepio.coffee-boots/coffee-boots@3.1.0
+- pkg:maven/io.github.stepio.coffee-boots/coffee-boots@3.1.0?classifier=sources
+- pkg:maven/io.github.stepio.coffee-boots/coffee-boots@4.0.0
+- pkg:maven/io.github.stepio.coffee-boots/coffee-boots@4.0.0?classifier=sources

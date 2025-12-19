@@ -164,6 +164,8 @@
 - pkg:maven/com.palantir.tritium/tritium-api@0.6.1?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-api@0.60.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-api@0.61.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-api@0.62.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-api@0.63.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-api@0.7.0
 - pkg:maven/com.palantir.tritium/tritium-api@0.7.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-api@0.8.0

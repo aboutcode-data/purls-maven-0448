@@ -214,6 +214,14 @@
 - pkg:maven/software.amazon.awscdk/synthetics@1.193.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/synthetics@1.194.0
 - pkg:maven/software.amazon.awscdk/synthetics@1.194.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/synthetics@1.195.0
+- pkg:maven/software.amazon.awscdk/synthetics@1.195.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/synthetics@1.196.0
+- pkg:maven/software.amazon.awscdk/synthetics@1.196.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/synthetics@1.197.0
+- pkg:maven/software.amazon.awscdk/synthetics@1.197.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/synthetics@1.198.0
+- pkg:maven/software.amazon.awscdk/synthetics@1.198.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/synthetics@1.37.0
 - pkg:maven/software.amazon.awscdk/synthetics@1.37.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/synthetics@1.38.0

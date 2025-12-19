@@ -1,0 +1,6 @@
+- pkg:maven/io.github.three-side/tool-all@1.0.0
+- pkg:maven/io.github.three-side/tool-all@1.0.0?classifier=sources
+- pkg:maven/io.github.three-side/tool-all@1.1.0
+- pkg:maven/io.github.three-side/tool-all@1.1.0?classifier=sources
+- pkg:maven/io.github.three-side/tool-all@1.2.0
+- pkg:maven/io.github.three-side/tool-all@1.2.0?classifier=sources

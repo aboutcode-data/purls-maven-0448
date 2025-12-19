@@ -21,6 +21,7 @@
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-aggregator@2.5.3?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-aggregator@2.5.4?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-aggregator@2.5.5?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.extension/arquillian-drone-aggregator@2.5.6?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-aggregator@3.0.0-alpha.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-aggregator@3.0.0-alpha.2?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-aggregator@3.0.0-alpha.3?classifier=source-release&type=zip

@@ -40,3 +40,9 @@
 - pkg:maven/io.trino/trino-hadoop-toolkit@406?classifier=sources
 - pkg:maven/io.trino/trino-hadoop-toolkit@407
 - pkg:maven/io.trino/trino-hadoop-toolkit@407?classifier=sources
+- pkg:maven/io.trino/trino-hadoop-toolkit@408
+- pkg:maven/io.trino/trino-hadoop-toolkit@408?classifier=sources
+- pkg:maven/io.trino/trino-hadoop-toolkit@409
+- pkg:maven/io.trino/trino-hadoop-toolkit@409?classifier=sources
+- pkg:maven/io.trino/trino-hadoop-toolkit@410
+- pkg:maven/io.trino/trino-hadoop-toolkit@410?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@2.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@2.1.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@2.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@2.10.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@2.10.0?classifier=src&type=zip
 - pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@2.2.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@2.2.0?classifier=src&type=zip
 - pkg:maven/org.apache.karaf.decanter/apache-karaf-decanter@2.3.0?classifier=src&type=tar.gz

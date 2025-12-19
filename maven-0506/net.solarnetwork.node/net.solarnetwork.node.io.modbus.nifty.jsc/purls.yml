@@ -1,2 +1,6 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.modbus.nifty.jsc@1.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.modbus.nifty.jsc@1.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.modbus.nifty.jsc@2.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.modbus.nifty.jsc@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.modbus.nifty.jsc@2.1.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.modbus.nifty.jsc@2.1.0?classifier=sources

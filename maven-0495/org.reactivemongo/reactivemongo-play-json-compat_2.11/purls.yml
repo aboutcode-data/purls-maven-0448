@@ -222,6 +222,8 @@
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play25-RC7?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play25-RC8
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play25-RC8?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play25-RC9
+- pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play25-RC9?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play26-RC2
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play26-RC2?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play26-RC3
@@ -236,6 +238,8 @@
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play26-RC7?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play26-RC8
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play26-RC8?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play26-RC9
+- pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play26-RC9?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play27-RC2
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play27-RC2?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play27-RC3
@@ -250,3 +254,5 @@
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play27-RC7?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play27-RC8
 - pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play27-RC8?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play27-RC9
+- pkg:maven/org.reactivemongo/reactivemongo-play-json-compat_2.11@1.1.0-play27-RC9?classifier=sources

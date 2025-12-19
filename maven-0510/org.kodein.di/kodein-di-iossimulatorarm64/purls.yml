@@ -10,4 +10,5 @@
 - pkg:maven/org.kodein.di/kodein-di-iossimulatorarm64@7.16.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-iossimulatorarm64@7.17.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-iossimulatorarm64@7.18.0?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di-iossimulatorarm64@7.19.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-iossimulatorarm64@7.9.0?classifier=sources

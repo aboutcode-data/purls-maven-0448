@@ -56,6 +56,8 @@
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-e1e760e6?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-f10d17ac
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-f10d17ac?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-fd174732
+- pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-fd174732?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0-cb3ffec
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0-cb3ffec?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.1

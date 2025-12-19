@@ -56,3 +56,5 @@
 - pkg:maven/ch.exense.step/step-junit@3.20.2?classifier=sources
 - pkg:maven/ch.exense.step/step-junit@3.21.0
 - pkg:maven/ch.exense.step/step-junit@3.21.0?classifier=sources
+- pkg:maven/ch.exense.step/step-junit@3.21.1
+- pkg:maven/ch.exense.step/step-junit@3.21.1?classifier=sources

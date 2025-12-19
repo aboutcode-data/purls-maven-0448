@@ -46,6 +46,10 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.31?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.32
 - pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.32?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.33
+- pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.33?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.34
+- pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.34?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.4
 - pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.4?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cbn@1.0.5

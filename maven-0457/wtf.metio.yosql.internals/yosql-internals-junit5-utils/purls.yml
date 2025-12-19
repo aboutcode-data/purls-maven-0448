@@ -32,3 +32,5 @@
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2023.2.22?classifier=sources
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2023.2.8
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2023.2.8?classifier=sources
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2023.3.8
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2023.3.8?classifier=sources

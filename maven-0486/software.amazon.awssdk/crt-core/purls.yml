@@ -1,0 +1,10 @@
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.28
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.28?classifier=sources
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.29
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.29?classifier=sources
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.30
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.30?classifier=sources
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.31
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.31?classifier=sources
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.32
+- pkg:maven/software.amazon.awssdk/crt-core@2.20.32?classifier=sources

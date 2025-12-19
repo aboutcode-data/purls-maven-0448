@@ -7,3 +7,4 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-communication@1.1.0-beta.2
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-communication@1.1.0-beta.2?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-communication@1.1.0-beta.3?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-communication@1.1.0-beta.4?classifier=sources

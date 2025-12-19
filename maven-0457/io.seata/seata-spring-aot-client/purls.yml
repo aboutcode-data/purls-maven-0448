@@ -1,0 +1,2 @@
+- pkg:maven/io.seata/seata-spring-aot-client@1.7.0-native-rc2
+- pkg:maven/io.seata/seata-spring-aot-client@1.7.0-native-rc2?classifier=sources

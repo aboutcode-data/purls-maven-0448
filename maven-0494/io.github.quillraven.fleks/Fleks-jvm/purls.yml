@@ -4,3 +4,4 @@
 - pkg:maven/io.github.quillraven.fleks/Fleks-jvm@2.0?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-jvm@2.1?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-jvm@2.2?classifier=sources
+- pkg:maven/io.github.quillraven.fleks/Fleks-jvm@2.3?classifier=sources

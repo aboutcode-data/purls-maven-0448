@@ -8,3 +8,9 @@
 - pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.4.0?classifier=sources
 - pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.4.1
 - pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.4.1?classifier=sources
+- pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.5
+- pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.5.0
+- pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.5.0?classifier=sources
+- pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.5.1
+- pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.5.1?classifier=sources
+- pkg:maven/org.springframework.experimental/spring-modulith-events-mongodb@0.5?classifier=sources

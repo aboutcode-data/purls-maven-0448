@@ -71,3 +71,4 @@
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-client-android@5.8.3?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-client-android@5.8.4?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-client-android@6.0.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-client-android@6.0.1?classifier=sources

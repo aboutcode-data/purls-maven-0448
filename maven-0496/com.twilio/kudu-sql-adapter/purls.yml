@@ -106,3 +106,5 @@
 - pkg:maven/com.twilio/kudu-sql-adapter@1.0.74?classifier=sources
 - pkg:maven/com.twilio/kudu-sql-adapter@1.0.75
 - pkg:maven/com.twilio/kudu-sql-adapter@1.0.75?classifier=sources
+- pkg:maven/com.twilio/kudu-sql-adapter@1.0.76
+- pkg:maven/com.twilio/kudu-sql-adapter@1.0.76?classifier=sources

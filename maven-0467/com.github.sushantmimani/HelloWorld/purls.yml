@@ -29,3 +29,5 @@
 - pkg:maven/com.github.sushantmimani/HelloWorld@0.6.6
 - pkg:maven/com.github.sushantmimani/HelloWorld@0.6.7
 - pkg:maven/com.github.sushantmimani/HelloWorld@0.6.8
+- pkg:maven/com.github.sushantmimani/HelloWorld@0.6.9
+- pkg:maven/com.github.sushantmimani/HelloWorld@0.7.0

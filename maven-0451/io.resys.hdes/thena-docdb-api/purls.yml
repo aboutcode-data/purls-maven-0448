@@ -32,3 +32,9 @@
 - pkg:maven/io.resys.hdes/thena-docdb-api@1.1.23?classifier=sources
 - pkg:maven/io.resys.hdes/thena-docdb-api@1.1.24
 - pkg:maven/io.resys.hdes/thena-docdb-api@1.1.24?classifier=sources
+- pkg:maven/io.resys.hdes/thena-docdb-api@1.1.25
+- pkg:maven/io.resys.hdes/thena-docdb-api@1.1.25?classifier=sources
+- pkg:maven/io.resys.hdes/thena-docdb-api@1.1.26
+- pkg:maven/io.resys.hdes/thena-docdb-api@1.1.26?classifier=sources
+- pkg:maven/io.resys.hdes/thena-docdb-api@1.1.27
+- pkg:maven/io.resys.hdes/thena-docdb-api@1.1.27?classifier=sources

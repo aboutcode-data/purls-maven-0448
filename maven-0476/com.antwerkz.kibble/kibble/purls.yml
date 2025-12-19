@@ -22,6 +22,8 @@
 - pkg:maven/com.antwerkz.kibble/kibble@0.20.0?classifier=sources
 - pkg:maven/com.antwerkz.kibble/kibble@0.21.0
 - pkg:maven/com.antwerkz.kibble/kibble@0.21.0?classifier=sources
+- pkg:maven/com.antwerkz.kibble/kibble@0.22.0
+- pkg:maven/com.antwerkz.kibble/kibble@0.22.0?classifier=sources
 - pkg:maven/com.antwerkz.kibble/kibble@0.2?classifier=sources
 - pkg:maven/com.antwerkz.kibble/kibble@0.3
 - pkg:maven/com.antwerkz.kibble/kibble@0.3?classifier=sources

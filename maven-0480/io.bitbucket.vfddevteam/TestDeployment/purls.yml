@@ -1,0 +1,2 @@
+- pkg:maven/io.bitbucket.vfddevteam/TestDeployment@1.0.1
+- pkg:maven/io.bitbucket.vfddevteam/TestDeployment@1.0.1?classifier=sources

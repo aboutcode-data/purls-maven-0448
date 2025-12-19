@@ -4,3 +4,6 @@
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk11@0.0.33?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk11@0.0.34?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk11@0.0.35?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk11@0.0.36?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk11@0.0.37?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk11@0.0.38?classifier=sources

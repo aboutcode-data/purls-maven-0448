@@ -1,0 +1,2 @@
+- pkg:maven/top.rwocj/kaptcha@2.3.2-jakarta
+- pkg:maven/top.rwocj/kaptcha@2.3.2-jakarta?classifier=sources

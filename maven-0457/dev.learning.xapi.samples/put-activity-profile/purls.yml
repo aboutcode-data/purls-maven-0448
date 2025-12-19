@@ -1,0 +1,6 @@
+- pkg:maven/dev.learning.xapi.samples/put-activity-profile@1.0.7
+- pkg:maven/dev.learning.xapi.samples/put-activity-profile@1.0.7?classifier=sources
+- pkg:maven/dev.learning.xapi.samples/put-activity-profile@1.0.8
+- pkg:maven/dev.learning.xapi.samples/put-activity-profile@1.0.8?classifier=sources
+- pkg:maven/dev.learning.xapi.samples/put-activity-profile@1.1.0
+- pkg:maven/dev.learning.xapi.samples/put-activity-profile@1.1.0?classifier=sources

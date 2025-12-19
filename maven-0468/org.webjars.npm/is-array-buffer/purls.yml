@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/is-array-buffer@3.0.2
+- pkg:maven/org.webjars.npm/is-array-buffer@3.0.2?classifier=sources

@@ -7,4 +7,10 @@
 - pkg:maven/com.databend/databend-client@0.0.4
 - pkg:maven/com.databend/databend-client@0.0.4?classifier=sources
 - pkg:maven/com.databend/databend-client@0.0.5
+- pkg:maven/com.databend/databend-client@0.0.5-rc1
+- pkg:maven/com.databend/databend-client@0.0.5-rc1?classifier=sources
+- pkg:maven/com.databend/databend-client@0.0.5-rc3
+- pkg:maven/com.databend/databend-client@0.0.5-rc3?classifier=sources
+- pkg:maven/com.databend/databend-client@0.0.5-rc5
+- pkg:maven/com.databend/databend-client@0.0.5-rc5?classifier=sources
 - pkg:maven/com.databend/databend-client@0.0.5?classifier=sources

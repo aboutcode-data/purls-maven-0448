@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/swc__helpers@0.2.14?classifier=sources
 - pkg:maven/org.webjars.npm/swc__helpers@0.3.16
 - pkg:maven/org.webjars.npm/swc__helpers@0.3.16?classifier=sources
+- pkg:maven/org.webjars.npm/swc__helpers@0.3.17
+- pkg:maven/org.webjars.npm/swc__helpers@0.3.17?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tools1000.fx1000/fx1000@0.0.1
+- pkg:maven/io.github.tools1000.fx1000/fx1000@0.0.1?classifier=sources

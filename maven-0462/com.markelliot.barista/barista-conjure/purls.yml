@@ -26,6 +26,10 @@
 - pkg:maven/com.markelliot.barista/barista-conjure@0.35.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.36.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.37.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-conjure@0.39.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-conjure@0.40.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-conjure@0.41.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-conjure@0.42.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.5.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.5.1?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.5.2?classifier=sources

@@ -1,5 +1,13 @@
 - pkg:maven/de.team33.patterns/production-01@1.1.0
 - pkg:maven/de.team33.patterns/production-01@1.1.0?classifier=sources
+- pkg:maven/de.team33.patterns/production-01@1.10.0
+- pkg:maven/de.team33.patterns/production-01@1.10.0?classifier=sources
+- pkg:maven/de.team33.patterns/production-01@1.10.1
+- pkg:maven/de.team33.patterns/production-01@1.10.1?classifier=sources
+- pkg:maven/de.team33.patterns/production-01@1.11.0
+- pkg:maven/de.team33.patterns/production-01@1.11.0?classifier=sources
+- pkg:maven/de.team33.patterns/production-01@1.11.1
+- pkg:maven/de.team33.patterns/production-01@1.11.1?classifier=sources
 - pkg:maven/de.team33.patterns/production-01@1.2.0
 - pkg:maven/de.team33.patterns/production-01@1.2.0?classifier=sources
 - pkg:maven/de.team33.patterns/production-01@1.2.1
@@ -22,3 +30,5 @@
 - pkg:maven/de.team33.patterns/production-01@1.7.0?classifier=sources
 - pkg:maven/de.team33.patterns/production-01@1.8.0
 - pkg:maven/de.team33.patterns/production-01@1.8.0?classifier=sources
+- pkg:maven/de.team33.patterns/production-01@1.9.0
+- pkg:maven/de.team33.patterns/production-01@1.9.0?classifier=sources

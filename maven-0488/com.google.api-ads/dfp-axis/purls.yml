@@ -250,6 +250,8 @@
 - pkg:maven/com.google.api-ads/dfp-axis@4.2.0?classifier=sources
 - pkg:maven/com.google.api-ads/dfp-axis@4.20.0
 - pkg:maven/com.google.api-ads/dfp-axis@4.20.0?classifier=sources
+- pkg:maven/com.google.api-ads/dfp-axis@4.21.0
+- pkg:maven/com.google.api-ads/dfp-axis@4.21.0?classifier=sources
 - pkg:maven/com.google.api-ads/dfp-axis@4.3.0
 - pkg:maven/com.google.api-ads/dfp-axis@4.3.0?classifier=sources
 - pkg:maven/com.google.api-ads/dfp-axis@4.4.0
@@ -266,3 +268,5 @@
 - pkg:maven/com.google.api-ads/dfp-axis@4.9.0?classifier=sources
 - pkg:maven/com.google.api-ads/dfp-axis@4.9.1
 - pkg:maven/com.google.api-ads/dfp-axis@4.9.1?classifier=sources
+- pkg:maven/com.google.api-ads/dfp-axis@5.0.0
+- pkg:maven/com.google.api-ads/dfp-axis@5.0.0?classifier=sources

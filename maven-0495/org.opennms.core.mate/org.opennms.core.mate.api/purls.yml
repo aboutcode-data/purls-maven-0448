@@ -2,3 +2,5 @@
 - pkg:maven/org.opennms.core.mate/org.opennms.core.mate.api@31.0.3?classifier=sources
 - pkg:maven/org.opennms.core.mate/org.opennms.core.mate.api@31.0.4
 - pkg:maven/org.opennms.core.mate/org.opennms.core.mate.api@31.0.4?classifier=sources
+- pkg:maven/org.opennms.core.mate/org.opennms.core.mate.api@31.0.5
+- pkg:maven/org.opennms.core.mate/org.opennms.core.mate.api@31.0.5?classifier=sources

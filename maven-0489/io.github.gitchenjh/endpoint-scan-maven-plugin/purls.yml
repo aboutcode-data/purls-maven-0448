@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gitchenjh/endpoint-scan-maven-plugin@0.1.0-ALPHA
+- pkg:maven/io.github.gitchenjh/endpoint-scan-maven-plugin@0.1.0-ALPHA?classifier=sources

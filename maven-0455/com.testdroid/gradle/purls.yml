@@ -45,4 +45,5 @@
 - pkg:maven/com.testdroid/gradle@2.82.0
 - pkg:maven/com.testdroid/gradle@2.82.0?classifier=sources
 - pkg:maven/com.testdroid/gradle@3.0?classifier=sources
+- pkg:maven/com.testdroid/gradle@3.13?classifier=sources
 - pkg:maven/com.testdroid/gradle@3.1?classifier=sources

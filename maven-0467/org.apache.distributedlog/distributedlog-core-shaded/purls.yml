@@ -34,6 +34,8 @@
 - pkg:maven/org.apache.distributedlog/distributedlog-core-shaded@4.15.2?classifier=sources
 - pkg:maven/org.apache.distributedlog/distributedlog-core-shaded@4.15.3
 - pkg:maven/org.apache.distributedlog/distributedlog-core-shaded@4.15.3?classifier=sources
+- pkg:maven/org.apache.distributedlog/distributedlog-core-shaded@4.15.4
+- pkg:maven/org.apache.distributedlog/distributedlog-core-shaded@4.15.4?classifier=sources
 - pkg:maven/org.apache.distributedlog/distributedlog-core-shaded@4.7.0
 - pkg:maven/org.apache.distributedlog/distributedlog-core-shaded@4.7.0?classifier=sources
 - pkg:maven/org.apache.distributedlog/distributedlog-core-shaded@4.7.1

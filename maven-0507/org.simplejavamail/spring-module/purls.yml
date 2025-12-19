@@ -116,3 +116,5 @@
 - pkg:maven/org.simplejavamail/spring-module@7.9.0?classifier=sources
 - pkg:maven/org.simplejavamail/spring-module@7.9.1
 - pkg:maven/org.simplejavamail/spring-module@7.9.1?classifier=sources
+- pkg:maven/org.simplejavamail/spring-module@8.0.0
+- pkg:maven/org.simplejavamail/spring-module@8.0.0?classifier=sources

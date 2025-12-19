@@ -1,1 +1,2 @@
 - pkg:maven/at.asitplus/kmmresult-macosarm64@1.4.0?classifier=sources
+- pkg:maven/at.asitplus/kmmresult-macosarm64@1.4.1?classifier=sources

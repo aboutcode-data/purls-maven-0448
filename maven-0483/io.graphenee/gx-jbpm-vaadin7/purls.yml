@@ -1,0 +1,2 @@
+- pkg:maven/io.graphenee/gx-jbpm-vaadin7@3.6.1
+- pkg:maven/io.graphenee/gx-jbpm-vaadin7@3.6.1?classifier=sources

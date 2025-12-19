@@ -2,3 +2,5 @@
 - pkg:maven/app.sdkgen/client@0.2.6?classifier=sources
 - pkg:maven/app.sdkgen/client@0.2.8
 - pkg:maven/app.sdkgen/client@0.2.8?classifier=sources
+- pkg:maven/app.sdkgen/client@1.0.0
+- pkg:maven/app.sdkgen/client@1.0.0?classifier=sources

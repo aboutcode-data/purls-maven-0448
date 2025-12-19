@@ -17,3 +17,4 @@
 - pkg:maven/org.apache.beam/beam-runners-flink-1.12-job-server@2.43.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-flink-1.12-job-server@2.44.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-flink-1.12-job-server@2.45.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.12-job-server@2.46.0?classifier=sources

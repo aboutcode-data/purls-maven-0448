@@ -41,6 +41,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.21
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.22
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@1.0.3
@@ -170,6 +173,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.40
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.41
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.42
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.42?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.browser.support@2.0.5

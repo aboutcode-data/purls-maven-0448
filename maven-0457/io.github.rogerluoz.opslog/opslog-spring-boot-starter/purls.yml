@@ -1,0 +1,4 @@
+- pkg:maven/io.github.rogerluoz.opslog/opslog-spring-boot-starter@0.0.2
+- pkg:maven/io.github.rogerluoz.opslog/opslog-spring-boot-starter@0.0.2?classifier=sources
+- pkg:maven/io.github.rogerluoz.opslog/opslog-spring-boot-starter@0.0.3
+- pkg:maven/io.github.rogerluoz.opslog/opslog-spring-boot-starter@0.0.3?classifier=sources

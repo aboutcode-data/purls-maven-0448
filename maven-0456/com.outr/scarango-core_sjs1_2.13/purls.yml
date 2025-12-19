@@ -78,3 +78,5 @@
 - pkg:maven/com.outr/scarango-core_sjs1_2.13@3.8.3?classifier=sources
 - pkg:maven/com.outr/scarango-core_sjs1_2.13@3.8.4
 - pkg:maven/com.outr/scarango-core_sjs1_2.13@3.8.4?classifier=sources
+- pkg:maven/com.outr/scarango-core_sjs1_2.13@3.8.5
+- pkg:maven/com.outr/scarango-core_sjs1_2.13@3.8.5?classifier=sources

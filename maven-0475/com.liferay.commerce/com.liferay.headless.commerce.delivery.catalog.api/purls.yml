@@ -121,6 +121,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.2.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.2.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.3.0
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.3.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.4.0
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.4.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@16.4.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.api@2.0.0?classifier=sources-commercial

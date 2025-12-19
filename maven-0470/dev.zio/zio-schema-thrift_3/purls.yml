@@ -18,3 +18,4 @@
 - pkg:maven/dev.zio/zio-schema-thrift_3@0.4.7?classifier=sources
 - pkg:maven/dev.zio/zio-schema-thrift_3@0.4.8
 - pkg:maven/dev.zio/zio-schema-thrift_3@0.4.8?classifier=sources
+- pkg:maven/dev.zio/zio-schema-thrift_3@0.4.9

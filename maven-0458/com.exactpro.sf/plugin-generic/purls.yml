@@ -44,4 +44,5 @@
 - pkg:maven/com.exactpro.sf/plugin-generic@3.3.49?classifier=sources
 - pkg:maven/com.exactpro.sf/plugin-generic@3.3.51?classifier=sources
 - pkg:maven/com.exactpro.sf/plugin-generic@3.3.54?classifier=sources
+- pkg:maven/com.exactpro.sf/plugin-generic@3.3.77?classifier=sources
 - pkg:maven/com.exactpro.sf/plugin-generic@3.3.7?classifier=sources

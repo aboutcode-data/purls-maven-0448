@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-projectapi@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-projectapi@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-projectapi@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-projectapi@RELEASE170?classifier=sources

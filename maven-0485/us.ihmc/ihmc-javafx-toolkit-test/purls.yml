@@ -5,3 +5,6 @@
 - pkg:maven/us.ihmc/ihmc-javafx-toolkit-test@17-0.21.1?classifier=sources
 - pkg:maven/us.ihmc/ihmc-javafx-toolkit-test@17-0.21.2?classifier=sources
 - pkg:maven/us.ihmc/ihmc-javafx-toolkit-test@17-0.21.3?classifier=sources
+- pkg:maven/us.ihmc/ihmc-javafx-toolkit-test@17-0.21.4?classifier=sources
+- pkg:maven/us.ihmc/ihmc-javafx-toolkit-test@17-0.22.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-javafx-toolkit-test@17-0.22.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.lyloou/component-mq-kafka-delaycheck-support-library@1.0.73
 - pkg:maven/com.lyloou/component-mq-kafka-delaycheck-support-library@1.0.73?classifier=sources
+- pkg:maven/com.lyloou/component-mq-kafka-delaycheck-support-library@1.0.75
+- pkg:maven/com.lyloou/component-mq-kafka-delaycheck-support-library@1.0.75?classifier=sources

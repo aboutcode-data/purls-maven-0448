@@ -258,6 +258,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-authorization-cug@1.5.8?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-authorization-cug@1.5.9
 - pkg:maven/org.apache.jackrabbit/oak-authorization-cug@1.5.9?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-authorization-cug@1.50.0
+- pkg:maven/org.apache.jackrabbit/oak-authorization-cug@1.50.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-authorization-cug@1.6.0
 - pkg:maven/org.apache.jackrabbit/oak-authorization-cug@1.6.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-authorization-cug@1.6.1

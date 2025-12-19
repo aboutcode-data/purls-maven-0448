@@ -7,3 +7,4 @@
 - pkg:maven/games.spooky.gdx/gdx-gameservices-gamecenter@1.2.3?classifier=sources
 - pkg:maven/games.spooky.gdx/gdx-gameservices-gamecenter@1.2.4?classifier=sources
 - pkg:maven/games.spooky.gdx/gdx-gameservices-gamecenter@2.0.0?classifier=sources
+- pkg:maven/games.spooky.gdx/gdx-gameservices-gamecenter@3.0.0?classifier=sources

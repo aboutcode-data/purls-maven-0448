@@ -51,6 +51,7 @@
 - pkg:maven/com.google.accompanist/accompanist-insets@0.28.0?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets@0.29.0-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets@0.29.1-alpha?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-insets@0.29.2-rc?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets@0.6.2?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets@0.7.0?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets@0.7.1?classifier=sources

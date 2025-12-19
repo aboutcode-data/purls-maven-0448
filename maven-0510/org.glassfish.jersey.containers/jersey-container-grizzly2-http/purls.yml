@@ -168,6 +168,8 @@
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-grizzly2-http@2.38
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-grizzly2-http@2.38?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-grizzly2-http@2.39
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-grizzly2-http@2.39.1
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-grizzly2-http@2.39.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-grizzly2-http@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-grizzly2-http@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-grizzly2-http@2.4

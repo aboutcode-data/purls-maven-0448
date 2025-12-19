@@ -244,3 +244,5 @@
 - pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20230217073221?classifier=sources
 - pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20230220201221?classifier=sources
 - pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20230221111257?classifier=sources
+- pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20230320211302?classifier=sources
+- pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20230321090423?classifier=sources

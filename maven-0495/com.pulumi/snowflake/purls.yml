@@ -11,3 +11,14 @@
 - pkg:maven/com.pulumi/snowflake@0.16.1-alpha.1676230405%2B2aac06de?classifier=sources
 - pkg:maven/com.pulumi/snowflake@0.16.1-alpha.1676310177%2Bc450eac8?classifier=sources
 - pkg:maven/com.pulumi/snowflake@0.16.1?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.16.2-alpha.1677493176%2B071cd1b7?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.16.2-alpha.1677574022%2B10641a1e?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.16.2?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.17.0?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.17.1-alpha.1677788078%2B26d293f8?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.17.1-alpha.1678210383%2Bd78710ac?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.18.0?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.18.1-alpha.1678994538%2B9262ae65?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.18.1?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.18.2-alpha.1679351951%2B8927fcf6?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.18.2-alpha.1679418770%2Bb0d10406?classifier=sources

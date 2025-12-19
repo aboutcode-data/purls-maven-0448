@@ -48,3 +48,11 @@
 - pkg:maven/software.amazon.awscdk/controltower@1.193.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/controltower@1.194.0
 - pkg:maven/software.amazon.awscdk/controltower@1.194.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/controltower@1.195.0
+- pkg:maven/software.amazon.awscdk/controltower@1.195.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/controltower@1.196.0
+- pkg:maven/software.amazon.awscdk/controltower@1.196.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/controltower@1.197.0
+- pkg:maven/software.amazon.awscdk/controltower@1.197.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/controltower@1.198.0
+- pkg:maven/software.amazon.awscdk/controltower@1.198.0?classifier=sources
