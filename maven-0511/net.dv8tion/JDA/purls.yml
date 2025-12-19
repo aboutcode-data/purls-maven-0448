@@ -10,3 +10,5 @@
 - pkg:maven/net.dv8tion/JDA@1.2.2_139?classifier=sources
 - pkg:maven/net.dv8tion/JDA@5.0.0-alpha.1?classifier=sources
 - pkg:maven/net.dv8tion/JDA@5.0.0-alpha.2?classifier=sources
+- pkg:maven/net.dv8tion/JDA@5.0.0-alpha.3?classifier=sources
+- pkg:maven/net.dv8tion/JDA@5.0.0-alpha.4?classifier=sources

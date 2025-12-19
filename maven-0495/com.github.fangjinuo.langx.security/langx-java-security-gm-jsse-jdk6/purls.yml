@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fangjinuo.langx.security/langx-java-security-gm-jsse-jdk6@4.2.0
+- pkg:maven/com.github.fangjinuo.langx.security/langx-java-security-gm-jsse-jdk6@4.2.0?classifier=sources

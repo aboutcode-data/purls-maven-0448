@@ -30,6 +30,10 @@
 - pkg:maven/com.infobip/infobip-rtc@1.11.1?type=aar
 - pkg:maven/com.infobip/infobip-rtc@1.11.21?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc@1.11.21?type=aar
+- pkg:maven/com.infobip/infobip-rtc@1.11.22?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc@1.11.22?type=aar
+- pkg:maven/com.infobip/infobip-rtc@1.11.23?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc@1.11.23?type=aar
 - pkg:maven/com.infobip/infobip-rtc@1.11.4?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc@1.11.4?type=aar
 - pkg:maven/com.infobip/infobip-rtc@1.11.5?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/com.googlecode.page-component/ui_auto_core@2.5.8?classifier=sources
 - pkg:maven/com.googlecode.page-component/ui_auto_core@2.5.9
 - pkg:maven/com.googlecode.page-component/ui_auto_core@2.5.9?classifier=sources
+- pkg:maven/com.googlecode.page-component/ui_auto_core@2.6.1
+- pkg:maven/com.googlecode.page-component/ui_auto_core@2.6.1?classifier=sources

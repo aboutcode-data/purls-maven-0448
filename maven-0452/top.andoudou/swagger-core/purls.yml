@@ -8,3 +8,5 @@
 - pkg:maven/top.andoudou/swagger-core@1.0.4?classifier=sources
 - pkg:maven/top.andoudou/swagger-core@1.1.0
 - pkg:maven/top.andoudou/swagger-core@1.1.0?classifier=sources
+- pkg:maven/top.andoudou/swagger-core@1.2.0
+- pkg:maven/top.andoudou/swagger-core@1.2.0?classifier=sources

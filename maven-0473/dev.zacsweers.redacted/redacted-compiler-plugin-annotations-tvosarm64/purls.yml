@@ -1,1 +1,4 @@
 - pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin-annotations-tvosarm64@0.10.0-RC1?classifier=sources
+- pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin-annotations-tvosarm64@0.10.0?classifier=sources
+- pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin-annotations-tvosarm64@1.0.0?classifier=sources
+- pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin-annotations-tvosarm64@1.0.1?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.shopify.testify/plugin@1.1.0-beta3?classifier=sources
 - pkg:maven/com.shopify.testify/plugin@1.1.0-rc01?classifier=sources
 - pkg:maven/com.shopify.testify/plugin@1.1.0?classifier=sources
+- pkg:maven/com.shopify.testify/plugin@1.2.0-alpha01?classifier=sources

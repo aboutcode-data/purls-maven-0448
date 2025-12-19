@@ -11,3 +11,7 @@
 - pkg:maven/tv.hd3g/ffprobejaxb@4.2.2-5?classifier=sources
 - pkg:maven/tv.hd3g/ffprobejaxb@4.2.2?classifier=sources
 - pkg:maven/tv.hd3g/ffprobejaxb@5.0.0?classifier=sources
+- pkg:maven/tv.hd3g/ffprobejaxb@5.0.1
+- pkg:maven/tv.hd3g/ffprobejaxb@5.0.1?classifier=sources
+- pkg:maven/tv.hd3g/ffprobejaxb@5.0.2
+- pkg:maven/tv.hd3g/ffprobejaxb@5.0.2?classifier=sources

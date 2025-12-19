@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-log4j-context-data-2.16@1.10.0-alpha?classifier=sources

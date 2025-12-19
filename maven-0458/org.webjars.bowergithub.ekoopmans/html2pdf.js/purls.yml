@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.ekoopmans/html2pdf.js@0.10.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.ekoopmans/html2pdf.js@0.9.1
 - pkg:maven/org.webjars.bowergithub.ekoopmans/html2pdf.js@0.9.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.ekoopmans/html2pdf.js@0.9.3
+- pkg:maven/org.webjars.bowergithub.ekoopmans/html2pdf.js@0.9.3?classifier=sources

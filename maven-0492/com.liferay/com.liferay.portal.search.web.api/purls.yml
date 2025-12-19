@@ -82,6 +82,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@2.1.4
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@2.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@2.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@2.1.5
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@2.1.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@2.1.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.0.0?classifier=sources-commercial
@@ -127,6 +130,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.2.0
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.2.1
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.2.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@3.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.0.0?classifier=sources-commercial
@@ -160,6 +166,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.2.5
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.2.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.2.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.2.6
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.2.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web.api@4.2.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web.api@5.0.0?classifier=sources-commercial

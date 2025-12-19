@@ -1,2 +1,4 @@
 - pkg:maven/org.opensmarthouse.core.bundles/org.opensmarthouse.core.io.transport.serial.purejavacomm@0.10.0
 - pkg:maven/org.opensmarthouse.core.bundles/org.opensmarthouse.core.io.transport.serial.purejavacomm@0.10.0?classifier=sources
+- pkg:maven/org.opensmarthouse.core.bundles/org.opensmarthouse.core.io.transport.serial.purejavacomm@0.10.1
+- pkg:maven/org.opensmarthouse.core.bundles/org.opensmarthouse.core.io.transport.serial.purejavacomm@0.10.1?classifier=sources

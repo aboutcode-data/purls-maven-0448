@@ -86,6 +86,8 @@
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@12.2?classifier=sources
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@12.3
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@12.3?classifier=sources
+- pkg:maven/de.adorsys.psd2/aspsp-profile-api@12.4
+- pkg:maven/de.adorsys.psd2/aspsp-profile-api@12.4?classifier=sources
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@13.0
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@13.0?classifier=sources
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@13.1
@@ -94,6 +96,8 @@
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@13.2?classifier=sources
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@13.3
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@13.3?classifier=sources
+- pkg:maven/de.adorsys.psd2/aspsp-profile-api@13.4
+- pkg:maven/de.adorsys.psd2/aspsp-profile-api@13.4?classifier=sources
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@2.0
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@2.0.1
 - pkg:maven/de.adorsys.psd2/aspsp-profile-api@2.0.1?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-donpa@1.0.15?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-donpa@1.0.17
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-donpa@1.0.17?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-donpa@1.0.22
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-donpa@1.0.22?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-donpa@1.0.4
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-donpa@1.0.4?classifier=sources

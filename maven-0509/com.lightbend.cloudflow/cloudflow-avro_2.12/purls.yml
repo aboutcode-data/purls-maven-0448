@@ -1,0 +1,12 @@
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.2.2-NIGHTLY20220124
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.2.2-NIGHTLY20220124?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0-RC33
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0-RC33?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0-RC34
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0-RC34?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0-RC35
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0-RC35?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0-RC36
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0-RC36?classifier=sources
+- pkg:maven/com.lightbend.cloudflow/cloudflow-avro_2.12@2.3.0?classifier=sources

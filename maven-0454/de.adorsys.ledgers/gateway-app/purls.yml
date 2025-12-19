@@ -54,6 +54,8 @@
 - pkg:maven/de.adorsys.ledgers/gateway-app@12.2?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@12.3
 - pkg:maven/de.adorsys.ledgers/gateway-app@12.3?classifier=sources
+- pkg:maven/de.adorsys.ledgers/gateway-app@12.4
+- pkg:maven/de.adorsys.ledgers/gateway-app@12.4?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@13.0
 - pkg:maven/de.adorsys.ledgers/gateway-app@13.0?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@13.1
@@ -62,6 +64,8 @@
 - pkg:maven/de.adorsys.ledgers/gateway-app@13.2?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@13.3
 - pkg:maven/de.adorsys.ledgers/gateway-app@13.3?classifier=sources
+- pkg:maven/de.adorsys.ledgers/gateway-app@13.4
+- pkg:maven/de.adorsys.ledgers/gateway-app@13.4?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.1.1
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.1.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/gateway-app@3.10

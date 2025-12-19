@@ -62,3 +62,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4@2.2.2?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4@2.2.3
 - pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4@2.2.3?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4@2.2.4
+- pkg:maven/com.google.api.grpc/proto-google-cloud-talent-v4@2.2.4?classifier=sources

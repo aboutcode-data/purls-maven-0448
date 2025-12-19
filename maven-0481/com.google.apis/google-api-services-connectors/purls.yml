@@ -4,3 +4,5 @@
 - pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20211003-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20211106-1.32.1
 - pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20211106-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20211217-1.32.1
+- pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20211217-1.32.1?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/org.wso2.carbon.ldap.server@6.2.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/org.wso2.carbon.ldap.server@6.2.9
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/org.wso2.carbon.ldap.server@6.2.9?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.userstore.ldap/org.wso2.carbon.ldap.server@6.3.0
+- pkg:maven/org.wso2.carbon.identity.userstore.ldap/org.wso2.carbon.ldap.server@6.3.0?classifier=sources

@@ -105,3 +105,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.87.7?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.87.8
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.87.8?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.87.9
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.87.9?classifier=sources

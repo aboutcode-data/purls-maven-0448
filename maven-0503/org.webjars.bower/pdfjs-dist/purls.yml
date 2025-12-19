@@ -42,3 +42,5 @@
 - pkg:maven/org.webjars.bower/pdfjs-dist@2.0.550?classifier=sources
 - pkg:maven/org.webjars.bower/pdfjs-dist@2.0.943
 - pkg:maven/org.webjars.bower/pdfjs-dist@2.0.943?classifier=sources
+- pkg:maven/org.webjars.bower/pdfjs-dist@2.8.335
+- pkg:maven/org.webjars.bower/pdfjs-dist@2.8.335?classifier=sources

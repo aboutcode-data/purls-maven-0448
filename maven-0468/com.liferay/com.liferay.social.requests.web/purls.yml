@@ -111,6 +111,9 @@
 - pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.17
 - pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.18
+- pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@2.0.2
@@ -174,6 +177,9 @@
 - pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.2
+- pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.20
+- pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@3.0.3
@@ -228,6 +234,9 @@
 - pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.18
 - pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.19
+- pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@4.0.2
@@ -258,6 +267,9 @@
 - pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.1
+- pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.10
+- pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.requests.web@5.0.2

@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@11.0.42?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@11.0.9
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@11.0.9?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.0-beta.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.0-beta.1?classifier=sources

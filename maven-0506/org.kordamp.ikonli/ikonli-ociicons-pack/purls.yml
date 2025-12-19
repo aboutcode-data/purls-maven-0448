@@ -8,6 +8,7 @@
 - pkg:maven/org.kordamp.ikonli/ikonli-ociicons-pack@12.1.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-ociicons-pack@12.2.0
 - pkg:maven/org.kordamp.ikonli/ikonli-ociicons-pack@12.2.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-ociicons-pack@12.3.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-ociicons-pack@2.5.0
 - pkg:maven/org.kordamp.ikonli/ikonli-ociicons-pack@2.5.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-ociicons-pack@2.6.0

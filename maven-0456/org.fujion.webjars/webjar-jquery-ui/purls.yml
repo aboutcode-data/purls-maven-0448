@@ -1,3 +1,5 @@
 - pkg:maven/org.fujion.webjars/webjar-jquery-ui@1.12.1
 - pkg:maven/org.fujion.webjars/webjar-jquery-ui@1.12.1-1
 - pkg:maven/org.fujion.webjars/webjar-jquery-ui@1.12.1-10
+- pkg:maven/org.fujion.webjars/webjar-jquery-ui@1.13.0
+- pkg:maven/org.fujion.webjars/webjar-jquery-ui@1.13.1

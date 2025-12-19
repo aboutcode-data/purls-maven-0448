@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.activemq.examples.clustered/shared-storage-static-cluster@2.18.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.clustered/shared-storage-static-cluster@2.19.0
 - pkg:maven/org.apache.activemq.examples.clustered/shared-storage-static-cluster@2.19.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.clustered/shared-storage-static-cluster@2.20.0
+- pkg:maven/org.apache.activemq.examples.clustered/shared-storage-static-cluster@2.20.0?classifier=sources

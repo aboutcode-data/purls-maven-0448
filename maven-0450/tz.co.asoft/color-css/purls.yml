@@ -4,3 +4,6 @@
 - pkg:maven/tz.co.asoft/color-css@0.0.50?classifier=sources
 - pkg:maven/tz.co.asoft/color-css@0.0.80?classifier=sources
 - pkg:maven/tz.co.asoft/color-css@0.2.0?classifier=sources
+- pkg:maven/tz.co.asoft/color-css@0.2.10?classifier=sources
+- pkg:maven/tz.co.asoft/color-css@0.2.20?classifier=sources
+- pkg:maven/tz.co.asoft/color-css@0.2.21?classifier=sources

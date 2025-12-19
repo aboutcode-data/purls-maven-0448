@@ -10,3 +10,4 @@
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@7.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@7.2.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@7.3.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-apachehttp-client@7.4.0?classifier=sources

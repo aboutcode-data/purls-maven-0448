@@ -59,6 +59,7 @@
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@12.1.0.Final
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@12.1.1.Final
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@12.1.10.Final
+- pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@12.1.11.Final
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@12.1.2.Final
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@12.1.3.Final
 - pkg:maven/org.infinispan/infinispan-wildfly-module-integrationtests@12.1.4.Final

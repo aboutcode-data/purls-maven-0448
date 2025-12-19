@@ -1,0 +1,2 @@
+- pkg:maven/work.labradors.cos/cos-spring-boot-starter@1.0.01?classifier=sources
+- pkg:maven/work.labradors.cos/cos-spring-boot-starter@1.0?classifier=sources

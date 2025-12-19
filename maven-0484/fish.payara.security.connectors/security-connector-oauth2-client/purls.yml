@@ -6,3 +6,5 @@
 - pkg:maven/fish.payara.security.connectors/security-connector-oauth2-client@2.0.0?classifier=sources
 - pkg:maven/fish.payara.security.connectors/security-connector-oauth2-client@2.1.0
 - pkg:maven/fish.payara.security.connectors/security-connector-oauth2-client@2.1.0?classifier=sources
+- pkg:maven/fish.payara.security.connectors/security-connector-oauth2-client@2.2.0
+- pkg:maven/fish.payara.security.connectors/security-connector-oauth2-client@2.2.0?classifier=sources

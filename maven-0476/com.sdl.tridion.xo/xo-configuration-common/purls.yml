@@ -24,3 +24,5 @@
 - pkg:maven/com.sdl.tridion.xo/xo-configuration-common@11.1.0-1110?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-configuration-common@11.5.0-1065
 - pkg:maven/com.sdl.tridion.xo/xo-configuration-common@11.5.0-1065?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-configuration-common@11.6.0-1176
+- pkg:maven/com.sdl.tridion.xo/xo-configuration-common@11.6.0-1176?classifier=sources

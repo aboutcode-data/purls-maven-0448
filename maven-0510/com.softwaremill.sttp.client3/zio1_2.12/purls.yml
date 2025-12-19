@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/zio1_2.12@3.4.0
+- pkg:maven/com.softwaremill.sttp.client3/zio1_2.12@3.4.0?classifier=sources

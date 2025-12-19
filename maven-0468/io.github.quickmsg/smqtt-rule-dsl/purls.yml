@@ -1,3 +1,5 @@
+- pkg:maven/io.github.quickmsg/smqtt-rule-dsl@0.3.1
+- pkg:maven/io.github.quickmsg/smqtt-rule-dsl@0.3.1?classifier=sources
 - pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.0.7
 - pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.0.8
 - pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.0.8?classifier=sources
@@ -5,3 +7,7 @@
 - pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.0.9?classifier=sources
 - pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.1.0
 - pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.1.0?classifier=sources
+- pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.1.1
+- pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.1.1?classifier=sources
+- pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.1.2
+- pkg:maven/io.github.quickmsg/smqtt-rule-dsl@1.1.2?classifier=sources

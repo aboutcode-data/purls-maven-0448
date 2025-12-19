@@ -1,0 +1,2 @@
+- pkg:maven/me.redaalaoui.sonar_ws/sonar-ws-shaded@7.7.0
+- pkg:maven/me.redaalaoui.sonar_ws/sonar-ws-shaded@7.7.0?classifier=sources

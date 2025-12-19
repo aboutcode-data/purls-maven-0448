@@ -1,0 +1,2 @@
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_3@2.12.1
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_3@2.12.1?classifier=sources

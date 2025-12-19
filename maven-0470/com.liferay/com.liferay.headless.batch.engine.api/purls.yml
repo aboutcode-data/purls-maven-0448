@@ -43,6 +43,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@10.7.1
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@10.7.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@10.7.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@10.7.2
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@10.7.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@10.7.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.0.0
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.0.0?classifier=sources-commercial
@@ -85,6 +88,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.7.1
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.7.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.7.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.7.2
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.7.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@11.7.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.0.0
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.0.0?classifier=sources-commercial
@@ -130,6 +136,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.6.1
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.6.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.6.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.6.2
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.6.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@12.6.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@13.0.0
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@13.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.api@13.0.0?classifier=sources-commercial

@@ -85,3 +85,7 @@
 - pkg:maven/de.codecentric/spring-boot-admin-starter-client@2.5.2
 - pkg:maven/de.codecentric/spring-boot-admin-starter-client@2.5.3
 - pkg:maven/de.codecentric/spring-boot-admin-starter-client@2.5.4
+- pkg:maven/de.codecentric/spring-boot-admin-starter-client@2.5.5
+- pkg:maven/de.codecentric/spring-boot-admin-starter-client@2.6.0
+- pkg:maven/de.codecentric/spring-boot-admin-starter-client@2.6.1
+- pkg:maven/de.codecentric/spring-boot-admin-starter-client@2.6.2

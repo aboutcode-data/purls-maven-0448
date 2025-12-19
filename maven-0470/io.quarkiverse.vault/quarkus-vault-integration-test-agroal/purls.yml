@@ -1,1 +1,2 @@
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-integration-test-agroal@1.0.0
+- pkg:maven/io.quarkiverse.vault/quarkus-vault-integration-test-agroal@1.0.1

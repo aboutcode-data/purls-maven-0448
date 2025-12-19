@@ -1,0 +1,1 @@
+- pkg:maven/com.redis/trino-redisearch@0.1.0?classifier=sources

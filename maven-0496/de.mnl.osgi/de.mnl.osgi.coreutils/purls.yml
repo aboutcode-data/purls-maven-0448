@@ -7,3 +7,5 @@
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@1.0.3
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@1.0.3?classifier=sources
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@1.0.4?classifier=sources
+- pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@2.0.0?classifier=sources
+- pkg:maven/de.mnl.osgi/de.mnl.osgi.coreutils@2.1.0?classifier=sources

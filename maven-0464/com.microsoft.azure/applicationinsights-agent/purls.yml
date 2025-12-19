@@ -94,3 +94,5 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.3?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.4
 - pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.4?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.5-BETA
+- pkg:maven/com.microsoft.azure/applicationinsights-agent@3.2.5-BETA?classifier=sources

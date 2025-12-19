@@ -4,6 +4,10 @@
 - pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@10.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.10
 - pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.10?classifier=sources
+- pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.11
+- pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.11?classifier=sources
+- pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.12
+- pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.12?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.4
 - pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service-endpoint-remote@9.5

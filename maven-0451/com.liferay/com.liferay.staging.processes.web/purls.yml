@@ -243,6 +243,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.35
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.36
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@2.0.4
@@ -327,6 +330,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.28
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.29
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@3.0.3
@@ -408,6 +414,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.27
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.28
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@4.0.3
@@ -447,6 +456,12 @@
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.13
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.14
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.15
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.processes.web@5.0.2

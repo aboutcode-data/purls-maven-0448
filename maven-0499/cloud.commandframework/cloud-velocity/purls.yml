@@ -7,3 +7,4 @@
 - pkg:maven/cloud.commandframework/cloud-velocity@1.4.0?classifier=sources
 - pkg:maven/cloud.commandframework/cloud-velocity@1.5.0?classifier=sources
 - pkg:maven/cloud.commandframework/cloud-velocity@1.6.0?classifier=sources
+- pkg:maven/cloud.commandframework/cloud-velocity@1.6.1?classifier=sources

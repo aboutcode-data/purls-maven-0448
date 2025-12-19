@@ -20,3 +20,4 @@
 - pkg:maven/com.jivosite.sdk/android-sdk@1.0.0-rc03?classifier=sources
 - pkg:maven/com.jivosite.sdk/android-sdk@1.0.0-rc04?classifier=sources
 - pkg:maven/com.jivosite.sdk/android-sdk@1.0.0-rc05?classifier=sources
+- pkg:maven/com.jivosite.sdk/android-sdk@1.0.0?classifier=sources

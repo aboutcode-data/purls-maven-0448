@@ -32,3 +32,9 @@
 - pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.5-rc?classifier=sources
 - pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.6-rc
 - pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.6-rc?classifier=sources
+- pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.7-rc
+- pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.7-rc?classifier=sources
+- pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.8-rc
+- pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.8-rc?classifier=sources
+- pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.9-rc
+- pkg:maven/no.nav.arbeidsgiver/altinn-rettigheter-proxy-klient@2.0.9-rc?classifier=sources

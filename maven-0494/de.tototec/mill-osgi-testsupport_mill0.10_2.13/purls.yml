@@ -1,0 +1,8 @@
+- pkg:maven/de.tototec/mill-osgi-testsupport_mill0.10_2.13@0.3.2-59-e3d97d
+- pkg:maven/de.tototec/mill-osgi-testsupport_mill0.10_2.13@0.3.2-59-e3d97d?classifier=sources
+- pkg:maven/de.tototec/mill-osgi-testsupport_mill0.10_2.13@0.3.2-60-3afeca
+- pkg:maven/de.tototec/mill-osgi-testsupport_mill0.10_2.13@0.3.2-60-3afeca?classifier=sources
+- pkg:maven/de.tototec/mill-osgi-testsupport_mill0.10_2.13@0.3.2-61-b29536
+- pkg:maven/de.tototec/mill-osgi-testsupport_mill0.10_2.13@0.3.2-61-b29536?classifier=sources
+- pkg:maven/de.tototec/mill-osgi-testsupport_mill0.10_2.13@0.4.0
+- pkg:maven/de.tototec/mill-osgi-testsupport_mill0.10_2.13@0.4.0?classifier=sources

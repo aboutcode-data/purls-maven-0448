@@ -32,3 +32,7 @@
 - pkg:maven/net.sf.ebus/util@5.7.0?classifier=sources
 - pkg:maven/net.sf.ebus/util@5.8.0
 - pkg:maven/net.sf.ebus/util@5.8.0?classifier=sources
+- pkg:maven/net.sf.ebus/util@6.0.0
+- pkg:maven/net.sf.ebus/util@6.0.0?classifier=sources
+- pkg:maven/net.sf.ebus/util@6.0.1
+- pkg:maven/net.sf.ebus/util@6.0.1?classifier=sources

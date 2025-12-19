@@ -1,0 +1,5 @@
+- pkg:maven/com.aminography/primecalendar@1.4.0?classifier=sources
+- pkg:maven/com.aminography/primecalendar@1.4.1?classifier=sources
+- pkg:maven/com.aminography/primecalendar@1.5.0?classifier=sources
+- pkg:maven/com.aminography/primecalendar@1.6.0?classifier=sources
+- pkg:maven/com.aminography/primecalendar@1.7.0?classifier=sources

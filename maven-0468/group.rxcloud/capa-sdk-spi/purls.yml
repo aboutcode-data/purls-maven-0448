@@ -38,7 +38,13 @@
 - pkg:maven/group.rxcloud/capa-sdk-spi@1.10.10.RELEASE?classifier=sources
 - pkg:maven/group.rxcloud/capa-sdk-spi@1.10.11.RELEASE
 - pkg:maven/group.rxcloud/capa-sdk-spi@1.10.11.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-sdk-spi@1.10.12.2.RELEASE
+- pkg:maven/group.rxcloud/capa-sdk-spi@1.10.12.2.RELEASE?classifier=sources
 - pkg:maven/group.rxcloud/capa-sdk-spi@1.10.12.RELEASE
 - pkg:maven/group.rxcloud/capa-sdk-spi@1.10.12.RELEASE?classifier=sources
 - pkg:maven/group.rxcloud/capa-sdk-spi@1.10.9.2.RELEASE
 - pkg:maven/group.rxcloud/capa-sdk-spi@1.10.9.2.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-sdk-spi@1.11.13.2.RELEASE
+- pkg:maven/group.rxcloud/capa-sdk-spi@1.11.13.2.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-sdk-spi@1.11.13.RELEASE
+- pkg:maven/group.rxcloud/capa-sdk-spi@1.11.13.RELEASE?classifier=sources

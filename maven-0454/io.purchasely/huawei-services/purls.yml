@@ -20,3 +20,6 @@
 - pkg:maven/io.purchasely/huawei-services@2.7.4?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@2.7.5?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@2.7.6?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@2.8.0?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@3.0.0?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@3.0.1?classifier=sources

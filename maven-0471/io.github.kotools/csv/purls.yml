@@ -1,1 +1,3 @@
 - pkg:maven/io.github.kotools/csv@0.1.4?classifier=sources
+- pkg:maven/io.github.kotools/csv@1.0.0?classifier=sources
+- pkg:maven/io.github.kotools/csv@2.0.0?classifier=sources

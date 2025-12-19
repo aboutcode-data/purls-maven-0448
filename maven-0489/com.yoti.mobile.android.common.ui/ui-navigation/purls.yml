@@ -21,6 +21,9 @@
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.25.1?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.25.3?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.25.4?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.25.6?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.25.7?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.25.8?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.8.0?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.8.1?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-navigation@1.8.2?type=aar

@@ -64,3 +64,5 @@
 - pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x-spring-boot-starter@3.6.7?classifier=sources
 - pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x-spring-boot-starter@3.6.8
 - pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x-spring-boot-starter@3.6.8?classifier=sources
+- pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x-spring-boot-starter@3.6.9
+- pkg:maven/com.github.fangjinuo.sqlhelper/sqlhelper-mybatisplus_2x-spring-boot-starter@3.6.9?classifier=sources

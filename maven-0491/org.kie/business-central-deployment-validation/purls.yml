@@ -104,3 +104,7 @@
 - pkg:maven/org.kie/business-central-deployment-validation@7.61.0.Final?classifier=sources
 - pkg:maven/org.kie/business-central-deployment-validation@7.62.0.Final
 - pkg:maven/org.kie/business-central-deployment-validation@7.62.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-deployment-validation@7.63.0.Final
+- pkg:maven/org.kie/business-central-deployment-validation@7.63.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-deployment-validation@7.64.0.Final
+- pkg:maven/org.kie/business-central-deployment-validation@7.64.0.Final?classifier=sources

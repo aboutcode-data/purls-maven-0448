@@ -112,3 +112,5 @@
 - pkg:maven/org.mini2Dx/mini2dx-libgdx-desktop-lwjgl2@2.0.0-alpha.89?classifier=sources
 - pkg:maven/org.mini2Dx/mini2dx-libgdx-desktop-lwjgl2@2.0.0-alpha.90
 - pkg:maven/org.mini2Dx/mini2dx-libgdx-desktop-lwjgl2@2.0.0-alpha.90?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-desktop-lwjgl2@2.0.0-alpha.91
+- pkg:maven/org.mini2Dx/mini2dx-libgdx-desktop-lwjgl2@2.0.0-alpha.91?classifier=sources

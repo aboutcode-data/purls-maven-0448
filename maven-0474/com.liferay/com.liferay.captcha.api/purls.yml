@@ -134,6 +134,9 @@
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.1.14
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.1.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.1.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.api@2.1.15
+- pkg:maven/com.liferay/com.liferay.captcha.api@2.1.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.api@2.1.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.api@2.1.2
@@ -254,6 +257,9 @@
 - pkg:maven/com.liferay/com.liferay.captcha.api@3.1.17
 - pkg:maven/com.liferay/com.liferay.captcha.api@3.1.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@3.1.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.api@3.1.18
+- pkg:maven/com.liferay/com.liferay.captcha.api@3.1.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.api@3.1.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.api@3.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@3.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.api@3.1.2
@@ -353,6 +359,9 @@
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.26
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.captcha.api@4.2.27
+- pkg:maven/com.liferay/com.liferay.captcha.api@4.2.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.api@4.2.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.3
