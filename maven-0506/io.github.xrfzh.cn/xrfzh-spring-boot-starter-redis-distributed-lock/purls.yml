@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xrfzh.cn/xrfzh-spring-boot-starter-redis-distributed-lock@2.7.10.8-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xrfzh-spring-boot-starter-redis-distributed-lock@2.7.10.8-RELEASE?classifier=sources

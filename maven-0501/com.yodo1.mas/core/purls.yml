@@ -36,3 +36,4 @@
 - pkg:maven/com.yodo1.mas/core@4.8.7?classifier=sources
 - pkg:maven/com.yodo1.mas/core@4.8.8?classifier=sources
 - pkg:maven/com.yodo1.mas/core@4.8.9?classifier=sources
+- pkg:maven/com.yodo1.mas/core@4.9.0?classifier=sources

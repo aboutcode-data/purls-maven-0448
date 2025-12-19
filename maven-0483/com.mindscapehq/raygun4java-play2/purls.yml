@@ -16,3 +16,5 @@
 - pkg:maven/com.mindscapehq/raygun4java-play2@2.2.0?classifier=sources
 - pkg:maven/com.mindscapehq/raygun4java-play2@3.0.0
 - pkg:maven/com.mindscapehq/raygun4java-play2@3.0.0?classifier=sources
+- pkg:maven/com.mindscapehq/raygun4java-play2@4.0.0-rc1
+- pkg:maven/com.mindscapehq/raygun4java-play2@4.0.0-rc1?classifier=sources

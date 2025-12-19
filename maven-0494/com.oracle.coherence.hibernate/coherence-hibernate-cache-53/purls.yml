@@ -16,3 +16,5 @@
 - pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-53@2.3.2?classifier=sources
 - pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-53@2.3.3
 - pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-53@2.3.3?classifier=sources
+- pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-53@3.0.0
+- pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-53@3.0.0?classifier=sources

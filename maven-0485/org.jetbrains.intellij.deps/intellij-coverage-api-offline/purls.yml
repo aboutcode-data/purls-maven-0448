@@ -1,0 +1,1 @@
+- pkg:maven/org.jetbrains.intellij.deps/intellij-coverage-api-offline@1.0.727?classifier=sources

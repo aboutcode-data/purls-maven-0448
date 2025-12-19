@@ -2,3 +2,4 @@
 - pkg:maven/com.jeppeman.mockposable/mockposable-compiler@0.2?classifier=sources
 - pkg:maven/com.jeppeman.mockposable/mockposable-compiler@0.3?classifier=sources
 - pkg:maven/com.jeppeman.mockposable/mockposable-compiler@0.4?classifier=sources
+- pkg:maven/com.jeppeman.mockposable/mockposable-compiler@0.5?classifier=sources

@@ -42,6 +42,8 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-common@17.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-common@18.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-common@18.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-common@19.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-common@19.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-common@2.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-common@2.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-common@3.0.0.Final

@@ -94,3 +94,5 @@
 - pkg:maven/org.eclipse.californium/cf-nat@3.7.0?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-nat@3.8.0
 - pkg:maven/org.eclipse.californium/cf-nat@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.californium/cf-nat@3.9.0
+- pkg:maven/org.eclipse.californium/cf-nat@3.9.0?classifier=sources

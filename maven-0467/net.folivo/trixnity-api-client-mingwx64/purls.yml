@@ -29,6 +29,7 @@
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.0.0-beta3?classifier=sources
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.0.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.1.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.10.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.2.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.3.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.3.1?classifier=sources
@@ -41,3 +42,9 @@
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.6.2?classifier=sources
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.7.0-beta1?classifier=sources
 - pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.7.0-beta2?classifier=sources
+- pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.7.0-beta3?classifier=sources
+- pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.7.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.7.1?classifier=sources
+- pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.7.2?classifier=sources
+- pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.8.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-api-client-mingwx64@3.9.0?classifier=sources

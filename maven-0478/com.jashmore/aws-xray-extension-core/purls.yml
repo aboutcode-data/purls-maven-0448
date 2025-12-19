@@ -10,3 +10,4 @@
 - pkg:maven/com.jashmore/aws-xray-extension-core@4.4.0?classifier=sources
 - pkg:maven/com.jashmore/aws-xray-extension-core@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/aws-xray-extension-core@5.1.0?classifier=sources
+- pkg:maven/com.jashmore/aws-xray-extension-core@6.0.0?classifier=sources

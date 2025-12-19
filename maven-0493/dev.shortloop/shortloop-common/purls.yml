@@ -6,6 +6,10 @@
 - pkg:maven/dev.shortloop/shortloop-common@0.0.12?classifier=sources
 - pkg:maven/dev.shortloop/shortloop-common@0.0.13
 - pkg:maven/dev.shortloop/shortloop-common@0.0.13?classifier=sources
+- pkg:maven/dev.shortloop/shortloop-common@0.0.14
+- pkg:maven/dev.shortloop/shortloop-common@0.0.14?classifier=sources
+- pkg:maven/dev.shortloop/shortloop-common@0.0.15
+- pkg:maven/dev.shortloop/shortloop-common@0.0.15?classifier=sources
 - pkg:maven/dev.shortloop/shortloop-common@0.0.3
 - pkg:maven/dev.shortloop/shortloop-common@0.0.3?classifier=sources
 - pkg:maven/dev.shortloop/shortloop-common@0.0.6

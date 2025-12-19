@@ -68,3 +68,5 @@
 - pkg:maven/org.kie.kogito/kogito-api-incubation-common-objectmapper@1.40.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-api-incubation-common-objectmapper@1.41.0.Final
 - pkg:maven/org.kie.kogito/kogito-api-incubation-common-objectmapper@1.41.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-api-incubation-common-objectmapper@1.42.0.Final
+- pkg:maven/org.kie.kogito/kogito-api-incubation-common-objectmapper@1.42.0.Final?classifier=sources

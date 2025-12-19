@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-virtual-threads-deployment@3.3.0.CR1
+- pkg:maven/io.quarkus/quarkus-virtual-threads-deployment@3.3.0.CR1?classifier=sources

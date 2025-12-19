@@ -86,7 +86,11 @@
 - pkg:maven/io.hippochat/hippo@3.0.13.8?classifier=sources
 - pkg:maven/io.hippochat/hippo@3.0.13.9?classifier=sources
 - pkg:maven/io.hippochat/hippo@3.0.13?classifier=sources
+- pkg:maven/io.hippochat/hippo@3.0.14.1?classifier=sources
+- pkg:maven/io.hippochat/hippo@3.0.14.2?classifier=sources
 - pkg:maven/io.hippochat/hippo@3.0.14?classifier=sources
+- pkg:maven/io.hippochat/hippo@3.0.15.1?classifier=sources
+- pkg:maven/io.hippochat/hippo@3.0.15?classifier=sources
 - pkg:maven/io.hippochat/hippo@3.0.1?classifier=sources
 - pkg:maven/io.hippochat/hippo@3.0.1?type=aar
 - pkg:maven/io.hippochat/hippo@3.0.2?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/pro.respawn.flowmvi/core-macosx64@1.1.3?classifier=sources
 - pkg:maven/pro.respawn.flowmvi/core-macosx64@1.1.4?classifier=sources
 - pkg:maven/pro.respawn.flowmvi/core-macosx64@1.2.0-alpha01?classifier=sources
+- pkg:maven/pro.respawn.flowmvi/core-macosx64@2.0.0-alpha01?classifier=sources

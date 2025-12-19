@@ -1,0 +1,2 @@
+- pkg:maven/com.malliina/sbt-nodejs_2.12_1.0@1.6.19
+- pkg:maven/com.malliina/sbt-nodejs_2.12_1.0@1.6.19?classifier=sources

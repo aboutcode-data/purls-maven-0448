@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dmlloyd/jdk-classfile-preview@21.0.0
+- pkg:maven/io.github.dmlloyd/jdk-classfile-preview@21.0.0?classifier=sources

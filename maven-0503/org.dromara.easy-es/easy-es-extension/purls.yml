@@ -1,2 +1,4 @@
 - pkg:maven/org.dromara.easy-es/easy-es-extension@2.0.0-beta2
 - pkg:maven/org.dromara.easy-es/easy-es-extension@2.0.0-beta2?classifier=sources
+- pkg:maven/org.dromara.easy-es/easy-es-extension@2.0.0-beta3
+- pkg:maven/org.dromara.easy-es/easy-es-extension@2.0.0-beta3?classifier=sources

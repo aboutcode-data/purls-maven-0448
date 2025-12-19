@@ -1,0 +1,2 @@
+- pkg:maven/io.github.congyl1988.publishcmd/publishcmd@1.0.3-RELEASE?classifier=sources
+- pkg:maven/io.github.congyl1988.publishcmd/publishcmd@1.0.3?classifier=sources

@@ -85,6 +85,9 @@
 - pkg:maven/dev.inmo/micro_utils.common-jvm@0.19.5?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common-jvm@0.19.6?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common-jvm@0.19.7?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.common-jvm@0.19.8?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.common-jvm@0.19.9?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.common-jvm@0.20.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common-jvm@0.4.24?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common-jvm@0.4.25?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common-jvm@0.4.26?classifier=sources

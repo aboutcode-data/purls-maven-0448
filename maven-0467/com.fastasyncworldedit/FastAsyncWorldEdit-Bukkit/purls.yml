@@ -23,3 +23,4 @@
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Bukkit@2.6.2?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Bukkit@2.6.3?classifier=sources
 - pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Bukkit@2.6.4?classifier=sources
+- pkg:maven/com.fastasyncworldedit/FastAsyncWorldEdit-Bukkit@2.7.0?classifier=sources

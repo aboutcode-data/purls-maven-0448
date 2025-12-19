@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch/opensearch-telemetry@2.9.0?classifier=sources

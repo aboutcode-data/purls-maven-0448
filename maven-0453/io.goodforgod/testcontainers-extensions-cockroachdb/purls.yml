@@ -1,0 +1,5 @@
+- pkg:maven/io.goodforgod/testcontainers-extensions-cockroachdb@0.2.0?classifier=sources
+- pkg:maven/io.goodforgod/testcontainers-extensions-cockroachdb@0.3.0?classifier=sources
+- pkg:maven/io.goodforgod/testcontainers-extensions-cockroachdb@0.4.0?classifier=sources
+- pkg:maven/io.goodforgod/testcontainers-extensions-cockroachdb@0.4.1?classifier=sources
+- pkg:maven/io.goodforgod/testcontainers-extensions-cockroachdb@0.4.2?classifier=sources

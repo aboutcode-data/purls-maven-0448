@@ -14,3 +14,5 @@
 - pkg:maven/com.github.ajalt.clikt/clikt-mingwx64@3.5.4?classifier=sources
 - pkg:maven/com.github.ajalt.clikt/clikt-mingwx64@4.0.0-RC?classifier=sources
 - pkg:maven/com.github.ajalt.clikt/clikt-mingwx64@4.0.0?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt-mingwx64@4.1.0?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt-mingwx64@4.2.0?classifier=sources

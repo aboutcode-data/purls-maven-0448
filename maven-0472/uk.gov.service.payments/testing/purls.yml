@@ -524,3 +524,7 @@
 - pkg:maven/uk.gov.service.payments/testing@1.0.20230705135815?classifier=sources
 - pkg:maven/uk.gov.service.payments/testing@1.0.20230705145238
 - pkg:maven/uk.gov.service.payments/testing@1.0.20230705145238?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20230719141425
+- pkg:maven/uk.gov.service.payments/testing@1.0.20230719141425?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20230720152355
+- pkg:maven/uk.gov.service.payments/testing@1.0.20230720152355?classifier=sources

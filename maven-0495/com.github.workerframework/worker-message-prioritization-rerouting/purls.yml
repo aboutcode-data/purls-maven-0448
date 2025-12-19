@@ -6,3 +6,5 @@
 - pkg:maven/com.github.workerframework/worker-message-prioritization-rerouting@1.1.0-111?classifier=sources
 - pkg:maven/com.github.workerframework/worker-message-prioritization-rerouting@1.1.1-122
 - pkg:maven/com.github.workerframework/worker-message-prioritization-rerouting@1.1.1-122?classifier=sources
+- pkg:maven/com.github.workerframework/worker-message-prioritization-rerouting@1.2.0-149
+- pkg:maven/com.github.workerframework/worker-message-prioritization-rerouting@1.2.0-149?classifier=sources

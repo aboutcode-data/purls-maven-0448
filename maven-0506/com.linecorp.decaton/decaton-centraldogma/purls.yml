@@ -54,3 +54,4 @@
 - pkg:maven/com.linecorp.decaton/decaton-centraldogma@6.3.2?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-centraldogma@6.4.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-centraldogma@6.5.0?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-centraldogma@7.0.0?classifier=sources

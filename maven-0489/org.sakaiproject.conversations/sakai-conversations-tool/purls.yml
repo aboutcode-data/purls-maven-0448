@@ -6,3 +6,5 @@
 - pkg:maven/org.sakaiproject.conversations/sakai-conversations-tool@22.2?type=war
 - pkg:maven/org.sakaiproject.conversations/sakai-conversations-tool@22.3?classifier=sources
 - pkg:maven/org.sakaiproject.conversations/sakai-conversations-tool@22.3?type=war
+- pkg:maven/org.sakaiproject.conversations/sakai-conversations-tool@23.0?classifier=sources
+- pkg:maven/org.sakaiproject.conversations/sakai-conversations-tool@23.0?type=war

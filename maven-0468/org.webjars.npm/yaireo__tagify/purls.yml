@@ -32,6 +32,8 @@
 - pkg:maven/org.webjars.npm/yaireo__tagify@4.16.4?classifier=sources
 - pkg:maven/org.webjars.npm/yaireo__tagify@4.17.7
 - pkg:maven/org.webjars.npm/yaireo__tagify@4.17.7?classifier=sources
+- pkg:maven/org.webjars.npm/yaireo__tagify@4.17.8
+- pkg:maven/org.webjars.npm/yaireo__tagify@4.17.8?classifier=sources
 - pkg:maven/org.webjars.npm/yaireo__tagify@4.7.2
 - pkg:maven/org.webjars.npm/yaireo__tagify@4.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/yaireo__tagify@4.8.1

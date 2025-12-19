@@ -59,6 +59,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.27
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.28
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@1.0.3
@@ -107,6 +110,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.16
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.17
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.18
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@2.0.2
@@ -164,9 +172,14 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.18
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.19
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.2
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.20
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@3.0.3
@@ -242,6 +255,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@4.0.24
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@4.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@4.0.25
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@4.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.cas.api@4.0.3

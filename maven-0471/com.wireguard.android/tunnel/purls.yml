@@ -4,3 +4,4 @@
 - pkg:maven/com.wireguard.android/tunnel@1.0.20230321?classifier=sources
 - pkg:maven/com.wireguard.android/tunnel@1.0.20230405?classifier=sources
 - pkg:maven/com.wireguard.android/tunnel@1.0.20230427?classifier=sources
+- pkg:maven/com.wireguard.android/tunnel@1.0.20230706?classifier=sources

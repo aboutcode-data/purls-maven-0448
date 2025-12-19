@@ -8,3 +8,4 @@
 - pkg:maven/com.liveperson.android/lp_structured_content@2.4.0?classifier=sources
 - pkg:maven/com.liveperson.android/lp_structured_content@2.5.0?classifier=sources
 - pkg:maven/com.liveperson.android/lp_structured_content@2.6.0?classifier=sources
+- pkg:maven/com.liveperson.android/lp_structured_content@2.6.1?classifier=sources

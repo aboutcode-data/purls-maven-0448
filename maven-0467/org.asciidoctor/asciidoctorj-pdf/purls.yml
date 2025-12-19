@@ -45,3 +45,4 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-pdf@2.3.4?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-pdf@2.3.6?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-pdf@2.3.7?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-pdf@2.3.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/aws.sdk.kotlin/medicalimaging@0.29.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/medicalimaging@0.29.1-beta?classifier=sources

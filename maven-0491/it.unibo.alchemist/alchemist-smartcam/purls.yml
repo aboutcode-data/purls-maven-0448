@@ -147,6 +147,9 @@
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@25.9.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@25.9.3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.10?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.11?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.12?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.3?classifier=sources
@@ -154,6 +157,8 @@
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.5?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.6?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.7?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.8?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-smartcam@26.0.9?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@9.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@9.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-smartcam@9.1.0

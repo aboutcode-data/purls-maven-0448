@@ -67,3 +67,5 @@
 - pkg:maven/io.trino/trino-hive-hadoop2@418?classifier=sources
 - pkg:maven/io.trino/trino-hive-hadoop2@419?classifier=sources
 - pkg:maven/io.trino/trino-hive-hadoop2@420?classifier=sources
+- pkg:maven/io.trino/trino-hive-hadoop2@421?classifier=sources
+- pkg:maven/io.trino/trino-hive-hadoop2@422?classifier=sources

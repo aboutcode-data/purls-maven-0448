@@ -1,0 +1,2 @@
+- pkg:maven/org.redisson/redisson-micronaut-40@3.23.2
+- pkg:maven/org.redisson/redisson-micronaut-40@3.23.2?classifier=sources

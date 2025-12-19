@@ -16,3 +16,5 @@
 - pkg:maven/org.entur/siri-java-model@1.20?classifier=sources
 - pkg:maven/org.entur/siri-java-model@1.21
 - pkg:maven/org.entur/siri-java-model@1.21?classifier=sources
+- pkg:maven/org.entur/siri-java-model@1.22
+- pkg:maven/org.entur/siri-java-model@1.22?classifier=sources

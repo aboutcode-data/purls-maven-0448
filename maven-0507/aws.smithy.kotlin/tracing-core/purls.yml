@@ -28,3 +28,4 @@
 - pkg:maven/aws.smithy.kotlin/tracing-core@0.21.2?classifier=sources
 - pkg:maven/aws.smithy.kotlin/tracing-core@0.21.3?classifier=sources
 - pkg:maven/aws.smithy.kotlin/tracing-core@0.22.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/tracing-core@0.22.1?classifier=sources

@@ -110,6 +110,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.42
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.42?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.43
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.43?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.44
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.44?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@1.0.5
@@ -139,6 +144,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@2.0.3
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@2.0.4
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@2.0.4?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@2.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@2.0.5
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@2.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.0?classifier=sources-commercial
@@ -167,6 +177,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.17
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.17?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.18
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.18?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@3.0.2
@@ -275,6 +287,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@4.0.33
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@4.0.33?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@4.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@4.0.34
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@4.0.34?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.engine.fixed.web@4.0.4

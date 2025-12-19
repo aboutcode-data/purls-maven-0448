@@ -86,6 +86,11 @@
 - pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.35
 - pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.36
+- pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.37
+- pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.html.preview.service@1.0.4
@@ -188,6 +193,11 @@
 - pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.33
 - pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.34
+- pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.35
+- pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.html.preview.service@2.0.4
@@ -281,6 +291,8 @@
 - pkg:maven/com.liferay/com.liferay.html.preview.service@3.0.30
 - pkg:maven/com.liferay/com.liferay.html.preview.service@3.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@3.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.html.preview.service@3.0.31
+- pkg:maven/com.liferay/com.liferay.html.preview.service@3.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.html.preview.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.html.preview.service@3.0.4

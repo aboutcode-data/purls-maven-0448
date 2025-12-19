@@ -44,3 +44,5 @@
 - pkg:maven/org.springframework.webflow/spring-binding@2.5.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.webflow/spring-binding@2.5.1.RELEASE
 - pkg:maven/org.springframework.webflow/spring-binding@2.5.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.webflow/spring-binding@3.0.0
+- pkg:maven/org.springframework.webflow/spring-binding@3.0.0?classifier=sources

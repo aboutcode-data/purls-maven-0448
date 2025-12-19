@@ -2,3 +2,5 @@
 - pkg:maven/com.aliyun/qktest20210908@1.0.1?classifier=sources
 - pkg:maven/com.aliyun/qktest20210908@1.0.2
 - pkg:maven/com.aliyun/qktest20210908@1.0.2?classifier=sources
+- pkg:maven/com.aliyun/qktest20210908@1.0.3-snapshot
+- pkg:maven/com.aliyun/qktest20210908@1.0.3-snapshot?classifier=sources

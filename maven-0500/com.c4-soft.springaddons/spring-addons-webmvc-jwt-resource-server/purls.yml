@@ -104,3 +104,7 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-webmvc-jwt-resource-server@6.1.9?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-webmvc-jwt-resource-server@6.2.0
 - pkg:maven/com.c4-soft.springaddons/spring-addons-webmvc-jwt-resource-server@6.2.0?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-webmvc-jwt-resource-server@6.2.1
+- pkg:maven/com.c4-soft.springaddons/spring-addons-webmvc-jwt-resource-server@6.2.1?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-webmvc-jwt-resource-server@6.2.2
+- pkg:maven/com.c4-soft.springaddons/spring-addons-webmvc-jwt-resource-server@6.2.2?classifier=sources

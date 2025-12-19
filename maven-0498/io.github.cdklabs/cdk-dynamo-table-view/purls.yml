@@ -968,6 +968,8 @@
 - pkg:maven/io.github.cdklabs/cdk-dynamo-table-view@0.2.484?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-dynamo-table-view@0.2.485
 - pkg:maven/io.github.cdklabs/cdk-dynamo-table-view@0.2.485?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-dynamo-table-view@0.2.486
+- pkg:maven/io.github.cdklabs/cdk-dynamo-table-view@0.2.486?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-dynamo-table-view@0.2.48?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-dynamo-table-view@0.2.49
 - pkg:maven/io.github.cdklabs/cdk-dynamo-table-view@0.2.49?classifier=sources

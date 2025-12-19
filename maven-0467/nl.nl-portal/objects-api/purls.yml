@@ -1,1 +1,2 @@
+- pkg:maven/nl.nl-portal/objects-api@0.1.0.RELEASE?classifier=sources
 - pkg:maven/nl.nl-portal/objects-api@1.0.8.RELEASE?classifier=sources

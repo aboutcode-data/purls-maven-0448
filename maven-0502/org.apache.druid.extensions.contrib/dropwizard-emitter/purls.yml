@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/dropwizard-emitter@25.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/dropwizard-emitter@26.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/dropwizard-emitter@26.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/dropwizard-emitter@27.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/dropwizard-emitter@27.0.0?classifier=sources

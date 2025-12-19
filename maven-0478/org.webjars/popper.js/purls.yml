@@ -10,6 +10,7 @@
 - pkg:maven/org.webjars/popper.js@1.16.0
 - pkg:maven/org.webjars/popper.js@1.16.1-lts
 - pkg:maven/org.webjars/popper.js@2.0.2
+- pkg:maven/org.webjars/popper.js@2.11.7
 - pkg:maven/org.webjars/popper.js@2.5.2
 - pkg:maven/org.webjars/popper.js@2.5.4
 - pkg:maven/org.webjars/popper.js@2.9.2

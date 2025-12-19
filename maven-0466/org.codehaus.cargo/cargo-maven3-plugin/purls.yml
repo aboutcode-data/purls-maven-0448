@@ -16,6 +16,8 @@
 - pkg:maven/org.codehaus.cargo/cargo-maven3-plugin@1.10.7?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-maven3-plugin@1.10.8
 - pkg:maven/org.codehaus.cargo/cargo-maven3-plugin@1.10.8?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-maven3-plugin@1.10.9
+- pkg:maven/org.codehaus.cargo/cargo-maven3-plugin@1.10.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-maven3-plugin@1.9.0
 - pkg:maven/org.codehaus.cargo/cargo-maven3-plugin@1.9.0?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-maven3-plugin@1.9.1

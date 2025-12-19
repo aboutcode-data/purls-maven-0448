@@ -8,3 +8,5 @@
 - pkg:maven/com.joliciel.jochre/jochre-yiddish@2.5.11?classifier=sources
 - pkg:maven/com.joliciel.jochre/jochre-yiddish@2.5.12
 - pkg:maven/com.joliciel.jochre/jochre-yiddish@2.5.12?classifier=sources
+- pkg:maven/com.joliciel.jochre/jochre-yiddish@2.5.13
+- pkg:maven/com.joliciel.jochre/jochre-yiddish@2.5.13?classifier=sources

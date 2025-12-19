@@ -1,2 +1,4 @@
 - pkg:maven/cn.jiguang.sdk.ad.third/beizi_fusion_sdk@4.90.2.14?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.third/beizi_fusion_sdk@4.90.2.14?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/beizi_fusion_sdk@4.90.2.49?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.third/beizi_fusion_sdk@4.90.2.49?type=aar

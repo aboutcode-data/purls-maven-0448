@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-fatjar@3.7.1
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-fatjar@3.8.0
 - pkg:maven/org.apache.zookeeper/zookeeper-contrib-fatjar@3.8.1
+- pkg:maven/org.apache.zookeeper/zookeeper-contrib-fatjar@3.8.2
+- pkg:maven/org.apache.zookeeper/zookeeper-contrib-fatjar@3.9.0

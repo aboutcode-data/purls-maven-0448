@@ -2,3 +2,5 @@
 - pkg:maven/cash.z.ecc.android/zcash-android-sdk-incubator@1.15.0-beta01?classifier=sources
 - pkg:maven/cash.z.ecc.android/zcash-android-sdk-incubator@1.17.0-beta01?classifier=sources
 - pkg:maven/cash.z.ecc.android/zcash-android-sdk-incubator@1.18.0-beta01?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-sdk-incubator@1.19.0-beta01?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-sdk-incubator@1.20.0-beta01?classifier=sources

@@ -35,6 +35,8 @@
 - pkg:maven/com.datastax.oss/java-driver-core-shaded@4.15.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-core-shaded@4.16.0
 - pkg:maven/com.datastax.oss/java-driver-core-shaded@4.16.0?classifier=sources
+- pkg:maven/com.datastax.oss/java-driver-core-shaded@4.17.0
+- pkg:maven/com.datastax.oss/java-driver-core-shaded@4.17.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-core-shaded@4.2.0
 - pkg:maven/com.datastax.oss/java-driver-core-shaded@4.2.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-core-shaded@4.2.1

@@ -2,3 +2,5 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-postgresql-integration-tests-sw@1.40.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-postgresql-integration-tests-sw@1.41.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-postgresql-integration-tests-sw@1.41.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-postgresql-integration-tests-sw@1.42.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-data-index-postgresql-integration-tests-sw@1.42.0.Final?classifier=sources

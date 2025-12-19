@@ -1,0 +1,4 @@
+- pkg:maven/com.firstbird.emergence/core_3@0.3.4
+- pkg:maven/com.firstbird.emergence/core_3@0.3.4?classifier=sources
+- pkg:maven/com.firstbird.emergence/core_3@0.3.5
+- pkg:maven/com.firstbird.emergence/core_3@0.3.5?classifier=sources

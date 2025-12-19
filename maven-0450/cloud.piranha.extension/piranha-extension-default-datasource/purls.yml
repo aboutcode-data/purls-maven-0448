@@ -14,3 +14,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-default-datasource@23.5.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-default-datasource@23.6.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-default-datasource@23.6.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-default-datasource@23.7.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-default-datasource@23.7.0?classifier=sources

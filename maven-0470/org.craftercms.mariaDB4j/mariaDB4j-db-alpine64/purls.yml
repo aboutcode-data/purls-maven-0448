@@ -1,0 +1,2 @@
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.20
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.20?classifier=sources
