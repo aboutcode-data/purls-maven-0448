@@ -8,3 +8,7 @@
 - pkg:maven/ai.chronon/spark_embedded_2.13@0.0.44?classifier=sources
 - pkg:maven/ai.chronon/spark_embedded_2.13@0.0.45
 - pkg:maven/ai.chronon/spark_embedded_2.13@0.0.45?classifier=sources
+- pkg:maven/ai.chronon/spark_embedded_2.13@0.0.46
+- pkg:maven/ai.chronon/spark_embedded_2.13@0.0.46?classifier=sources
+- pkg:maven/ai.chronon/spark_embedded_2.13@chaining-0.0.46-dev
+- pkg:maven/ai.chronon/spark_embedded_2.13@chaining-0.0.46-dev?classifier=sources

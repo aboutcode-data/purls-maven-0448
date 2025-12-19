@@ -1,0 +1,4 @@
+- pkg:maven/io.streamthoughts/jikkou-extension-core@0.26.0
+- pkg:maven/io.streamthoughts/jikkou-extension-core@0.26.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-extension-core@0.27.0
+- pkg:maven/io.streamthoughts/jikkou-extension-core@0.27.0?classifier=sources

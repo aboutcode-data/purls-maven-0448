@@ -411,6 +411,7 @@
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.32
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.api@4.2.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.captcha.api@4.2.4

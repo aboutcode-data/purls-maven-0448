@@ -38,3 +38,4 @@
 - pkg:maven/org.minbox.framework/api-boot-starter-security-oauth-jwt@2.3.6
 - pkg:maven/org.minbox.framework/api-boot-starter-security-oauth-jwt@2.3.7
 - pkg:maven/org.minbox.framework/api-boot-starter-security-oauth-jwt@2.3.8
+- pkg:maven/org.minbox.framework/api-boot-starter-security-oauth-jwt@2.3.9

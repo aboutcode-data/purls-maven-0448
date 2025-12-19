@@ -1,0 +1,4 @@
+- pkg:maven/net.lbruun.keyedlocks/keyedlocks@0.0.10
+- pkg:maven/net.lbruun.keyedlocks/keyedlocks@0.0.10?classifier=sources
+- pkg:maven/net.lbruun.keyedlocks/keyedlocks@0.1.0
+- pkg:maven/net.lbruun.keyedlocks/keyedlocks@0.1.0?classifier=sources

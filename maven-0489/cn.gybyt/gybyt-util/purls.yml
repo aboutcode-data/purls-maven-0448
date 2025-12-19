@@ -1,2 +1,6 @@
 - pkg:maven/cn.gybyt/gybyt-util@0.0.3
 - pkg:maven/cn.gybyt/gybyt-util@0.0.3?classifier=sources
+- pkg:maven/cn.gybyt/gybyt-util@0.0.4
+- pkg:maven/cn.gybyt/gybyt-util@0.0.4.1
+- pkg:maven/cn.gybyt/gybyt-util@0.0.4.1?classifier=sources
+- pkg:maven/cn.gybyt/gybyt-util@0.0.4?classifier=sources

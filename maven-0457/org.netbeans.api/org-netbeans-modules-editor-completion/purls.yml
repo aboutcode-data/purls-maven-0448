@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-completion@RELEASE90?classifier=sources

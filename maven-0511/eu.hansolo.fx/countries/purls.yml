@@ -16,6 +16,8 @@
 - pkg:maven/eu.hansolo.fx/countries@17.0.2?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.31?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.33?classifier=sources
+- pkg:maven/eu.hansolo.fx/countries@17.0.35?classifier=sources
+- pkg:maven/eu.hansolo.fx/countries@17.0.37?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.5?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.8?classifier=sources
 - pkg:maven/eu.hansolo.fx/countries@17.0.9?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/org.camunda.community/zeebe-play@1.0.0?classifier=sources
 - pkg:maven/org.camunda.community/zeebe-play@1.1.0
 - pkg:maven/org.camunda.community/zeebe-play@1.1.0?classifier=sources
+- pkg:maven/org.camunda.community/zeebe-play@1.10.0
+- pkg:maven/org.camunda.community/zeebe-play@1.10.0?classifier=sources
 - pkg:maven/org.camunda.community/zeebe-play@1.2.0
 - pkg:maven/org.camunda.community/zeebe-play@1.2.0-alpha1
 - pkg:maven/org.camunda.community/zeebe-play@1.2.0-alpha1?classifier=sources

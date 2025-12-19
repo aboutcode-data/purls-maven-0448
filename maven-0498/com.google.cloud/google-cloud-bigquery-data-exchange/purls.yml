@@ -32,6 +32,8 @@
 - pkg:maven/com.google.cloud/google-cloud-bigquery-data-exchange@2.16.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquery-data-exchange@2.17.0
 - pkg:maven/com.google.cloud/google-cloud-bigquery-data-exchange@2.17.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquery-data-exchange@2.18.0
+- pkg:maven/com.google.cloud/google-cloud-bigquery-data-exchange@2.18.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquery-data-exchange@2.2.0
 - pkg:maven/com.google.cloud/google-cloud-bigquery-data-exchange@2.2.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquery-data-exchange@2.3.0

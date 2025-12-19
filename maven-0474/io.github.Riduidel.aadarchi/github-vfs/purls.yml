@@ -1,0 +1,2 @@
+- pkg:maven/io.github.Riduidel.aadarchi/github-vfs@0.1.11
+- pkg:maven/io.github.Riduidel.aadarchi/github-vfs@0.1.11?classifier=sources

@@ -196,6 +196,8 @@
 - pkg:maven/io.sentry/sentry-jul@6.27.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jul@6.28.0
 - pkg:maven/io.sentry/sentry-jul@6.28.0?classifier=sources
+- pkg:maven/io.sentry/sentry-jul@6.29.0
+- pkg:maven/io.sentry/sentry-jul@6.29.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jul@6.3.0
 - pkg:maven/io.sentry/sentry-jul@6.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jul@6.3.1

@@ -312,6 +312,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataproc-v1@4.19.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataproc-v1@4.2.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataproc-v1@4.2.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dataproc-v1@4.20.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dataproc-v1@4.20.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataproc-v1@4.3.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataproc-v1@4.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataproc-v1@4.4.0

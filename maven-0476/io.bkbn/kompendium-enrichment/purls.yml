@@ -8,3 +8,4 @@
 - pkg:maven/io.bkbn/kompendium-enrichment@3.14.2?classifier=sources
 - pkg:maven/io.bkbn/kompendium-enrichment@3.14.3?classifier=sources
 - pkg:maven/io.bkbn/kompendium-enrichment@3.14.4?classifier=sources
+- pkg:maven/io.bkbn/kompendium-enrichment@4.0.0-alpha?classifier=sources

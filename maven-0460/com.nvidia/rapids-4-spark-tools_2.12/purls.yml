@@ -42,3 +42,7 @@
 - pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@23.06.2?classifier=sources
 - pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@23.06.3
 - pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@23.06.3?classifier=sources
+- pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@23.06.4
+- pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@23.06.4?classifier=sources
+- pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@23.08.0
+- pkg:maven/com.nvidia/rapids-4-spark-tools_2.12@23.08.0?classifier=sources

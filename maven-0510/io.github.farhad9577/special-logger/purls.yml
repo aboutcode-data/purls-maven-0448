@@ -1,2 +1,7 @@
+- pkg:maven/io.github.farhad9577/special-logger@%24%7BcommonVersion%7D?classifier=sources
+- pkg:maven/io.github.farhad9577/special-logger@%24%7BcustomVersion%7D?classifier=sources
 - pkg:maven/io.github.farhad9577/special-logger@3.0.7?classifier=sources
 - pkg:maven/io.github.farhad9577/special-logger@3.0.9?classifier=sources
+- pkg:maven/io.github.farhad9577/special-logger@3.1.0?classifier=sources
+- pkg:maven/io.github.farhad9577/special-logger@4.1.5?classifier=sources
+- pkg:maven/io.github.farhad9577/special-logger@8.0.0?classifier=sources

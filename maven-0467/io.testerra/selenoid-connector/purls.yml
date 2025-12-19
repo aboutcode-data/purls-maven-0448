@@ -18,3 +18,4 @@
 - pkg:maven/io.testerra/selenoid-connector@2.0-RC-6?classifier=sources
 - pkg:maven/io.testerra/selenoid-connector@2.0-RC-7?classifier=sources
 - pkg:maven/io.testerra/selenoid-connector@2.0?classifier=sources
+- pkg:maven/io.testerra/selenoid-connector@2.1?classifier=sources

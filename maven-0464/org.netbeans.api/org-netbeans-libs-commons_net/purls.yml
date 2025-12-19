@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-commons_net@RELEASE90?classifier=sources

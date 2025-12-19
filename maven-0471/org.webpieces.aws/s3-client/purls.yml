@@ -1,0 +1,3 @@
+- pkg:maven/org.webpieces.aws/s3-client@2.1.89?classifier=sources
+- pkg:maven/org.webpieces.aws/s3-client@2.1.90?classifier=sources
+- pkg:maven/org.webpieces.aws/s3-client@2.1.91?classifier=sources

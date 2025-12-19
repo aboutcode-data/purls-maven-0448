@@ -1,3 +1,5 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-recommendations@0.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-recommendations@1.0.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-recommendations@1.0.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-recommendations@1.0.2?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-recommendations@1.0.3?classifier=sources

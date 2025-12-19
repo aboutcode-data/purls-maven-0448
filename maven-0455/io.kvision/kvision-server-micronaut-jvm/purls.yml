@@ -83,3 +83,5 @@
 - pkg:maven/io.kvision/kvision-server-micronaut-jvm@6.5.1?classifier=sources
 - pkg:maven/io.kvision/kvision-server-micronaut-jvm@6.5.2?classifier=sources
 - pkg:maven/io.kvision/kvision-server-micronaut-jvm@6.6.0?classifier=sources
+- pkg:maven/io.kvision/kvision-server-micronaut-jvm@7.0.0?classifier=sources
+- pkg:maven/io.kvision/kvision-server-micronaut-jvm@7.0.1?classifier=sources

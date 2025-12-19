@@ -61,6 +61,9 @@
 - pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.31.4-beta?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.31.5-beta?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.31.6-rc?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.32.0?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.33.0-alpha?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.33.1-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.7.0?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.7.1?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-systemuicontroller@0.8.0?classifier=sources

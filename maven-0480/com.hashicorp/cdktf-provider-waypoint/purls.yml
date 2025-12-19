@@ -1,2 +1,4 @@
 - pkg:maven/com.hashicorp/cdktf-provider-waypoint@0.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-waypoint@0.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-waypoint@1.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-waypoint@1.0.0?classifier=sources

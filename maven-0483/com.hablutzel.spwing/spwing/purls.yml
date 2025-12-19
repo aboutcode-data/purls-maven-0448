@@ -4,3 +4,5 @@
 - pkg:maven/com.hablutzel.spwing/spwing@0.5?classifier=sources
 - pkg:maven/com.hablutzel.spwing/spwing@0.6.0
 - pkg:maven/com.hablutzel.spwing/spwing@0.6.0?classifier=sources
+- pkg:maven/com.hablutzel.spwing/spwing@0.6.2
+- pkg:maven/com.hablutzel.spwing/spwing@0.6.2?classifier=sources

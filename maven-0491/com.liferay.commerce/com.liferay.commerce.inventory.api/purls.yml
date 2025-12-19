@@ -127,6 +127,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@23.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@24.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@25.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@26.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@3.0.0?classifier=sources-commercial

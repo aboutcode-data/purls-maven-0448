@@ -1,2 +1,8 @@
 - pkg:maven/org.fugerit.java/fj-core-j2ee@8.0.3-sa.1
 - pkg:maven/org.fugerit.java/fj-core-j2ee@8.0.3-sa.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-core-j2ee@8.2.0-sa.1
+- pkg:maven/org.fugerit.java/fj-core-j2ee@8.2.0-sa.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-core-j2ee@8.2.6-sa.1
+- pkg:maven/org.fugerit.java/fj-core-j2ee@8.2.6-sa.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-core-j2ee@8.3.1-sa.1
+- pkg:maven/org.fugerit.java/fj-core-j2ee@8.3.1-sa.1?classifier=sources

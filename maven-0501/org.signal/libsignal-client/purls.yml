@@ -21,3 +21,5 @@
 - pkg:maven/org.signal/libsignal-client@0.29.0?classifier=sources
 - pkg:maven/org.signal/libsignal-client@0.30.0?classifier=sources
 - pkg:maven/org.signal/libsignal-client@0.30.2?classifier=sources
+- pkg:maven/org.signal/libsignal-client@0.31.0?classifier=sources
+- pkg:maven/org.signal/libsignal-client@0.32.0?classifier=sources

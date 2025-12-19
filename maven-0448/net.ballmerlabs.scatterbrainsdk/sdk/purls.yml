@@ -5,3 +5,5 @@
 - pkg:maven/net.ballmerlabs.scatterbrainsdk/sdk@0.0055-alpha?classifier=sources
 - pkg:maven/net.ballmerlabs.scatterbrainsdk/sdk@0.0056-alpha?classifier=sources
 - pkg:maven/net.ballmerlabs.scatterbrainsdk/sdk@0.0059-alpha?classifier=sources
+- pkg:maven/net.ballmerlabs.scatterbrainsdk/sdk@0.00645-experimental?classifier=sources
+- pkg:maven/net.ballmerlabs.scatterbrainsdk/sdk@0.0070?classifier=sources

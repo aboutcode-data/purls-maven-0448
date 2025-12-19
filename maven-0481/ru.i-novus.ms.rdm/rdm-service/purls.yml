@@ -1,8 +1,14 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.11.0
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.11.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.11.5
+- pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.11.5?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.12.0
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.12.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.13.0
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.13.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.14.0
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.14.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.15.0
+- pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.15.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.16.0
+- pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.16.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.lolgab/mill-crossplatform_mill0.11_2.13@0.2.3
 - pkg:maven/com.github.lolgab/mill-crossplatform_mill0.11_2.13@0.2.3?classifier=sources
+- pkg:maven/com.github.lolgab/mill-crossplatform_mill0.11_2.13@0.2.4
+- pkg:maven/com.github.lolgab/mill-crossplatform_mill0.11_2.13@0.2.4?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.nachc.cad.tools/fhirtoomop@1.4.012?classifier=sources
 - pkg:maven/org.nachc.cad.tools/fhirtoomop@1.4.015
 - pkg:maven/org.nachc.cad.tools/fhirtoomop@1.4.015?classifier=sources
+- pkg:maven/org.nachc.cad.tools/fhirtoomop@1.4.016
+- pkg:maven/org.nachc.cad.tools/fhirtoomop@1.4.016?classifier=sources

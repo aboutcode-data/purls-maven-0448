@@ -18,6 +18,16 @@
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.18.0?classifier=sources
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.18.1
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.18.1?classifier=sources
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.19.0
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.19.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.20.0
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.20.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.21.0
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.21.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.22.0
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.22.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.23.0
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.23.0?classifier=sources
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.8.0
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.8.0?classifier=sources
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.8.2

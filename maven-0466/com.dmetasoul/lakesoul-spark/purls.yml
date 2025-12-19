@@ -6,3 +6,5 @@
 - pkg:maven/com.dmetasoul/lakesoul-spark@2.2.0-spark-3.3?classifier=sources
 - pkg:maven/com.dmetasoul/lakesoul-spark@2.3.0-spark-3.3
 - pkg:maven/com.dmetasoul/lakesoul-spark@2.3.0-spark-3.3?classifier=sources
+- pkg:maven/com.dmetasoul/lakesoul-spark@2.3.1-spark-3.3
+- pkg:maven/com.dmetasoul/lakesoul-spark@2.3.1-spark-3.3?classifier=sources

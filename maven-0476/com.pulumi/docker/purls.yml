@@ -119,9 +119,14 @@
 - pkg:maven/com.pulumi/docker@4.3.0-alpha.1687798383%2B6f0590d1?classifier=sources
 - pkg:maven/com.pulumi/docker@4.3.0?classifier=sources
 - pkg:maven/com.pulumi/docker@4.3.1?classifier=sources
+- pkg:maven/com.pulumi/docker@4.3.2?classifier=sources
 - pkg:maven/com.pulumi/docker@4.4.0-alpha.1689313194%2B549a71be?classifier=sources
 - pkg:maven/com.pulumi/docker@4.4.0-alpha.1690263145%2Bbb191bb2?classifier=sources
 - pkg:maven/com.pulumi/docker@4.4.0-alpha.1690397846%2B95af7d98?classifier=sources
 - pkg:maven/com.pulumi/docker@4.4.0-alpha.1690398122%2B69a5f184?classifier=sources
 - pkg:maven/com.pulumi/docker@4.4.0-alpha.1691041403%2Bfe787c74?classifier=sources
 - pkg:maven/com.pulumi/docker@4.4.0-alpha.1691670886%2Bddfedbde?classifier=sources
+- pkg:maven/com.pulumi/docker@4.4.0-alpha.1691732443%2Bdc97bc70?classifier=sources
+- pkg:maven/com.pulumi/docker@4.4.0-alpha.1692941676%2Bd8365922?classifier=sources
+- pkg:maven/com.pulumi/docker@4.4.0-alpha.1693028165%2B8784fa10?classifier=sources
+- pkg:maven/com.pulumi/docker@4.4.0-alpha.1693328620%2B0c6b7105?classifier=sources

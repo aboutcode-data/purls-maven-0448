@@ -36,3 +36,11 @@
 - pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@0.9.28?classifier=sources
 - pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@0.9.29
 - pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@0.9.29?classifier=sources
+- pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@0.9.31
+- pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@0.9.31?classifier=sources
+- pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@1.0.0
+- pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@1.0.0?classifier=sources
+- pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@2.0.0
+- pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@2.0.0?classifier=sources
+- pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@2.0.1
+- pkg:maven/org.openprovenance.prov/prov-jsweet-candy-java@2.0.1?classifier=sources

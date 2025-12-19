@@ -1,0 +1,2 @@
+- pkg:maven/io.github.windymelt/happy-birthday_3@0.0.1
+- pkg:maven/io.github.windymelt/happy-birthday_3@0.0.1?classifier=sources

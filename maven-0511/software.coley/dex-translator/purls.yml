@@ -1,1 +1,2 @@
 - pkg:maven/software.coley/dex-translator@1.1.0?classifier=sources
+- pkg:maven/software.coley/dex-translator@1.1.1?classifier=sources

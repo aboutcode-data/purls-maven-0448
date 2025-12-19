@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/swagger-api__apidom-ast@0.69.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-api__apidom-ast@0.70.0
 - pkg:maven/org.webjars.npm/swagger-api__apidom-ast@0.70.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ast@0.74.1
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ast@0.74.1?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ast@0.76.0
+- pkg:maven/org.webjars.npm/swagger-api__apidom-ast@0.76.0?classifier=sources

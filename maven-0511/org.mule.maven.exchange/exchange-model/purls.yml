@@ -40,3 +40,7 @@
 - pkg:maven/org.mule.maven.exchange/exchange-model@2.2.2?classifier=sources
 - pkg:maven/org.mule.maven.exchange/exchange-model@2.3.0
 - pkg:maven/org.mule.maven.exchange/exchange-model@2.3.0?classifier=sources
+- pkg:maven/org.mule.maven.exchange/exchange-model@2.4.0
+- pkg:maven/org.mule.maven.exchange/exchange-model@2.4.0?classifier=sources
+- pkg:maven/org.mule.maven.exchange/exchange-model@2.5.0
+- pkg:maven/org.mule.maven.exchange/exchange-model@2.5.0?classifier=sources

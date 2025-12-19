@@ -1,2 +1,8 @@
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.20
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.20?classifier=sources
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.31
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.31.1
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.31.1?classifier=sources
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.31.2
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.31.2?classifier=sources
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-db-alpine64@10.4.31?classifier=sources

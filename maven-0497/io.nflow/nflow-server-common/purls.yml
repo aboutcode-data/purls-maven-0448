@@ -52,3 +52,5 @@
 - pkg:maven/io.nflow/nflow-server-common@7.4.0?classifier=sources
 - pkg:maven/io.nflow/nflow-server-common@8.0.0
 - pkg:maven/io.nflow/nflow-server-common@8.0.0?classifier=sources
+- pkg:maven/io.nflow/nflow-server-common@9.0.0
+- pkg:maven/io.nflow/nflow-server-common@9.0.0?classifier=sources

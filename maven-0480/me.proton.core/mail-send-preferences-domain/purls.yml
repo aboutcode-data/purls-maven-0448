@@ -1,0 +1,4 @@
+- pkg:maven/me.proton.core/mail-send-preferences-domain@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@16.0.0?classifier=sources

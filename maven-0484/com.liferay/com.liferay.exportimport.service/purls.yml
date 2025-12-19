@@ -1421,5 +1421,6 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.service@8.0.92
 - pkg:maven/com.liferay/com.liferay.exportimport.service@8.0.92?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.service@8.0.93?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.service@8.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.service@8.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.service@8.0.9?classifier=sources-commercial

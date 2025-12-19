@@ -102,3 +102,7 @@
 - pkg:maven/org.rdlinux/ez-mybatis-spring@0.5.1.RS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-spring@0.5.2.RS
 - pkg:maven/org.rdlinux/ez-mybatis-spring@0.5.2.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.5.3.RS
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.5.3.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.5.4.RS
+- pkg:maven/org.rdlinux/ez-mybatis-spring@0.5.4.RS?classifier=sources

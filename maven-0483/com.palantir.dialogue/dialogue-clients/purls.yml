@@ -341,3 +341,4 @@
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.9.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.90.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.91.0-rc1?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-clients@3.91.0?classifier=sources

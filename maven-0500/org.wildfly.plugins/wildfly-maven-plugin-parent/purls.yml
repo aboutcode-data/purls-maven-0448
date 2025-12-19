@@ -45,3 +45,4 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@4.1.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@4.2.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@4.2.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@5.0.0.Alpha1?classifier=source-release&type=zip

@@ -1,3 +1,4 @@
 - pkg:maven/com.vitechteam.archtests/spring@0.1?classifier=sources
 - pkg:maven/com.vitechteam.archtests/spring@0.5?classifier=sources
 - pkg:maven/com.vitechteam.archtests/spring@0.6?classifier=sources
+- pkg:maven/com.vitechteam.archtests/spring@0.7?classifier=sources

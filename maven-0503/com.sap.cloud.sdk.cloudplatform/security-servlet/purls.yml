@@ -188,6 +188,8 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-servlet@4.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-servlet@4.20.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-servlet@4.20.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-servlet@4.21.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-servlet@4.21.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-servlet@4.3.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-servlet@4.3.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-servlet@4.4.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.openmbee.mdk.magic/systems-reasoner@2.0.0-RC1?classifier=sources
+- pkg:maven/org.openmbee.mdk.magic/systems-reasoner@2.0.0?classifier=sources

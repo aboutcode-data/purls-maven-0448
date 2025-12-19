@@ -32,3 +32,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.7.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.8.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.8.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.8.100?classifier=sources

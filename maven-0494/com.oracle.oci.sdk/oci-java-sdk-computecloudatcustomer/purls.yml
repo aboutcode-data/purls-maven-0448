@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.23.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.23.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.24.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.24.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.25.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.25.0?classifier=sources

@@ -41,6 +41,7 @@
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.1.3?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.1.4?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.10.0?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.10.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.2.0?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.2.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.2.2?classifier=sources
@@ -100,6 +101,7 @@
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.9.3?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.9.4?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.9.5?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@3.9.6?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.0-M1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.0-M2?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.0-M3?classifier=sources
@@ -116,4 +118,12 @@
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.2?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.3?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.4?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.5?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.0.6?classifier=sources
 - pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.1.0?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.1.1?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.1.2?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.1.3?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.1.4?classifier=sources
+- pkg:maven/io.micronaut/micronaut-inject-groovy-test@4.1.5?classifier=sources

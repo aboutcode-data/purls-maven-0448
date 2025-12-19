@@ -136,3 +136,7 @@
 - pkg:maven/org.alluxio/alluxio-shell@301?classifier=sources
 - pkg:maven/org.alluxio/alluxio-shell@302
 - pkg:maven/org.alluxio/alluxio-shell@302?classifier=sources
+- pkg:maven/org.alluxio/alluxio-shell@303
+- pkg:maven/org.alluxio/alluxio-shell@303?classifier=sources
+- pkg:maven/org.alluxio/alluxio-shell@304
+- pkg:maven/org.alluxio/alluxio-shell@304?classifier=sources

@@ -37,3 +37,4 @@
 - pkg:maven/io.bkbn/kompendium-locations@3.6.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-locations@3.8.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-locations@3.9.0?classifier=sources
+- pkg:maven/io.bkbn/kompendium-locations@4.0.0-alpha?classifier=sources
