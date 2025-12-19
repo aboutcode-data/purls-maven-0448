@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kosik/simple-json-rpc-server@1.4.001
+- pkg:maven/io.github.kosik/simple-json-rpc-server@1.4.001?classifier=sources

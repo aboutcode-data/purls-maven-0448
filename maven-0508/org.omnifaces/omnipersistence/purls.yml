@@ -28,6 +28,8 @@
 - pkg:maven/org.omnifaces/omnipersistence@0.20
 - pkg:maven/org.omnifaces/omnipersistence@0.20.J1
 - pkg:maven/org.omnifaces/omnipersistence@0.20.J1?classifier=sources
+- pkg:maven/org.omnifaces/omnipersistence@0.20.J2
+- pkg:maven/org.omnifaces/omnipersistence@0.20.J2?classifier=sources
 - pkg:maven/org.omnifaces/omnipersistence@0.20?classifier=sources
 - pkg:maven/org.omnifaces/omnipersistence@0.2?classifier=sources
 - pkg:maven/org.omnifaces/omnipersistence@0.3

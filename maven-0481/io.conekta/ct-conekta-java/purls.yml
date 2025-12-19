@@ -2,3 +2,5 @@
 - pkg:maven/io.conekta/ct-conekta-java@0.0.8?classifier=sources
 - pkg:maven/io.conekta/ct-conekta-java@3.0.0
 - pkg:maven/io.conekta/ct-conekta-java@3.0.0?classifier=sources
+- pkg:maven/io.conekta/ct-conekta-java@3.0.1
+- pkg:maven/io.conekta/ct-conekta-java@3.0.1?classifier=sources

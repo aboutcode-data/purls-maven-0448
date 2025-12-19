@@ -3,3 +3,4 @@
 - pkg:maven/top.colter/bilibili-dynamic-mirai-plugin@3.0.0?classifier=sources
 - pkg:maven/top.colter/bilibili-dynamic-mirai-plugin@3.1.0?classifier=sources
 - pkg:maven/top.colter/bilibili-dynamic-mirai-plugin@3.2.0?classifier=sources
+- pkg:maven/top.colter/bilibili-dynamic-mirai-plugin@3.2.1?classifier=sources

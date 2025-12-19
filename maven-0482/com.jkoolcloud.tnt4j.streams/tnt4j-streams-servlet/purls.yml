@@ -4,3 +4,5 @@
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@1.14.1?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@1.14.2?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@1.14.2?type=war
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@1.14.3?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@1.14.3?type=war

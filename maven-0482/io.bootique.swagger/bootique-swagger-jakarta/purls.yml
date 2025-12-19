@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.swagger/bootique-swagger-jakarta@3.0.M1
+- pkg:maven/io.bootique.swagger/bootique-swagger-jakarta@3.0.M1?classifier=sources

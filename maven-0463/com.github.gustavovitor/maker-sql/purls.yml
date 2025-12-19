@@ -32,3 +32,5 @@
 - pkg:maven/com.github.gustavovitor/maker-sql@1.5.4?classifier=sources
 - pkg:maven/com.github.gustavovitor/maker-sql@1.6.4
 - pkg:maven/com.github.gustavovitor/maker-sql@1.6.4?classifier=sources
+- pkg:maven/com.github.gustavovitor/maker-sql@1.7.0
+- pkg:maven/com.github.gustavovitor/maker-sql@1.7.0?classifier=sources

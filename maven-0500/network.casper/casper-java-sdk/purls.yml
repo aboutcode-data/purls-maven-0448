@@ -29,3 +29,4 @@
 - pkg:maven/network.casper/casper-java-sdk@0.3.8?classifier=sources
 - pkg:maven/network.casper/casper-java-sdk@0.3.9
 - pkg:maven/network.casper/casper-java-sdk@0.3.9?classifier=sources
+- pkg:maven/network.casper/casper-java-sdk@2.0.0?classifier=sources

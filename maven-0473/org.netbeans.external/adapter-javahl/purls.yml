@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.external/adapter-javahl@RELEASE130
 - pkg:maven/org.netbeans.external/adapter-javahl@RELEASE140
 - pkg:maven/org.netbeans.external/adapter-javahl@RELEASE150
+- pkg:maven/org.netbeans.external/adapter-javahl@RELEASE160

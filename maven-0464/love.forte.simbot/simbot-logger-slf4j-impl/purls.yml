@@ -1,1 +1,4 @@
 - pkg:maven/love.forte.simbot/simbot-logger-slf4j-impl@3.0.0-M2?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-logger-slf4j-impl@3.0.0-M3?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-logger-slf4j-impl@3.0.0-M4?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-logger-slf4j-impl@3.0.0-M5?classifier=sources

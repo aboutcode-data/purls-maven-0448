@@ -36,6 +36,10 @@
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.1.99-rc0803
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.1.99-rc0803?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.1.9?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.2.1
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.2.1?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.2.2
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.2.2?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202204242205
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202204242205?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202204252206
@@ -66,6 +70,8 @@
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202205072206?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202205082205
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202205082205?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.8.2.16
+- pkg:maven/io.streamnative/java-version-trim-agent@2.8.2.16?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.8.3.2
 - pkg:maven/io.streamnative/java-version-trim-agent@2.8.3.2?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.8.3.3
@@ -123,6 +129,12 @@
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.14?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.15
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.15?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.16
+- pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.16?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.17
+- pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.17?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.18
+- pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.18?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.1?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.2
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.3.2?classifier=sources

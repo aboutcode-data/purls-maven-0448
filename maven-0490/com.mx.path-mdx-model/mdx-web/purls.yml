@@ -1,0 +1,2 @@
+- pkg:maven/com.mx.path-mdx-model/mdx-web@1.6.0?classifier=sources
+- pkg:maven/com.mx.path-mdx-model/mdx-web@1.6.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.mmorrell/serum@1.3?classifier=sources
 - pkg:maven/com.mmorrell/serum@1.6
 - pkg:maven/com.mmorrell/serum@1.6?classifier=sources
+- pkg:maven/com.mmorrell/serum@1.7
+- pkg:maven/com.mmorrell/serum@1.7?classifier=sources

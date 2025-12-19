@@ -16,3 +16,9 @@
 - pkg:maven/com.tradplusad/tradplus-max@51.8.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-max@51.8.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-max@51.8.6.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-max@51.8.6.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-max@51.8.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-max@51.8.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-max@51.8.7.20.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-max@51.8.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-max@51.8.9.0.1?type=aar

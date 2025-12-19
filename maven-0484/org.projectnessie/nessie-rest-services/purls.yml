@@ -56,3 +56,4 @@
 - pkg:maven/org.projectnessie/nessie-rest-services@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-rest-services@0.43.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-rest-services@0.44.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-rest-services@0.45.0?classifier=sources

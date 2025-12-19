@@ -1,0 +1,14 @@
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.29
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.29?classifier=sources
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.30
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.30?classifier=sources
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.31
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.31?classifier=sources
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.32
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.32?classifier=sources
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.33
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.33?classifier=sources
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.34
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.34?classifier=sources
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.35
+- pkg:maven/software.amazon.awssdk/codecatalyst@2.18.35?classifier=sources

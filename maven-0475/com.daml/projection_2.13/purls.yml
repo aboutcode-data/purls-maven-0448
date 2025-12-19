@@ -1,0 +1,4 @@
+- pkg:maven/com.daml/projection_2.13@2.5.0-snapshot-20221129-2-s56b251b4
+- pkg:maven/com.daml/projection_2.13@2.5.0-snapshot-20221129-2-s56b251b4?classifier=sources
+- pkg:maven/com.daml/projection_2.13@2.5.0-snapshot-20221129-2-sefc2ef99
+- pkg:maven/com.daml/projection_2.13@2.5.0-snapshot-20221129-2-sefc2ef99?classifier=sources

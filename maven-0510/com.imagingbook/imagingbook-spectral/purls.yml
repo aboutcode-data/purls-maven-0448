@@ -1,2 +1,4 @@
 - pkg:maven/com.imagingbook/imagingbook-spectral@5.0.0
 - pkg:maven/com.imagingbook/imagingbook-spectral@5.0.0?classifier=sources
+- pkg:maven/com.imagingbook/imagingbook-spectral@6.0.0
+- pkg:maven/com.imagingbook/imagingbook-spectral@6.0.0?classifier=sources

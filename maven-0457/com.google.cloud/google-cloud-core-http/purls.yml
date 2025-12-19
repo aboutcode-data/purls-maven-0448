@@ -386,6 +386,12 @@
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.23?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.24
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.24?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.8.26
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.8.26?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.8.27
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.8.27?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.8.28
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.8.28?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.3
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.3?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.4
@@ -400,3 +406,5 @@
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.9
 - pkg:maven/com.google.cloud/google-cloud-core-http@2.8.9?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.9.0
+- pkg:maven/com.google.cloud/google-cloud-core-http@2.9.0?classifier=sources

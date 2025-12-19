@@ -58,3 +58,9 @@
 - pkg:maven/me.proton.core/domain@9.2.1?classifier=sources
 - pkg:maven/me.proton.core/domain@9.2.2?classifier=sources
 - pkg:maven/me.proton.core/domain@9.3.0?classifier=sources
+- pkg:maven/me.proton.core/domain@9.3.1?classifier=sources
+- pkg:maven/me.proton.core/domain@9.4.0?classifier=sources
+- pkg:maven/me.proton.core/domain@9.4.1?classifier=sources
+- pkg:maven/me.proton.core/domain@9.5.0?classifier=sources
+- pkg:maven/me.proton.core/domain@9.6.0?classifier=sources
+- pkg:maven/me.proton.core/domain@9.7.0?classifier=sources

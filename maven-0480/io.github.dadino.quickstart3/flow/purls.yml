@@ -6,3 +6,4 @@
 - pkg:maven/io.github.dadino.quickstart3/flow@0.12.5?classifier=sources
 - pkg:maven/io.github.dadino.quickstart3/flow@0.12.6?classifier=sources
 - pkg:maven/io.github.dadino.quickstart3/flow@0.12.7?classifier=sources
+- pkg:maven/io.github.dadino.quickstart3/flow@0.12.8?classifier=sources

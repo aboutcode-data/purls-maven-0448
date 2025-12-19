@@ -123,7 +123,11 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.24
 - pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.25
 - pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.26
+- pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.27
+- pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.28
+- pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.29
 - pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.3
+- pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.30
 - pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.4
 - pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.5
 - pkg:maven/org.eclipse.dirigible/dirigible-security@6.3.6

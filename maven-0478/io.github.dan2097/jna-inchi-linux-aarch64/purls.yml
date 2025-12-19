@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dan2097/jna-inchi-linux-aarch64@1.2
+- pkg:maven/io.github.dan2097/jna-inchi-linux-aarch64@1.2?classifier=sources

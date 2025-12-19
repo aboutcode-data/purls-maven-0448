@@ -6,6 +6,7 @@
 - pkg:maven/eu.vaadinonkotlin/vok-rest@0.12.1?classifier=sources
 - pkg:maven/eu.vaadinonkotlin/vok-rest@0.13.0?classifier=sources
 - pkg:maven/eu.vaadinonkotlin/vok-rest@0.14.0?classifier=sources
+- pkg:maven/eu.vaadinonkotlin/vok-rest@0.14.1?classifier=sources
 - pkg:maven/eu.vaadinonkotlin/vok-rest@0.6.0
 - pkg:maven/eu.vaadinonkotlin/vok-rest@0.6.0?classifier=sources
 - pkg:maven/eu.vaadinonkotlin/vok-rest@0.6.1

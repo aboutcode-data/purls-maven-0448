@@ -1,1 +1,2 @@
 - pkg:maven/com.gitee.zzhhz/ZHRecorder@1.0.4?classifier=sources
+- pkg:maven/com.gitee.zzhhz/ZHRecorder@1.0.5?classifier=sources

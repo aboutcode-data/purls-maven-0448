@@ -4,3 +4,4 @@
 - pkg:maven/io.github.patxibocos/matriz@0.0.4?classifier=sources
 - pkg:maven/io.github.patxibocos/matriz@0.0.5?classifier=sources
 - pkg:maven/io.github.patxibocos/matriz@1.0.0?classifier=sources
+- pkg:maven/io.github.patxibocos/matriz@1.0.1?classifier=sources

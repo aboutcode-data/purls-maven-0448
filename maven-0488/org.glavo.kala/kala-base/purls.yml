@@ -19,3 +19,7 @@
 - pkg:maven/org.glavo.kala/kala-base@0.53.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-base@0.54.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-base@0.55.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-base@0.56.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-base@0.57.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-base@0.58.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-base@0.59.0?classifier=sources

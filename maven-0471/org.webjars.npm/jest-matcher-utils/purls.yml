@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/jest-matcher-utils@24.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/jest-matcher-utils@24.8.0
 - pkg:maven/org.webjars.npm/jest-matcher-utils@24.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/jest-matcher-utils@29.3.1
+- pkg:maven/org.webjars.npm/jest-matcher-utils@29.3.1?classifier=sources

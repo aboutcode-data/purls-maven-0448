@@ -12,6 +12,10 @@
 - pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.15.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.15.1
 - pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.15.1?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.15.2
+- pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.15.2?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.16.0
+- pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.16.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.6.0
 - pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.6.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-itests-loader-yaml@1.7.0

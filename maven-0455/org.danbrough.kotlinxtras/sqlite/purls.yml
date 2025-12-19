@@ -1,2 +1,3 @@
 - pkg:maven/org.danbrough.kotlinxtras/sqlite@0.0.1-beta04?classifier=sources
 - pkg:maven/org.danbrough.kotlinxtras/sqlite@3.39.4?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/sqlite@3.39.4a?classifier=sources

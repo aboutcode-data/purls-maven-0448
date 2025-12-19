@@ -1,5 +1,7 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-das@1.0.5
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-das@1.0.5?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-das@1.1.16
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-das@1.1.16?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-das@1.1.2
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-das@1.1.2?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-das@1.1.3

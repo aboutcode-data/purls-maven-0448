@@ -82,5 +82,7 @@
 - pkg:maven/com.azure/azure-search-documents@11.5.0-beta.9?classifier=sources
 - pkg:maven/com.azure/azure-search-documents@11.5.0?classifier=sources
 - pkg:maven/com.azure/azure-search-documents@11.5.1?classifier=sources
+- pkg:maven/com.azure/azure-search-documents@11.5.2?classifier=sources
 - pkg:maven/com.azure/azure-search-documents@11.6.0-beta.1?classifier=sources
 - pkg:maven/com.azure/azure-search-documents@11.6.0-beta.2?classifier=sources
+- pkg:maven/com.azure/azure-search-documents@11.6.0-beta.3?classifier=sources

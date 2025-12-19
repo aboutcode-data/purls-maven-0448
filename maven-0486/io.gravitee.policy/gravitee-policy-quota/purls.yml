@@ -27,3 +27,4 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-quota@1.9.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-quota@1.9.1?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-quota@2.0.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-quota@2.0.0?classifier=sources

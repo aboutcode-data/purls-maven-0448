@@ -38,6 +38,12 @@
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.20
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.24
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.25
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.3

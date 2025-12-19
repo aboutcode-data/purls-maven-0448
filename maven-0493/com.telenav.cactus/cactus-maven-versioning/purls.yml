@@ -92,6 +92,16 @@
 - pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.43?classifier=sources
 - pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.44
 - pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.44?classifier=sources
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.45
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.45?classifier=sources
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.46
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.46?classifier=sources
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.47
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.47?classifier=sources
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.48
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.48?classifier=sources
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.49
+- pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.49?classifier=sources
 - pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.4?classifier=sources
 - pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.5
 - pkg:maven/com.telenav.cactus/cactus-maven-versioning@1.5.5?classifier=sources

@@ -54,3 +54,4 @@
 - pkg:maven/com.thegoate/json@0.15.8.202210242318?classifier=sources
 - pkg:maven/com.thegoate/json@0.15.8.202210251328?classifier=sources
 - pkg:maven/com.thegoate/json@0.15.8.202210302200?classifier=sources
+- pkg:maven/com.thegoate/json@0.15.8.202211072256?classifier=sources

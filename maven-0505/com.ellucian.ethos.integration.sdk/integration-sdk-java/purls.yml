@@ -6,3 +6,5 @@
 - pkg:maven/com.ellucian.ethos.integration.sdk/integration-sdk-java@0.3.0?classifier=sources
 - pkg:maven/com.ellucian.ethos.integration.sdk/integration-sdk-java@1.0.0
 - pkg:maven/com.ellucian.ethos.integration.sdk/integration-sdk-java@1.0.0?classifier=sources
+- pkg:maven/com.ellucian.ethos.integration.sdk/integration-sdk-java@1.0.1
+- pkg:maven/com.ellucian.ethos.integration.sdk/integration-sdk-java@1.0.1?classifier=sources

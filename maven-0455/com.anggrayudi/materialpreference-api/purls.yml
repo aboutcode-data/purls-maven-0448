@@ -8,3 +8,4 @@
 - pkg:maven/com.anggrayudi/materialpreference-api@1.6?classifier=sources
 - pkg:maven/com.anggrayudi/materialpreference-api@1.7
 - pkg:maven/com.anggrayudi/materialpreference-api@1.7?classifier=sources
+- pkg:maven/com.anggrayudi/materialpreference-api@1.8?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/dev.vality/wb-list-proto@1.44-5dbd6d4
 - pkg:maven/dev.vality/wb-list-proto@1.44-5dbd6d4?classifier=sources
+- pkg:maven/dev.vality/wb-list-proto@1.47-2ca2005
+- pkg:maven/dev.vality/wb-list-proto@1.47-2ca2005?classifier=sources
+- pkg:maven/dev.vality/wb-list-proto@1.48-91b9226
+- pkg:maven/dev.vality/wb-list-proto@1.48-91b9226?classifier=sources
+- pkg:maven/dev.vality/wb-list-proto@1.49-d0256f0
+- pkg:maven/dev.vality/wb-list-proto@1.49-d0256f0?classifier=sources

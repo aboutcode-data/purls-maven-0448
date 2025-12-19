@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-mail-microsoft-oauth@3.18.4
+- pkg:maven/org.apache.camel/camel-mail-microsoft-oauth@3.18.4?classifier=sources

@@ -1,6 +1,11 @@
 - pkg:maven/com.yandex.div/beacon@10.0.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@11.0.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@12.0.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@13.0.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@14.0.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@15.0.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@16.0.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@17.0.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@7.0.0?classifier=sources

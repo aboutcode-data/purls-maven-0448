@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/typescript-eslint__type-utils@5.39.0
+- pkg:maven/org.webjars.npm/typescript-eslint__type-utils@5.39.0?classifier=sources

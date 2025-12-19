@@ -55,4 +55,5 @@
 - pkg:maven/com.kony.middleware/middleware-api@9.4.0.1
 - pkg:maven/com.kony.middleware/middleware-api@9.4.0.2
 - pkg:maven/com.kony.middleware/middleware-api@9.5.0.0
+- pkg:maven/com.kony.middleware/middleware-api@9.7.0.0
 - pkg:maven/com.kony.middleware/middleware-api@test

@@ -9,6 +9,8 @@
 - pkg:maven/com.mind.api/mind-android-sdk@4.14.0?classifier=sources
 - pkg:maven/com.mind.api/mind-android-sdk@4.15.0?classifier=sources
 - pkg:maven/com.mind.api/mind-android-sdk@4.16.0?classifier=sources
+- pkg:maven/com.mind.api/mind-android-sdk@4.17.0?classifier=sources
+- pkg:maven/com.mind.api/mind-android-sdk@4.18.0?classifier=sources
 - pkg:maven/com.mind.api/mind-android-sdk@4.2.0?classifier=sources
 - pkg:maven/com.mind.api/mind-android-sdk@4.3.0?classifier=sources
 - pkg:maven/com.mind.api/mind-android-sdk@4.4.0?classifier=sources

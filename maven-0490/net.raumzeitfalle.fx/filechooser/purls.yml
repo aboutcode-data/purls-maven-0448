@@ -1,3 +1,19 @@
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jdk11
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jdk11?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jdk16
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jdk16?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jdk17
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jdk17?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jdk9
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jdk9?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jfx18
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jfx18?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jfx19
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.10-jfx19?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.11
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.11.1
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.11.1?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.11?classifier=sources
 - pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.2
 - pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.2?classifier=sources
 - pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.3
@@ -12,3 +28,5 @@
 - pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.7?classifier=sources
 - pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.8
 - pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.8?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.9
+- pkg:maven/net.raumzeitfalle.fx/filechooser@0.0.9?classifier=sources

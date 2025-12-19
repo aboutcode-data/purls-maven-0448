@@ -55,6 +55,15 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@13.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@13.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@13.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@17.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@17.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@17.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@18.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@18.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@18.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@19.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@19.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@19.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@2.0.0?classifier=sources-commercial
@@ -190,3 +199,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@9.5.3
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@9.5.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@9.5.3?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@9.6.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@9.6.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.api@9.6.0?classifier=sources-commercial

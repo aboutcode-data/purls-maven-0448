@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-nativeimage-debugger@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-nativeimage-debugger@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-nativeimage-debugger@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-nativeimage-debugger@RELEASE160?classifier=sources

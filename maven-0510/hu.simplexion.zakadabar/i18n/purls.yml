@@ -35,6 +35,8 @@
 - pkg:maven/hu.simplexion.zakadabar/i18n@2021.9.15?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/i18n@2021.9.21?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/i18n@2022.10.19?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/i18n@2022.11.9?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/i18n@2022.12.13?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/i18n@2022.2.10?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/i18n@2022.2.14?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/i18n@2022.2.25?classifier=sources

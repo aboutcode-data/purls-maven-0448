@@ -124,3 +124,5 @@
 - pkg:maven/org.springframework.batch/spring-batch-test@4.3.6?classifier=sources
 - pkg:maven/org.springframework.batch/spring-batch-test@4.3.7
 - pkg:maven/org.springframework.batch/spring-batch-test@4.3.7?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-test@5.0.0
+- pkg:maven/org.springframework.batch/spring-batch-test@5.0.0?classifier=sources

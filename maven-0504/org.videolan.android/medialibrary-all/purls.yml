@@ -26,8 +26,12 @@
 - pkg:maven/org.videolan.android/medialibrary-all@0.12.0-vlc4-eap3?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.13.13-rc1?classifier=sources
 - pkg:maven/org.videolan.android/medialibrary-all@0.13.13-rc1?type=aar
+- pkg:maven/org.videolan.android/medialibrary-all@0.13.13-rc2?classifier=sources
+- pkg:maven/org.videolan.android/medialibrary-all@0.13.13-rc2?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.13.13-vlc4-rc1?classifier=sources
 - pkg:maven/org.videolan.android/medialibrary-all@0.13.13-vlc4-rc1?type=aar
+- pkg:maven/org.videolan.android/medialibrary-all@0.13.13-vlc4-rc2?classifier=sources
+- pkg:maven/org.videolan.android/medialibrary-all@0.13.13-vlc4-rc2?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.13.3-eap1?classifier=sources
 - pkg:maven/org.videolan.android/medialibrary-all@0.13.3-eap1?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.13.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.asere.omni.mvi/mvi-lock@1.0?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-lock@1.1.0?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-lock@1.1.2?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-lock@unspecified?classifier=sources

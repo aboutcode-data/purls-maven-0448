@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jest__schemas@29.0.0
+- pkg:maven/org.webjars.npm/jest__schemas@29.0.0?classifier=sources

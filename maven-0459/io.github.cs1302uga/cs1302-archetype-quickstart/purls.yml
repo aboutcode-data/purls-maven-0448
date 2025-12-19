@@ -40,6 +40,11 @@
 - pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.54?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.55?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.58?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.61?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.62?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.63?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.64?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.65?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.7?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.8?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-archetype-quickstart@0.3.9?classifier=sources

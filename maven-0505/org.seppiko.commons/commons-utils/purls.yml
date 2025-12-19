@@ -34,3 +34,7 @@
 - pkg:maven/org.seppiko.commons/commons-utils@2.4.0?classifier=sources
 - pkg:maven/org.seppiko.commons/commons-utils@2.5.0
 - pkg:maven/org.seppiko.commons/commons-utils@2.5.0?classifier=sources
+- pkg:maven/org.seppiko.commons/commons-utils@2.6.0
+- pkg:maven/org.seppiko.commons/commons-utils@2.6.0?classifier=sources
+- pkg:maven/org.seppiko.commons/commons-utils@2.6.1
+- pkg:maven/org.seppiko.commons/commons-utils@2.6.1?classifier=sources

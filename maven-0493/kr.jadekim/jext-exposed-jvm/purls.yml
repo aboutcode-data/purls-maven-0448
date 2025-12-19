@@ -10,3 +10,5 @@
 - pkg:maven/kr.jadekim/jext-exposed-jvm@2.0.1-beta2?classifier=sources
 - pkg:maven/kr.jadekim/jext-exposed-jvm@2.0.1-beta3?classifier=sources
 - pkg:maven/kr.jadekim/jext-exposed-jvm@2.0.1-beta4?classifier=sources
+- pkg:maven/kr.jadekim/jext-exposed-jvm@2.0.2?classifier=sources
+- pkg:maven/kr.jadekim/jext-exposed-jvm@2.0.3-alpha1?classifier=sources

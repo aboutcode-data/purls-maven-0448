@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-htmlxml@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-htmlxml@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-htmlxml@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-htmlxml@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-htmlxml@RELEASE90?classifier=sources

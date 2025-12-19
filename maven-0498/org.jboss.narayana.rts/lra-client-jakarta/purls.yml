@@ -1,2 +1,4 @@
 - pkg:maven/org.jboss.narayana.rts/lra-client-jakarta@5.13.1.Alpha1
 - pkg:maven/org.jboss.narayana.rts/lra-client-jakarta@5.13.1.Alpha1?classifier=sources
+- pkg:maven/org.jboss.narayana.rts/lra-client-jakarta@5.13.1.Final
+- pkg:maven/org.jboss.narayana.rts/lra-client-jakarta@5.13.1.Final?classifier=sources

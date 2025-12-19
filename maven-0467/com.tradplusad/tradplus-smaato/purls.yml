@@ -101,3 +101,8 @@
 - pkg:maven/com.tradplusad/tradplus-smaato@38.8.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-smaato@38.8.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-smaato@38.8.6.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-smaato@38.8.6.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-smaato@38.8.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-smaato@38.8.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-smaato@38.8.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-smaato@38.8.9.0.1?type=aar

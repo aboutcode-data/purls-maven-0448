@@ -60,3 +60,4 @@
 - pkg:maven/org.projectnessie/nessie-versioned-persist-mongodb@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-versioned-persist-mongodb@0.43.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-versioned-persist-mongodb@0.44.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-persist-mongodb@0.45.0?classifier=sources

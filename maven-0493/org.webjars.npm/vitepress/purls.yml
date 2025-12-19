@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vitepress@1.0.0-draft.8
+- pkg:maven/org.webjars.npm/vitepress@1.0.0-draft.8?classifier=sources

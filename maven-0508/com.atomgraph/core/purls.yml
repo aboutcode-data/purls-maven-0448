@@ -24,4 +24,6 @@
 - pkg:maven/com.atomgraph/core@3.1.10?classifier=sources
 - pkg:maven/com.atomgraph/core@3.1.13?classifier=sources
 - pkg:maven/com.atomgraph/core@3.1.14?classifier=sources
+- pkg:maven/com.atomgraph/core@3.1.15?classifier=sources
+- pkg:maven/com.atomgraph/core@3.1.16?classifier=sources
 - pkg:maven/com.atomgraph/core@3.1.2?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.69.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.70.0
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.70.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.71.0
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.71.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.72.0
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.72.0?classifier=sources

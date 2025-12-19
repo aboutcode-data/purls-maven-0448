@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/algoliasearch@3.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/algoliasearch@4.12.1
 - pkg:maven/org.webjars.npm/algoliasearch@4.12.1?classifier=sources
+- pkg:maven/org.webjars.npm/algoliasearch@5.0.0-alpha.9
+- pkg:maven/org.webjars.npm/algoliasearch@5.0.0-alpha.9?classifier=sources

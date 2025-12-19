@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/libsodium@0.7.10
+- pkg:maven/org.webjars.npm/libsodium@0.7.10?classifier=sources
 - pkg:maven/org.webjars.npm/libsodium@0.7.5
 - pkg:maven/org.webjars.npm/libsodium@0.7.5?classifier=sources
