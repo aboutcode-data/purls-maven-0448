@@ -1,3 +1,11 @@
+- pkg:maven/org.teasoft/bee-spring-boot@1.11
+- pkg:maven/org.teasoft/bee-spring-boot@1.11.boot1.5.16
+- pkg:maven/org.teasoft/bee-spring-boot@1.11.boot1.5.16?classifier=sources
+- pkg:maven/org.teasoft/bee-spring-boot@1.11.boot2.5.13
+- pkg:maven/org.teasoft/bee-spring-boot@1.11.boot2.5.13?classifier=sources
+- pkg:maven/org.teasoft/bee-spring-boot@1.11.boot2.6.7
+- pkg:maven/org.teasoft/bee-spring-boot@1.11.boot2.6.7?classifier=sources
+- pkg:maven/org.teasoft/bee-spring-boot@1.11?classifier=sources
 - pkg:maven/org.teasoft/bee-spring-boot@1.9.5
 - pkg:maven/org.teasoft/bee-spring-boot@1.9.5.boot2.0.4.RELEASE
 - pkg:maven/org.teasoft/bee-spring-boot@1.9.5.boot2.0.4.RELEASE?classifier=sources

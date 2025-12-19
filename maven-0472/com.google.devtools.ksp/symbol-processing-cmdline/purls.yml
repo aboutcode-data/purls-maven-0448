@@ -18,3 +18,5 @@
 - pkg:maven/com.google.devtools.ksp/symbol-processing-cmdline@1.6.20-M1-1.0.2?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-cmdline@1.6.20-RC-1.0.4?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-cmdline@1.6.20-RC2-1.0.4?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-cmdline@1.6.21-1.0.5?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-cmdline@1.7.0-Beta-1.0.5?classifier=sources

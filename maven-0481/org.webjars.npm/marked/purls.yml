@@ -58,5 +58,9 @@
 - pkg:maven/org.webjars.npm/marked@3.0.8?classifier=sources
 - pkg:maven/org.webjars.npm/marked@4.0.12
 - pkg:maven/org.webjars.npm/marked@4.0.12?classifier=sources
+- pkg:maven/org.webjars.npm/marked@4.0.14
+- pkg:maven/org.webjars.npm/marked@4.0.14?classifier=sources
+- pkg:maven/org.webjars.npm/marked@4.0.16
+- pkg:maven/org.webjars.npm/marked@4.0.16?classifier=sources
 - pkg:maven/org.webjars.npm/marked@4.0.8
 - pkg:maven/org.webjars.npm/marked@4.0.8?classifier=sources

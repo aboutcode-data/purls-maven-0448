@@ -1,0 +1,5 @@
+- pkg:maven/io.github.youmesdk/youmevideosdk@1.0.0?classifier=sources
+- pkg:maven/io.github.youmesdk/youmevideosdk@3.4.2.1093?classifier=sources
+- pkg:maven/io.github.youmesdk/youmevideosdk@3.4.2.1094?classifier=sources
+- pkg:maven/io.github.youmesdk/youmevideosdk@3.4.2?classifier=sources
+- pkg:maven/io.github.youmesdk/youmevideosdk@3.4.3?classifier=sources

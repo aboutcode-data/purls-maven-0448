@@ -1,3 +1,4 @@
 - pkg:maven/org.opencadc/cadc-web-util@1.2.10?classifier=sources
 - pkg:maven/org.opencadc/cadc-web-util@1.2.11?classifier=sources
+- pkg:maven/org.opencadc/cadc-web-util@1.2.12?classifier=sources
 - pkg:maven/org.opencadc/cadc-web-util@1.2.8?classifier=sources

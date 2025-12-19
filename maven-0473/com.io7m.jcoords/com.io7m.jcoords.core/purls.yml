@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.jcoords/com.io7m.jcoords.core@0.2.0?classifier=sources
 - pkg:maven/com.io7m.jcoords/com.io7m.jcoords.core@1.0.0
 - pkg:maven/com.io7m.jcoords/com.io7m.jcoords.core@1.0.0?classifier=sources
+- pkg:maven/com.io7m.jcoords/com.io7m.jcoords.core@2.0.0
+- pkg:maven/com.io7m.jcoords/com.io7m.jcoords.core@2.0.0?classifier=sources

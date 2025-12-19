@@ -170,3 +170,7 @@
 - pkg:maven/io.github.devsecops-zone/engine-plugin@2.0.8?classifier=sources
 - pkg:maven/io.github.devsecops-zone/engine-plugin@2.0.9
 - pkg:maven/io.github.devsecops-zone/engine-plugin@2.0.9?classifier=sources
+- pkg:maven/io.github.devsecops-zone/engine-plugin@3.0.0
+- pkg:maven/io.github.devsecops-zone/engine-plugin@3.0.0?classifier=sources
+- pkg:maven/io.github.devsecops-zone/engine-plugin@3.4.0
+- pkg:maven/io.github.devsecops-zone/engine-plugin@3.4.0?classifier=sources

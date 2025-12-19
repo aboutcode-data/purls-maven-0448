@@ -4,3 +4,5 @@
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2021.4.21?classifier=sources
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2021.5.5
 - pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2021.5.5?classifier=sources
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.6.8
+- pkg:maven/wtf.metio.yosql.internals/yosql-internals-junit5-utils@2022.6.8?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/org.jboss.resteasy/galleon-feature-pack@6.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/galleon-feature-pack@6.1.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.resteasy/galleon-feature-pack@6.1.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.resteasy/galleon-feature-pack@6.1.0.Beta2?classifier=sources

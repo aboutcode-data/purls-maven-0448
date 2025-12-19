@@ -1,0 +1,4 @@
+- pkg:maven/com.github.xwine/we-end-unit@1.5.7
+- pkg:maven/com.github.xwine/we-end-unit@1.5.7?classifier=sources
+- pkg:maven/com.github.xwine/we-end-unit@1.5.8?classifier=sources
+- pkg:maven/com.github.xwine/we-end-unit@1.5.9?classifier=sources

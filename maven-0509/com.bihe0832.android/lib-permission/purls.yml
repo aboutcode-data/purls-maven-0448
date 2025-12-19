@@ -61,9 +61,15 @@
 - pkg:maven/com.bihe0832.android/lib-permission@4.17.2?type=aar
 - pkg:maven/com.bihe0832.android/lib-permission@4.18.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-permission@4.18.3?type=aar
+- pkg:maven/com.bihe0832.android/lib-permission@4.18.5?type=aar
+- pkg:maven/com.bihe0832.android/lib-permission@4.19.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-permission@4.19.4?type=aar
+- pkg:maven/com.bihe0832.android/lib-permission@4.19.7?type=aar
+- pkg:maven/com.bihe0832.android/lib-permission@4.19.9?type=aar
 - pkg:maven/com.bihe0832.android/lib-permission@4.2.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-permission@4.2.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-permission@4.2.2?type=aar
+- pkg:maven/com.bihe0832.android/lib-permission@4.20.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-permission@4.3.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-permission@4.5.5?type=aar
 - pkg:maven/com.bihe0832.android/lib-permission@4.5.6?type=aar

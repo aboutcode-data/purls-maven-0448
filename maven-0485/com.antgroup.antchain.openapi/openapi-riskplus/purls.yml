@@ -1,3 +1,19 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.0
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.0?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.1
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.1?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.2
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.2?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.4
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.4?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.5
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.10.5?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.11.3
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.11.3?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.11.4
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.11.4?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.11.7
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.11.7?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.6.5
 - pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.6.5?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.8.8
@@ -10,3 +26,5 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.9.2?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.9.3
 - pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.9.3?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.9.5
+- pkg:maven/com.antgroup.antchain.openapi/openapi-riskplus@1.9.5?classifier=sources

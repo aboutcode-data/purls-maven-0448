@@ -6,5 +6,7 @@
 - pkg:maven/org.webjars.npm/material__tooltip@12.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tooltip@13.0.0
 - pkg:maven/org.webjars.npm/material__tooltip@13.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__tooltip@14.0.0
+- pkg:maven/org.webjars.npm/material__tooltip@14.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tooltip@9.0.0
 - pkg:maven/org.webjars.npm/material__tooltip@9.0.0?classifier=sources

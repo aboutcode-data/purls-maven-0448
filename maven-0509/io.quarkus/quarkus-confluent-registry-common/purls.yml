@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkus/quarkus-confluent-registry-common@2.9.0.CR1
+- pkg:maven/io.quarkus/quarkus-confluent-registry-common@2.9.0.Final
+- pkg:maven/io.quarkus/quarkus-confluent-registry-common@2.9.1.Final
+- pkg:maven/io.quarkus/quarkus-confluent-registry-common@2.9.2.Final

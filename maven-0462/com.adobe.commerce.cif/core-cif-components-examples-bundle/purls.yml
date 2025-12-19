@@ -22,3 +22,5 @@
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-examples-bundle@2.5.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-examples-bundle@2.6.0
 - pkg:maven/com.adobe.commerce.cif/core-cif-components-examples-bundle@2.7.0
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-examples-bundle@2.7.2
+- pkg:maven/com.adobe.commerce.cif/core-cif-components-examples-bundle@2.8.0

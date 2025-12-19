@@ -17,3 +17,5 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-dmn-pmml-trusty@7.66.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-dmn-pmml-trusty@7.67.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-dmn-pmml-trusty@7.68.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-dmn-pmml-trusty@7.69.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-dmn-pmml-trusty@7.70.0.Final

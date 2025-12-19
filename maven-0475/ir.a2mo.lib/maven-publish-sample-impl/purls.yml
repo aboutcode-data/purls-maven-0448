@@ -1,0 +1,4 @@
+- pkg:maven/ir.a2mo.lib/maven-publish-sample-impl@0.0.18
+- pkg:maven/ir.a2mo.lib/maven-publish-sample-impl@0.0.18?classifier=sources
+- pkg:maven/ir.a2mo.lib/maven-publish-sample-impl@1.0.1
+- pkg:maven/ir.a2mo.lib/maven-publish-sample-impl@1.0.1?classifier=sources

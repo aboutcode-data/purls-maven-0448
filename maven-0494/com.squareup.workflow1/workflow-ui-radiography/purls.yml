@@ -18,3 +18,6 @@
 - pkg:maven/com.squareup.workflow1/workflow-ui-radiography@1.4.0?classifier=sources
 - pkg:maven/com.squareup.workflow1/workflow-ui-radiography@1.5.0?classifier=sources
 - pkg:maven/com.squareup.workflow1/workflow-ui-radiography@1.6.0?classifier=sources
+- pkg:maven/com.squareup.workflow1/workflow-ui-radiography@1.7.0?classifier=sources
+- pkg:maven/com.squareup.workflow1/workflow-ui-radiography@1.7.1?classifier=sources
+- pkg:maven/com.squareup.workflow1/workflow-ui-radiography@1.8.0-beta01?classifier=sources

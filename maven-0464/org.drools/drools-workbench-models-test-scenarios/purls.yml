@@ -300,8 +300,12 @@
 - pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.67.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.68.0.Final
 - pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.68.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.69.0.Final
+- pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.69.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.7.0.Final
 - pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.7.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.70.0.Final
+- pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.70.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.8.0.Final
 - pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.8.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-workbench-models-test-scenarios@7.9.0.Final

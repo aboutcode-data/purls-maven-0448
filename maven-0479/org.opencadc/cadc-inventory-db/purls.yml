@@ -5,3 +5,5 @@
 - pkg:maven/org.opencadc/cadc-inventory-db@0.12.1?classifier=sources
 - pkg:maven/org.opencadc/cadc-inventory-db@0.13.0?classifier=sources
 - pkg:maven/org.opencadc/cadc-inventory-db@0.13.1?classifier=sources
+- pkg:maven/org.opencadc/cadc-inventory-db@0.13.2?classifier=sources
+- pkg:maven/org.opencadc/cadc-inventory-db@0.14.0?classifier=sources

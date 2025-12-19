@@ -11,3 +11,6 @@
 - pkg:maven/com.mikepenz/storyblok-mp-sdk-jvm@1.2.0?classifier=sources
 - pkg:maven/com.mikepenz/storyblok-mp-sdk-jvm@1.2.1?classifier=sources
 - pkg:maven/com.mikepenz/storyblok-mp-sdk-jvm@1.3.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/storyblok-mp-sdk-jvm@1.3.0?classifier=sources
+- pkg:maven/com.mikepenz/storyblok-mp-sdk-jvm@2.0.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/storyblok-mp-sdk-jvm@2.0.0-rc02?classifier=sources

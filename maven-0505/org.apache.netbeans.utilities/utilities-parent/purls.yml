@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.netbeans.utilities/utilities-parent@1?classifier=source-release&type=zip
+- pkg:maven/org.apache.netbeans.utilities/utilities-parent@2?classifier=source-release&type=zip

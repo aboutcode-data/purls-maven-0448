@@ -1,0 +1,2 @@
+- pkg:maven/org.openl.rules/org.openl.security.oauth2@5.26.0
+- pkg:maven/org.openl.rules/org.openl.security.oauth2@5.26.0?classifier=sources

@@ -20,3 +20,6 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs-jvm@3.2.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs-jvm@3.3.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs-jvm@3.3.1?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs-jvm@3.4.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs-jvm@3.5.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-sockjs-jvm@3.6.0?classifier=sources

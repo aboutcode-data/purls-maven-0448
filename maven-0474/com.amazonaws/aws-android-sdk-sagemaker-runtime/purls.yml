@@ -126,3 +126,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-sagemaker-runtime@2.43.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-sagemaker-runtime@2.44.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-sagemaker-runtime@2.44.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-sagemaker-runtime@2.45.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-sagemaker-runtime@2.45.0?type=aar

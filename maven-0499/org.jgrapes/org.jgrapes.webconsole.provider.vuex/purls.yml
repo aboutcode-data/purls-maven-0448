@@ -3,3 +3,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.vuex@0.2.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.vuex@0.3.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.vuex@0.4.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.vuex@0.4.1?classifier=sources

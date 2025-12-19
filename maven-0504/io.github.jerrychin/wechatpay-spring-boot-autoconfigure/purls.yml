@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jerrychin/wechatpay-spring-boot-autoconfigure@0.0.1
+- pkg:maven/io.github.jerrychin/wechatpay-spring-boot-autoconfigure@0.0.1?classifier=sources

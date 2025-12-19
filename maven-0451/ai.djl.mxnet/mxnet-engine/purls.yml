@@ -12,6 +12,8 @@
 - pkg:maven/ai.djl.mxnet/mxnet-engine@0.15.0?classifier=sources
 - pkg:maven/ai.djl.mxnet/mxnet-engine@0.16.0
 - pkg:maven/ai.djl.mxnet/mxnet-engine@0.16.0?classifier=sources
+- pkg:maven/ai.djl.mxnet/mxnet-engine@0.17.0
+- pkg:maven/ai.djl.mxnet/mxnet-engine@0.17.0?classifier=sources
 - pkg:maven/ai.djl.mxnet/mxnet-engine@0.2.0?classifier=sources
 - pkg:maven/ai.djl.mxnet/mxnet-engine@0.2.1
 - pkg:maven/ai.djl.mxnet/mxnet-engine@0.2.1?classifier=sources

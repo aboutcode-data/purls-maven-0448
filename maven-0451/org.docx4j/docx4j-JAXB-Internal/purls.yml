@@ -44,3 +44,5 @@
 - pkg:maven/org.docx4j/docx4j-JAXB-Internal@8.3.3?classifier=sources
 - pkg:maven/org.docx4j/docx4j-JAXB-Internal@8.3.4
 - pkg:maven/org.docx4j/docx4j-JAXB-Internal@8.3.4?classifier=sources
+- pkg:maven/org.docx4j/docx4j-JAXB-Internal@8.3.7
+- pkg:maven/org.docx4j/docx4j-JAXB-Internal@8.3.7?classifier=sources

@@ -36,6 +36,10 @@
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.33.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.34.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.35.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.36.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.37.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.38.0?type=aar
+- pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.39.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.6.0?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.6.1?type=aar
 - pkg:maven/com.toast.android.gamebase/gamebase-adapter-auth-ongame@2.6.2?type=aar

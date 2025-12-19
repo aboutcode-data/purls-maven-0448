@@ -21,3 +21,5 @@
 - pkg:maven/br.com.zup.beagle/android-annotation@1.9.0?classifier=sources
 - pkg:maven/br.com.zup.beagle/android-annotation@2.0.0-rc1?classifier=sources
 - pkg:maven/br.com.zup.beagle/android-annotation@2.0.0?classifier=sources
+- pkg:maven/br.com.zup.beagle/android-annotation@2.0.1?classifier=sources
+- pkg:maven/br.com.zup.beagle/android-annotation@2.0.2?classifier=sources

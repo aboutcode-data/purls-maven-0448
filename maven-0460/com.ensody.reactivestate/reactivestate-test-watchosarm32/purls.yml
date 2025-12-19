@@ -4,3 +4,4 @@
 - pkg:maven/com.ensody.reactivestate/reactivestate-test-watchosarm32@4.6.2?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-test-watchosarm32@4.7.0?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-test-watchosarm32@5.0.0?classifier=sources
+- pkg:maven/com.ensody.reactivestate/reactivestate-test-watchosarm32@5.0.1?classifier=sources

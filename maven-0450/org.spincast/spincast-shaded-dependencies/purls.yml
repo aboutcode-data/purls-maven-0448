@@ -64,3 +64,5 @@
 - pkg:maven/org.spincast/spincast-shaded-dependencies@1.0.9?classifier=sources
 - pkg:maven/org.spincast/spincast-shaded-dependencies@2.0.0
 - pkg:maven/org.spincast/spincast-shaded-dependencies@2.0.0?classifier=sources
+- pkg:maven/org.spincast/spincast-shaded-dependencies@2.0.1
+- pkg:maven/org.spincast/spincast-shaded-dependencies@2.0.1?classifier=sources

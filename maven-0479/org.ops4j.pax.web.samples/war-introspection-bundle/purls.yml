@@ -77,3 +77,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@8.0.0?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@8.0.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@8.0.2?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@8.0.3?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection-bundle@8.0.4?type=war

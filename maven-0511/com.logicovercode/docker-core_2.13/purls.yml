@@ -2,3 +2,5 @@
 - pkg:maven/com.logicovercode/docker-core_2.13@0.0.002?classifier=sources
 - pkg:maven/com.logicovercode/docker-core_2.13@0.0.004
 - pkg:maven/com.logicovercode/docker-core_2.13@0.0.004?classifier=sources
+- pkg:maven/com.logicovercode/docker-core_2.13@0.0.005
+- pkg:maven/com.logicovercode/docker-core_2.13@0.0.005?classifier=sources

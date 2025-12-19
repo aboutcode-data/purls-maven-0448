@@ -1,1 +1,2 @@
 - pkg:maven/com.github.peacetrue.result/peacetrue-result-exception-support@1.0.0?classifier=sources
+- pkg:maven/com.github.peacetrue.result/peacetrue-result-exception-support@2.0.0?classifier=sources

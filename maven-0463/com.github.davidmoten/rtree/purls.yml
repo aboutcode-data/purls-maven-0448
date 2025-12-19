@@ -3,6 +3,8 @@
 - pkg:maven/com.github.davidmoten/rtree@0.1-RC1?classifier=sources
 - pkg:maven/com.github.davidmoten/rtree@0.1-RC2
 - pkg:maven/com.github.davidmoten/rtree@0.1-RC2?classifier=sources
+- pkg:maven/com.github.davidmoten/rtree@0.10
+- pkg:maven/com.github.davidmoten/rtree@0.10?classifier=sources
 - pkg:maven/com.github.davidmoten/rtree@0.1?classifier=sources
 - pkg:maven/com.github.davidmoten/rtree@0.2
 - pkg:maven/com.github.davidmoten/rtree@0.2.1

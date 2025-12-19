@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vhall.sdk.yinhesdk/0.0.1@1.2.8?classifier=sources
+- pkg:maven/com.github.vhall.sdk.yinhesdk/0.0.1@1.2.8?type=aar

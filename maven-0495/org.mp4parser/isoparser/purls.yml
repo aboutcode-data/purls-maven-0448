@@ -20,3 +20,5 @@
 - pkg:maven/org.mp4parser/isoparser@1.9.40?classifier=sources
 - pkg:maven/org.mp4parser/isoparser@1.9.41
 - pkg:maven/org.mp4parser/isoparser@1.9.41?classifier=sources
+- pkg:maven/org.mp4parser/isoparser@1.9.56
+- pkg:maven/org.mp4parser/isoparser@1.9.56?classifier=sources

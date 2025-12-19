@@ -127,3 +127,5 @@
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.9.0.CR1
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.9.0.Final
 - pkg:maven/io.debezium/debezium-assembly-descriptors@1.9.1.Final
+- pkg:maven/io.debezium/debezium-assembly-descriptors@1.9.2.Final
+- pkg:maven/io.debezium/debezium-assembly-descriptors@2.0.0.Alpha1

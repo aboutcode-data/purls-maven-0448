@@ -10,3 +10,7 @@
 - pkg:maven/org.realityforge.arez/arez-extras-testng@0.202?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-extras-testng@0.203
 - pkg:maven/org.realityforge.arez/arez-extras-testng@0.203?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-extras-testng@0.204
+- pkg:maven/org.realityforge.arez/arez-extras-testng@0.204?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-extras-testng@0.205
+- pkg:maven/org.realityforge.arez/arez-extras-testng@0.205?classifier=sources

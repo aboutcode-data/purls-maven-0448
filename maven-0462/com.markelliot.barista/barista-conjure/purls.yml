@@ -2,3 +2,5 @@
 - pkg:maven/com.markelliot.barista/barista-conjure@0.5.1?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.5.2?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.6.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-conjure@0.7.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-conjure@0.8.0?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x@3.1.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x@3.1.0-M2
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x@3.1.0-M2?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x@3.1.0-M3
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi1x@3.1.0-M3?classifier=sources

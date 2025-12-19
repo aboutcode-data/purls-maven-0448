@@ -1,0 +1,12 @@
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1015-0.11.0.101?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1016?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1017?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1019?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1022?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1023?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1024?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1027?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1028?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1029?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-dev-1030?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.8.0-rc-9?classifier=sources

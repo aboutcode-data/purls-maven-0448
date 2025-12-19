@@ -60,6 +60,8 @@
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@11.0.2?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@11.0.3
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@11.0.3?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@11.0.4
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@11.0.4?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@2.0.0
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@2.0.0.RC
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@2.0.0.RC?classifier=sources

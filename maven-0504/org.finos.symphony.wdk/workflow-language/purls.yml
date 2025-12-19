@@ -6,3 +6,4 @@
 - pkg:maven/org.finos.symphony.wdk/workflow-language@1.0.0-RC3?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-language@1.0.0-RC?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-language@1.0.0?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-language@1.1.0?classifier=sources

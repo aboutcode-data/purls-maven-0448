@@ -50,3 +50,7 @@
 - pkg:maven/org.kie.soup/kie-soup-dataset-kafka@7.67.0.Final?classifier=sources
 - pkg:maven/org.kie.soup/kie-soup-dataset-kafka@7.68.0.Final
 - pkg:maven/org.kie.soup/kie-soup-dataset-kafka@7.68.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-kafka@7.69.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-kafka@7.69.0.Final?classifier=sources
+- pkg:maven/org.kie.soup/kie-soup-dataset-kafka@7.70.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-kafka@7.70.0.Final?classifier=sources

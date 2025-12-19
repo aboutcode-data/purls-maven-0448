@@ -1,2 +1,4 @@
 - pkg:maven/fish.focus.uvms.geoserver.web.overlay/gs-web-app@2.19.4.3?classifier=sources
 - pkg:maven/fish.focus.uvms.geoserver.web.overlay/gs-web-app@2.19.4.3?type=war
+- pkg:maven/fish.focus.uvms.geoserver.web.overlay/gs-web-app@2.19.6.0?classifier=sources
+- pkg:maven/fish.focus.uvms.geoserver.web.overlay/gs-web-app@2.19.6.0?type=war

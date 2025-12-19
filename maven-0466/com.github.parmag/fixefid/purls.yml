@@ -4,3 +4,5 @@
 - pkg:maven/com.github.parmag/fixefid@1.1.0?classifier=sources
 - pkg:maven/com.github.parmag/fixefid@2.0.0
 - pkg:maven/com.github.parmag/fixefid@2.0.0?classifier=sources
+- pkg:maven/com.github.parmag/fixefid@3.0.0
+- pkg:maven/com.github.parmag/fixefid@3.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe.play/twirl-compiler_3@1.6.0-M4
+- pkg:maven/com.typesafe.play/twirl-compiler_3@1.6.0-M4?classifier=sources
+- pkg:maven/com.typesafe.play/twirl-compiler_3@1.6.0-M6
+- pkg:maven/com.typesafe.play/twirl-compiler_3@1.6.0-M6?classifier=sources

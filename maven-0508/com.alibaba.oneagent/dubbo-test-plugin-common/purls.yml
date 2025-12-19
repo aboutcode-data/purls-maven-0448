@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.oneagent/dubbo-test-plugin-common@0.0.2
+- pkg:maven/com.alibaba.oneagent/dubbo-test-plugin-common@0.0.2?classifier=sources

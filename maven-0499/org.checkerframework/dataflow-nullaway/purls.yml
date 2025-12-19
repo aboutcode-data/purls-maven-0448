@@ -11,3 +11,5 @@
 - pkg:maven/org.checkerframework/dataflow-nullaway@3.21.2?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-nullaway@3.21.3?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-nullaway@3.21.4?classifier=sources
+- pkg:maven/org.checkerframework/dataflow-nullaway@3.22.0?classifier=sources
+- pkg:maven/org.checkerframework/dataflow-nullaway@3.22.1?classifier=sources

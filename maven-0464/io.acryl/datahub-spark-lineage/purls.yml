@@ -16,3 +16,4 @@
 - pkg:maven/io.acryl/datahub-spark-lineage@0.8.30?classifier=sources
 - pkg:maven/io.acryl/datahub-spark-lineage@0.8.31?classifier=sources
 - pkg:maven/io.acryl/datahub-spark-lineage@0.8.32?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.34?classifier=sources

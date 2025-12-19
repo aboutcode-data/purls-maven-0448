@@ -1,0 +1,2 @@
+- pkg:maven/com.chargemap.android.auto/router@1.0.0?classifier=sources
+- pkg:maven/com.chargemap.android.auto/router@1.0.1?classifier=sources

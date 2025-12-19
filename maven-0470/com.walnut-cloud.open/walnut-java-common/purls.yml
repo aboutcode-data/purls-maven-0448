@@ -1,0 +1,12 @@
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.1.0
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.1.0?classifier=sources
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.1.2
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.1.2?classifier=sources
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.2.0
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.2.0?classifier=sources
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.2.13
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.2.13?classifier=sources
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.2.3
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.2.3?classifier=sources
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.2.8
+- pkg:maven/com.walnut-cloud.open/walnut-java-common@1.2.8?classifier=sources

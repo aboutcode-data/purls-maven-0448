@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/https-proxy-agent@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/https-proxy-agent@5.0.0
 - pkg:maven/org.webjars.npm/https-proxy-agent@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/https-proxy-agent@5.0.1
+- pkg:maven/org.webjars.npm/https-proxy-agent@5.0.1?classifier=sources

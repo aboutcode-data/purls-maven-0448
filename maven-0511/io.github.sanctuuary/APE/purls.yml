@@ -16,3 +16,7 @@
 - pkg:maven/io.github.sanctuuary/APE@1.1.8?classifier=sources
 - pkg:maven/io.github.sanctuuary/APE@1.1.9
 - pkg:maven/io.github.sanctuuary/APE@1.1.9?classifier=sources
+- pkg:maven/io.github.sanctuuary/APE@2.0.0
+- pkg:maven/io.github.sanctuuary/APE@2.0.0?classifier=sources
+- pkg:maven/io.github.sanctuuary/APE@2.0.1
+- pkg:maven/io.github.sanctuuary/APE@2.0.1?classifier=sources
