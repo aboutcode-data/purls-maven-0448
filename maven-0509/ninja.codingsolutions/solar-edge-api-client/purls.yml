@@ -12,3 +12,5 @@
 - pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.2.0?classifier=sources
 - pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.4.0
 - pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.4.0?classifier=sources
+- pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.5.0
+- pkg:maven/ninja.codingsolutions/solar-edge-api-client@v0.5.0?classifier=sources

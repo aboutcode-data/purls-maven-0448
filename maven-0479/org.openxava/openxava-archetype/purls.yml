@@ -1,1 +1,5 @@
 - pkg:maven/org.openxava/openxava-archetype@7.0-BETA1?classifier=sources
+- pkg:maven/org.openxava/openxava-archetype@7.0-BETA2?classifier=sources
+- pkg:maven/org.openxava/openxava-archetype@7.0-RC1?classifier=sources
+- pkg:maven/org.openxava/openxava-archetype@7.0?classifier=sources
+- pkg:maven/org.openxava/openxava-archetype@7.X.X?classifier=sources

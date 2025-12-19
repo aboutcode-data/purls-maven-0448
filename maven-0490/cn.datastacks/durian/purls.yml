@@ -1,0 +1,2 @@
+- pkg:maven/cn.datastacks/durian@0.8
+- pkg:maven/cn.datastacks/durian@0.8?classifier=sources

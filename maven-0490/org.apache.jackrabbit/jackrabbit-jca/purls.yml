@@ -90,6 +90,7 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jca@2.15.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jca@2.15.8?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jca@2.16.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jca@2.16.10?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jca@2.16.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jca@2.16.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jca@2.16.3?classifier=sources

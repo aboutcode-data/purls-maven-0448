@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/transcribestreaming-jvm@0.17.6-beta?classifier=sources

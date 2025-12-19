@@ -1,2 +1,4 @@
 - pkg:maven/org.nekosoft.utils/crawler-detect@0.9.0
 - pkg:maven/org.nekosoft.utils/crawler-detect@0.9.0?classifier=sources
+- pkg:maven/org.nekosoft.utils/crawler-detect@1.0.0
+- pkg:maven/org.nekosoft.utils/crawler-detect@1.0.0?classifier=sources

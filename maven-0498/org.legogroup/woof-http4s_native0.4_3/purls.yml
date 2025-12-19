@@ -1,0 +1,2 @@
+- pkg:maven/org.legogroup/woof-http4s_native0.4_3@0.4.7
+- pkg:maven/org.legogroup/woof-http4s_native0.4_3@0.4.7?classifier=sources

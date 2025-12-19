@@ -9,3 +9,4 @@
 - pkg:maven/com.palantir.witchcraft.api/witchcraft-health-api-objects@1.7.0?classifier=sources
 - pkg:maven/com.palantir.witchcraft.api/witchcraft-health-api-objects@2.0.0?classifier=sources
 - pkg:maven/com.palantir.witchcraft.api/witchcraft-health-api-objects@2.1.0?classifier=sources
+- pkg:maven/com.palantir.witchcraft.api/witchcraft-health-api-objects@2.2.0?classifier=sources

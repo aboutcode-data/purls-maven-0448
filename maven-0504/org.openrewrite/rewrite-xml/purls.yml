@@ -169,7 +169,9 @@
 - pkg:maven/org.openrewrite/rewrite-xml@7.27.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-xml@7.27.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-xml@7.28.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-xml@7.29.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-xml@7.3.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-xml@7.30.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-xml@7.4.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-xml@7.5.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-xml@7.6.0?classifier=sources

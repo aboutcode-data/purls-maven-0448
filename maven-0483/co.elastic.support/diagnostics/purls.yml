@@ -20,3 +20,5 @@
 - pkg:maven/co.elastic.support/diagnostics@8.3.0?classifier=sources
 - pkg:maven/co.elastic.support/diagnostics@8.4.0
 - pkg:maven/co.elastic.support/diagnostics@8.4.0?classifier=sources
+- pkg:maven/co.elastic.support/diagnostics@8.4.1
+- pkg:maven/co.elastic.support/diagnostics@8.4.1?classifier=sources

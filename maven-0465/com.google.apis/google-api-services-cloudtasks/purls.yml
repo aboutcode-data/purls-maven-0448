@@ -162,6 +162,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2-rev20220520-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2-rev20220803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2-rev20220803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtasks@v2-rev20220825-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudtasks@v2-rev20220825-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2-rev21-1.25.0
@@ -454,6 +456,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta2-rev20220722-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta2-rev20220803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta2-rev20220803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta2-rev20220825-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta2-rev20220825-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta2-rev21-1.21.0
@@ -1086,6 +1090,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta3-rev20220520-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta3-rev20220803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta3-rev20220803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta3-rev20220825-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta3-rev20220825-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta3-rev28-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta3-rev28-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtasks@v2beta3-rev28-1.25.0

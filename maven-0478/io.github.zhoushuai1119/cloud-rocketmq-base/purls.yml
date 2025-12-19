@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zhoushuai1119/cloud-rocketmq-base@3.7.0
+- pkg:maven/io.github.zhoushuai1119/cloud-rocketmq-base@3.7.0?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.0.81?classifier=sources
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.0.82
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.0.82?classifier=sources
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.83
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.83?classifier=sources
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.84
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.84?classifier=sources
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.85
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.85?classifier=sources

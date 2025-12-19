@@ -64,5 +64,11 @@
 - pkg:maven/io.github.egonw.bacting/bacting-core@0.0.42?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bacting-core@0.0.43
 - pkg:maven/io.github.egonw.bacting/bacting-core@0.0.43?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bacting-core@0.0.44
+- pkg:maven/io.github.egonw.bacting/bacting-core@0.0.44?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bacting-core@0.0.45
+- pkg:maven/io.github.egonw.bacting/bacting-core@0.0.45?classifier=sources
 - pkg:maven/io.github.egonw.bacting/bacting-core@0.0.9
 - pkg:maven/io.github.egonw.bacting/bacting-core@0.0.9?classifier=sources
+- pkg:maven/io.github.egonw.bacting/bacting-core@0.1.0
+- pkg:maven/io.github.egonw.bacting/bacting-core@0.1.0?classifier=sources

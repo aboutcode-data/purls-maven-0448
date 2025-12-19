@@ -24,3 +24,16 @@
 - pkg:maven/io.acryl/datahub-spark-lineage@0.8.40?classifier=sources
 - pkg:maven/io.acryl/datahub-spark-lineage@0.8.41-3-rc3?classifier=sources
 - pkg:maven/io.acryl/datahub-spark-lineage@0.8.43?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-1?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-2?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-2rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-2rc2?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-3?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-3rc0?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-3rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-3rc2?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-3rc3?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-4?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-4rc0?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44-4rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-spark-lineage@0.8.44?classifier=sources

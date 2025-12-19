@@ -1,6 +1,8 @@
 - pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.org.apache.shindig/shindig-project@2.5.2-wso2v3?classifier=source-release&type=zip

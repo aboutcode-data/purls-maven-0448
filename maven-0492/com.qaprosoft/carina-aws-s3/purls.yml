@@ -342,3 +342,5 @@
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.4.23?classifier=sources
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.4.24
 - pkg:maven/com.qaprosoft/carina-aws-s3@7.4.24?classifier=sources
+- pkg:maven/com.qaprosoft/carina-aws-s3@7.4.25
+- pkg:maven/com.qaprosoft/carina-aws-s3@7.4.25?classifier=sources

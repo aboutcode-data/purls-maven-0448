@@ -1,0 +1,2 @@
+- pkg:maven/org.w3c-schemas/w3c-schemas@2.0.0
+- pkg:maven/org.w3c-schemas/w3c-schemas@2.0.0?classifier=sources

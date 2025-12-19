@@ -32,3 +32,5 @@
 - pkg:maven/org.pitest/pitest-junit5-plugin@0.9?classifier=sources
 - pkg:maven/org.pitest/pitest-junit5-plugin@1.0.0
 - pkg:maven/org.pitest/pitest-junit5-plugin@1.0.0?classifier=sources
+- pkg:maven/org.pitest/pitest-junit5-plugin@1.1.0
+- pkg:maven/org.pitest/pitest-junit5-plugin@1.1.0?classifier=sources

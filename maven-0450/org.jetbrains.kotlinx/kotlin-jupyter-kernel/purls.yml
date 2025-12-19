@@ -150,6 +150,12 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-154?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-157?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-15?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-162?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-163?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-164?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-165?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-167?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-168?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-16?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-19?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel@0.11.0-1?classifier=sources

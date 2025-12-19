@@ -1,0 +1,2 @@
+- pkg:maven/dev.kgbier.util/networklogger-okhttp@1.0?classifier=sources
+- pkg:maven/dev.kgbier.util/networklogger-okhttp@1.1?classifier=sources

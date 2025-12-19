@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__pikaday@1.6.0
 - pkg:maven/org.webjars.npm/types__pikaday@1.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__pikaday@1.7.4
+- pkg:maven/org.webjars.npm/types__pikaday@1.7.4?classifier=sources

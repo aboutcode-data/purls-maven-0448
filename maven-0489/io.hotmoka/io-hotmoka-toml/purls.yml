@@ -1,3 +1,5 @@
+- pkg:maven/io.hotmoka/io-hotmoka-toml@1.0.10
+- pkg:maven/io.hotmoka/io-hotmoka-toml@1.0.10?classifier=sources
 - pkg:maven/io.hotmoka/io-hotmoka-toml@1.0.5
 - pkg:maven/io.hotmoka/io-hotmoka-toml@1.0.5?classifier=sources
 - pkg:maven/io.hotmoka/io-hotmoka-toml@1.0.6

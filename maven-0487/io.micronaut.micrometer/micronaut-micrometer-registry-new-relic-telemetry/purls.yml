@@ -13,3 +13,5 @@
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic-telemetry@4.3.0?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic-telemetry@4.4.0?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic-telemetry@4.5.0?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic-telemetry@4.6.0?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-registry-new-relic-telemetry@4.6.1?classifier=sources

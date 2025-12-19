@@ -61,4 +61,10 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.22?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.23
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.23?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.24
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.24?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.26
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.26?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.29
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.29?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.chart.ui.html@22.0.2?classifier=sources

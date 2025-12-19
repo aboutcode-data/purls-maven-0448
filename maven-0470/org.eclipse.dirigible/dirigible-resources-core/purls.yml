@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-core@6.3.22
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-core@6.3.22?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-core@6.3.23
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-core@6.3.23?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-core@6.3.24
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-core@6.3.24?classifier=sources

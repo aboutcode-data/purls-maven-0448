@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/tui-image-editor@3.15.3
+- pkg:maven/org.webjars.npm/tui-image-editor@3.15.3?classifier=sources
 - pkg:maven/org.webjars.npm/tui-image-editor@3.7.2
 - pkg:maven/org.webjars.npm/tui-image-editor@3.7.2?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.yandex.div/beacon@5.0.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@6.0.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@7.0.0?classifier=sources

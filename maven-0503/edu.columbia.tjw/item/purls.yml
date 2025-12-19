@@ -56,6 +56,8 @@
 - pkg:maven/edu.columbia.tjw/item@1.4.0?classifier=sources
 - pkg:maven/edu.columbia.tjw/item@1.4.1?classifier=sources
 - pkg:maven/edu.columbia.tjw/item@1.4.2?classifier=sources
+- pkg:maven/edu.columbia.tjw/item@1.4.3?classifier=sources
 - pkg:maven/edu.columbia.tjw/item@1.5.0?classifier=sources
+- pkg:maven/edu.columbia.tjw/item@1.5.1?classifier=sources
 - pkg:maven/edu.columbia.tjw/item@spark-1.2.0
 - pkg:maven/edu.columbia.tjw/item@spark-1.2.0?classifier=sources

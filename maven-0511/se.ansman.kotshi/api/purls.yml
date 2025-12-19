@@ -40,6 +40,7 @@
 - pkg:maven/se.ansman.kotshi/api@2.1.0?classifier=sources
 - pkg:maven/se.ansman.kotshi/api@2.1.1
 - pkg:maven/se.ansman.kotshi/api@2.1.1?classifier=sources
+- pkg:maven/se.ansman.kotshi/api@2.10.0-alpha01?classifier=sources
 - pkg:maven/se.ansman.kotshi/api@2.2.1
 - pkg:maven/se.ansman.kotshi/api@2.2.1?classifier=sources
 - pkg:maven/se.ansman.kotshi/api@2.2.2
@@ -63,3 +64,6 @@
 - pkg:maven/se.ansman.kotshi/api@2.6.3?classifier=sources
 - pkg:maven/se.ansman.kotshi/api@2.7.0?classifier=sources
 - pkg:maven/se.ansman.kotshi/api@2.7.1?classifier=sources
+- pkg:maven/se.ansman.kotshi/api@2.8.0?classifier=sources
+- pkg:maven/se.ansman.kotshi/api@2.9.0?classifier=sources
+- pkg:maven/se.ansman.kotshi/api@2.9.1?classifier=sources

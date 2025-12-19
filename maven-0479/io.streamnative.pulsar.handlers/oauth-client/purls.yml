@@ -32,6 +32,8 @@
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.10.1.5?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.10.1.6
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.10.1.6?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.10.1.7
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.10.1.7?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.10.1.99-rc0803
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.10.1.99-rc0803?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.0-rc-202106121853
@@ -168,6 +170,12 @@
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.3.6?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.3.7
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.3.7?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.3.8
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.3.8?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.4.0-rc1
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.4.0-rc1?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.4.1
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.8.4.1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.0-rc-202107030819
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.0-rc-202107030819?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.0-rc-202108131436
@@ -226,3 +234,11 @@
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.4?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.5
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.5?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.6
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.6?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.7
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.7?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.8
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.8?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.9
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client@2.9.3.9?classifier=sources

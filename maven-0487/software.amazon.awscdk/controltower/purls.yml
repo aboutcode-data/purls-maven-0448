@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/controltower@1.173.0
+- pkg:maven/software.amazon.awscdk/controltower@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/controltower@1.174.0
+- pkg:maven/software.amazon.awscdk/controltower@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/controltower@1.175.0
+- pkg:maven/software.amazon.awscdk/controltower@1.175.0?classifier=sources

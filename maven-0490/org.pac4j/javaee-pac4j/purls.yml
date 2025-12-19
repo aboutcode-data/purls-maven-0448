@@ -1,2 +1,4 @@
 - pkg:maven/org.pac4j/javaee-pac4j@7.0.0
 - pkg:maven/org.pac4j/javaee-pac4j@7.0.0?classifier=sources
+- pkg:maven/org.pac4j/javaee-pac4j@7.1.0
+- pkg:maven/org.pac4j/javaee-pac4j@7.1.0?classifier=sources

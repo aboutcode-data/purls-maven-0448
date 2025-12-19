@@ -84,3 +84,13 @@
 - pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@392?classifier=sources
 - pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@393
 - pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@393?classifier=sources
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@394
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@394?classifier=sources
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@395
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@395?classifier=sources
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@396
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@396?classifier=sources
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@397
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@397?classifier=sources
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@398
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-server@398?classifier=sources

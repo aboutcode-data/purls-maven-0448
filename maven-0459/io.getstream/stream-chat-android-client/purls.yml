@@ -60,6 +60,7 @@
 - pkg:maven/io.getstream/stream-chat-android-client@5.0.2?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-client@5.0.3?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-client@5.1.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-client@5.10.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-client@5.2.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-client@5.3.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-client@5.3.1?classifier=sources
@@ -69,3 +70,6 @@
 - pkg:maven/io.getstream/stream-chat-android-client@5.6.1?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-client@5.7.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-client@5.8.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-client@5.8.1?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-client@5.8.2?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-client@5.9.0?classifier=sources

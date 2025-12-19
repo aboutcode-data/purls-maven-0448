@@ -14,3 +14,5 @@
 - pkg:maven/io.reinert.requestor.ext/requestor-autobean@1.1.0-rc3
 - pkg:maven/io.reinert.requestor.ext/requestor-autobean@1.1.0-rc3?classifier=sources
 - pkg:maven/io.reinert.requestor.ext/requestor-autobean@1.1.0?classifier=sources
+- pkg:maven/io.reinert.requestor.ext/requestor-autobean@1.2.0
+- pkg:maven/io.reinert.requestor.ext/requestor-autobean@1.2.0?classifier=sources

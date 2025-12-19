@@ -2,3 +2,5 @@
 - pkg:maven/org.entur/siri-java-model@0.12?classifier=sources
 - pkg:maven/org.entur/siri-java-model@0.14
 - pkg:maven/org.entur/siri-java-model@0.14?classifier=sources
+- pkg:maven/org.entur/siri-java-model@0.15
+- pkg:maven/org.entur/siri-java-model@0.15?classifier=sources

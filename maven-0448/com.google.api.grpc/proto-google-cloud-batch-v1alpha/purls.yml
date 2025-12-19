@@ -2,3 +2,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.2.2
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.2.2?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.3.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.3.0?classifier=sources

@@ -74,3 +74,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-webrisk-v1@2.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-webrisk-v1@2.2.2
 - pkg:maven/com.google.api.grpc/proto-google-cloud-webrisk-v1@2.2.2?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-webrisk-v1@2.2.4
+- pkg:maven/com.google.api.grpc/proto-google-cloud-webrisk-v1@2.2.4?classifier=sources

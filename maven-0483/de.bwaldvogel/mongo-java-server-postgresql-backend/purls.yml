@@ -52,6 +52,7 @@
 - pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.38.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.39.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.40.0?classifier=sources
+- pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.41.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.7.0
 - pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.7.0?classifier=sources
 - pkg:maven/de.bwaldvogel/mongo-java-server-postgresql-backend@1.8.0

@@ -8,3 +8,5 @@
 - pkg:maven/io.mateu/mdd-sharedinterfaces@0.0.19?classifier=sources
 - pkg:maven/io.mateu/mdd-sharedinterfaces@0.0.20
 - pkg:maven/io.mateu/mdd-sharedinterfaces@0.0.20?classifier=sources
+- pkg:maven/io.mateu/mdd-sharedinterfaces@0.0.22
+- pkg:maven/io.mateu/mdd-sharedinterfaces@0.0.22?classifier=sources

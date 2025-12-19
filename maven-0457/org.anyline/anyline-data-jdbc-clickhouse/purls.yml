@@ -1,0 +1,4 @@
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.1-20221001
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.1-20221001?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.1-20221002
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.1-20221002?classifier=sources

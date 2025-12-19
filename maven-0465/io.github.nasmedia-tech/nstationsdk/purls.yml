@@ -19,6 +19,8 @@
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.25?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.26?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.27?classifier=sources
+- pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.28?classifier=sources
+- pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.29?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.2?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.3?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.4?classifier=sources

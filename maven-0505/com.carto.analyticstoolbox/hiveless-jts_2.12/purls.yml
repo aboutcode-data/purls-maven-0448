@@ -1,0 +1,2 @@
+- pkg:maven/com.carto.analyticstoolbox/hiveless-jts_2.12@0.0.19
+- pkg:maven/com.carto.analyticstoolbox/hiveless-jts_2.12@0.0.19?classifier=sources

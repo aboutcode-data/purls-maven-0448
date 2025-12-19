@@ -6,3 +6,5 @@
 - pkg:maven/com.guolindev.permissionx/permissionx@1.6.2?classifier=sources
 - pkg:maven/com.guolindev.permissionx/permissionx@1.6.3?classifier=sources
 - pkg:maven/com.guolindev.permissionx/permissionx@1.6.4?classifier=sources
+- pkg:maven/com.guolindev.permissionx/permissionx@1.7.0?classifier=sources
+- pkg:maven/com.guolindev.permissionx/permissionx@1.7.1?classifier=sources

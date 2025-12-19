@@ -32,3 +32,5 @@
 - pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-jedis3@1.0.59?classifier=sources
 - pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-jedis3@1.0.60
 - pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-jedis3@1.0.60?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-jedis3@1.0.61
+- pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-jedis3@1.0.61?classifier=sources

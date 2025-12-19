@@ -6,3 +6,5 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.0.3?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.0.4
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.0.4?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.0.7
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.0.7?classifier=sources

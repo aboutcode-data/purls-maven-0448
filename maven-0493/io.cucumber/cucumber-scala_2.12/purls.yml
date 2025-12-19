@@ -78,6 +78,8 @@
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.0.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.1.0
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.1.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-scala_2.12@8.10.0
+- pkg:maven/io.cucumber/cucumber-scala_2.12@8.10.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.2.0
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.2.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.2.1
@@ -92,3 +94,7 @@
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.6.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.7.0
 - pkg:maven/io.cucumber/cucumber-scala_2.12@8.7.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-scala_2.12@8.8.0
+- pkg:maven/io.cucumber/cucumber-scala_2.12@8.8.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-scala_2.12@8.9.0
+- pkg:maven/io.cucumber/cucumber-scala_2.12@8.9.0?classifier=sources

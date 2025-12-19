@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.nima.webserver/helidon-nima-webserver-static-content@4.0.0-ALPHA1
+- pkg:maven/io.helidon.nima.webserver/helidon-nima-webserver-static-content@4.0.0-ALPHA1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.planet42/laika-core_sjs1_2.13@0.18.1?classifier=sources
 - pkg:maven/org.planet42/laika-core_sjs1_2.13@0.18.2
 - pkg:maven/org.planet42/laika-core_sjs1_2.13@0.18.2?classifier=sources
+- pkg:maven/org.planet42/laika-core_sjs1_2.13@0.19.0-RC1
+- pkg:maven/org.planet42/laika-core_sjs1_2.13@0.19.0-RC1?classifier=sources

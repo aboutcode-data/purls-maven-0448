@@ -288,6 +288,7 @@
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.563.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.564.0-rc1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.564.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.564.1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.565.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.566.0-rc1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.566.0?classifier=sources
@@ -450,3 +451,18 @@
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.686.0-rc2?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.686.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-config@0.687.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.689.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.690.0-rc1?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.690.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.691.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.692.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.693.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.694.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.695.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.696.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.697.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.699.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.702.0-rc1?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.704.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.705.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-config@0.706.0?classifier=sources

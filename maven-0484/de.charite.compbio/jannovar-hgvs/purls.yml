@@ -48,3 +48,7 @@
 - pkg:maven/de.charite.compbio/jannovar-hgvs@0.38?classifier=sources
 - pkg:maven/de.charite.compbio/jannovar-hgvs@0.39
 - pkg:maven/de.charite.compbio/jannovar-hgvs@0.39?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-hgvs@0.40
+- pkg:maven/de.charite.compbio/jannovar-hgvs@0.40?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-hgvs@0.41
+- pkg:maven/de.charite.compbio/jannovar-hgvs@0.41?classifier=sources

@@ -197,6 +197,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.7.8?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.7.9?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.8.0?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-jmx@1.8.10?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.8.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.8.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.8.3?classifier=sources
@@ -210,3 +211,4 @@
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.9.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.9.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-jmx@1.9.3?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-jmx@1.9.4?classifier=sources

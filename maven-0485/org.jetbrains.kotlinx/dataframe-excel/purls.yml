@@ -49,3 +49,13 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1094?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1096?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1099?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1113?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1114?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1117?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1118?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1124?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1125?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1127?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1129?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1130-0.11.0.165?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-excel@0.9.0-dev-1130?classifier=sources

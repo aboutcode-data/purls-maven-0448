@@ -1,0 +1,2 @@
+- pkg:maven/com.google.accompanist/accompanist-adaptive@0.26.2-beta?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-adaptive@0.26.3-beta?classifier=sources

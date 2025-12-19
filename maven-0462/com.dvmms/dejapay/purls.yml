@@ -30,3 +30,11 @@
 - pkg:maven/com.dvmms/dejapay@2.0.27?type=aar
 - pkg:maven/com.dvmms/dejapay@2.0.28?classifier=sources
 - pkg:maven/com.dvmms/dejapay@2.0.28?type=aar
+- pkg:maven/com.dvmms/dejapay@2.0.29?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.29?type=aar
+- pkg:maven/com.dvmms/dejapay@2.0.30?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.30?type=aar
+- pkg:maven/com.dvmms/dejapay@2.0.31?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.31?type=aar
+- pkg:maven/com.dvmms/dejapay@2.0.32?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.32?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mostafamohajeri/agentscript-scala-generator@2.50
+- pkg:maven/io.github.mostafamohajeri/agentscript-scala-generator@2.50?classifier=sources

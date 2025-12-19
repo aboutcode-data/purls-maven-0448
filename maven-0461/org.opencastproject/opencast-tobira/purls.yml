@@ -1,0 +1,2 @@
+- pkg:maven/org.opencastproject/opencast-tobira@12.3
+- pkg:maven/org.opencastproject/opencast-tobira@12.3?classifier=sources
