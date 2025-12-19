@@ -86,5 +86,6 @@
 - pkg:maven/com.gu/content-atom-model-thrift@3.2.4
 - pkg:maven/com.gu/content-atom-model-thrift@3.3.0-RC1
 - pkg:maven/com.gu/content-atom-model-thrift@3.3.0-RC2
+- pkg:maven/com.gu/content-atom-model-thrift@3.4.0
 - pkg:maven/com.gu/content-atom-model-thrift@3.4.0-beta.0
 - pkg:maven/com.gu/content-atom-model-thrift@3.4.0-beta.1

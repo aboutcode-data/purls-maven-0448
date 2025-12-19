@@ -1,3 +1,4 @@
 - pkg:maven/io.siddhi.extension.io.jms/siddhi-io-jms-parent@2.0.2?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.jms/siddhi-io-jms-parent@2.0.3?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.jms/siddhi-io-jms-parent@2.0.4?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.jms/siddhi-io-jms-parent@2.0.5?classifier=source-release&type=zip

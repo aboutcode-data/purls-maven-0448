@@ -402,3 +402,6 @@
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.5.2?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.5.3?classifier=sources
 - pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.6.0?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.6.1?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.6.2?classifier=sources
+- pkg:maven/org.javers/javers-spring-boot-starter-mongo@6.6.3?classifier=sources

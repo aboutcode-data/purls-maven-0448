@@ -1,1 +1,2 @@
 - pkg:maven/com.goldmansachs.reladomo/reladomo-graphql@18.0.0?classifier=sources
+- pkg:maven/com.goldmansachs.reladomo/reladomo-graphql@18.1.0?classifier=sources

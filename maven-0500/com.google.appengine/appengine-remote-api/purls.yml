@@ -118,6 +118,7 @@
 - pkg:maven/com.google.appengine/appengine-remote-api@1.9.92
 - pkg:maven/com.google.appengine/appengine-remote-api@1.9.93
 - pkg:maven/com.google.appengine/appengine-remote-api@1.9.94
+- pkg:maven/com.google.appengine/appengine-remote-api@1.9.95
 - pkg:maven/com.google.appengine/appengine-remote-api@2.0.0
 - pkg:maven/com.google.appengine/appengine-remote-api@2.0.0?classifier=sources
 - pkg:maven/com.google.appengine/appengine-remote-api@2.0.1
@@ -126,3 +127,5 @@
 - pkg:maven/com.google.appengine/appengine-remote-api@2.0.2?classifier=sources
 - pkg:maven/com.google.appengine/appengine-remote-api@2.0.3
 - pkg:maven/com.google.appengine/appengine-remote-api@2.0.3?classifier=sources
+- pkg:maven/com.google.appengine/appengine-remote-api@2.0.4
+- pkg:maven/com.google.appengine/appengine-remote-api@2.0.4?classifier=sources

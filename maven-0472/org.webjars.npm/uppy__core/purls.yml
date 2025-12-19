@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/uppy__core@1.19.2?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__core@1.6.0
 - pkg:maven/org.webjars.npm/uppy__core@1.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__core@2.0.0-alpha.0
+- pkg:maven/org.webjars.npm/uppy__core@2.0.0-alpha.0?classifier=sources

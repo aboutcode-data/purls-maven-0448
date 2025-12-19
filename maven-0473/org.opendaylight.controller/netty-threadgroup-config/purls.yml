@@ -56,6 +56,7 @@
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.14.14
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.14.14?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.14.15?classifier=sources
+- pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.14.16?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.14.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.14.2
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.14.2?classifier=sources
@@ -76,6 +77,7 @@
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.0
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.1
+- pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.10?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.2
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.2?classifier=sources
@@ -86,6 +88,8 @@
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.6?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.7?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.8?classifier=sources
+- pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.9
+- pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.15.9?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.2.3
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.2.3?classifier=sources
 - pkg:maven/org.opendaylight.controller/netty-threadgroup-config@0.2.5-Helium

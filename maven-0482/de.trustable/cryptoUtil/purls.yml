@@ -2,3 +2,5 @@
 - pkg:maven/de.trustable/cryptoUtil@1.1.12?classifier=sources
 - pkg:maven/de.trustable/cryptoUtil@1.2.0
 - pkg:maven/de.trustable/cryptoUtil@1.2.0?classifier=sources
+- pkg:maven/de.trustable/cryptoUtil@1.2.2
+- pkg:maven/de.trustable/cryptoUtil@1.2.2?classifier=sources

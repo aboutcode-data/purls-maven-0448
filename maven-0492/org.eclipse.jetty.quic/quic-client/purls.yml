@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jetty.quic/quic-client@10.0.8
+- pkg:maven/org.eclipse.jetty.quic/quic-client@10.0.8?classifier=sources
+- pkg:maven/org.eclipse.jetty.quic/quic-client@11.0.8
+- pkg:maven/org.eclipse.jetty.quic/quic-client@11.0.8?classifier=sources

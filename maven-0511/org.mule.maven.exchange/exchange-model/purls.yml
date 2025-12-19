@@ -26,3 +26,5 @@
 - pkg:maven/org.mule.maven.exchange/exchange-model@2.0.2?classifier=sources
 - pkg:maven/org.mule.maven.exchange/exchange-model@2.1.0
 - pkg:maven/org.mule.maven.exchange/exchange-model@2.1.0?classifier=sources
+- pkg:maven/org.mule.maven.exchange/exchange-model@2.1.1
+- pkg:maven/org.mule.maven.exchange/exchange-model@2.1.1?classifier=sources

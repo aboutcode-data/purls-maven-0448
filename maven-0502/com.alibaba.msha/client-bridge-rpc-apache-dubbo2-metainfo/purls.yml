@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.msha/client-bridge-rpc-apache-dubbo2-metainfo@0.2
+- pkg:maven/com.alibaba.msha/client-bridge-rpc-apache-dubbo2-metainfo@0.2?classifier=sources

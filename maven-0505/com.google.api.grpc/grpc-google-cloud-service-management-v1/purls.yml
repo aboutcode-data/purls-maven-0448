@@ -30,3 +30,9 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@2.1.4?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@2.1.5
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@2.1.5?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@2.1.6
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@2.1.6?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@2.1.7
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@2.1.7?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@3.0.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-management-v1@3.0.0?classifier=sources

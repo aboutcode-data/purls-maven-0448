@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-ant@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-ant@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-ant@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-ant@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbi-ant@RELEASE90?classifier=sources

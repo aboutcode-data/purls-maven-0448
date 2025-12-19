@@ -1,0 +1,2 @@
+- pkg:maven/fish.focus.uvms.plugins.rest.movement/flux-vesselposition-rest-service@1.8?classifier=sources
+- pkg:maven/fish.focus.uvms.plugins.rest.movement/flux-vesselposition-rest-service@1.9?classifier=sources

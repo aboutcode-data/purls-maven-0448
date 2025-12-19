@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/swag-organizations@1.1-bb2f2f5-client
+- pkg:maven/dev.vality/swag-organizations@1.1-bb2f2f5-client?classifier=sources
+- pkg:maven/dev.vality/swag-organizations@1.1-bb2f2f5-server
+- pkg:maven/dev.vality/swag-organizations@1.1-bb2f2f5-server?classifier=sources

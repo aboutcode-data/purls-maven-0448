@@ -24,6 +24,8 @@
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@11.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@11.3
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@11.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-canvas@11.4
+- pkg:maven/org.opencastproject/opencast-userdirectory-canvas@11.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@9.0
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@9.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@9.1

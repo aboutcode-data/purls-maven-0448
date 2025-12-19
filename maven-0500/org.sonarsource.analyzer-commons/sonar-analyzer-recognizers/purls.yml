@@ -25,6 +25,8 @@
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-recognizers@1.20.0.801?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-recognizers@1.21.0.829?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-recognizers@1.22.0.848?classifier=sources
+- pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-recognizers@1.23.0.957?classifier=sources
+- pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-recognizers@1.24.0.965?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-recognizers@1.8.0.295
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-recognizers@1.8.0.295?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-recognizers@1.9.0.327

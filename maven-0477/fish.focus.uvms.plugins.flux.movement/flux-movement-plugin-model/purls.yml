@@ -1,0 +1,2 @@
+- pkg:maven/fish.focus.uvms.plugins.flux.movement/flux-movement-plugin-model@3.1.12?classifier=sources
+- pkg:maven/fish.focus.uvms.plugins.flux.movement/flux-movement-plugin-model@3.1.13?classifier=sources

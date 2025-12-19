@@ -1,0 +1,4 @@
+- pkg:maven/uk.ac.sussex.gdsc/gdsc-analytics@2.0
+- pkg:maven/uk.ac.sussex.gdsc/gdsc-analytics@2.0?classifier=sources
+- pkg:maven/uk.ac.sussex.gdsc/gdsc-analytics@3.0
+- pkg:maven/uk.ac.sussex.gdsc/gdsc-analytics@3.0?classifier=sources

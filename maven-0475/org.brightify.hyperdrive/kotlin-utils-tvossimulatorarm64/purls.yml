@@ -11,3 +11,4 @@
 - pkg:maven/org.brightify.hyperdrive/kotlin-utils-tvossimulatorarm64@0.1.121?classifier=sources
 - pkg:maven/org.brightify.hyperdrive/kotlin-utils-tvossimulatorarm64@0.1.122?classifier=sources
 - pkg:maven/org.brightify.hyperdrive/kotlin-utils-tvossimulatorarm64@0.1.123?classifier=sources
+- pkg:maven/org.brightify.hyperdrive/kotlin-utils-tvossimulatorarm64@0.1.124?classifier=sources

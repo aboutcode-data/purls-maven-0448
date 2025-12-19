@@ -33,4 +33,9 @@
 - pkg:maven/me.proton.core/key-data@5.2.0?classifier=sources
 - pkg:maven/me.proton.core/key-data@5.2.1?classifier=sources
 - pkg:maven/me.proton.core/key-data@5.2.2?classifier=sources
+- pkg:maven/me.proton.core/key-data@5.2.3?classifier=sources
 - pkg:maven/me.proton.core/key-data@6.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-data@7.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-data@7.1.0?classifier=sources
+- pkg:maven/me.proton.core/key-data@7.1.1?classifier=sources
+- pkg:maven/me.proton.core/key-data@7.1.2?classifier=sources

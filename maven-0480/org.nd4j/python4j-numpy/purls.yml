@@ -1,3 +1,5 @@
 - pkg:maven/org.nd4j/python4j-numpy@1.0.0-M1
 - pkg:maven/org.nd4j/python4j-numpy@1.0.0-M1.1?classifier=sources
 - pkg:maven/org.nd4j/python4j-numpy@1.0.0-M1?classifier=sources
+- pkg:maven/org.nd4j/python4j-numpy@1.0.0-M2
+- pkg:maven/org.nd4j/python4j-numpy@1.0.0-M2?classifier=sources

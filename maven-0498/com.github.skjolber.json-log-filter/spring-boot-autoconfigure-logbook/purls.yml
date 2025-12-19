@@ -1,0 +1,4 @@
+- pkg:maven/com.github.skjolber.json-log-filter/spring-boot-autoconfigure-logbook@2.1.0
+- pkg:maven/com.github.skjolber.json-log-filter/spring-boot-autoconfigure-logbook@2.1.0?classifier=sources
+- pkg:maven/com.github.skjolber.json-log-filter/spring-boot-autoconfigure-logbook@2.1.1
+- pkg:maven/com.github.skjolber.json-log-filter/spring-boot-autoconfigure-logbook@2.1.1?classifier=sources

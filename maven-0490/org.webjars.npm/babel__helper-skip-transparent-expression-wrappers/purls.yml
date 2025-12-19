@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/babel__helper-skip-transparent-expression-wrappers@7.12.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-skip-transparent-expression-wrappers@7.14.5
 - pkg:maven/org.webjars.npm/babel__helper-skip-transparent-expression-wrappers@7.14.5?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-skip-transparent-expression-wrappers@7.16.0
+- pkg:maven/org.webjars.npm/babel__helper-skip-transparent-expression-wrappers@7.16.0?classifier=sources

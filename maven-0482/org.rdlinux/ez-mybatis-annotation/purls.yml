@@ -16,3 +16,5 @@
 - pkg:maven/org.rdlinux/ez-mybatis-annotation@0.0.8.RS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-annotation@0.0.9.RS
 - pkg:maven/org.rdlinux/ez-mybatis-annotation@0.0.9.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-annotation@0.1.0.RS
+- pkg:maven/org.rdlinux/ez-mybatis-annotation@0.1.0.RS?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki.example/license-example@5.3.15
+- pkg:maven/org.xipki.example/license-example@5.3.15?classifier=sources

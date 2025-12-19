@@ -46,3 +46,5 @@
 - pkg:maven/no.nordicsemi.android/ble@2.2.4?type=aar
 - pkg:maven/no.nordicsemi.android/ble@2.3.0?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble@2.3.1?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble@2.4.0-beta01?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble@2.4.0.beta02?classifier=sources

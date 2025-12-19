@@ -40,6 +40,7 @@
 - pkg:maven/org.opendaylight.odlparent/features-test@1.8.4-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@1.9.0
 - pkg:maven/org.opendaylight.odlparent/features-test@1.9.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-test@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@2.0.0
 - pkg:maven/org.opendaylight.odlparent/features-test@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@2.0.1
@@ -214,6 +215,7 @@
 - pkg:maven/org.opendaylight.odlparent/features-test@8.1.6?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@8.1.7?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@8.1.8?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-test@8.1.9?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.0
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.1
@@ -221,6 +223,7 @@
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.10?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.11?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.12?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/features-test@9.0.13?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.2
 - pkg:maven/org.opendaylight.odlparent/features-test@9.0.2?classifier=sources

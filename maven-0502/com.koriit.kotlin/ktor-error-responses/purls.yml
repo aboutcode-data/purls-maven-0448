@@ -1,0 +1,2 @@
+- pkg:maven/com.koriit.kotlin/ktor-error-responses@0.3.2?classifier=sources
+- pkg:maven/com.koriit.kotlin/ktor-error-responses@0.4.0?classifier=sources

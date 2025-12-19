@@ -1,1 +1,2 @@
 - pkg:maven/com.dynatrace.dynahist/dynahist@1.1?classifier=sources
+- pkg:maven/com.dynatrace.dynahist/dynahist@1.2?classifier=sources

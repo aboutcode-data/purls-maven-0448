@@ -122,3 +122,5 @@
 - pkg:maven/it.unimi.dsi/dsiutils@2.6.8?classifier=sources
 - pkg:maven/it.unimi.dsi/dsiutils@2.6.9
 - pkg:maven/it.unimi.dsi/dsiutils@2.6.9?classifier=sources
+- pkg:maven/it.unimi.dsi/dsiutils@2.7.0
+- pkg:maven/it.unimi.dsi/dsiutils@2.7.0?classifier=sources

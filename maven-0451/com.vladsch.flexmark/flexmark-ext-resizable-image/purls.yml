@@ -1,0 +1,2 @@
+- pkg:maven/com.vladsch.flexmark/flexmark-ext-resizable-image@0.64.0
+- pkg:maven/com.vladsch.flexmark/flexmark-ext-resizable-image@0.64.0?classifier=sources

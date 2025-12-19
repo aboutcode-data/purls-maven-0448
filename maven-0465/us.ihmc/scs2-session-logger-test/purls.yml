@@ -1,0 +1,2 @@
+- pkg:maven/us.ihmc/scs2-session-logger-test@0.4.0?classifier=sources
+- pkg:maven/us.ihmc/scs2-session-logger-test@0.5.0?classifier=sources

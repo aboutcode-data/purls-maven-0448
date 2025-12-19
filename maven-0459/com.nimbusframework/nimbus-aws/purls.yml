@@ -16,3 +16,7 @@
 - pkg:maven/com.nimbusframework/nimbus-aws@0.14.2?classifier=sources
 - pkg:maven/com.nimbusframework/nimbus-aws@0.14.3
 - pkg:maven/com.nimbusframework/nimbus-aws@0.14.3?classifier=sources
+- pkg:maven/com.nimbusframework/nimbus-aws@0.15.0
+- pkg:maven/com.nimbusframework/nimbus-aws@0.15.0?classifier=sources
+- pkg:maven/com.nimbusframework/nimbus-aws@0.15.1
+- pkg:maven/com.nimbusframework/nimbus-aws@0.15.1?classifier=sources

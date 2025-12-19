@@ -6,3 +6,5 @@
 - pkg:maven/org.neo4j/neo4j-graph-counts@4.4.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-counts@4.4.3
 - pkg:maven/org.neo4j/neo4j-graph-counts@4.4.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-counts@4.4.4
+- pkg:maven/org.neo4j/neo4j-graph-counts@4.4.4?classifier=sources

@@ -30,3 +30,7 @@
 - pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.36?classifier=sources
 - pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.37?classifier=sources
 - pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.38?classifier=sources
+- pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.39?classifier=sources
+- pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.40?classifier=sources
+- pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.41?classifier=sources
+- pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.42?classifier=sources

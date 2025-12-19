@@ -124,5 +124,8 @@
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.4.Final-format-001
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.4.Final-format-001?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.4.Final-format-001?classifier=sources
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.4.Final-format-002
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.4.Final-format-002?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.common/wildfly-common@1.5.4.Final-format-002?classifier=sources
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.4.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.common/wildfly-common@1.5.4.Final?classifier=sources

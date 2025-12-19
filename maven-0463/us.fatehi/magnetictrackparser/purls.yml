@@ -30,3 +30,5 @@
 - pkg:maven/us.fatehi/magnetictrackparser@3.1.1?classifier=sources
 - pkg:maven/us.fatehi/magnetictrackparser@3.2.1
 - pkg:maven/us.fatehi/magnetictrackparser@3.2.1?classifier=sources
+- pkg:maven/us.fatehi/magnetictrackparser@4.0.1
+- pkg:maven/us.fatehi/magnetictrackparser@4.0.1?classifier=sources

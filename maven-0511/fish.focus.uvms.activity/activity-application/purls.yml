@@ -1,0 +1,4 @@
+- pkg:maven/fish.focus.uvms.activity/activity-application@1.2.15?classifier=sources
+- pkg:maven/fish.focus.uvms.activity/activity-application@1.2.15?type=war
+- pkg:maven/fish.focus.uvms.activity/activity-application@1.2.16?classifier=sources
+- pkg:maven/fish.focus.uvms.activity/activity-application@1.2.16?type=war

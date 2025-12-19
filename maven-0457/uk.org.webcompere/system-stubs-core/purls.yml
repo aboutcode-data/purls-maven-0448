@@ -6,3 +6,5 @@
 - pkg:maven/uk.org.webcompere/system-stubs-core@1.2.0?classifier=sources
 - pkg:maven/uk.org.webcompere/system-stubs-core@2.0.0
 - pkg:maven/uk.org.webcompere/system-stubs-core@2.0.0?classifier=sources
+- pkg:maven/uk.org.webcompere/system-stubs-core@2.0.1
+- pkg:maven/uk.org.webcompere/system-stubs-core@2.0.1?classifier=sources

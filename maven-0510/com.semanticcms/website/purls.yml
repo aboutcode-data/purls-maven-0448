@@ -6,3 +6,5 @@
 - pkg:maven/com.semanticcms/website@1.13.2?type=war
 - pkg:maven/com.semanticcms/website@1.13.3?classifier=sources
 - pkg:maven/com.semanticcms/website@1.13.3?type=war
+- pkg:maven/com.semanticcms/website@1.13.4?classifier=sources
+- pkg:maven/com.semanticcms/website@1.13.4?type=war

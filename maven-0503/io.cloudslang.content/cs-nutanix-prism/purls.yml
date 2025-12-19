@@ -2,3 +2,5 @@
 - pkg:maven/io.cloudslang.content/cs-nutanix-prism@1.0.0-RC2?classifier=sources
 - pkg:maven/io.cloudslang.content/cs-nutanix-prism@1.0.0-RC6
 - pkg:maven/io.cloudslang.content/cs-nutanix-prism@1.0.0-RC6?classifier=sources
+- pkg:maven/io.cloudslang.content/cs-nutanix-prism@1.0.2
+- pkg:maven/io.cloudslang.content/cs-nutanix-prism@1.0.2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.hjohn.ddif/ddif-test-plugin-singleton@3.0.0?classifier=sources
 - pkg:maven/com.github.hjohn.ddif/ddif-test-plugin-singleton@3.0.2
 - pkg:maven/com.github.hjohn.ddif/ddif-test-plugin-singleton@3.0.2?classifier=sources
+- pkg:maven/com.github.hjohn.ddif/ddif-test-plugin-singleton@4.0.0-alpha.1
+- pkg:maven/com.github.hjohn.ddif/ddif-test-plugin-singleton@4.0.0-alpha.1?classifier=sources

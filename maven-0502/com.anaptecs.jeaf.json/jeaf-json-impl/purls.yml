@@ -1,0 +1,2 @@
+- pkg:maven/com.anaptecs.jeaf.json/jeaf-json-impl@1.6.2
+- pkg:maven/com.anaptecs.jeaf.json/jeaf-json-impl@1.6.2?classifier=sources

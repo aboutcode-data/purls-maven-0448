@@ -1,0 +1,6 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-armeria-server-zio_3@0.20.0
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-armeria-server-zio_3@0.20.0-M10
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-armeria-server-zio_3@0.20.0-M10?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-armeria-server-zio_3@0.20.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-armeria-server-zio_3@0.20.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-armeria-server-zio_3@0.20.1?classifier=sources

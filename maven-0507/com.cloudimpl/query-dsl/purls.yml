@@ -1,5 +1,9 @@
 - pkg:maven/com.cloudimpl/query-dsl@1.0.10
 - pkg:maven/com.cloudimpl/query-dsl@1.0.10?classifier=sources
+- pkg:maven/com.cloudimpl/query-dsl@1.0.13
+- pkg:maven/com.cloudimpl/query-dsl@1.0.13?classifier=sources
+- pkg:maven/com.cloudimpl/query-dsl@1.0.14
+- pkg:maven/com.cloudimpl/query-dsl@1.0.14?classifier=sources
 - pkg:maven/com.cloudimpl/query-dsl@1.0.4
 - pkg:maven/com.cloudimpl/query-dsl@1.0.4?classifier=sources
 - pkg:maven/com.cloudimpl/query-dsl@1.0.5

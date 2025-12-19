@@ -377,4 +377,10 @@
 - pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.1-5-9dc876c2?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.1-6-5fce97fb
 - pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.1-6-5fce97fb?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.1-7-cd989427
+- pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.1-7-cd989427?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.1?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.2
+- pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.2-1-fcc95af4
+- pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.2-1-fcc95af4?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.12.8@2.5.2?classifier=sources

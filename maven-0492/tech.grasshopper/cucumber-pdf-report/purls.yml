@@ -30,3 +30,7 @@
 - pkg:maven/tech.grasshopper/cucumber-pdf-report@2.2.4?classifier=sources
 - pkg:maven/tech.grasshopper/cucumber-pdf-report@2.3.0
 - pkg:maven/tech.grasshopper/cucumber-pdf-report@2.3.0?classifier=sources
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.4.0
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.4.0?classifier=sources
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.5.0
+- pkg:maven/tech.grasshopper/cucumber-pdf-report@2.5.0?classifier=sources

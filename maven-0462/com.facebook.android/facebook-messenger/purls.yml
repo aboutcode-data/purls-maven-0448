@@ -18,6 +18,8 @@
 - pkg:maven/com.facebook.android/facebook-messenger@12.2.0?type=aar
 - pkg:maven/com.facebook.android/facebook-messenger@12.3.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-messenger@12.3.0?type=aar
+- pkg:maven/com.facebook.android/facebook-messenger@13.0.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-messenger@13.0.0?type=aar
 - pkg:maven/com.facebook.android/facebook-messenger@4.27.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-messenger@4.27.0?type=aar
 - pkg:maven/com.facebook.android/facebook-messenger@4.28.0?classifier=sources

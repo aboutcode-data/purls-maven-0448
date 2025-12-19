@@ -8,6 +8,9 @@
 - pkg:maven/com.bihe0832.android/lib-immersive@4.13.7?type=aar
 - pkg:maven/com.bihe0832.android/lib-immersive@4.14.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-immersive@4.14.4?type=aar
+- pkg:maven/com.bihe0832.android/lib-immersive@4.15.14?type=aar
+- pkg:maven/com.bihe0832.android/lib-immersive@4.15.7?type=aar
+- pkg:maven/com.bihe0832.android/lib-immersive@4.15.8?type=aar
 - pkg:maven/com.bihe0832.android/lib-immersive@4.2.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-immersive@4.3.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-immersive@4.5.5?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/net.ymate.platform/ymate-platform-starter@2.1.0
+- pkg:maven/net.ymate.platform/ymate-platform-starter@2.1.0?classifier=sources

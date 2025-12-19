@@ -30,3 +30,5 @@
 - pkg:maven/com.github.vlsi.gradle/checksum-dependency-plugin@1.76?classifier=sources
 - pkg:maven/com.github.vlsi.gradle/checksum-dependency-plugin@1.77
 - pkg:maven/com.github.vlsi.gradle/checksum-dependency-plugin@1.77?classifier=sources
+- pkg:maven/com.github.vlsi.gradle/checksum-dependency-plugin@1.78
+- pkg:maven/com.github.vlsi.gradle/checksum-dependency-plugin@1.78?classifier=sources

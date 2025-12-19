@@ -1,3 +1,5 @@
+- pkg:maven/io.github.astrapi69/mystic-crypt@7.10?classifier=sources
+- pkg:maven/io.github.astrapi69/mystic-crypt@7.11?classifier=sources
 - pkg:maven/io.github.astrapi69/mystic-crypt@7.6
 - pkg:maven/io.github.astrapi69/mystic-crypt@7.6?classifier=sources
 - pkg:maven/io.github.astrapi69/mystic-crypt@7.7?classifier=sources

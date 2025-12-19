@@ -9,3 +9,5 @@
 - pkg:maven/com.manolodominguez/openlrae-maven-plugin@2.0?classifier=sources
 - pkg:maven/com.manolodominguez/openlrae-maven-plugin@2.1?classifier=sources
 - pkg:maven/com.manolodominguez/openlrae-maven-plugin@2.2?classifier=sources
+- pkg:maven/com.manolodominguez/openlrae-maven-plugin@2.3?classifier=sources
+- pkg:maven/com.manolodominguez/openlrae-maven-plugin@3.0?classifier=sources

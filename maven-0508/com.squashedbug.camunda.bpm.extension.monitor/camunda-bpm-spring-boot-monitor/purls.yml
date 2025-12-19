@@ -1,2 +1,4 @@
 - pkg:maven/com.squashedbug.camunda.bpm.extension.monitor/camunda-bpm-spring-boot-monitor@0.1.4
 - pkg:maven/com.squashedbug.camunda.bpm.extension.monitor/camunda-bpm-spring-boot-monitor@0.1.4?classifier=sources
+- pkg:maven/com.squashedbug.camunda.bpm.extension.monitor/camunda-bpm-spring-boot-monitor@0.1.7
+- pkg:maven/com.squashedbug.camunda.bpm.extension.monitor/camunda-bpm-spring-boot-monitor@0.1.7?classifier=sources

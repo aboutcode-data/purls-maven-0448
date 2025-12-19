@@ -8,6 +8,7 @@
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.17
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.19
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.23
+- pkg:maven/com.kony.middleware/middleware-api@8.4.3.24
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.3
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.5
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.6
@@ -49,5 +50,7 @@
 - pkg:maven/com.kony.middleware/middleware-api@9.3.0.0
 - pkg:maven/com.kony.middleware/middleware-api@9.3.0.1
 - pkg:maven/com.kony.middleware/middleware-api@9.3.1.0
+- pkg:maven/com.kony.middleware/middleware-api@9.3.1.5
 - pkg:maven/com.kony.middleware/middleware-api@9.4.0.1
+- pkg:maven/com.kony.middleware/middleware-api@9.4.0.2
 - pkg:maven/com.kony.middleware/middleware-api@test

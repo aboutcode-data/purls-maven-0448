@@ -24,6 +24,8 @@
 - pkg:maven/org.opencastproject/opencast-asset-manager-static-file-authorization@11.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-static-file-authorization@11.3
 - pkg:maven/org.opencastproject/opencast-asset-manager-static-file-authorization@11.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-asset-manager-static-file-authorization@11.4
+- pkg:maven/org.opencastproject/opencast-asset-manager-static-file-authorization@11.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-static-file-authorization@9.10
 - pkg:maven/org.opencastproject/opencast-asset-manager-static-file-authorization@9.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-asset-manager-static-file-authorization@9.11

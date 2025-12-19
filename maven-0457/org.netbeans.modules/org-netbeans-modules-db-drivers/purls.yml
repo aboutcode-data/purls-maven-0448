@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-drivers@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-drivers@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-drivers@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-drivers@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-drivers@RELEASE90?classifier=sources

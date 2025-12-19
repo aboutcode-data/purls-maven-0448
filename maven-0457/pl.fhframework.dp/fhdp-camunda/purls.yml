@@ -1,0 +1,2 @@
+- pkg:maven/pl.fhframework.dp/fhdp-camunda@4.9.23
+- pkg:maven/pl.fhframework.dp/fhdp-camunda@4.9.23?classifier=sources

@@ -105,3 +105,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-datastore-mybatis@3.37.2-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-datastore-mybatis@3.37.3-02
 - pkg:maven/org.sonatype.nexus/nexus-datastore-mybatis@3.37.3-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-datastore-mybatis@3.38.0-01
+- pkg:maven/org.sonatype.nexus/nexus-datastore-mybatis@3.38.0-01?classifier=sources

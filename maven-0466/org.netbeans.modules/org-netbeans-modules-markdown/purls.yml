@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-markdown@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-markdown@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-markdown@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-markdown@RELEASE130?classifier=sources

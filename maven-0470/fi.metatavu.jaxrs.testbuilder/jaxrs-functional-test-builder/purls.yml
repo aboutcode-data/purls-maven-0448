@@ -1,2 +1,6 @@
 - pkg:maven/fi.metatavu.jaxrs.testbuilder/jaxrs-functional-test-builder@1.0.4
 - pkg:maven/fi.metatavu.jaxrs.testbuilder/jaxrs-functional-test-builder@1.0.4?classifier=sources
+- pkg:maven/fi.metatavu.jaxrs.testbuilder/jaxrs-functional-test-builder@1.0.5
+- pkg:maven/fi.metatavu.jaxrs.testbuilder/jaxrs-functional-test-builder@1.0.5?classifier=sources
+- pkg:maven/fi.metatavu.jaxrs.testbuilder/jaxrs-functional-test-builder@1.0.6
+- pkg:maven/fi.metatavu.jaxrs.testbuilder/jaxrs-functional-test-builder@1.0.6?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.commons/commons-jcs3-jcache-tck@3.0
+- pkg:maven/org.apache.commons/commons-jcs3-jcache-tck@3.1

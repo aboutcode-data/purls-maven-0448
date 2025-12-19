@@ -119,6 +119,8 @@
 - pkg:maven/fr.ird.observe/toolkit-i18n@5.0.62?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-i18n@5.0.63
 - pkg:maven/fr.ird.observe/toolkit-i18n@5.0.63?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-i18n@5.0.64
+- pkg:maven/fr.ird.observe/toolkit-i18n@5.0.64?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-i18n@5.0.6?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-i18n@5.0.7
 - pkg:maven/fr.ird.observe/toolkit-i18n@5.0.7?classifier=sources

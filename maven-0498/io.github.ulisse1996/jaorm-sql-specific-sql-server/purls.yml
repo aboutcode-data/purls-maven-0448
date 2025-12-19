@@ -36,3 +36,13 @@
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@0.34.0?classifier=sources
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@0.35.0
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@0.35.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.0.0
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.0.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.0.1
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.0.1?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.1.0
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.1.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.1.1
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.1.1?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.2.0
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-sql-server@1.2.0?classifier=sources

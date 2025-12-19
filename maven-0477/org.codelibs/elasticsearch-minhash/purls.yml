@@ -66,6 +66,8 @@
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.15.1?type=zip
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.16.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.16.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-minhash@7.17.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-minhash@7.17.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.2.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.2.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.3.0?classifier=sources
@@ -86,3 +88,9 @@
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.9.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.9.1?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-minhash@7.9.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-minhash@8.0.0-rc1?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-minhash@8.0.0-rc1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-minhash@8.0.0-rc2?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-minhash@8.0.0-rc2?type=zip
+- pkg:maven/org.codelibs/elasticsearch-minhash@8.0.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-minhash@8.0.0?type=zip

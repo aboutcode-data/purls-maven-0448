@@ -1,0 +1,4 @@
+- pkg:maven/fish.focus.uvms.spatial/spatial-client@2.2.11
+- pkg:maven/fish.focus.uvms.spatial/spatial-client@2.2.11?classifier=sources
+- pkg:maven/fish.focus.uvms.spatial/spatial-client@2.2.12
+- pkg:maven/fish.focus.uvms.spatial/spatial-client@2.2.12?classifier=sources
