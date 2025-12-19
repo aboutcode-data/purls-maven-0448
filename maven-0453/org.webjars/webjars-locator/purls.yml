@@ -83,6 +83,8 @@
 - pkg:maven/org.webjars/webjars-locator@0.45?classifier=sources
 - pkg:maven/org.webjars/webjars-locator@0.46
 - pkg:maven/org.webjars/webjars-locator@0.46?classifier=sources
+- pkg:maven/org.webjars/webjars-locator@0.47
+- pkg:maven/org.webjars/webjars-locator@0.47?classifier=sources
 - pkg:maven/org.webjars/webjars-locator@0.4?classifier=sources
 - pkg:maven/org.webjars/webjars-locator@0.5
 - pkg:maven/org.webjars/webjars-locator@0.5?classifier=sources

@@ -37,6 +37,9 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.39.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.4.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.4.1.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.40.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.40.1.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.41.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.5.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.6.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-integration-test-maven-devmode@1.7.0.Final

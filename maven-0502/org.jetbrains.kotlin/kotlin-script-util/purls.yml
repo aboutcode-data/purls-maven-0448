@@ -210,3 +210,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.8.20?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.8.21
 - pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.8.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.8.22
+- pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.8.22?classifier=sources

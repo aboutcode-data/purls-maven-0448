@@ -13,4 +13,6 @@
 - pkg:maven/io.gitee.yiwyn/gemini-tools@1.0.7?classifier=sources
 - pkg:maven/io.gitee.yiwyn/gemini-tools@1.0.8
 - pkg:maven/io.gitee.yiwyn/gemini-tools@1.0.8?classifier=sources
+- pkg:maven/io.gitee.yiwyn/gemini-tools@1.0.9
+- pkg:maven/io.gitee.yiwyn/gemini-tools@1.0.9?classifier=sources
 - pkg:maven/io.gitee.yiwyn/gemini-tools@1.0?classifier=sources

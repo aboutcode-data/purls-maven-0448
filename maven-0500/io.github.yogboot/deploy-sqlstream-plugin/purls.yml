@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yogboot/deploy-sqlstream-plugin@1.0.3
+- pkg:maven/io.github.yogboot/deploy-sqlstream-plugin@1.0.3?classifier=sources

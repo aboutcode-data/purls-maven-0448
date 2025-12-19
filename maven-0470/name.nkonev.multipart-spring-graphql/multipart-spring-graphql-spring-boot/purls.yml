@@ -1,0 +1,4 @@
+- pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql-spring-boot@0.10.4
+- pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql-spring-boot@0.10.4?classifier=sources
+- pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql-spring-boot@0.10.5
+- pkg:maven/name.nkonev.multipart-spring-graphql/multipart-spring-graphql-spring-boot@0.10.5?classifier=sources

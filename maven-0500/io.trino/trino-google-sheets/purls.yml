@@ -65,3 +65,5 @@
 - pkg:maven/io.trino/trino-google-sheets@416?classifier=sources
 - pkg:maven/io.trino/trino-google-sheets@417?classifier=sources
 - pkg:maven/io.trino/trino-google-sheets@418?classifier=sources
+- pkg:maven/io.trino/trino-google-sheets@419?classifier=sources
+- pkg:maven/io.trino/trino-google-sheets@420?classifier=sources

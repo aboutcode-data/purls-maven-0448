@@ -106,3 +106,7 @@
 - pkg:maven/com.dslplatform/dsl-json@1.9.8?classifier=sources
 - pkg:maven/com.dslplatform/dsl-json@1.9.9
 - pkg:maven/com.dslplatform/dsl-json@1.9.9?classifier=sources
+- pkg:maven/com.dslplatform/dsl-json@2.0.0
+- pkg:maven/com.dslplatform/dsl-json@2.0.0?classifier=sources
+- pkg:maven/com.dslplatform/dsl-json@2.0.1
+- pkg:maven/com.dslplatform/dsl-json@2.0.1?classifier=sources

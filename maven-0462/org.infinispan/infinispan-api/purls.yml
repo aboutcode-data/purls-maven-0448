@@ -172,6 +172,10 @@
 - pkg:maven/org.infinispan/infinispan-api@13.0.15.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@13.0.16.Final
 - pkg:maven/org.infinispan/infinispan-api@13.0.16.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-api@13.0.17.Final
+- pkg:maven/org.infinispan/infinispan-api@13.0.17.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-api@13.0.18.Final
+- pkg:maven/org.infinispan/infinispan-api@13.0.18.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-api@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@13.0.3.Final
@@ -204,6 +208,10 @@
 - pkg:maven/org.infinispan/infinispan-api@14.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@14.0.1.Final
 - pkg:maven/org.infinispan/infinispan-api@14.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-api@14.0.10.Final
+- pkg:maven/org.infinispan/infinispan-api@14.0.10.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-api@14.0.11.Final
+- pkg:maven/org.infinispan/infinispan-api@14.0.11.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@14.0.2.Final
 - pkg:maven/org.infinispan/infinispan-api@14.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@14.0.3.Final
@@ -222,6 +230,8 @@
 - pkg:maven/org.infinispan/infinispan-api@14.0.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@15.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-api@15.0.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan/infinispan-api@15.0.0.Dev02
+- pkg:maven/org.infinispan/infinispan-api@15.0.0.Dev02?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@5.1.0.BETA4
 - pkg:maven/org.infinispan/infinispan-api@5.1.0.BETA4?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@5.1.0.BETA5

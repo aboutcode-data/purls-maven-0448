@@ -1,0 +1,2 @@
+- pkg:maven/dev.forkhandles/k8s-dsl@0.0.0.3?classifier=sources
+- pkg:maven/dev.forkhandles/k8s-dsl@3.5.0.0?classifier=sources

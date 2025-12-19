@@ -114,3 +114,7 @@
 - pkg:maven/org.apache.orc/orc-tools@1.8.2?classifier=sources
 - pkg:maven/org.apache.orc/orc-tools@1.8.3
 - pkg:maven/org.apache.orc/orc-tools@1.8.3?classifier=sources
+- pkg:maven/org.apache.orc/orc-tools@1.8.4
+- pkg:maven/org.apache.orc/orc-tools@1.8.4?classifier=sources
+- pkg:maven/org.apache.orc/orc-tools@1.9.0
+- pkg:maven/org.apache.orc/orc-tools@1.9.0?classifier=sources

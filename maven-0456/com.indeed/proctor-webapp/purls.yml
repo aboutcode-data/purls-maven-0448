@@ -228,6 +228,16 @@
 - pkg:maven/com.indeed/proctor-webapp@1.9.83?type=war
 - pkg:maven/com.indeed/proctor-webapp@1.9.84?classifier=sources
 - pkg:maven/com.indeed/proctor-webapp@1.9.84?type=war
+- pkg:maven/com.indeed/proctor-webapp@1.9.85?classifier=sources
+- pkg:maven/com.indeed/proctor-webapp@1.9.85?type=war
+- pkg:maven/com.indeed/proctor-webapp@1.9.86?classifier=sources
+- pkg:maven/com.indeed/proctor-webapp@1.9.86?type=war
+- pkg:maven/com.indeed/proctor-webapp@1.9.87?classifier=sources
+- pkg:maven/com.indeed/proctor-webapp@1.9.87?type=war
+- pkg:maven/com.indeed/proctor-webapp@1.9.88?classifier=sources
+- pkg:maven/com.indeed/proctor-webapp@1.9.88?type=war
+- pkg:maven/com.indeed/proctor-webapp@1.9.89?classifier=sources
+- pkg:maven/com.indeed/proctor-webapp@1.9.89?type=war
 - pkg:maven/com.indeed/proctor-webapp@1.9.8?classifier=sources
 - pkg:maven/com.indeed/proctor-webapp@1.9.8?type=war
 - pkg:maven/com.indeed/proctor-webapp@1.9.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.net-a-porter/spring-data-solr@5.1.0?classifier=sources
+- pkg:maven/io.github.net-a-porter/spring-data-solr@5.1.1?classifier=sources

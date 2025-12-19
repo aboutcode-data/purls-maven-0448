@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/uvu@0.6.0-next.1
+- pkg:maven/org.webjars.npm/uvu@0.6.0-next.1?classifier=sources

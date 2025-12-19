@@ -43,3 +43,6 @@
 - pkg:maven/io.purchasely/huawei-services@3.6.2?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@3.6.3?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@3.6.4?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@3.7.0?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@3.7.1?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@3.7.2?classifier=sources

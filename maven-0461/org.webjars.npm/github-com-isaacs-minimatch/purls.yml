@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-isaacs-minimatch@3.0.5
+- pkg:maven/org.webjars.npm/github-com-isaacs-minimatch@3.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-isaacs-minimatch@9.0.1
+- pkg:maven/org.webjars.npm/github-com-isaacs-minimatch@9.0.1?classifier=sources

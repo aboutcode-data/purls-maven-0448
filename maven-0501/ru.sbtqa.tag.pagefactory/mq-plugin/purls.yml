@@ -198,5 +198,7 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@19.0.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@19.0.2
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@19.0.2?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@20.0.2
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@20.0.2?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@4.9.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@4.9.0?classifier=sources

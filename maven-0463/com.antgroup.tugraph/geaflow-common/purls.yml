@@ -1,0 +1,2 @@
+- pkg:maven/com.antgroup.tugraph/geaflow-common@0.1
+- pkg:maven/com.antgroup.tugraph/geaflow-common@0.1?classifier=sources

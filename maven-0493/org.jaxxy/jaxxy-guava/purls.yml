@@ -10,3 +10,5 @@
 - pkg:maven/org.jaxxy/jaxxy-guava@0.4.3?classifier=sources
 - pkg:maven/org.jaxxy/jaxxy-guava@1.0.0
 - pkg:maven/org.jaxxy/jaxxy-guava@1.0.0?classifier=sources
+- pkg:maven/org.jaxxy/jaxxy-guava@1.1.0
+- pkg:maven/org.jaxxy/jaxxy-guava@1.1.0?classifier=sources

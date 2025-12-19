@@ -36,3 +36,5 @@
 - pkg:maven/org.daisy.pipeline.modules/tts-common@4.0.3?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/tts-common@4.0.4
 - pkg:maven/org.daisy.pipeline.modules/tts-common@4.0.4?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/tts-common@4.1.0
+- pkg:maven/org.daisy.pipeline.modules/tts-common@4.1.0?classifier=sources

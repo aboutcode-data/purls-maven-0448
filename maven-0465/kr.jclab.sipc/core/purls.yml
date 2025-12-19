@@ -7,3 +7,6 @@
 - pkg:maven/kr.jclab.sipc/core@0.2.3-rc8?classifier=sources
 - pkg:maven/kr.jclab.sipc/core@0.2.3-rc9?classifier=sources
 - pkg:maven/kr.jclab.sipc/core@0.2.4?classifier=sources
+- pkg:maven/kr.jclab.sipc/core@0.2.5-rc2?classifier=sources
+- pkg:maven/kr.jclab.sipc/core@0.2.6-rc2?classifier=sources
+- pkg:maven/kr.jclab.sipc/core@0.2.6-rc3?classifier=sources

@@ -3,6 +3,10 @@
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.21.1?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.21.2?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.22.2?classifier=sources
+- pkg:maven/com.factset.sdk/fixedincomecalculation@0.22.3?classifier=sources
+- pkg:maven/com.factset.sdk/fixedincomecalculation@0.22.4?classifier=sources
+- pkg:maven/com.factset.sdk/fixedincomecalculation@0.23.0?classifier=sources
+- pkg:maven/com.factset.sdk/fixedincomecalculation@0.23.1?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.8.0?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.8.1?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.8.2?classifier=sources
@@ -10,5 +14,7 @@
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.8.4?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.8.5?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.8.6?classifier=sources
+- pkg:maven/com.factset.sdk/fixedincomecalculation@0.8.7?classifier=sources
+- pkg:maven/com.factset.sdk/fixedincomecalculation@0.8.8?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.9.0?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@0.9.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.netease.nim/camellia-hot-key-common@1.2.10
+- pkg:maven/com.netease.nim/camellia-hot-key-common@1.2.10?classifier=sources
 - pkg:maven/com.netease.nim/camellia-hot-key-common@1.2.8
 - pkg:maven/com.netease.nim/camellia-hot-key-common@1.2.8?classifier=sources
 - pkg:maven/com.netease.nim/camellia-hot-key-common@1.2.9

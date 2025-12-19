@@ -73,6 +73,10 @@
 - pkg:maven/com.iohao.game/bolt-external@17.1.41?classifier=sources
 - pkg:maven/com.iohao.game/bolt-external@17.1.42
 - pkg:maven/com.iohao.game/bolt-external@17.1.42?classifier=sources
+- pkg:maven/com.iohao.game/bolt-external@17.1.43
+- pkg:maven/com.iohao.game/bolt-external@17.1.43?classifier=sources
+- pkg:maven/com.iohao.game/bolt-external@17.1.44
+- pkg:maven/com.iohao.game/bolt-external@17.1.44?classifier=sources
 - pkg:maven/com.iohao.game/bolt-external@17.1.4?classifier=sources
 - pkg:maven/com.iohao.game/bolt-external@17.1.5
 - pkg:maven/com.iohao.game/bolt-external@17.1.5?classifier=sources

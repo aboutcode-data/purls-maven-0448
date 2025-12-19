@@ -1,0 +1,2 @@
+- pkg:maven/io.activej/activej-dataflow-jdbc-driver@6.0-beta1
+- pkg:maven/io.activej/activej-dataflow-jdbc-driver@6.0-beta1?classifier=sources

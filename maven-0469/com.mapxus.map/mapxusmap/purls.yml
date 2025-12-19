@@ -85,6 +85,7 @@
 - pkg:maven/com.mapxus.map/mapxusmap@5.0.1?type=aar
 - pkg:maven/com.mapxus.map/mapxusmap@5.0.2?classifier=sources
 - pkg:maven/com.mapxus.map/mapxusmap@5.0.2?type=aar
+- pkg:maven/com.mapxus.map/mapxusmap@5.0.3-BF.1?classifier=sources
 - pkg:maven/com.mapxus.map/mapxusmap@5.0.3?classifier=sources
 - pkg:maven/com.mapxus.map/mapxusmap@5.0.3?type=aar
 - pkg:maven/com.mapxus.map/mapxusmap@5.0.4?classifier=sources

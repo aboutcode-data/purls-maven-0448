@@ -2,3 +2,5 @@
 - pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@0.0.1-beta.1?type=aar
 - pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@0.0.1-beta.2?type=aar
 - pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@0.0.1-beta.3?type=aar
+- pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@1.0.0?type=aar

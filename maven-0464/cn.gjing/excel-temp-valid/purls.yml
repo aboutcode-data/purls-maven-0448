@@ -6,3 +6,7 @@
 - pkg:maven/cn.gjing/excel-temp-valid@2022.1.2?classifier=sources
 - pkg:maven/cn.gjing/excel-temp-valid@2023.5.0
 - pkg:maven/cn.gjing/excel-temp-valid@2023.5.0?classifier=sources
+- pkg:maven/cn.gjing/excel-temp-valid@2023.6.0
+- pkg:maven/cn.gjing/excel-temp-valid@2023.6.0-boot3
+- pkg:maven/cn.gjing/excel-temp-valid@2023.6.0-boot3?classifier=sources
+- pkg:maven/cn.gjing/excel-temp-valid@2023.6.0?classifier=sources

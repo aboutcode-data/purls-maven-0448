@@ -1282,3 +1282,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-azuread@7.0.3?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-azuread@7.0.4
 - pkg:maven/com.hashicorp/cdktf-provider-azuread@7.0.4?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-azuread@8.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-azuread@8.0.0?classifier=sources

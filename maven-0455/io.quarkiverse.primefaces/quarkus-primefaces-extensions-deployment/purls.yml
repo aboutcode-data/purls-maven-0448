@@ -18,3 +18,5 @@
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions-deployment@3.12.5?classifier=sources
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions-deployment@3.13.0
 - pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions-deployment@3.13.0?classifier=sources
+- pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions-deployment@3.13.1
+- pkg:maven/io.quarkiverse.primefaces/quarkus-primefaces-extensions-deployment@3.13.1?classifier=sources

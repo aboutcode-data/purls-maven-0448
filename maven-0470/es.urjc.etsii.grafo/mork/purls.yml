@@ -29,6 +29,8 @@
 - pkg:maven/es.urjc.etsii.grafo/mork@0.15?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/mork@0.16
 - pkg:maven/es.urjc.etsii.grafo/mork@0.16?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/mork@0.17
+- pkg:maven/es.urjc.etsii.grafo/mork@0.17?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/mork@0.1?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/mork@0.2.2
 - pkg:maven/es.urjc.etsii.grafo/mork@0.2.2?classifier=sources

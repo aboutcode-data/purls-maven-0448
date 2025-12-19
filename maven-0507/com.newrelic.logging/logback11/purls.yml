@@ -9,3 +9,4 @@
 - pkg:maven/com.newrelic.logging/logback11@2.4.0?classifier=sources
 - pkg:maven/com.newrelic.logging/logback11@2.5.0?classifier=sources
 - pkg:maven/com.newrelic.logging/logback11@2.6.0?classifier=sources
+- pkg:maven/com.newrelic.logging/logback11@3.0.0?classifier=sources

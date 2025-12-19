@@ -1,1 +1,2 @@
 - pkg:maven/io.github.fcuringa/freelocationprovider-mapbox@0.0.2?classifier=sources
+- pkg:maven/io.github.fcuringa/freelocationprovider-mapbox@0.1.0?classifier=sources

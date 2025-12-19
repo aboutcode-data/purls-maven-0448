@@ -16,3 +16,7 @@
 - pkg:maven/ch.epfl.scala/tasty-mima-interface@0.2.2?classifier=sources
 - pkg:maven/ch.epfl.scala/tasty-mima-interface@0.2.3
 - pkg:maven/ch.epfl.scala/tasty-mima-interface@0.2.3?classifier=sources
+- pkg:maven/ch.epfl.scala/tasty-mima-interface@0.3.0
+- pkg:maven/ch.epfl.scala/tasty-mima-interface@0.3.0?classifier=sources
+- pkg:maven/ch.epfl.scala/tasty-mima-interface@0.3.1
+- pkg:maven/ch.epfl.scala/tasty-mima-interface@0.3.1?classifier=sources

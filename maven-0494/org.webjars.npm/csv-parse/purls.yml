@@ -14,6 +14,8 @@
 - pkg:maven/org.webjars.npm/csv-parse@4.15.4?classifier=sources
 - pkg:maven/org.webjars.npm/csv-parse@4.16.0
 - pkg:maven/org.webjars.npm/csv-parse@4.16.0?classifier=sources
+- pkg:maven/org.webjars.npm/csv-parse@4.16.3
+- pkg:maven/org.webjars.npm/csv-parse@4.16.3?classifier=sources
 - pkg:maven/org.webjars.npm/csv-parse@4.8.2
 - pkg:maven/org.webjars.npm/csv-parse@4.8.2?classifier=sources
 - pkg:maven/org.webjars.npm/csv-parse@5.3.5

@@ -6,3 +6,4 @@
 - pkg:maven/io.github.ozzyozbourne/dsapi@4.0.0?classifier=sources
 - pkg:maven/io.github.ozzyozbourne/dsapi@4.1.0?classifier=sources
 - pkg:maven/io.github.ozzyozbourne/dsapi@5.0.0?classifier=sources
+- pkg:maven/io.github.ozzyozbourne/dsapi@5.1.0?classifier=sources

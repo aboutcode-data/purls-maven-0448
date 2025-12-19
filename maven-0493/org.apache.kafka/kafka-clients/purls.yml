@@ -102,3 +102,5 @@
 - pkg:maven/org.apache.kafka/kafka-clients@3.3.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-clients@3.3.2?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-clients@3.4.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-clients@3.4.1?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-clients@3.5.0?classifier=sources

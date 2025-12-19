@@ -10,5 +10,11 @@
 - pkg:maven/com.networknt/http-sidecar@2.1.16?classifier=sources
 - pkg:maven/com.networknt/http-sidecar@2.1.18
 - pkg:maven/com.networknt/http-sidecar@2.1.18?classifier=sources
+- pkg:maven/com.networknt/http-sidecar@2.1.19
+- pkg:maven/com.networknt/http-sidecar@2.1.19?classifier=sources
+- pkg:maven/com.networknt/http-sidecar@2.1.20
+- pkg:maven/com.networknt/http-sidecar@2.1.20?classifier=sources
+- pkg:maven/com.networknt/http-sidecar@2.1.22
+- pkg:maven/com.networknt/http-sidecar@2.1.22?classifier=sources
 - pkg:maven/com.networknt/http-sidecar@2.1.9
 - pkg:maven/com.networknt/http-sidecar@2.1.9?classifier=sources

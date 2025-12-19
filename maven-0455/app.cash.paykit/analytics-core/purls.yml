@@ -3,3 +3,4 @@
 - pkg:maven/app.cash.paykit/analytics-core@1.0.8?classifier=sources
 - pkg:maven/app.cash.paykit/analytics-core@2.0.0?classifier=sources
 - pkg:maven/app.cash.paykit/analytics-core@2.1.0?classifier=sources
+- pkg:maven/app.cash.paykit/analytics-core@2.2.0?classifier=sources

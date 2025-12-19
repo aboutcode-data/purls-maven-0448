@@ -1,0 +1,6 @@
+- pkg:maven/com.baomidou/dynamic-datasource-spring@4.0.0
+- pkg:maven/com.baomidou/dynamic-datasource-spring@4.0.0-B1
+- pkg:maven/com.baomidou/dynamic-datasource-spring@4.0.0-B1?classifier=sources
+- pkg:maven/com.baomidou/dynamic-datasource-spring@4.0.0.B1
+- pkg:maven/com.baomidou/dynamic-datasource-spring@4.0.0.B1?classifier=sources
+- pkg:maven/com.baomidou/dynamic-datasource-spring@4.0.0?classifier=sources
