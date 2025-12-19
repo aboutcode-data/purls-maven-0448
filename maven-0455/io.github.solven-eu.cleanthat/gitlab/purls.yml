@@ -1,3 +1,4 @@
 - pkg:maven/io.github.solven-eu.cleanthat/gitlab@1.0
 - pkg:maven/io.github.solven-eu.cleanthat/gitlab@1.1
 - pkg:maven/io.github.solven-eu.cleanthat/gitlab@1.2
+- pkg:maven/io.github.solven-eu.cleanthat/gitlab@1.3

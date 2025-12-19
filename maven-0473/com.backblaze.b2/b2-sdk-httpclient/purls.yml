@@ -22,3 +22,4 @@
 - pkg:maven/com.backblaze.b2/b2-sdk-httpclient@4.0.0?classifier=sources
 - pkg:maven/com.backblaze.b2/b2-sdk-httpclient@5.0.0?classifier=sources
 - pkg:maven/com.backblaze.b2/b2-sdk-httpclient@5.1.0?classifier=sources
+- pkg:maven/com.backblaze.b2/b2-sdk-httpclient@6.0.0?classifier=sources

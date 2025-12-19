@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.ranger/ugsync-util@2.2.0
+- pkg:maven/org.apache.ranger/ugsync-util@2.3.0

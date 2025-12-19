@@ -82,3 +82,5 @@
 - pkg:maven/org.aoju/bus-spring@5.0.9?classifier=sources
 - pkg:maven/org.aoju/bus-spring@5.1.0
 - pkg:maven/org.aoju/bus-spring@5.1.0?classifier=sources
+- pkg:maven/org.aoju/bus-spring@6.5.3
+- pkg:maven/org.aoju/bus-spring@6.5.3?classifier=sources

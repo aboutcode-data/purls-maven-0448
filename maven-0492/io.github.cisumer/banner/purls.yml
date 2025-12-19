@@ -1,0 +1,16 @@
+- pkg:maven/io.github.cisumer/banner@0.1
+- pkg:maven/io.github.cisumer/banner@0.1?classifier=sources
+- pkg:maven/io.github.cisumer/banner@alpaca
+- pkg:maven/io.github.cisumer/banner@alpaca?classifier=sources
+- pkg:maven/io.github.cisumer/banner@book
+- pkg:maven/io.github.cisumer/banner@book?classifier=sources
+- pkg:maven/io.github.cisumer/banner@buddha
+- pkg:maven/io.github.cisumer/banner@buddha?classifier=sources
+- pkg:maven/io.github.cisumer/banner@dragon
+- pkg:maven/io.github.cisumer/banner@dragon?classifier=sources
+- pkg:maven/io.github.cisumer/banner@lion
+- pkg:maven/io.github.cisumer/banner@lion?classifier=sources
+- pkg:maven/io.github.cisumer/banner@sleepbuddha
+- pkg:maven/io.github.cisumer/banner@sleepbuddha?classifier=sources
+- pkg:maven/io.github.cisumer/banner@victor
+- pkg:maven/io.github.cisumer/banner@victor?classifier=sources

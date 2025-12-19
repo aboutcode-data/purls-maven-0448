@@ -1,0 +1,6 @@
+- pkg:maven/com.lihaoyi/ammonite-compiler-interface_2.12.16@2.5.4-11-4f5bf2aa
+- pkg:maven/com.lihaoyi/ammonite-compiler-interface_2.12.16@2.5.4-11-4f5bf2aa?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler-interface_2.12.16@2.5.4-7-b48f40d3
+- pkg:maven/com.lihaoyi/ammonite-compiler-interface_2.12.16@2.5.4-7-b48f40d3?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-compiler-interface_2.12.16@2.5.4-8-30448e49
+- pkg:maven/com.lihaoyi/ammonite-compiler-interface_2.12.16@2.5.4-8-30448e49?classifier=sources

@@ -10,10 +10,14 @@
 - pkg:maven/org.videolan.android/medialibrary-all@0.11.1-eap5?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.11.2-eap6?classifier=sources
 - pkg:maven/org.videolan.android/medialibrary-all@0.11.2-eap6?type=aar
+- pkg:maven/org.videolan.android/medialibrary-all@0.12.0-eap10?classifier=sources
+- pkg:maven/org.videolan.android/medialibrary-all@0.12.0-eap10?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.12.0-eap7?classifier=sources
 - pkg:maven/org.videolan.android/medialibrary-all@0.12.0-eap7?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.12.0-eap8?classifier=sources
 - pkg:maven/org.videolan.android/medialibrary-all@0.12.0-eap8?type=aar
+- pkg:maven/org.videolan.android/medialibrary-all@0.12.0-eap9?classifier=sources
+- pkg:maven/org.videolan.android/medialibrary-all@0.12.0-eap9?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.3.90?classifier=sources
 - pkg:maven/org.videolan.android/medialibrary-all@0.3.90?type=aar
 - pkg:maven/org.videolan.android/medialibrary-all@0.4.0?classifier=sources

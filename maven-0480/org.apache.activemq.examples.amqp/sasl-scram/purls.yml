@@ -10,3 +10,7 @@
 - pkg:maven/org.apache.activemq.examples.amqp/sasl-scram@2.21.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.amqp/sasl-scram@2.22.0
 - pkg:maven/org.apache.activemq.examples.amqp/sasl-scram@2.22.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.amqp/sasl-scram@2.23.0
+- pkg:maven/org.apache.activemq.examples.amqp/sasl-scram@2.23.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.amqp/sasl-scram@2.23.1
+- pkg:maven/org.apache.activemq.examples.amqp/sasl-scram@2.23.1?classifier=sources

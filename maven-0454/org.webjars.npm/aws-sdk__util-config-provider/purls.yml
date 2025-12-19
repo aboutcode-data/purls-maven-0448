@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/aws-sdk__util-config-provider@3.109.0
+- pkg:maven/org.webjars.npm/aws-sdk__util-config-provider@3.109.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__util-config-provider@3.47.1
 - pkg:maven/org.webjars.npm/aws-sdk__util-config-provider@3.47.1?classifier=sources

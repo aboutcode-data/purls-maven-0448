@@ -1,0 +1,6 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-text-compiler@3.7.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-text-compiler@3.7.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-text-compiler@3.8.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-text-compiler@3.8.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-text-compiler@3.8.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-text-compiler@3.8.1?classifier=sources

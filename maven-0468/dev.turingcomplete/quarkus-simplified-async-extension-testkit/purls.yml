@@ -1,0 +1,4 @@
+- pkg:maven/dev.turingcomplete/quarkus-simplified-async-extension-testkit@1.0.0
+- pkg:maven/dev.turingcomplete/quarkus-simplified-async-extension-testkit@1.0.0?classifier=sources
+- pkg:maven/dev.turingcomplete/quarkus-simplified-async-extension-testkit@1.1.0
+- pkg:maven/dev.turingcomplete/quarkus-simplified-async-extension-testkit@1.1.0?classifier=sources

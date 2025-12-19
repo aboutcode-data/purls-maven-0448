@@ -52,3 +52,5 @@
 - pkg:maven/com.pranavpandey.android/dynamic-toasts@3.3.1?type=aar
 - pkg:maven/com.pranavpandey.android/dynamic-toasts@4.0.0?classifier=sources
 - pkg:maven/com.pranavpandey.android/dynamic-toasts@4.1.0?classifier=sources
+- pkg:maven/com.pranavpandey.android/dynamic-toasts@4.1.1?classifier=sources
+- pkg:maven/com.pranavpandey.android/dynamic-toasts@4.1.2?classifier=sources

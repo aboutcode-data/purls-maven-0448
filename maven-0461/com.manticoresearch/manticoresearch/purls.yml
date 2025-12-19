@@ -12,3 +12,5 @@
 - pkg:maven/com.manticoresearch/manticoresearch@2.0.2?classifier=sources
 - pkg:maven/com.manticoresearch/manticoresearch@2.0.3
 - pkg:maven/com.manticoresearch/manticoresearch@2.0.3?classifier=sources
+- pkg:maven/com.manticoresearch/manticoresearch@3.2.0
+- pkg:maven/com.manticoresearch/manticoresearch@3.2.0?classifier=sources

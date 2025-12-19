@@ -15,3 +15,5 @@
 - pkg:maven/org.apache.skywalking/configuration-k8s-configmap@8.9.1?classifier=sources
 - pkg:maven/org.apache.skywalking/configuration-k8s-configmap@9.0.0
 - pkg:maven/org.apache.skywalking/configuration-k8s-configmap@9.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/configuration-k8s-configmap@9.1.0
+- pkg:maven/org.apache.skywalking/configuration-k8s-configmap@9.1.0?classifier=sources

@@ -68,3 +68,11 @@
 - pkg:maven/io.trino/trino-testing-kafka@384?classifier=sources
 - pkg:maven/io.trino/trino-testing-kafka@385
 - pkg:maven/io.trino/trino-testing-kafka@385?classifier=sources
+- pkg:maven/io.trino/trino-testing-kafka@386
+- pkg:maven/io.trino/trino-testing-kafka@386?classifier=sources
+- pkg:maven/io.trino/trino-testing-kafka@387
+- pkg:maven/io.trino/trino-testing-kafka@387?classifier=sources
+- pkg:maven/io.trino/trino-testing-kafka@388
+- pkg:maven/io.trino/trino-testing-kafka@388?classifier=sources
+- pkg:maven/io.trino/trino-testing-kafka@389
+- pkg:maven/io.trino/trino-testing-kafka@389?classifier=sources

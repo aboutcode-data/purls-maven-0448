@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.faces/com.liferay.faces.adf.base@12.2.1
+- pkg:maven/com.liferay.faces/com.liferay.faces.adf.base@12.2.1?classifier=sources

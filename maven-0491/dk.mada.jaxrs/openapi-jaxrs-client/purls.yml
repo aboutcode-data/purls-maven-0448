@@ -1,0 +1,2 @@
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.9.3?classifier=sources
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.9.4?classifier=sources

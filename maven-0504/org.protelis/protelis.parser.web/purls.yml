@@ -7,6 +7,8 @@
 - pkg:maven/org.protelis/protelis.parser.web@10.2.11?type=war
 - pkg:maven/org.protelis/protelis.parser.web@10.2.12?type=war
 - pkg:maven/org.protelis/protelis.parser.web@10.2.13?type=war
+- pkg:maven/org.protelis/protelis.parser.web@10.2.14?type=war
+- pkg:maven/org.protelis/protelis.parser.web@10.2.15?type=war
 - pkg:maven/org.protelis/protelis.parser.web@10.2.6?type=war
 - pkg:maven/org.protelis/protelis.parser.web@10.2.7?type=war
 - pkg:maven/org.protelis/protelis.parser.web@10.2.8?type=war

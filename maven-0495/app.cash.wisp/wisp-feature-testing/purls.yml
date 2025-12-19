@@ -1,0 +1,2 @@
+- pkg:maven/app.cash.wisp/wisp-feature-testing@0.0.1-alpha?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-feature-testing@1.0.0?classifier=sources

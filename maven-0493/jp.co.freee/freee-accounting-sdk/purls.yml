@@ -12,6 +12,8 @@
 - pkg:maven/jp.co.freee/freee-accounting-sdk@2.0.0?classifier=sources
 - pkg:maven/jp.co.freee/freee-accounting-sdk@2.1.0
 - pkg:maven/jp.co.freee/freee-accounting-sdk@2.1.0?classifier=sources
+- pkg:maven/jp.co.freee/freee-accounting-sdk@2.10.0
+- pkg:maven/jp.co.freee/freee-accounting-sdk@2.10.0?classifier=sources
 - pkg:maven/jp.co.freee/freee-accounting-sdk@2.2.0
 - pkg:maven/jp.co.freee/freee-accounting-sdk@2.2.0?classifier=sources
 - pkg:maven/jp.co.freee/freee-accounting-sdk@2.3.0
@@ -26,3 +28,5 @@
 - pkg:maven/jp.co.freee/freee-accounting-sdk@v2.7.0?classifier=sources
 - pkg:maven/jp.co.freee/freee-accounting-sdk@v2.8.0
 - pkg:maven/jp.co.freee/freee-accounting-sdk@v2.8.0?classifier=sources
+- pkg:maven/jp.co.freee/freee-accounting-sdk@v2.9.0
+- pkg:maven/jp.co.freee/freee-accounting-sdk@v2.9.0?classifier=sources

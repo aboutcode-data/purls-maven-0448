@@ -5,3 +5,4 @@
 - pkg:maven/app.softwork/kotlinx-uuid-core-iossimulatorarm64@0.0.13-RC?classifier=sources
 - pkg:maven/app.softwork/kotlinx-uuid-core-iossimulatorarm64@0.0.13?classifier=sources
 - pkg:maven/app.softwork/kotlinx-uuid-core-iossimulatorarm64@0.0.14?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-core-iossimulatorarm64@0.0.15?classifier=sources

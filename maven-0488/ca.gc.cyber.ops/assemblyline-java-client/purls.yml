@@ -12,3 +12,5 @@
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.7?classifier=sources
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.8
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.8?classifier=sources
+- pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.9
+- pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@1.9?classifier=sources

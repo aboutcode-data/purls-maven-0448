@@ -10,3 +10,5 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-platform-par@2.3.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-platform-par@3.0.0
 - pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-platform-par@3.0.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-platform-par@3.1.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-platform-par@3.1.0?classifier=sources

@@ -178,3 +178,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.7.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.7.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.7.10
+- pkg:maven/org.jetbrains.kotlin/kotlin-script-util@1.7.10?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.243
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.243?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.244
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.244?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.245
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.245?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.246
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.246?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.247
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.247?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.248
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.248?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.249
+- pkg:maven/com.amazonaws/aws-java-sdk-connectcampaign@1.12.249?classifier=sources

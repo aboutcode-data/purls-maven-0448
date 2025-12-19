@@ -1,1 +1,4 @@
+- pkg:maven/org.openrndr.extra/orx-minim@0.4.0-1?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-minim@0.4.0-rc.8?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-minim@0.4.0-rc.9?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-minim@0.4.0?classifier=sources

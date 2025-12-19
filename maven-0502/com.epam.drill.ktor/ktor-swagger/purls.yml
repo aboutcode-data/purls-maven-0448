@@ -1,0 +1,2 @@
+- pkg:maven/com.epam.drill.ktor/ktor-swagger@0.7.1-drill?classifier=sources
+- pkg:maven/com.epam.drill.ktor/ktor-swagger@0.7.2-drill?classifier=sources

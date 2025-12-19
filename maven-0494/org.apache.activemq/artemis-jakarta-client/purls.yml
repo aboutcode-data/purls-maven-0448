@@ -12,3 +12,7 @@
 - pkg:maven/org.apache.activemq/artemis-jakarta-client@2.21.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jakarta-client@2.22.0
 - pkg:maven/org.apache.activemq/artemis-jakarta-client@2.22.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jakarta-client@2.23.0
+- pkg:maven/org.apache.activemq/artemis-jakarta-client@2.23.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jakarta-client@2.23.1
+- pkg:maven/org.apache.activemq/artemis-jakarta-client@2.23.1?classifier=sources

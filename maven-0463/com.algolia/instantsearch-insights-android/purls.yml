@@ -6,3 +6,5 @@
 - pkg:maven/com.algolia/instantsearch-insights-android@2.11.4?classifier=sources
 - pkg:maven/com.algolia/instantsearch-insights-android@3.0.0-beta01?classifier=sources
 - pkg:maven/com.algolia/instantsearch-insights-android@3.0.0-beta02?classifier=sources
+- pkg:maven/com.algolia/instantsearch-insights-android@3.0.0?classifier=sources
+- pkg:maven/com.algolia/instantsearch-insights-android@3.1.0?classifier=sources

@@ -82,3 +82,5 @@
 - pkg:maven/org.n52.arctic-sea/faroe@9.5.2?classifier=sources
 - pkg:maven/org.n52.arctic-sea/faroe@9.5.3
 - pkg:maven/org.n52.arctic-sea/faroe@9.5.3?classifier=sources
+- pkg:maven/org.n52.arctic-sea/faroe@9.6.0
+- pkg:maven/org.n52.arctic-sea/faroe@9.6.0?classifier=sources

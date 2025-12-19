@@ -20,6 +20,10 @@
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.10.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.11.0
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.11.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-db2i@4.12.0
+- pkg:maven/org.liquibase.ext/liquibase-db2i@4.12.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-db2i@4.13.0
+- pkg:maven/org.liquibase.ext/liquibase-db2i@4.13.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.2.0
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.2.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-db2i@4.2.1

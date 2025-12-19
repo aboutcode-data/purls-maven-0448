@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-genericserver@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-genericserver@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-genericserver@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-genericserver@RELEASE140?classifier=sources

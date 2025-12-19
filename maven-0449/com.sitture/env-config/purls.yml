@@ -6,3 +6,9 @@
 - pkg:maven/com.sitture/env-config@0.3.0?classifier=sources
 - pkg:maven/com.sitture/env-config@0.4.0
 - pkg:maven/com.sitture/env-config@0.4.0?classifier=sources
+- pkg:maven/com.sitture/env-config@0.5.0
+- pkg:maven/com.sitture/env-config@0.5.0?classifier=sources
+- pkg:maven/com.sitture/env-config@1.1.0
+- pkg:maven/com.sitture/env-config@1.1.0?classifier=sources
+- pkg:maven/com.sitture/env-config@1.1.1
+- pkg:maven/com.sitture/env-config@1.1.1?classifier=sources

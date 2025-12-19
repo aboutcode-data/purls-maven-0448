@@ -48,3 +48,5 @@
 - pkg:maven/org.codelibs/analyzers@9.0.0.0?classifier=sources
 - pkg:maven/org.codelibs/analyzers@9.1.0.0
 - pkg:maven/org.codelibs/analyzers@9.1.0.0?classifier=sources
+- pkg:maven/org.codelibs/analyzers@9.2.0.0
+- pkg:maven/org.codelibs/analyzers@9.2.0.0?classifier=sources

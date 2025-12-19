@@ -30,3 +30,5 @@
 - pkg:maven/com.github.victools/jsonschema-module-swagger-2@4.24.2?classifier=sources
 - pkg:maven/com.github.victools/jsonschema-module-swagger-2@4.24.3
 - pkg:maven/com.github.victools/jsonschema-module-swagger-2@4.24.3?classifier=sources
+- pkg:maven/com.github.victools/jsonschema-module-swagger-2@4.25.0
+- pkg:maven/com.github.victools/jsonschema-module-swagger-2@4.25.0?classifier=sources

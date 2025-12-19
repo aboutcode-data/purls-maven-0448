@@ -1,1 +1,2 @@
 - pkg:maven/com.amazon.alexa.aace/bluetooth@4.0?classifier=sources
+- pkg:maven/com.amazon.alexa.aace/bluetooth@4.1?classifier=sources

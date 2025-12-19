@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-drl-kiesession-local-runtime@8.24.0.Beta
+- pkg:maven/org.kie/kie-drl-kiesession-local-runtime@8.24.0.Beta?classifier=sources

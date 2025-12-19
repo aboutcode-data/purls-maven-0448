@@ -7,3 +7,6 @@
 - pkg:maven/com.groupcdg.pitest/extended-mutators@0.0.7
 - pkg:maven/com.groupcdg.pitest/extended-mutators@0.0.8
 - pkg:maven/com.groupcdg.pitest/extended-mutators@0.0.9
+- pkg:maven/com.groupcdg.pitest/extended-mutators@0.1.0
+- pkg:maven/com.groupcdg.pitest/extended-mutators@0.1.1
+- pkg:maven/com.groupcdg.pitest/extended-mutators@0.1.2

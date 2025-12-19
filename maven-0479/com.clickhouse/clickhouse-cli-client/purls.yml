@@ -1,0 +1,2 @@
+- pkg:maven/com.clickhouse/clickhouse-cli-client@0.3.2-patch10
+- pkg:maven/com.clickhouse/clickhouse-cli-client@0.3.2-patch10?classifier=sources

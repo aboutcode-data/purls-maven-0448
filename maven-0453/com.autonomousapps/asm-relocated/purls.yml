@@ -1,0 +1,2 @@
+- pkg:maven/com.autonomousapps/asm-relocated@9.2.0.1?classifier=sources
+- pkg:maven/com.autonomousapps/asm-relocated@9.2.0.2?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.pugwoo/nimbleorm-spring-boot-starter@1.0.1?classifier=sources
 - pkg:maven/com.pugwoo/nimbleorm-spring-boot-starter@1.0.2
 - pkg:maven/com.pugwoo/nimbleorm-spring-boot-starter@1.0.2?classifier=sources
+- pkg:maven/com.pugwoo/nimbleorm-spring-boot-starter@1.2.0
+- pkg:maven/com.pugwoo/nimbleorm-spring-boot-starter@1.2.0?classifier=sources

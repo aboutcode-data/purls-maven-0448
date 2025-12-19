@@ -281,3 +281,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-booter@6.5.7?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-booter@6.5.8?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-booter@6.5.9?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-booter@6.6.0?classifier=sources

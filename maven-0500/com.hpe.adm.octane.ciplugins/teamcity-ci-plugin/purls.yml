@@ -37,4 +37,6 @@
 - pkg:maven/com.hpe.adm.octane.ciplugins/teamcity-ci-plugin@1.4.2?classifier=sources
 - pkg:maven/com.hpe.adm.octane.ciplugins/teamcity-ci-plugin@1.4.3
 - pkg:maven/com.hpe.adm.octane.ciplugins/teamcity-ci-plugin@1.4.3?classifier=sources
+- pkg:maven/com.hpe.adm.octane.ciplugins/teamcity-ci-plugin@1.4.4
+- pkg:maven/com.hpe.adm.octane.ciplugins/teamcity-ci-plugin@1.4.4?classifier=sources
 - pkg:maven/com.hpe.adm.octane.ciplugins/teamcity-ci-plugin@1.4?classifier=sources

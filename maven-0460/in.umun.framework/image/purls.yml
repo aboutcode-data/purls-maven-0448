@@ -1,0 +1,2 @@
+- pkg:maven/in.umun.framework/image@0.0.8
+- pkg:maven/in.umun.framework/image@0.0.8?classifier=sources

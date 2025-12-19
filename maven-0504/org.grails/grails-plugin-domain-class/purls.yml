@@ -284,3 +284,4 @@
 - pkg:maven/org.grails/grails-plugin-domain-class@5.1.6?classifier=sources
 - pkg:maven/org.grails/grails-plugin-domain-class@5.1.7?classifier=sources
 - pkg:maven/org.grails/grails-plugin-domain-class@5.1.8?classifier=sources
+- pkg:maven/org.grails/grails-plugin-domain-class@5.2.0?classifier=sources

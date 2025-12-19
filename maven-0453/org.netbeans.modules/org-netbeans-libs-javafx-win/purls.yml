@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE140?classifier=sources

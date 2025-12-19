@@ -60,8 +60,10 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@5.3.2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@5.4.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@5.4.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@5.5.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@6.0.0-alpha.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@6.0.0-alpha.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@6.0.0-alpha.2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@6.0.0-alpha.3?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@6.0.0-alpha.4?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-maven-plugin@6.0.0-alpha.5?classifier=sources

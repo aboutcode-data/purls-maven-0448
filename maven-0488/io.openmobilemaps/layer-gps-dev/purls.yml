@@ -61,3 +61,5 @@
 - pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.67?classifier=sources
 - pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.68?classifier=sources
 - pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.69?classifier=sources
+- pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.70?classifier=sources
+- pkg:maven/io.openmobilemaps/layer-gps-dev@0.1.2.71?classifier=sources

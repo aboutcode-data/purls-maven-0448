@@ -1,0 +1,2 @@
+- pkg:maven/io.carml/carml-logical-source-resolver-jsonpath@0.4.0
+- pkg:maven/io.carml/carml-logical-source-resolver-jsonpath@0.4.0?classifier=sources

@@ -96,6 +96,9 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.25
 - pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.26
+- pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.store.web@3.0.3

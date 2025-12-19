@@ -18,3 +18,7 @@
 - pkg:maven/com.memfault.cloud/cloud-android@2.0.2?type=aar
 - pkg:maven/com.memfault.cloud/cloud-android@2.0.3?classifier=sources
 - pkg:maven/com.memfault.cloud/cloud-android@2.0.3?type=aar
+- pkg:maven/com.memfault.cloud/cloud-android@2.0.4-SNAPSHOT1?classifier=sources
+- pkg:maven/com.memfault.cloud/cloud-android@2.0.4-SNAPSHOT1?type=aar
+- pkg:maven/com.memfault.cloud/cloud-android@2.0.4?classifier=sources
+- pkg:maven/com.memfault.cloud/cloud-android@2.0.4?type=aar

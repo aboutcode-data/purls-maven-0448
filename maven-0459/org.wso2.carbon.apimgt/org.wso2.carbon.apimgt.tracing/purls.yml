@@ -2809,6 +2809,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.0.368
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.0.368?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.0.369
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.0.369.1
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.0.369.1?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.0.369?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.0.36?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.0.37
@@ -3218,6 +3220,10 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.20.8?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.20.9
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.20.9?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.22.17
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.22.17?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.22.18
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.22.18?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.3.0
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.3.0?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.tracing@9.4.0

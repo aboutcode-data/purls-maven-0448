@@ -2,5 +2,7 @@
 - pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.1?classifier=sources
 - pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.2
 - pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.2?classifier=sources
+- pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.3
 - pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.3-RC2
 - pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.3-RC2?classifier=sources
+- pkg:maven/org.openpreservation.jhove.modules/pdf-hul@1.12.3?classifier=sources

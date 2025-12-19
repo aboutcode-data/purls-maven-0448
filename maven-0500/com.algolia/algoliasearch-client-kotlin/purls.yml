@@ -10,3 +10,6 @@
 - pkg:maven/com.algolia/algoliasearch-client-kotlin@1.9.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-client-kotlin@1.9.1?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-client-kotlin@1.9.2?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin@2.0.0-mt?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin@2.0.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin@2.1.0?classifier=sources

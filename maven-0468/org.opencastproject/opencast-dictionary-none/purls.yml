@@ -40,6 +40,8 @@
 - pkg:maven/org.opencastproject/opencast-dictionary-none@11.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dictionary-none@11.7
 - pkg:maven/org.opencastproject/opencast-dictionary-none@11.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-dictionary-none@12.0
+- pkg:maven/org.opencastproject/opencast-dictionary-none@12.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dictionary-none@6.6
 - pkg:maven/org.opencastproject/opencast-dictionary-none@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-dictionary-none@7.2

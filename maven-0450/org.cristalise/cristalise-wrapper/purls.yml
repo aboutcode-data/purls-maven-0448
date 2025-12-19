@@ -48,3 +48,5 @@
 - pkg:maven/org.cristalise/cristalise-wrapper@5.5.0?classifier=sources
 - pkg:maven/org.cristalise/cristalise-wrapper@5.6.0
 - pkg:maven/org.cristalise/cristalise-wrapper@5.6.0?classifier=sources
+- pkg:maven/org.cristalise/cristalise-wrapper@5.7.0
+- pkg:maven/org.cristalise/cristalise-wrapper@5.7.0?classifier=sources

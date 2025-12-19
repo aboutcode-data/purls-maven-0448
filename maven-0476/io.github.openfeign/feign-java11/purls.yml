@@ -46,3 +46,5 @@
 - pkg:maven/io.github.openfeign/feign-java11@11.7?classifier=sources
 - pkg:maven/io.github.openfeign/feign-java11@11.8
 - pkg:maven/io.github.openfeign/feign-java11@11.8?classifier=sources
+- pkg:maven/io.github.openfeign/feign-java11@11.9
+- pkg:maven/io.github.openfeign/feign-java11@11.9?classifier=sources

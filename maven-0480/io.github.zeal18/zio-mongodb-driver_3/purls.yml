@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zeal18/zio-mongodb-driver_3@0.1.4
+- pkg:maven/io.github.zeal18/zio-mongodb-driver_3@0.1.4?classifier=sources

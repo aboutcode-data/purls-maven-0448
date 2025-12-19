@@ -54,3 +54,7 @@
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-oracle@1.4.0?classifier=sources
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-oracle@1.4.1
 - pkg:maven/io.github.ulisse1996/jaorm-sql-specific-oracle@1.4.1?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-oracle@1.5.0
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-oracle@1.5.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-oracle@1.6.0
+- pkg:maven/io.github.ulisse1996/jaorm-sql-specific-oracle@1.6.0?classifier=sources

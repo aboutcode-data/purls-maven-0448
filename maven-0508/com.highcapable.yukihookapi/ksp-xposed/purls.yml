@@ -29,4 +29,9 @@
 - pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0.85?classifier=sources
 - pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0.86?classifier=sources
 - pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0.87?classifier=sources
+- pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0.88?classifier=sources
+- pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0.89?classifier=sources
+- pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0.90?classifier=sources
+- pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0.91?classifier=sources
+- pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0.92?classifier=sources
 - pkg:maven/com.highcapable.yukihookapi/ksp-xposed@1.0?classifier=sources

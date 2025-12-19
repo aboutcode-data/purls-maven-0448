@@ -21,3 +21,5 @@
 - pkg:maven/org.apache.skywalking/configuration-nacos@8.9.1?classifier=sources
 - pkg:maven/org.apache.skywalking/configuration-nacos@9.0.0
 - pkg:maven/org.apache.skywalking/configuration-nacos@9.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/configuration-nacos@9.1.0
+- pkg:maven/org.apache.skywalking/configuration-nacos@9.1.0?classifier=sources

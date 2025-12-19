@@ -148,3 +148,4 @@
 - pkg:maven/org.opendaylight.controller/blueprint@5.0.4
 - pkg:maven/org.opendaylight.controller/blueprint@5.0.4?classifier=sources
 - pkg:maven/org.opendaylight.controller/blueprint@5.0.5?classifier=sources
+- pkg:maven/org.opendaylight.controller/blueprint@6.0.0?classifier=sources

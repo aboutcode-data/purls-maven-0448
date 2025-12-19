@@ -28,6 +28,8 @@
 - pkg:maven/com.recurly.v3/api-client@3.19.0?classifier=sources
 - pkg:maven/com.recurly.v3/api-client@3.2.0
 - pkg:maven/com.recurly.v3/api-client@3.2.0?classifier=sources
+- pkg:maven/com.recurly.v3/api-client@3.20.0
+- pkg:maven/com.recurly.v3/api-client@3.20.0?classifier=sources
 - pkg:maven/com.recurly.v3/api-client@3.3.0
 - pkg:maven/com.recurly.v3/api-client@3.3.0?classifier=sources
 - pkg:maven/com.recurly.v3/api-client@3.4.0
@@ -72,6 +74,8 @@
 - pkg:maven/com.recurly.v3/api-client@4.19.0?classifier=sources
 - pkg:maven/com.recurly.v3/api-client@4.2.0
 - pkg:maven/com.recurly.v3/api-client@4.2.0?classifier=sources
+- pkg:maven/com.recurly.v3/api-client@4.20.0
+- pkg:maven/com.recurly.v3/api-client@4.20.0?classifier=sources
 - pkg:maven/com.recurly.v3/api-client@4.3.0
 - pkg:maven/com.recurly.v3/api-client@4.3.0?classifier=sources
 - pkg:maven/com.recurly.v3/api-client@4.4.0

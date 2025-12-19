@@ -23,3 +23,4 @@
 - pkg:maven/io.fabric8/camel-k-tests@5.8.0
 - pkg:maven/io.fabric8/camel-k-tests@5.8.1
 - pkg:maven/io.fabric8/camel-k-tests@5.9.0
+- pkg:maven/io.fabric8/camel-k-tests@6.0.0-RC1

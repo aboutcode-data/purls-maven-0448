@@ -1,0 +1,2 @@
+- pkg:maven/com.intellectualsites.informative-annotations/informative-annotations@1.1?classifier=sources
+- pkg:maven/com.intellectualsites.informative-annotations/informative-annotations@1.2?classifier=sources

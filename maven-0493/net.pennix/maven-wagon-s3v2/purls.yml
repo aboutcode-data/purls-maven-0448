@@ -1,0 +1,2 @@
+- pkg:maven/net.pennix/maven-wagon-s3v2@1.0.2
+- pkg:maven/net.pennix/maven-wagon-s3v2@1.0.2?classifier=sources

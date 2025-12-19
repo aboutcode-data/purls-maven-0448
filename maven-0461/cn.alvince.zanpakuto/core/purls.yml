@@ -1,2 +1,3 @@
 - pkg:maven/cn.alvince.zanpakuto/core@1.0.0.f?classifier=sources
 - pkg:maven/cn.alvince.zanpakuto/core@1.0.0?classifier=sources
+- pkg:maven/cn.alvince.zanpakuto/core@1.0.1?classifier=sources

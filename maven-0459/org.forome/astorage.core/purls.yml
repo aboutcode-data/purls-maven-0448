@@ -1,0 +1,2 @@
+- pkg:maven/org.forome/astorage.core@1.0.0p13
+- pkg:maven/org.forome/astorage.core@1.0.0p13?classifier=sources
