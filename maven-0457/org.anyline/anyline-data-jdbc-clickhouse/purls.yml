@@ -122,3 +122,9 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230325?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230327
 - pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230327?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230331
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230331?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230404
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230404?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230406
+- pkg:maven/org.anyline/anyline-data-jdbc-clickhouse@8.6.3-20230406?classifier=sources

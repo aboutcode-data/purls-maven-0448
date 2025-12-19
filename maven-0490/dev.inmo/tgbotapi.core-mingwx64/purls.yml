@@ -1,0 +1,2 @@
+- pkg:maven/dev.inmo/tgbotapi.core-mingwx64@7.0.2?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.core-mingwx64@7.1.0?classifier=sources

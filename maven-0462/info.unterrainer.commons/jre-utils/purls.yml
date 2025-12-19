@@ -60,6 +60,8 @@
 - pkg:maven/info.unterrainer.commons/jre-utils@0.3.13?classifier=sources
 - pkg:maven/info.unterrainer.commons/jre-utils@0.3.14
 - pkg:maven/info.unterrainer.commons/jre-utils@0.3.14?classifier=sources
+- pkg:maven/info.unterrainer.commons/jre-utils@0.3.15
+- pkg:maven/info.unterrainer.commons/jre-utils@0.3.15?classifier=sources
 - pkg:maven/info.unterrainer.commons/jre-utils@0.3.1?classifier=sources
 - pkg:maven/info.unterrainer.commons/jre-utils@0.3.4
 - pkg:maven/info.unterrainer.commons/jre-utils@0.3.4?classifier=sources

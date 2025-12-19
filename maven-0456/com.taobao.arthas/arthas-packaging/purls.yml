@@ -46,3 +46,4 @@
 - pkg:maven/com.taobao.arthas/arthas-packaging@3.6.5
 - pkg:maven/com.taobao.arthas/arthas-packaging@3.6.6
 - pkg:maven/com.taobao.arthas/arthas-packaging@3.6.7
+- pkg:maven/com.taobao.arthas/arthas-packaging@3.6.8

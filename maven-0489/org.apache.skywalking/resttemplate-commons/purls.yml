@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/resttemplate-commons@8.15.0
+- pkg:maven/org.apache.skywalking/resttemplate-commons@8.15.0?classifier=sources

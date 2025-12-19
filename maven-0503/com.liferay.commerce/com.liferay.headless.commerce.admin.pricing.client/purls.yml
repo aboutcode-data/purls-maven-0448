@@ -257,6 +257,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.31
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.31?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.32
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.32?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.33
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.33?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@3.0.4
@@ -317,6 +323,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.20
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.20?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.21
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.21?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.22
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.22?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.client@4.0.3

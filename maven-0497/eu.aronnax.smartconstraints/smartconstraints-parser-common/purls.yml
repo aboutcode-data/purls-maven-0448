@@ -1,0 +1,2 @@
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-parser-common@0.5.1
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-parser-common@0.5.1?classifier=sources

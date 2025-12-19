@@ -16,3 +16,7 @@
 - pkg:maven/com.cognitect.aws/pricing@822.2.1122.0?classifier=sources
 - pkg:maven/com.cognitect.aws/pricing@822.2.1171.0
 - pkg:maven/com.cognitect.aws/pricing@822.2.1171.0?classifier=sources
+- pkg:maven/com.cognitect.aws/pricing@845.2.1345.0
+- pkg:maven/com.cognitect.aws/pricing@845.2.1345.0?classifier=sources
+- pkg:maven/com.cognitect.aws/pricing@847.2.1365.0
+- pkg:maven/com.cognitect.aws/pricing@847.2.1365.0?classifier=sources

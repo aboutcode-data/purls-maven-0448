@@ -20,3 +20,4 @@
 - pkg:maven/org.ow2.petals/petals-bc-mail@4.0.0?classifier=sources
 - pkg:maven/org.ow2.petals/petals-bc-mail@4.0.1?classifier=sources
 - pkg:maven/org.ow2.petals/petals-bc-mail@4.1.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-bc-mail@4.2.0?classifier=sources

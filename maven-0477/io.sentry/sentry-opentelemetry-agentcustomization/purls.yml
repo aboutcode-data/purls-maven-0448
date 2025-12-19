@@ -18,6 +18,8 @@
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@6.16.0-beta.1
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@6.16.0-beta.1?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@6.16.0?classifier=sources
+- pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@6.17.0
+- pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@6.17.0?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@6.9.1
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@6.9.1?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@6.9.2

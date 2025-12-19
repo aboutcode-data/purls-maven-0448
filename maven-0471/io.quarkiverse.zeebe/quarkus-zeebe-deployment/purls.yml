@@ -20,3 +20,9 @@
 - pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@0.7.2?classifier=sources
 - pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@0.8.0
 - pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@0.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@0.9.0
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@0.9.0?classifier=sources
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@1.0.0
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@1.0.1
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@1.0.1?classifier=sources

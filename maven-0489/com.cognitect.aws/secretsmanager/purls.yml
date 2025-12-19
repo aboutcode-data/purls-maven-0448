@@ -46,3 +46,7 @@
 - pkg:maven/com.cognitect.aws/secretsmanager@828.2.1290.0?classifier=sources
 - pkg:maven/com.cognitect.aws/secretsmanager@835.2.1307.0
 - pkg:maven/com.cognitect.aws/secretsmanager@835.2.1307.0?classifier=sources
+- pkg:maven/com.cognitect.aws/secretsmanager@845.2.1345.0
+- pkg:maven/com.cognitect.aws/secretsmanager@845.2.1345.0?classifier=sources
+- pkg:maven/com.cognitect.aws/secretsmanager@847.2.1365.0
+- pkg:maven/com.cognitect.aws/secretsmanager@847.2.1365.0?classifier=sources

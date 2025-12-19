@@ -10,3 +10,9 @@
 - pkg:maven/com.cognitect.aws/drs@823.2.1216.0?classifier=sources
 - pkg:maven/com.cognitect.aws/drs@825.2.1262.0
 - pkg:maven/com.cognitect.aws/drs@825.2.1262.0?classifier=sources
+- pkg:maven/com.cognitect.aws/drs@845.2.1345.0
+- pkg:maven/com.cognitect.aws/drs@845.2.1345.0?classifier=sources
+- pkg:maven/com.cognitect.aws/drs@845.2.1359.0
+- pkg:maven/com.cognitect.aws/drs@845.2.1359.0?classifier=sources
+- pkg:maven/com.cognitect.aws/drs@847.2.1365.0
+- pkg:maven/com.cognitect.aws/drs@847.2.1365.0?classifier=sources

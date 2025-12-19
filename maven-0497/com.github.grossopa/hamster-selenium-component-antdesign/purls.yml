@@ -1,5 +1,7 @@
 - pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.10.0
 - pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.10.0?classifier=sources
+- pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.11.0
+- pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.11.0?classifier=sources
 - pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.4
 - pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.4?classifier=sources
 - pkg:maven/com.github.grossopa/hamster-selenium-component-antdesign@1.5

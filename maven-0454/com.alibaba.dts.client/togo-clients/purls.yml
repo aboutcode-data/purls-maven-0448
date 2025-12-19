@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.dts.client/togo-clients@1.0.0.45
+- pkg:maven/com.alibaba.dts.client/togo-clients@1.0.0.45?classifier=sources

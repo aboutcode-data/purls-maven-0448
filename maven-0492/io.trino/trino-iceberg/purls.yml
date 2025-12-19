@@ -57,3 +57,7 @@
 - pkg:maven/io.trino/trino-iceberg@408?classifier=sources
 - pkg:maven/io.trino/trino-iceberg@409?classifier=sources
 - pkg:maven/io.trino/trino-iceberg@410?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@411?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@412?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@413?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@414?classifier=sources

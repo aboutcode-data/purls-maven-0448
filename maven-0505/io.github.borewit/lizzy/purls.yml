@@ -2,3 +2,4 @@
 - pkg:maven/io.github.borewit/lizzy@1.1.3?classifier=sources
 - pkg:maven/io.github.borewit/lizzy@1.2.0?classifier=sources
 - pkg:maven/io.github.borewit/lizzy@2.0.0?classifier=sources
+- pkg:maven/io.github.borewit/lizzy@2.0.1?classifier=sources

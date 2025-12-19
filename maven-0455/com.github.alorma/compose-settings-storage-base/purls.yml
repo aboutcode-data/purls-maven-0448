@@ -14,6 +14,7 @@
 - pkg:maven/com.github.alorma/compose-settings-storage-base@0.23.0?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings-storage-base@0.24.0?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings-storage-base@0.25.0?classifier=sources
+- pkg:maven/com.github.alorma/compose-settings-storage-base@0.26.0?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings-storage-base@0.4.0?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings-storage-base@0.6.0?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings-storage-base@0.7.1?classifier=sources

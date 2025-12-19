@@ -22,3 +22,7 @@
 - pkg:maven/se.kth.castor/sorald@0.7.3?classifier=sources
 - pkg:maven/se.kth.castor/sorald@0.8.0
 - pkg:maven/se.kth.castor/sorald@0.8.0?classifier=sources
+- pkg:maven/se.kth.castor/sorald@0.8.1?classifier=sources
+- pkg:maven/se.kth.castor/sorald@0.8.2?classifier=sources
+- pkg:maven/se.kth.castor/sorald@0.8.3?classifier=sources
+- pkg:maven/se.kth.castor/sorald@0.8.4?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@10.0.0.68432?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@5.5
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@5.5-RC1
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@5.5-RC1?classifier=sources
@@ -188,3 +189,4 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@9.7.1.62043?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@9.8.0.63668?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@9.9.0.65466?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-protocol@9.9.1.69595?classifier=sources

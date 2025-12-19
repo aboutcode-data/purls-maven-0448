@@ -1,1 +1,2 @@
 - pkg:maven/org.fisco-bcos.code-generator/bcos-code-generator@1.0.0?classifier=sources
+- pkg:maven/org.fisco-bcos.code-generator/bcos-code-generator@1.1.0?classifier=sources

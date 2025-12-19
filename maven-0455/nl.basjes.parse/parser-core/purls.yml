@@ -58,3 +58,5 @@
 - pkg:maven/nl.basjes.parse/parser-core@5.7?classifier=sources
 - pkg:maven/nl.basjes.parse/parser-core@5.8
 - pkg:maven/nl.basjes.parse/parser-core@5.8?classifier=sources
+- pkg:maven/nl.basjes.parse/parser-core@5.9.0
+- pkg:maven/nl.basjes.parse/parser-core@5.9.0?classifier=sources

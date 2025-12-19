@@ -1,0 +1,4 @@
+- pkg:maven/com.yandex.div/div-size-provider@24.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@24.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@24.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@24.3.0?classifier=sources

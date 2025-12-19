@@ -1,4 +1,6 @@
 - pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.19.0?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.19.10?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.19.11?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.19.2?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.19.3?classifier=sources
@@ -12,3 +14,5 @@
 - pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.20.1?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.20.2?classifier=sources
 - pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.20.3?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.20.4?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.endpoint/gravitee-apim-plugin-endpoint-mock@3.20.5?classifier=sources

@@ -7,4 +7,5 @@
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-integration-test-agroal@2.1.0
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-integration-test-agroal@2.1.1
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-integration-test-agroal@2.1.2
+- pkg:maven/io.quarkiverse.vault/quarkus-vault-integration-test-agroal@3.0.0
 - pkg:maven/io.quarkiverse.vault/quarkus-vault-integration-test-agroal@3.0.0.Alpha1

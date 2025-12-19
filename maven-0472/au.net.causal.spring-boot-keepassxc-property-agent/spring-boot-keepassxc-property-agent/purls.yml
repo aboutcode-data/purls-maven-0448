@@ -1,0 +1,2 @@
+- pkg:maven/au.net.causal.spring-boot-keepassxc-property-agent/spring-boot-keepassxc-property-agent@1.0
+- pkg:maven/au.net.causal.spring-boot-keepassxc-property-agent/spring-boot-keepassxc-property-agent@1.0?classifier=sources

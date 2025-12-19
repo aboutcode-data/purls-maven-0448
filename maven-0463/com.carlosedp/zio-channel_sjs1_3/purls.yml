@@ -1,0 +1,2 @@
+- pkg:maven/com.carlosedp/zio-channel_sjs1_3@0.2.0
+- pkg:maven/com.carlosedp/zio-channel_sjs1_3@0.2.0?classifier=sources

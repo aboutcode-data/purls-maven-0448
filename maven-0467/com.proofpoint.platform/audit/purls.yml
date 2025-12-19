@@ -226,3 +226,5 @@
 - pkg:maven/com.proofpoint.platform/audit@2.83?classifier=sources
 - pkg:maven/com.proofpoint.platform/audit@2.84
 - pkg:maven/com.proofpoint.platform/audit@2.84?classifier=sources
+- pkg:maven/com.proofpoint.platform/audit@2.85
+- pkg:maven/com.proofpoint.platform/audit@2.85?classifier=sources

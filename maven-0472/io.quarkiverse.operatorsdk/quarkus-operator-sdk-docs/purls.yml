@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-docs@6.0.0
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-docs@6.0.0?classifier=sources

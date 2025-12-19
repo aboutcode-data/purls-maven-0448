@@ -1,0 +1,4 @@
+- pkg:maven/de.focus-shift/launchpad@0.1.0
+- pkg:maven/de.focus-shift/launchpad@0.1.0?classifier=sources
+- pkg:maven/de.focus-shift/launchpad@1.1.0
+- pkg:maven/de.focus-shift/launchpad@1.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ru.yoomoney.sdk.auth/auth@1.8.11?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.auth/auth@1.9.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.auth/auth@1.9.1?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.auth/auth@1.9.2?classifier=sources

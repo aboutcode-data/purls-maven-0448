@@ -92,3 +92,5 @@
 - pkg:maven/tech.greenfield/irked-vertx@4.3.8?classifier=sources
 - pkg:maven/tech.greenfield/irked-vertx@4.4.0
 - pkg:maven/tech.greenfield/irked-vertx@4.4.0?classifier=sources
+- pkg:maven/tech.greenfield/irked-vertx@4.4.1
+- pkg:maven/tech.greenfield/irked-vertx@4.4.1?classifier=sources

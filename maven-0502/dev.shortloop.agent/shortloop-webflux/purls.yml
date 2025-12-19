@@ -1,2 +1,6 @@
 - pkg:maven/dev.shortloop.agent/shortloop-webflux@0.0.1
+- pkg:maven/dev.shortloop.agent/shortloop-webflux@0.0.1-debug
+- pkg:maven/dev.shortloop.agent/shortloop-webflux@0.0.1-debug?classifier=sources
 - pkg:maven/dev.shortloop.agent/shortloop-webflux@0.0.1?classifier=sources
+- pkg:maven/dev.shortloop.agent/shortloop-webflux@0.0.2
+- pkg:maven/dev.shortloop.agent/shortloop-webflux@0.0.2?classifier=sources

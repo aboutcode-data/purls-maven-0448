@@ -30,3 +30,5 @@
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.92?classifier=sources
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.93
 - pkg:maven/org.entur.ror.helpers/gcp-storage@1.93?classifier=sources
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.94
+- pkg:maven/org.entur.ror.helpers/gcp-storage@1.94?classifier=sources

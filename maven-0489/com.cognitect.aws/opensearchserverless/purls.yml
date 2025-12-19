@@ -2,3 +2,7 @@
 - pkg:maven/com.cognitect.aws/opensearchserverless@825.2.1266.0?classifier=sources
 - pkg:maven/com.cognitect.aws/opensearchserverless@845.2.1326.0
 - pkg:maven/com.cognitect.aws/opensearchserverless@845.2.1326.0?classifier=sources
+- pkg:maven/com.cognitect.aws/opensearchserverless@845.2.1359.0
+- pkg:maven/com.cognitect.aws/opensearchserverless@845.2.1359.0?classifier=sources
+- pkg:maven/com.cognitect.aws/opensearchserverless@847.2.1365.0
+- pkg:maven/com.cognitect.aws/opensearchserverless@847.2.1365.0?classifier=sources

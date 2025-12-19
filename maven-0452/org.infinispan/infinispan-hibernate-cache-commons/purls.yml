@@ -226,6 +226,10 @@
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@14.0.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@14.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@14.0.8.Final
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@14.0.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@15.0.0.Dev01
+- pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@15.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@9.2.0.CR1
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@9.2.0.CR1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-hibernate-cache-commons@9.2.0.CR2

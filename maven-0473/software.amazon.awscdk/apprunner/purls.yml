@@ -206,3 +206,9 @@
 - pkg:maven/software.amazon.awscdk/apprunner@1.197.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/apprunner@1.198.0
 - pkg:maven/software.amazon.awscdk/apprunner@1.198.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/apprunner@1.198.1
+- pkg:maven/software.amazon.awscdk/apprunner@1.198.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/apprunner@1.199.0
+- pkg:maven/software.amazon.awscdk/apprunner@1.199.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/apprunner@1.200.0
+- pkg:maven/software.amazon.awscdk/apprunner@1.200.0?classifier=sources

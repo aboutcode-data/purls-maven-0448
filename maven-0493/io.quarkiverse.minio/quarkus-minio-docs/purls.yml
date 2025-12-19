@@ -1,1 +1,2 @@
+- pkg:maven/io.quarkiverse.minio/quarkus-minio-docs@3.0.0
 - pkg:maven/io.quarkiverse.minio/quarkus-minio-docs@3.0.0.Alpha3

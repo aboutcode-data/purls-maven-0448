@@ -14,3 +14,5 @@
 - pkg:maven/org.scalafx/scalafx_3@18.0.2-R29?classifier=sources
 - pkg:maven/org.scalafx/scalafx_3@19.0.0-R30
 - pkg:maven/org.scalafx/scalafx_3@19.0.0-R30?classifier=sources
+- pkg:maven/org.scalafx/scalafx_3@20.0.0-R31
+- pkg:maven/org.scalafx/scalafx_3@20.0.0-R31?classifier=sources

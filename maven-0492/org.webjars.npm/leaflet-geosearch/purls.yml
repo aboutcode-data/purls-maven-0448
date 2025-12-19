@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/leaflet-geosearch@2.6.0
 - pkg:maven/org.webjars.npm/leaflet-geosearch@2.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/leaflet-geosearch@3.7.0
+- pkg:maven/org.webjars.npm/leaflet-geosearch@3.7.0?classifier=sources

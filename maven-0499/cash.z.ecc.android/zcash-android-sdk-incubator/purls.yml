@@ -1,1 +1,2 @@
 - pkg:maven/cash.z.ecc.android/zcash-android-sdk-incubator@1.14.0-beta01?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-sdk-incubator@1.15.0-beta01?classifier=sources

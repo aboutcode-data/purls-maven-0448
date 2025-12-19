@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@0.0.1-alpha.0?type=aar
+- pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@0.0.1-beta.1?type=aar
+- pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@0.0.1-beta.2?type=aar
+- pkg:maven/com.microsoft.entra.verifiedid/walletlibrary@0.0.1-beta.3?type=aar

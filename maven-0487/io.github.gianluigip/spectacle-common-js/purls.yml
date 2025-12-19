@@ -9,3 +9,4 @@
 - pkg:maven/io.github.gianluigip/spectacle-common-js@2.2.3?classifier=sources
 - pkg:maven/io.github.gianluigip/spectacle-common-js@2.4.0?classifier=sources
 - pkg:maven/io.github.gianluigip/spectacle-common-js@2.5.0?classifier=sources
+- pkg:maven/io.github.gianluigip/spectacle-common-js@2.6.0?classifier=sources

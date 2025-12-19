@@ -1,0 +1,2 @@
+- pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.0.7
+- pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.0.7?classifier=sources

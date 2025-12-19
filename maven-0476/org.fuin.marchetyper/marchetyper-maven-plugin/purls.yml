@@ -1,2 +1,10 @@
 - pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.1.0
 - pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.2.0
+- pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.2.0?classifier=sources
+- pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.3.0
+- pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.3.0?classifier=sources
+- pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.4.0
+- pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.4.0?classifier=sources
+- pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.4.1
+- pkg:maven/org.fuin.marchetyper/marchetyper-maven-plugin@0.4.1?classifier=sources

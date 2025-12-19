@@ -19,6 +19,7 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.0.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.1.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.1.1?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.10.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.2.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.2.1?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.3.0?classifier=sources
@@ -32,3 +33,6 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.8.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.8.1?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.9.0?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@4.9.1?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@5.0.0-M1?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@5.0.0-M2?classifier=sources

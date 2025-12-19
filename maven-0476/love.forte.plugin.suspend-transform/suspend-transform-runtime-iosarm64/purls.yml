@@ -1,0 +1,2 @@
+- pkg:maven/love.forte.plugin.suspend-transform/suspend-transform-runtime-iosarm64@0.2.7?classifier=sources
+- pkg:maven/love.forte.plugin.suspend-transform/suspend-transform-runtime-iosarm64@0.3.0?classifier=sources

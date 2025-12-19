@@ -1,0 +1,2 @@
+- pkg:maven/com.a483210/alimq-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/com.a483210/alimq-spring-boot-starter@3.0.0?classifier=sources

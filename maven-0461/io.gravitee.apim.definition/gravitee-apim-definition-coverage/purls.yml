@@ -37,6 +37,8 @@
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.19
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.2
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.20
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.21
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.22
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.3
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.4
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.5
@@ -45,6 +47,8 @@
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.18.9
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.19.0
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.19.1
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.19.10
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.19.11
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.19.2
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.19.3
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.19.4
@@ -57,3 +61,5 @@
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.20.1
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.20.2
 - pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.20.3
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.20.4
+- pkg:maven/io.gravitee.apim.definition/gravitee-apim-definition-coverage@3.20.5

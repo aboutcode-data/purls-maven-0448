@@ -122,6 +122,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.23_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.23_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.23_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.26_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.26_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.26_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.26_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.4_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.4_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.fastjson@2.0.4_1?classifier=src&type=tar.gz
