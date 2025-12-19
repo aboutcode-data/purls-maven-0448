@@ -16,6 +16,7 @@
 - pkg:maven/tech.miam.sdk/kmm-miam-sdk@3.1.0?classifier=sources
 - pkg:maven/tech.miam.sdk/kmm-miam-sdk@3.10.0?classifier=sources
 - pkg:maven/tech.miam.sdk/kmm-miam-sdk@3.10.1?classifier=sources
+- pkg:maven/tech.miam.sdk/kmm-miam-sdk@3.10.2?classifier=sources
 - pkg:maven/tech.miam.sdk/kmm-miam-sdk@3.2.0?classifier=sources
 - pkg:maven/tech.miam.sdk/kmm-miam-sdk@3.3.0?classifier=sources
 - pkg:maven/tech.miam.sdk/kmm-miam-sdk@3.3.1?classifier=sources

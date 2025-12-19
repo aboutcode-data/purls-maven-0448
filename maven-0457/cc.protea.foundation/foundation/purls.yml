@@ -51,6 +51,10 @@
 - pkg:maven/cc.protea.foundation/foundation@0.5.1
 - pkg:maven/cc.protea.foundation/foundation@0.5.10
 - pkg:maven/cc.protea.foundation/foundation@0.5.10?classifier=sources
+- pkg:maven/cc.protea.foundation/foundation@0.5.11
+- pkg:maven/cc.protea.foundation/foundation@0.5.11?classifier=sources
+- pkg:maven/cc.protea.foundation/foundation@0.5.12
+- pkg:maven/cc.protea.foundation/foundation@0.5.12?classifier=sources
 - pkg:maven/cc.protea.foundation/foundation@0.5.1?classifier=sources
 - pkg:maven/cc.protea.foundation/foundation@0.5.2
 - pkg:maven/cc.protea.foundation/foundation@0.5.2?classifier=sources

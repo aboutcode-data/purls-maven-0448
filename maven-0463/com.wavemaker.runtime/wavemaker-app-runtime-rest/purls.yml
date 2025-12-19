@@ -20,3 +20,6 @@
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-rest@11.2.5.ee?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-rest@11.2.5?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-rest@11.3.0?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-rest@11.3.1.ee?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-rest@11.3.2.ee?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-rest@11.3.2?classifier=sources

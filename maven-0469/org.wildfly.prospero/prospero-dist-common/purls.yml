@@ -6,3 +6,5 @@
 - pkg:maven/org.wildfly.prospero/prospero-dist-common@1.0.0.Beta9?type=zip
 - pkg:maven/org.wildfly.prospero/prospero-dist-common@1.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.prospero/prospero-dist-common@1.0.0.Final?type=zip
+- pkg:maven/org.wildfly.prospero/prospero-dist-common@1.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.prospero/prospero-dist-common@1.0.1.Final?type=zip

@@ -13,3 +13,7 @@
 - pkg:maven/cn.openapis/hy.common.base@1.0.166?classifier=sources
 - pkg:maven/cn.openapis/hy.common.base@1.0.167
 - pkg:maven/cn.openapis/hy.common.base@1.0.167?classifier=sources
+- pkg:maven/cn.openapis/hy.common.base@1.0.168
+- pkg:maven/cn.openapis/hy.common.base@1.0.168?classifier=sources
+- pkg:maven/cn.openapis/hy.common.base@1.0.169
+- pkg:maven/cn.openapis/hy.common.base@1.0.169?classifier=sources

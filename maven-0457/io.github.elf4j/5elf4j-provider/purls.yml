@@ -1,0 +1,2 @@
+- pkg:maven/io.github.elf4j/5elf4j-provider@6.0.0
+- pkg:maven/io.github.elf4j/5elf4j-provider@6.0.0?classifier=sources

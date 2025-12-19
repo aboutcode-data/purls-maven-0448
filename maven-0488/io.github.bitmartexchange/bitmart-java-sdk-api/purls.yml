@@ -1,0 +1,4 @@
+- pkg:maven/io.github.bitmartexchange/bitmart-java-sdk-api@1.0.0
+- pkg:maven/io.github.bitmartexchange/bitmart-java-sdk-api@1.0.0-RC1.0
+- pkg:maven/io.github.bitmartexchange/bitmart-java-sdk-api@1.0.0-RC1.0?classifier=sources
+- pkg:maven/io.github.bitmartexchange/bitmart-java-sdk-api@1.0.0?classifier=sources

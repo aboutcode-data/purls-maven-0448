@@ -41,3 +41,10 @@
 - pkg:maven/ovh.plrapps/mapcompose@2.4.0?classifier=sources
 - pkg:maven/ovh.plrapps/mapcompose@2.4.1?classifier=sources
 - pkg:maven/ovh.plrapps/mapcompose@2.5.0?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose@2.6.0?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose@2.6.1-beta01?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose@2.6.1-rc01?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose@2.6.1-rc02?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose@2.6.1?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose@2.7.0?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose@2.7.1?classifier=sources

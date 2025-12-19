@@ -285,6 +285,8 @@
 - pkg:maven/org.springframework.data/spring-data-keyvalue@2.7.10?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-keyvalue@2.7.11
 - pkg:maven/org.springframework.data/spring-data-keyvalue@2.7.11?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-keyvalue@2.7.12
+- pkg:maven/org.springframework.data/spring-data-keyvalue@2.7.12?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-keyvalue@2.7.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-keyvalue@2.7.2
 - pkg:maven/org.springframework.data/spring-data-keyvalue@2.7.2?classifier=sources
@@ -314,3 +316,7 @@
 - pkg:maven/org.springframework.data/spring-data-keyvalue@3.0.4?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-keyvalue@3.0.5
 - pkg:maven/org.springframework.data/spring-data-keyvalue@3.0.5?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-keyvalue@3.0.6
+- pkg:maven/org.springframework.data/spring-data-keyvalue@3.0.6?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-keyvalue@3.1.0
+- pkg:maven/org.springframework.data/spring-data-keyvalue@3.1.0?classifier=sources

@@ -135,6 +135,8 @@
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.4
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.42
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.42?classifier=sources
+- pkg:maven/com.github.jorge2m/testmaker-core@2.1.45
+- pkg:maven/com.github.jorge2m/testmaker-core@2.1.45?classifier=sources
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.4?classifier=sources
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.5
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.5?classifier=sources
@@ -146,3 +148,5 @@
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.8?classifier=sources
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.9
 - pkg:maven/com.github.jorge2m/testmaker-core@2.1.9?classifier=sources
+- pkg:maven/com.github.jorge2m/testmaker-core@2.2.0
+- pkg:maven/com.github.jorge2m/testmaker-core@2.2.0?classifier=sources

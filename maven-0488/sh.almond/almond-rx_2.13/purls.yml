@@ -2,6 +2,12 @@
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.10?classifier=sources
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.11
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.11?classifier=sources
+- pkg:maven/sh.almond/almond-rx_2.13@0.13.12
+- pkg:maven/sh.almond/almond-rx_2.13@0.13.12?classifier=sources
+- pkg:maven/sh.almond/almond-rx_2.13@0.13.13
+- pkg:maven/sh.almond/almond-rx_2.13@0.13.13?classifier=sources
+- pkg:maven/sh.almond/almond-rx_2.13@0.13.14
+- pkg:maven/sh.almond/almond-rx_2.13@0.13.14?classifier=sources
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.3
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.3?classifier=sources
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.4
@@ -16,3 +22,5 @@
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.8?classifier=sources
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.9
 - pkg:maven/sh.almond/almond-rx_2.13@0.13.9?classifier=sources
+- pkg:maven/sh.almond/almond-rx_2.13@0.14.0-RC1
+- pkg:maven/sh.almond/almond-rx_2.13@0.14.0-RC1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.squareup.misk/misk-hotwire@2023.05.31.162625-69c6f8d?classifier=sources
+- pkg:maven/com.squareup.misk/misk-hotwire@2023.06.01.000410-465569e?classifier=sources
+- pkg:maven/com.squareup.misk/misk-hotwire@2023.06.01.145904-2420e65?classifier=sources
+- pkg:maven/com.squareup.misk/misk-hotwire@2023.06.02.140735-df720d1?classifier=sources
+- pkg:maven/com.squareup.misk/misk-hotwire@2023.06.02.184728-e1cc703?classifier=sources
+- pkg:maven/com.squareup.misk/misk-hotwire@2023.06.02.193000-a2ad312?classifier=sources

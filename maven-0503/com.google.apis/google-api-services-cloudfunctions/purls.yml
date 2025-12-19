@@ -268,6 +268,10 @@
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev20230406-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev20230420-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev20230420-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev20230504-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev20230504-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev20230515-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev20230515-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v1-rev21-1.20.0
@@ -1346,6 +1350,10 @@
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230406-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230420-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230420-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230515-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230515-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230524-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230524-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20220203-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20220203-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20220218-1.32.1
@@ -1398,6 +1406,10 @@
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230406-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230420-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230420-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230515-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230515-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230524-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230524-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20220203-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20220203-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20220218-1.32.1
@@ -1450,3 +1462,7 @@
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230406-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230420-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230420-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230515-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230515-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230524-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230524-2.0.0?classifier=sources

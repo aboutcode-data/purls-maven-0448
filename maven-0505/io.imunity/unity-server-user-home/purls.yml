@@ -8,6 +8,8 @@
 - pkg:maven/io.imunity/unity-server-user-home@3.11.2?classifier=sources
 - pkg:maven/io.imunity/unity-server-user-home@3.12.0
 - pkg:maven/io.imunity/unity-server-user-home@3.12.0?classifier=sources
+- pkg:maven/io.imunity/unity-server-user-home@3.13.0
+- pkg:maven/io.imunity/unity-server-user-home@3.13.0?classifier=sources
 - pkg:maven/io.imunity/unity-server-user-home@3.4.0
 - pkg:maven/io.imunity/unity-server-user-home@3.4.0?classifier=sources
 - pkg:maven/io.imunity/unity-server-user-home@3.4.1

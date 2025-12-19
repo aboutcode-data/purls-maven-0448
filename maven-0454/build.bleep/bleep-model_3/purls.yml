@@ -22,3 +22,5 @@
 - pkg:maven/build.bleep/bleep-model_3@0.0.1-M25?classifier=sources
 - pkg:maven/build.bleep/bleep-model_3@0.0.1-M26
 - pkg:maven/build.bleep/bleep-model_3@0.0.1-M26?classifier=sources
+- pkg:maven/build.bleep/bleep-model_3@0.0.1-M27
+- pkg:maven/build.bleep/bleep-model_3@0.0.1-M27?classifier=sources

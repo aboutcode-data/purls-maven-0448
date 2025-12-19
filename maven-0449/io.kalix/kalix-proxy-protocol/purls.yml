@@ -86,6 +86,12 @@
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.0.9?type=zip
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.1.0?classifier=sources
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.1.0?type=zip
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.10?classifier=sources
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.10?type=zip
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.11?classifier=sources
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.11?type=zip
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.12?classifier=sources
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.12?type=zip
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.1.1?classifier=sources
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.1.1?type=zip
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.1.2?classifier=sources
@@ -102,3 +108,11 @@
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.1.7-M1?type=zip
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.1.7?classifier=sources
 - pkg:maven/io.kalix/kalix-proxy-protocol@1.1.7?type=zip
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.8?classifier=sources
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.8?type=zip
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.9-M1?classifier=sources
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.9-M1?type=zip
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.9-M2?classifier=sources
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.9-M2?type=zip
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.9?classifier=sources
+- pkg:maven/io.kalix/kalix-proxy-protocol@1.1.9?type=zip

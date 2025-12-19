@@ -249,6 +249,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.1.11?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.1.12
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.1.12?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.1.13
+- pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.1.13?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.1.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.1.2
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.1.2?classifier=sources
@@ -278,6 +280,12 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.14.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.15.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.15.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.16.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.16.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.17.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.17.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.18.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.18.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.2.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-trace-v2@2.3.0

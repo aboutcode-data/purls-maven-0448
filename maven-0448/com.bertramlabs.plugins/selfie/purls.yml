@@ -1,1 +1,2 @@
 - pkg:maven/com.bertramlabs.plugins/selfie@2.1.4?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/selfie@2.1.5?classifier=sources

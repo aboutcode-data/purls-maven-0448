@@ -16,3 +16,4 @@
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.emf@0.8.0.RC02?classifier=sources
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.emf@0.8.0.RC03?classifier=sources
 - pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.emf@0.8.0.RC04?classifier=sources
+- pkg:maven/org.eclipse.emfcloud.modelserver/org.eclipse.emfcloud.modelserver.emf@0.8.0.RC05?classifier=sources

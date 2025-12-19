@@ -1,3 +1,4 @@
 - pkg:maven/com.rubensousa.lista/lista-testing@1.0.0-beta01?classifier=sources
 - pkg:maven/com.rubensousa.lista/lista-testing@2.0.0?classifier=sources
 - pkg:maven/com.rubensousa.lista/lista-testing@3.0.0?classifier=sources
+- pkg:maven/com.rubensousa.lista/lista-testing@4.0.0-alpha01?classifier=sources

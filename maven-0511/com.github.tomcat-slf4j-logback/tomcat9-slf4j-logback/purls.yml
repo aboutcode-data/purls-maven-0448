@@ -129,6 +129,7 @@
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.72?classifier=sources
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.73?classifier=sources
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.74?classifier=sources
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.75?classifier=sources
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.7?classifier=sources
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.8
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.8?classifier=sources

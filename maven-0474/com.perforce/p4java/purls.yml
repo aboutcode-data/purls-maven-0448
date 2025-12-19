@@ -85,3 +85,4 @@
 - pkg:maven/com.perforce/p4java@2022.1.2350821?classifier=sources
 - pkg:maven/com.perforce/p4java@2022.1.2390907?classifier=sources
 - pkg:maven/com.perforce/p4java@2022.1.2423241?classifier=sources
+- pkg:maven/com.perforce/p4java@2022.2.2444480?classifier=sources

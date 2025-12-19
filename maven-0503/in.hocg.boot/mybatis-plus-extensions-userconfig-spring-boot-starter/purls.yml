@@ -4,3 +4,5 @@
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-userconfig-spring-boot-starter@1.0.55?classifier=sources
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-userconfig-spring-boot-starter@1.0.56
 - pkg:maven/in.hocg.boot/mybatis-plus-extensions-userconfig-spring-boot-starter@1.0.56?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-userconfig-spring-boot-starter@1.0.57
+- pkg:maven/in.hocg.boot/mybatis-plus-extensions-userconfig-spring-boot-starter@1.0.57?classifier=sources

@@ -427,6 +427,8 @@
 - pkg:maven/com.palantir.dialogue/dialogue-core@3.8.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-core@3.80.0-rc1?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-core@3.80.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-core@3.81.0-rc1?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-core@3.81.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-core@3.82.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-core@3.83.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-core@3.9.0?classifier=sources

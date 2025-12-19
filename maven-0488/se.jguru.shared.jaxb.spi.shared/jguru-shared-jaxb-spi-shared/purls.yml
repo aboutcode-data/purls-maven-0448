@@ -42,3 +42,5 @@
 - pkg:maven/se.jguru.shared.jaxb.spi.shared/jguru-shared-jaxb-spi-shared@1.1.0?classifier=sources
 - pkg:maven/se.jguru.shared.jaxb.spi.shared/jguru-shared-jaxb-spi-shared@1.2.0
 - pkg:maven/se.jguru.shared.jaxb.spi.shared/jguru-shared-jaxb-spi-shared@1.2.0?classifier=sources
+- pkg:maven/se.jguru.shared.jaxb.spi.shared/jguru-shared-jaxb-spi-shared@2.0.0
+- pkg:maven/se.jguru.shared.jaxb.spi.shared/jguru-shared-jaxb-spi-shared@2.0.0?classifier=sources

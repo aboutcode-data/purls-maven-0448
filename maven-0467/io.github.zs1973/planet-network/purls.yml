@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zs1973/planet-network@1.0.6?classifier=sources
+- pkg:maven/io.github.zs1973/planet-network@1.0.7?classifier=sources

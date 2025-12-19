@@ -25,6 +25,12 @@
 - pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.20?classifier=sources
 - pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.24
 - pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.24?classifier=sources
+- pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.25
+- pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.25?classifier=sources
+- pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.26
+- pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.26?classifier=sources
+- pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.27
+- pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.27?classifier=sources
 - pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.2?classifier=sources
 - pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.3
 - pkg:maven/com.mobius-software.protocols.ss7.isup/isup-api@10.0.3?classifier=sources

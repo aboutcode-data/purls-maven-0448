@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/connector-runtime-spring@0.20.0-alpha2
+- pkg:maven/io.camunda.connector/connector-runtime-spring@0.20.0-alpha2?classifier=sources

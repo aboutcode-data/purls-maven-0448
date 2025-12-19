@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-reify-starter@3.14.6?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-reify-starter@3.14.7
 - pkg:maven/org.apache.camel.springboot/camel-kamelet-reify-starter@3.14.7?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-kamelet-reify-starter@3.14.8
+- pkg:maven/org.apache.camel.springboot/camel-kamelet-reify-starter@3.14.8?classifier=sources

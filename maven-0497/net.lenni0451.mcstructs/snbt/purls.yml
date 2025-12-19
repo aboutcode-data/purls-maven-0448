@@ -5,3 +5,4 @@
 - pkg:maven/net.lenni0451.mcstructs/snbt@2.2.2?classifier=sources
 - pkg:maven/net.lenni0451.mcstructs/snbt@2.2.3?classifier=sources
 - pkg:maven/net.lenni0451.mcstructs/snbt@2.2.4?classifier=sources
+- pkg:maven/net.lenni0451.mcstructs/snbt@2.2.5?classifier=sources

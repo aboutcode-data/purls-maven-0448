@@ -36,3 +36,7 @@
 - pkg:maven/com.github.yujiaao/common-utils@1.13.8.2?classifier=sources
 - pkg:maven/com.github.yujiaao/common-utils@1.13.8.9
 - pkg:maven/com.github.yujiaao/common-utils@1.13.8.9?classifier=sources
+- pkg:maven/com.github.yujiaao/common-utils@1.13.9.4
+- pkg:maven/com.github.yujiaao/common-utils@1.13.9.4?classifier=sources
+- pkg:maven/com.github.yujiaao/common-utils@1.13.9.7
+- pkg:maven/com.github.yujiaao/common-utils@1.13.9.7?classifier=sources

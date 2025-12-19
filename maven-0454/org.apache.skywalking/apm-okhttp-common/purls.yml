@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.skywalking/apm-okhttp-common@8.14.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-okhttp-common@8.15.0
 - pkg:maven/org.apache.skywalking/apm-okhttp-common@8.15.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-okhttp-common@8.16.0
+- pkg:maven/org.apache.skywalking/apm-okhttp-common@8.16.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-okhttp-common@8.6.0
 - pkg:maven/org.apache.skywalking/apm-okhttp-common@8.6.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-okhttp-common@8.7.0

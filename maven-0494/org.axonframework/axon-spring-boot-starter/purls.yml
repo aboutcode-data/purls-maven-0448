@@ -83,7 +83,10 @@
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.6.5
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.6.6
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.6.7
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.6.8
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.7.0
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.7.1
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.7.2
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.7.3
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.7.4
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.7.5

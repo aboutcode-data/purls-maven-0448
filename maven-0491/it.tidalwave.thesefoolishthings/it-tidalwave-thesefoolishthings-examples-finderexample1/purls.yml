@@ -121,6 +121,10 @@
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-20?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-21
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-21?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-22
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-22?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-23
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-23?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-2?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-4
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-thesefoolishthings-examples-finderexample1@3.2-ALPHA-4?classifier=sources

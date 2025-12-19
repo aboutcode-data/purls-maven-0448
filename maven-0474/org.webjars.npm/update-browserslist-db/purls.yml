@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/update-browserslist-db@1.0.10
 - pkg:maven/org.webjars.npm/update-browserslist-db@1.0.10?classifier=sources
+- pkg:maven/org.webjars.npm/update-browserslist-db@1.0.11
+- pkg:maven/org.webjars.npm/update-browserslist-db@1.0.11?classifier=sources
 - pkg:maven/org.webjars.npm/update-browserslist-db@1.0.5
 - pkg:maven/org.webjars.npm/update-browserslist-db@1.0.5?classifier=sources

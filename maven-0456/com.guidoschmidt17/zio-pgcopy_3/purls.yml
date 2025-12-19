@@ -1,0 +1,2 @@
+- pkg:maven/com.guidoschmidt17/zio-pgcopy_3@0.1.0-RC1
+- pkg:maven/com.guidoschmidt17/zio-pgcopy_3@0.1.0-RC1?classifier=sources

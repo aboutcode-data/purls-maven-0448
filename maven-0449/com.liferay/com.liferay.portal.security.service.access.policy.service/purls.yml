@@ -557,6 +557,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.30
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.31
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@5.0.4
@@ -659,6 +662,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.33
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.34
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.35
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.service.access.policy.service@6.0.4

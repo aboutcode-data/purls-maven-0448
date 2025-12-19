@@ -1,0 +1,2 @@
+- pkg:maven/eu.coding-commune/startup-validator-spring-boot-starter@1.0.5
+- pkg:maven/eu.coding-commune/startup-validator-spring-boot-starter@1.0.5?classifier=sources

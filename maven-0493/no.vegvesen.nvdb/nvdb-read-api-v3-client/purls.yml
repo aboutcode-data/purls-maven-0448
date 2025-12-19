@@ -14,3 +14,9 @@
 - pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.19.7?classifier=sources
 - pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.2.7
 - pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.2.7?classifier=sources
+- pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.20.2
+- pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.20.2?classifier=sources
+- pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.21.0
+- pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.21.0?classifier=sources
+- pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.21.1
+- pkg:maven/no.vegvesen.nvdb/nvdb-read-api-v3-client@1.21.1?classifier=sources

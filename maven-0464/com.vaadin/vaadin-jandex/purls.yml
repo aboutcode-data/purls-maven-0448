@@ -91,6 +91,7 @@
 - pkg:maven/com.vaadin/vaadin-jandex@23.3.1
 - pkg:maven/com.vaadin/vaadin-jandex@23.3.10
 - pkg:maven/com.vaadin/vaadin-jandex@23.3.11
+- pkg:maven/com.vaadin/vaadin-jandex@23.3.12
 - pkg:maven/com.vaadin/vaadin-jandex@23.3.2
 - pkg:maven/com.vaadin/vaadin-jandex@23.3.3
 - pkg:maven/com.vaadin/vaadin-jandex@23.3.4

@@ -192,5 +192,11 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@18.0.6?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@18.0.7
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@18.0.7?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@18.1.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@18.1.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@19.0.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@19.0.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@19.0.2
+- pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@19.0.2?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@4.9.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/mq-plugin@4.9.0?classifier=sources

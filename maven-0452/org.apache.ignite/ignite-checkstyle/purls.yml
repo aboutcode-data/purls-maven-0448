@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.ignite/ignite-checkstyle@2.13.0
 - pkg:maven/org.apache.ignite/ignite-checkstyle@2.14.0
+- pkg:maven/org.apache.ignite/ignite-checkstyle@2.15.0

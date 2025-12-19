@@ -20,3 +20,5 @@
 - pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.10_2.13@0.1.22?classifier=sources
 - pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.10_2.13@0.1.23
 - pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.10_2.13@0.1.23?classifier=sources
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.10_2.13@0.1.24
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.10_2.13@0.1.24?classifier=sources
