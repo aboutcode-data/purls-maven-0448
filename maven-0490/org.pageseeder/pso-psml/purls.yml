@@ -33,3 +33,4 @@
 - pkg:maven/org.pageseeder/pso-psml@1.2.0?classifier=sources
 - pkg:maven/org.pageseeder/pso-psml@1.3.0?classifier=sources
 - pkg:maven/org.pageseeder/pso-psml@1.3.1?classifier=sources
+- pkg:maven/org.pageseeder/pso-psml@1.3.2?classifier=sources

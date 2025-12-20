@@ -1,2 +1,4 @@
 - pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.4.10
 - pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.4.10?classifier=sources
+- pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.5.0
+- pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.5.0?classifier=sources

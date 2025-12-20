@@ -4,3 +4,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kover-features-jvm@0.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kover-features-jvm@0.8.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kover-features-jvm@0.8.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kover-features-jvm@0.8.3?classifier=sources

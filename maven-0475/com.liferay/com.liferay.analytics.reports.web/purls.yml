@@ -158,6 +158,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@1.0.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@1.0.69?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@1.0.70?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.reports.web@1.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.0
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.0?classifier=sources-commercial
@@ -414,5 +415,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.95?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.96?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.97?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.98?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.9?classifier=sources-commercial

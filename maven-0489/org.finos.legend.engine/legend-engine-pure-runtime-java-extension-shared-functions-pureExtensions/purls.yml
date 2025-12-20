@@ -29,3 +29,8 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions@4.48.2
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions@4.49.0
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions@4.49.1
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions@4.50.0
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions@4.50.1
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions@4.51.1
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions@4.52.0
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-shared-functions-pureExtensions@4.52.1

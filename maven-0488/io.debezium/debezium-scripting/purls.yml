@@ -234,3 +234,9 @@
 - pkg:maven/io.debezium/debezium-scripting@2.7.0.Beta1?type=zip
 - pkg:maven/io.debezium/debezium-scripting@2.7.0.Beta2?classifier=sources
 - pkg:maven/io.debezium/debezium-scripting@2.7.0.Beta2?type=zip
+- pkg:maven/io.debezium/debezium-scripting@2.7.0.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-scripting@2.7.0.Final?type=zip
+- pkg:maven/io.debezium/debezium-scripting@3.0.0.Alpha1?classifier=sources
+- pkg:maven/io.debezium/debezium-scripting@3.0.0.Alpha1?type=zip
+- pkg:maven/io.debezium/debezium-scripting@3.0.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium/debezium-scripting@3.0.0.Alpha2?type=zip

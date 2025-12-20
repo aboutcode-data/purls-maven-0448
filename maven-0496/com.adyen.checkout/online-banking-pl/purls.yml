@@ -8,6 +8,7 @@
 - pkg:maven/com.adyen.checkout/online-banking-pl@4.13.3?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-pl@4.13.4?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-pl@4.13.5?classifier=sources
+- pkg:maven/com.adyen.checkout/online-banking-pl@4.13.6?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-pl@4.8.0?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-pl@4.9.0?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-pl@4.9.1?classifier=sources
@@ -22,3 +23,4 @@
 - pkg:maven/com.adyen.checkout/online-banking-pl@5.3.1?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-pl@5.4.0?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-pl@5.5.0?classifier=sources
+- pkg:maven/com.adyen.checkout/online-banking-pl@5.6.0?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/com.mobaijun/base-model-spring-boot-starter@1.1.4?classifier=sources
 - pkg:maven/com.mobaijun/base-model-spring-boot-starter@1.1.5
 - pkg:maven/com.mobaijun/base-model-spring-boot-starter@1.1.5?classifier=sources
+- pkg:maven/com.mobaijun/base-model-spring-boot-starter@3.0.0
+- pkg:maven/com.mobaijun/base-model-spring-boot-starter@3.0.0?classifier=sources
+- pkg:maven/com.mobaijun/base-model-spring-boot-starter@3.0.1
+- pkg:maven/com.mobaijun/base-model-spring-boot-starter@3.0.1?classifier=sources

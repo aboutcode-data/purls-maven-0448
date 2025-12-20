@@ -3,3 +3,6 @@
 - pkg:maven/dev.nipafx.args/record-args@0.7.0?classifier=sources
 - pkg:maven/dev.nipafx.args/record-args@0.8.0?classifier=sources
 - pkg:maven/dev.nipafx.args/record-args@0.8.1?classifier=sources
+- pkg:maven/dev.nipafx.args/record-args@0.8.2?classifier=sources
+- pkg:maven/dev.nipafx.args/record-args@0.9.0?classifier=sources
+- pkg:maven/dev.nipafx.args/record-args@0.9.1?classifier=sources

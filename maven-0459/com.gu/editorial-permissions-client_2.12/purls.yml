@@ -9,6 +9,10 @@
 - pkg:maven/com.gu/editorial-permissions-client_2.12@2.14?classifier=sources
 - pkg:maven/com.gu/editorial-permissions-client_2.12@2.15
 - pkg:maven/com.gu/editorial-permissions-client_2.12@2.15?classifier=sources
+- pkg:maven/com.gu/editorial-permissions-client_2.12@2.16.0
+- pkg:maven/com.gu/editorial-permissions-client_2.12@2.16.0-PREVIEW.anput-the-release-settings-on-root.2024-07-31T1013.fa0510d7
+- pkg:maven/com.gu/editorial-permissions-client_2.12@2.16.0-PREVIEW.anput-the-release-settings-on-root.2024-07-31T1013.fa0510d7?classifier=sources
+- pkg:maven/com.gu/editorial-permissions-client_2.12@2.16.0?classifier=sources
 - pkg:maven/com.gu/editorial-permissions-client_2.12@2.1?classifier=sources
 - pkg:maven/com.gu/editorial-permissions-client_2.12@2.2
 - pkg:maven/com.gu/editorial-permissions-client_2.12@2.2?classifier=sources

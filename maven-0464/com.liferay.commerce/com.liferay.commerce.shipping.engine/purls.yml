@@ -1,2 +1,3 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine@1.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine@1.0.3?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine@1.0.4?classifier=sources

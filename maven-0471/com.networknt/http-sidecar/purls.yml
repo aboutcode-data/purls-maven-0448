@@ -38,5 +38,7 @@
 - pkg:maven/com.networknt/http-sidecar@2.1.32?classifier=sources
 - pkg:maven/com.networknt/http-sidecar@2.1.33
 - pkg:maven/com.networknt/http-sidecar@2.1.33?classifier=sources
+- pkg:maven/com.networknt/http-sidecar@2.1.34
+- pkg:maven/com.networknt/http-sidecar@2.1.34?classifier=sources
 - pkg:maven/com.networknt/http-sidecar@2.1.9
 - pkg:maven/com.networknt/http-sidecar@2.1.9?classifier=sources

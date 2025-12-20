@@ -59,6 +59,7 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventhubs@2.39.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventhubs@2.4.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventhubs@2.4.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventhubs@2.40.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventhubs@2.5.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventhubs@2.5.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-eventhubs@2.6.0

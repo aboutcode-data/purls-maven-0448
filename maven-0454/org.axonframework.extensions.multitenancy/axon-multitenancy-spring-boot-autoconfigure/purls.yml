@@ -1,3 +1,7 @@
+- pkg:maven/org.axonframework.extensions.multitenancy/axon-multitenancy-spring-boot-autoconfigure@4.10.0
+- pkg:maven/org.axonframework.extensions.multitenancy/axon-multitenancy-spring-boot-autoconfigure@4.10.0?classifier=sources
+- pkg:maven/org.axonframework.extensions.multitenancy/axon-multitenancy-spring-boot-autoconfigure@4.10.1
+- pkg:maven/org.axonframework.extensions.multitenancy/axon-multitenancy-spring-boot-autoconfigure@4.10.1?classifier=sources
 - pkg:maven/org.axonframework.extensions.multitenancy/axon-multitenancy-spring-boot-autoconfigure@4.9.0
 - pkg:maven/org.axonframework.extensions.multitenancy/axon-multitenancy-spring-boot-autoconfigure@4.9.0?classifier=sources
 - pkg:maven/org.axonframework.extensions.multitenancy/axon-multitenancy-spring-boot-autoconfigure@4.9.1

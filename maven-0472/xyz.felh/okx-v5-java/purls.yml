@@ -14,3 +14,15 @@
 - pkg:maven/xyz.felh/okx-v5-java@0.4.2024051501?classifier=sources
 - pkg:maven/xyz.felh/okx-v5-java@0.4.2024051502
 - pkg:maven/xyz.felh/okx-v5-java@0.4.2024051502?classifier=sources
+- pkg:maven/xyz.felh/okx-v5-java@0.4.2024071601
+- pkg:maven/xyz.felh/okx-v5-java@0.4.2024071601?classifier=sources
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072501
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072501?classifier=sources
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072502
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072502?classifier=sources
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072503
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072503?classifier=sources
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072504
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072504?classifier=sources
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072701
+- pkg:maven/xyz.felh/okx-v5-java@0.5.2024072701?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.0.0-beta07?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.0.0-beta08?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.0.0-beta09?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.0.0-beta10?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.0.0-beta11?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.1.0-alpha01?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.1.0-alpha02?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.1.0-alpha03?classifier=sources
@@ -29,3 +31,5 @@
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.1.0-beta07?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.1.0-beta08?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.1.0-beta09?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.1.0-beta10?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/bottom-sheet@2.1.0-beta11?classifier=sources

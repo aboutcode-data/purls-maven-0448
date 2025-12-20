@@ -26,3 +26,7 @@
 - pkg:maven/io.github.dmlloyd/jdk-classfile-preview@23.beta3?classifier=sources
 - pkg:maven/io.github.dmlloyd/jdk-classfile-preview@23.cr1
 - pkg:maven/io.github.dmlloyd/jdk-classfile-preview@23.cr1?classifier=sources
+- pkg:maven/io.github.dmlloyd/jdk-classfile-preview@23.cr2
+- pkg:maven/io.github.dmlloyd/jdk-classfile-preview@23.cr2?classifier=sources
+- pkg:maven/io.github.dmlloyd/jdk-classfile-preview@23.cr3
+- pkg:maven/io.github.dmlloyd/jdk-classfile-preview@23.cr3?classifier=sources

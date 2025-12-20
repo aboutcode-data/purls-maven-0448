@@ -8,3 +8,5 @@
 - pkg:maven/io.github.liubsyy/HotSecondsExtension@1.0.4?classifier=sources
 - pkg:maven/io.github.liubsyy/HotSecondsExtension@2.0.0
 - pkg:maven/io.github.liubsyy/HotSecondsExtension@2.0.0?classifier=sources
+- pkg:maven/io.github.liubsyy/HotSecondsExtension@2.0.1
+- pkg:maven/io.github.liubsyy/HotSecondsExtension@2.0.1?classifier=sources

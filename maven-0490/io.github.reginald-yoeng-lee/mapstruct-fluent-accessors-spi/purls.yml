@@ -1,2 +1,4 @@
 - pkg:maven/io.github.reginald-yoeng-lee/mapstruct-fluent-accessors-spi@1.0.0
 - pkg:maven/io.github.reginald-yoeng-lee/mapstruct-fluent-accessors-spi@1.0.0?classifier=sources
+- pkg:maven/io.github.reginald-yoeng-lee/mapstruct-fluent-accessors-spi@1.1.0
+- pkg:maven/io.github.reginald-yoeng-lee/mapstruct-fluent-accessors-spi@1.1.0?classifier=sources

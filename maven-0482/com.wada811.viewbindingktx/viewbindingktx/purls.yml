@@ -1,2 +1,3 @@
 - pkg:maven/com.wada811.viewbindingktx/viewbindingktx@3.0.0?classifier=sources
 - pkg:maven/com.wada811.viewbindingktx/viewbindingktx@3.1.0?classifier=sources
+- pkg:maven/com.wada811.viewbindingktx/viewbindingktx@4.0.0?classifier=sources

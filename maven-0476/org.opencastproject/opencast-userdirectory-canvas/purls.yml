@@ -134,10 +134,14 @@
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@15.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@15.6
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@15.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-canvas@15.7
+- pkg:maven/org.opencastproject/opencast-userdirectory-canvas@15.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@16.0
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@16.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@16.1
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@16.1?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-canvas@16.2
+- pkg:maven/org.opencastproject/opencast-userdirectory-canvas@16.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@9.0
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@9.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-canvas@9.1

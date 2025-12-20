@@ -108,5 +108,11 @@
 - pkg:maven/org.open-metadata/openmetadata-spec@1.4.4-rc1
 - pkg:maven/org.open-metadata/openmetadata-spec@1.4.4-rc1?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-spec@1.4.4?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-spec@1.4.5
+- pkg:maven/org.open-metadata/openmetadata-spec@1.4.5-rc1
+- pkg:maven/org.open-metadata/openmetadata-spec@1.4.5-rc1?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-spec@1.4.5?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-spec@1.4.6-rc1
+- pkg:maven/org.open-metadata/openmetadata-spec@1.4.6-rc1?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-spec@DEMO_BETA1
 - pkg:maven/org.open-metadata/openmetadata-spec@DEMO_BETA1?classifier=sources

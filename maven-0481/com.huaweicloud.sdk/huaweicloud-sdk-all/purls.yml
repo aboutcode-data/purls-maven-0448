@@ -70,6 +70,12 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.100
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.101
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.102
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.103
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.104
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.105
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.106
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.107
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.108
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.11
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.12
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-all@3.1.13

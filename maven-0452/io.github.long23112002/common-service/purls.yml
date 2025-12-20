@@ -1,0 +1,3 @@
+- pkg:maven/io.github.long23112002/common-service@1.0.0?classifier=sources
+- pkg:maven/io.github.long23112002/common-service@1.1.0?classifier=sources
+- pkg:maven/io.github.long23112002/common-service@1.1.1?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/cn.bigcore/micro-actut@11.0.12-RELEASE?classifier=sources
 - pkg:maven/cn.bigcore/micro-actut@11.0.7-RELEASE
 - pkg:maven/cn.bigcore/micro-actut@11.0.9-RELEASE
+- pkg:maven/cn.bigcore/micro-actut@12.0.1-RELEASE?classifier=sources

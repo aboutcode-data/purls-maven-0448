@@ -1,3 +1,4 @@
+- pkg:maven/io.github.lisa-analyzer/lisa-imp@0.1?classifier=sources
 - pkg:maven/io.github.lisa-analyzer/lisa-imp@0.1b6?classifier=sources
 - pkg:maven/io.github.lisa-analyzer/lisa-imp@0.1b7?classifier=sources
 - pkg:maven/io.github.lisa-analyzer/lisa-imp@0.1b8?classifier=sources

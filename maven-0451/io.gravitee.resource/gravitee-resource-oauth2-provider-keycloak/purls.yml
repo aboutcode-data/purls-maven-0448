@@ -12,3 +12,5 @@
 - pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-keycloak@1.9.0?classifier=sources
 - pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-keycloak@1.9.1?classifier=sources
 - pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-keycloak@1.9.2?classifier=sources
+- pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-keycloak@2.0.0?classifier=sources
+- pkg:maven/io.gravitee.resource/gravitee-resource-oauth2-provider-keycloak@2.1.0?classifier=sources

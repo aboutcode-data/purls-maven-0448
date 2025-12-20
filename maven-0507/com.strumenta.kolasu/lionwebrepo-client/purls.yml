@@ -1,0 +1,2 @@
+- pkg:maven/com.strumenta.kolasu/lionwebrepo-client@1.5.68?classifier=sources
+- pkg:maven/com.strumenta.kolasu/lionwebrepo-client@1.6.0-Alpha1?classifier=sources

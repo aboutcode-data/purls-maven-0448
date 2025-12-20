@@ -120,3 +120,9 @@
 - pkg:maven/org.redisson/redisson-tomcat-10@3.31.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-10@3.32.0
 - pkg:maven/org.redisson/redisson-tomcat-10@3.32.0?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-10@3.33.0
+- pkg:maven/org.redisson/redisson-tomcat-10@3.33.0?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-10@3.34.0
+- pkg:maven/org.redisson/redisson-tomcat-10@3.34.0?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-10@3.34.1
+- pkg:maven/org.redisson/redisson-tomcat-10@3.34.1?classifier=sources

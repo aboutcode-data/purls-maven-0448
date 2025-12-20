@@ -1,5 +1,6 @@
 - pkg:maven/org.axonframework.extensions.amqp/axon-amqp-spring-boot-starter@4.0
 - pkg:maven/org.axonframework.extensions.amqp/axon-amqp-spring-boot-starter@4.1
+- pkg:maven/org.axonframework.extensions.amqp/axon-amqp-spring-boot-starter@4.10.0
 - pkg:maven/org.axonframework.extensions.amqp/axon-amqp-spring-boot-starter@4.2
 - pkg:maven/org.axonframework.extensions.amqp/axon-amqp-spring-boot-starter@4.3
 - pkg:maven/org.axonframework.extensions.amqp/axon-amqp-spring-boot-starter@4.4

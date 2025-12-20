@@ -1,3 +1,7 @@
+- pkg:maven/com.sourcegraph/semanticdb-agent@0.10.0
+- pkg:maven/com.sourcegraph/semanticdb-agent@0.10.0?classifier=sources
+- pkg:maven/com.sourcegraph/semanticdb-agent@0.10.1
+- pkg:maven/com.sourcegraph/semanticdb-agent@0.10.1?classifier=sources
 - pkg:maven/com.sourcegraph/semanticdb-agent@0.2.0
 - pkg:maven/com.sourcegraph/semanticdb-agent@0.2.0-RC1
 - pkg:maven/com.sourcegraph/semanticdb-agent@0.2.0-RC1?classifier=sources

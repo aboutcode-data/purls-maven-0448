@@ -36,3 +36,11 @@
 - pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta28?classifier=sources
 - pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta29
 - pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta29?classifier=sources
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta30
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta30?classifier=sources
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta31
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta31?classifier=sources
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta32
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta32?classifier=sources
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta33
+- pkg:maven/com.aeontronix.restclient/aeon-rest-client-core@1.0.0-beta33?classifier=sources

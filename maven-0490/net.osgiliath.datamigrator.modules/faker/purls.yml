@@ -36,3 +36,5 @@
 - pkg:maven/net.osgiliath.datamigrator.modules/faker@1.61?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator.modules/faker@1.64
 - pkg:maven/net.osgiliath.datamigrator.modules/faker@1.64?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.66
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.66?classifier=sources

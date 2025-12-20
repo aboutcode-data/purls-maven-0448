@@ -29,3 +29,4 @@
 - pkg:maven/com.wangshanhai.power/shanhai-power-spring-boot-starter@1.1.4
 - pkg:maven/com.wangshanhai.power/shanhai-power-spring-boot-starter@1.1.4?classifier=sources
 - pkg:maven/com.wangshanhai.power/shanhai-power-spring-boot-starter@1.1.5?classifier=sources
+- pkg:maven/com.wangshanhai.power/shanhai-power-spring-boot-starter@1.1.6?classifier=sources

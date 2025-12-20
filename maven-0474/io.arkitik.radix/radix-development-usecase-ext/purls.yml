@@ -20,3 +20,11 @@
 - pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v1.6.0?classifier=sources
 - pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.0.0
 - pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.0.0?classifier=sources
+- pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.1.0
+- pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.1.0?classifier=sources
+- pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.2.0
+- pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.2.0?classifier=sources
+- pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.3.0
+- pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.3.0?classifier=sources
+- pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.3.1
+- pkg:maven/io.arkitik.radix/radix-development-usecase-ext@v2.3.1?classifier=sources

@@ -146,3 +146,4 @@
 - pkg:maven/de.codecentric/spring-boot-admin-starter-client@3.3.0
 - pkg:maven/de.codecentric/spring-boot-admin-starter-client@3.3.1
 - pkg:maven/de.codecentric/spring-boot-admin-starter-client@3.3.2
+- pkg:maven/de.codecentric/spring-boot-admin-starter-client@3.3.3

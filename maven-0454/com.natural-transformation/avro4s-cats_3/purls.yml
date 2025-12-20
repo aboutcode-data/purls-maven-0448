@@ -1,0 +1,6 @@
+- pkg:maven/com.natural-transformation/avro4s-cats_3@5.0.0
+- pkg:maven/com.natural-transformation/avro4s-cats_3@5.0.0?classifier=sources
+- pkg:maven/com.natural-transformation/avro4s-cats_3@5.0.14
+- pkg:maven/com.natural-transformation/avro4s-cats_3@5.0.14?classifier=sources
+- pkg:maven/com.natural-transformation/avro4s-cats_3@5.0.15
+- pkg:maven/com.natural-transformation/avro4s-cats_3@5.0.15?classifier=sources

@@ -1,3 +1,9 @@
+- pkg:maven/com.aserto/java-authorizer@0.20.10
+- pkg:maven/com.aserto/java-authorizer@0.20.10?classifier=sources
+- pkg:maven/com.aserto/java-authorizer@0.20.11
+- pkg:maven/com.aserto/java-authorizer@0.20.11?classifier=sources
+- pkg:maven/com.aserto/java-authorizer@0.20.12
+- pkg:maven/com.aserto/java-authorizer@0.20.12?classifier=sources
 - pkg:maven/com.aserto/java-authorizer@0.20.5?classifier=sources
 - pkg:maven/com.aserto/java-authorizer@0.20.6
 - pkg:maven/com.aserto/java-authorizer@0.20.6?classifier=sources
@@ -5,6 +11,8 @@
 - pkg:maven/com.aserto/java-authorizer@0.20.7?classifier=sources
 - pkg:maven/com.aserto/java-authorizer@0.20.8
 - pkg:maven/com.aserto/java-authorizer@0.20.8?classifier=sources
+- pkg:maven/com.aserto/java-authorizer@0.20.9
+- pkg:maven/com.aserto/java-authorizer@0.20.9?classifier=sources
 - pkg:maven/com.aserto/java-authorizer@1.0.0
 - pkg:maven/com.aserto/java-authorizer@1.0.0?classifier=sources
 - pkg:maven/com.aserto/java-authorizer@1.0.1

@@ -88,3 +88,5 @@
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.6?type=war
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.7?classifier=sources
 - pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.7?type=war
+- pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.8?classifier=sources
+- pkg:maven/org.apache.syncope.fit/syncope-fit-build-tools@3.0.8?type=war

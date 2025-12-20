@@ -1,0 +1,2 @@
+- pkg:maven/com.valensas.observability-artifacts/observability-artifacts@0.0.1-rc3
+- pkg:maven/com.valensas.observability-artifacts/observability-artifacts@0.0.1-rc3?classifier=sources

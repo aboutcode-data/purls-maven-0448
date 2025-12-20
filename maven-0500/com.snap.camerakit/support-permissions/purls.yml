@@ -26,4 +26,6 @@
 - pkg:maven/com.snap.camerakit/support-permissions@1.28.0?classifier=sources
 - pkg:maven/com.snap.camerakit/support-permissions@1.29.0?classifier=sources
 - pkg:maven/com.snap.camerakit/support-permissions@1.30.0?classifier=sources
+- pkg:maven/com.snap.camerakit/support-permissions@1.30.1?classifier=sources
 - pkg:maven/com.snap.camerakit/support-permissions@1.31.0?classifier=sources
+- pkg:maven/com.snap.camerakit/support-permissions@1.32.0?classifier=sources

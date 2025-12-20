@@ -97,3 +97,6 @@
 - pkg:maven/io.trino/trino-pinot@448?classifier=sources
 - pkg:maven/io.trino/trino-pinot@449?classifier=sources
 - pkg:maven/io.trino/trino-pinot@450?classifier=sources
+- pkg:maven/io.trino/trino-pinot@451?classifier=sources
+- pkg:maven/io.trino/trino-pinot@452?classifier=sources
+- pkg:maven/io.trino/trino-pinot@453?classifier=sources

@@ -1,2 +1,9 @@
 - pkg:maven/toys.timberix/lexerix@0.0.1?classifier=sources
 - pkg:maven/toys.timberix/lexerix@0.0.2?classifier=sources
+- pkg:maven/toys.timberix/lexerix@0.0.3?classifier=sources
+- pkg:maven/toys.timberix/lexerix@0.0.4?classifier=sources
+- pkg:maven/toys.timberix/lexerix@0.0.5?classifier=sources
+- pkg:maven/toys.timberix/lexerix@0.1.0?classifier=sources
+- pkg:maven/toys.timberix/lexerix@0.1.1?classifier=sources
+- pkg:maven/toys.timberix/lexerix@0.1.2?classifier=sources
+- pkg:maven/toys.timberix/lexerix@0.1.3?classifier=sources

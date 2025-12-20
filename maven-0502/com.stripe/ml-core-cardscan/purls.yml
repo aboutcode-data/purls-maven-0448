@@ -65,3 +65,9 @@
 - pkg:maven/com.stripe/ml-core-cardscan@20.44.2?classifier=sources
 - pkg:maven/com.stripe/ml-core-cardscan@20.45.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-cardscan@20.46.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-cardscan@20.47.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-cardscan@20.47.3?classifier=sources
+- pkg:maven/com.stripe/ml-core-cardscan@20.47.4?classifier=sources
+- pkg:maven/com.stripe/ml-core-cardscan@20.48.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-cardscan@20.48.1?classifier=sources
+- pkg:maven/com.stripe/ml-core-cardscan@20.48.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.nuov/service@1.0.10?classifier=sources
+- pkg:maven/io.nuov/service@1.0.7?classifier=sources
+- pkg:maven/io.nuov/service@1.0.8?classifier=sources
+- pkg:maven/io.nuov/service@1.0.9?classifier=sources

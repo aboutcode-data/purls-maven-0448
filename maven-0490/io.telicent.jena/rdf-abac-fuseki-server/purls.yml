@@ -1,0 +1,2 @@
+- pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.4
+- pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.4?classifier=sources

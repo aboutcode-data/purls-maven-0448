@@ -120,3 +120,7 @@
 - pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@26.2.8_play_2.7?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@26.2.8_play_2.8
 - pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@26.2.8_play_2.8?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@26.2.9_play_2.7
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@26.2.9_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@26.2.9_play_2.8
+- pkg:maven/com.codacy/codacy-plugins-runner-binary_2.13@26.2.9_play_2.8?classifier=sources

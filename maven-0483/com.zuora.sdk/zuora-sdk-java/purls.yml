@@ -120,3 +120,11 @@
 - pkg:maven/com.zuora.sdk/zuora-sdk-java@2.0.8?classifier=sources
 - pkg:maven/com.zuora.sdk/zuora-sdk-java@2.0.9
 - pkg:maven/com.zuora.sdk/zuora-sdk-java@2.0.9?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-sdk-java@3.0.0
+- pkg:maven/com.zuora.sdk/zuora-sdk-java@3.0.0-beta.0
+- pkg:maven/com.zuora.sdk/zuora-sdk-java@3.0.0-beta.0?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-sdk-java@3.0.0?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-sdk-java@3.1.0-beta.0
+- pkg:maven/com.zuora.sdk/zuora-sdk-java@3.1.0-beta.0?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-sdk-java@3.1.0-beta.1
+- pkg:maven/com.zuora.sdk/zuora-sdk-java@3.1.0-beta.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.0.0
+- pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.0.0?classifier=sources

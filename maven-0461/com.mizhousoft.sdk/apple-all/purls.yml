@@ -14,3 +14,5 @@
 - pkg:maven/com.mizhousoft.sdk/apple-all@1.5.0?classifier=sources
 - pkg:maven/com.mizhousoft.sdk/apple-all@1.6.0
 - pkg:maven/com.mizhousoft.sdk/apple-all@1.6.0?classifier=sources
+- pkg:maven/com.mizhousoft.sdk/apple-all@2.0.0
+- pkg:maven/com.mizhousoft.sdk/apple-all@2.0.0?classifier=sources

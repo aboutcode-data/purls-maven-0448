@@ -1,1 +1,2 @@
 - pkg:maven/de.mannodermaus.junit5/android-test-compose@1.4.0?classifier=sources
+- pkg:maven/de.mannodermaus.junit5/android-test-compose@1.5.0?classifier=sources

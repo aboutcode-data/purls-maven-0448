@@ -1,0 +1,2 @@
+- pkg:maven/io.openlineage/spark-extension-interfaces@1.18.0?classifier=sources
+- pkg:maven/io.openlineage/spark-extension-interfaces@1.19.0?classifier=sources

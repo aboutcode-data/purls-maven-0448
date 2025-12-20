@@ -40,5 +40,7 @@
 - pkg:maven/io.nuls.v2/off-smartcontract-api@0.29?classifier=sources
 - pkg:maven/io.nuls.v2/off-smartcontract-api@0.30
 - pkg:maven/io.nuls.v2/off-smartcontract-api@0.30?classifier=sources
+- pkg:maven/io.nuls.v2/off-smartcontract-api@0.31
+- pkg:maven/io.nuls.v2/off-smartcontract-api@0.31?classifier=sources
 - pkg:maven/io.nuls.v2/off-smartcontract-api@0.9
 - pkg:maven/io.nuls.v2/off-smartcontract-api@0.9?classifier=sources

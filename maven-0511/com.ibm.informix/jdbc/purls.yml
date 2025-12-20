@@ -24,7 +24,11 @@
 - pkg:maven/com.ibm.informix/jdbc@4.50.10
 - pkg:maven/com.ibm.informix/jdbc@4.50.10.1
 - pkg:maven/com.ibm.informix/jdbc@4.50.10.1?classifier=sources
+- pkg:maven/com.ibm.informix/jdbc@4.50.10.2
+- pkg:maven/com.ibm.informix/jdbc@4.50.10.2?classifier=sources
 - pkg:maven/com.ibm.informix/jdbc@4.50.10?classifier=sources
+- pkg:maven/com.ibm.informix/jdbc@4.50.11
+- pkg:maven/com.ibm.informix/jdbc@4.50.11?classifier=sources
 - pkg:maven/com.ibm.informix/jdbc@4.50.1?classifier=sources
 - pkg:maven/com.ibm.informix/jdbc@4.50.2
 - pkg:maven/com.ibm.informix/jdbc@4.50.2.fix-1

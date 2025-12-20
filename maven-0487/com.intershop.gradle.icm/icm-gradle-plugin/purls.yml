@@ -33,3 +33,4 @@
 - pkg:maven/com.intershop.gradle.icm/icm-gradle-plugin@5.8.0?classifier=sources
 - pkg:maven/com.intershop.gradle.icm/icm-gradle-plugin@6.0.0?classifier=sources
 - pkg:maven/com.intershop.gradle.icm/icm-gradle-plugin@6.1.0?classifier=sources
+- pkg:maven/com.intershop.gradle.icm/icm-gradle-plugin@6.2.0?classifier=sources

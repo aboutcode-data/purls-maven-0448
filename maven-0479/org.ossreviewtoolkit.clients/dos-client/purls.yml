@@ -1,2 +1,4 @@
 - pkg:maven/org.ossreviewtoolkit.clients/dos-client@25.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/dos-client@25.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/dos-client@26.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/dos-client@27.0.0?classifier=sources

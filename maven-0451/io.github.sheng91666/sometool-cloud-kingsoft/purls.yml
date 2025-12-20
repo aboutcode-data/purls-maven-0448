@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sheng91666/sometool-cloud-kingsoft@1.0.1-RELEASE
+- pkg:maven/io.github.sheng91666/sometool-cloud-kingsoft@1.0.1-RELEASE?classifier=sources

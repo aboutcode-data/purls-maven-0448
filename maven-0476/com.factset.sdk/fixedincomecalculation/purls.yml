@@ -25,3 +25,4 @@
 - pkg:maven/com.factset.sdk/fixedincomecalculation@1.0.4?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@2.0.0?classifier=sources
 - pkg:maven/com.factset.sdk/fixedincomecalculation@2.1.0?classifier=sources
+- pkg:maven/com.factset.sdk/fixedincomecalculation@2.2.0?classifier=sources

@@ -211,3 +211,4 @@
 - pkg:maven/org.apache.camel/camel@4.4.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@4.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel/camel@4.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel/camel@4.7.0?classifier=source-release&type=zip

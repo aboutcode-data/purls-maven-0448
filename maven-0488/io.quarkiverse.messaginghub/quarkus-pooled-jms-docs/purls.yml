@@ -1,3 +1,4 @@
 - pkg:maven/io.quarkiverse.messaginghub/quarkus-pooled-jms-docs@2.3.1
 - pkg:maven/io.quarkiverse.messaginghub/quarkus-pooled-jms-docs@2.3.2
 - pkg:maven/io.quarkiverse.messaginghub/quarkus-pooled-jms-docs@2.4.0
+- pkg:maven/io.quarkiverse.messaginghub/quarkus-pooled-jms-docs@2.5.0

@@ -218,6 +218,10 @@
 - pkg:maven/com.google.cloud/google-cloud-webrisk@2.43.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-webrisk@2.44.0
 - pkg:maven/com.google.cloud/google-cloud-webrisk@2.44.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-webrisk@2.45.0
+- pkg:maven/com.google.cloud/google-cloud-webrisk@2.45.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-webrisk@2.46.0
+- pkg:maven/com.google.cloud/google-cloud-webrisk@2.46.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-webrisk@2.5.0
 - pkg:maven/com.google.cloud/google-cloud-webrisk@2.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-webrisk@2.6.0

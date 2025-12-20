@@ -50,3 +50,7 @@
 - pkg:maven/org.nachc.cad.tools/fhirtoomop@1.6.006?classifier=sources
 - pkg:maven/org.nachc.cad.tools/fhirtoomop@1.7.050
 - pkg:maven/org.nachc.cad.tools/fhirtoomop@1.7.050?classifier=sources
+- pkg:maven/org.nachc.cad.tools/fhirtoomop@1.7.052
+- pkg:maven/org.nachc.cad.tools/fhirtoomop@1.7.052?classifier=sources
+- pkg:maven/org.nachc.cad.tools/fhirtoomop@1.7.053
+- pkg:maven/org.nachc.cad.tools/fhirtoomop@1.7.053?classifier=sources

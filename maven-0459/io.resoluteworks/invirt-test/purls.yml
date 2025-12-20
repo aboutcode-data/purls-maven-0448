@@ -1,3 +1,13 @@
+- pkg:maven/io.resoluteworks/invirt-test@0.10.0?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.10?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.11?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.1?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.2?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.3?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.4?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.5?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.6?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.10.8?classifier=sources
 - pkg:maven/io.resoluteworks/invirt-test@0.4.0?classifier=sources
 - pkg:maven/io.resoluteworks/invirt-test@0.4.11?classifier=sources
 - pkg:maven/io.resoluteworks/invirt-test@0.4.3?classifier=sources
@@ -43,6 +53,8 @@
 - pkg:maven/io.resoluteworks/invirt-test@0.9.2?classifier=sources
 - pkg:maven/io.resoluteworks/invirt-test@0.9.31?classifier=sources
 - pkg:maven/io.resoluteworks/invirt-test@0.9.34?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.9.35?classifier=sources
+- pkg:maven/io.resoluteworks/invirt-test@0.9.36?classifier=sources
 - pkg:maven/io.resoluteworks/invirt-test@0.9.4?classifier=sources
 - pkg:maven/io.resoluteworks/invirt-test@0.9.5?classifier=sources
 - pkg:maven/io.resoluteworks/invirt-test@0.9.8?classifier=sources

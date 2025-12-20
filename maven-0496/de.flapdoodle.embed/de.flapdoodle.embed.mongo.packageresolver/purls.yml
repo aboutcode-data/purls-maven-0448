@@ -58,6 +58,10 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.13.1?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.14.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.14.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.15.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.15.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.16.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.16.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.2.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.2.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.3.0

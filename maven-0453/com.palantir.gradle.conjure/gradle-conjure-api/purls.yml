@@ -186,7 +186,9 @@
 - pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.46.0?classifier=sources
 - pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.47.0?classifier=sources
 - pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.48.0?classifier=sources
+- pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.49.0?classifier=sources
 - pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.5.0?classifier=sources
+- pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.50.0?classifier=sources
 - pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.6.0?classifier=sources
 - pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.6.1?classifier=sources
 - pkg:maven/com.palantir.gradle.conjure/gradle-conjure-api@5.7.0?classifier=sources
