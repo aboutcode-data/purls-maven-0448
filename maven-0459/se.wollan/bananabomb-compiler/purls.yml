@@ -8,3 +8,5 @@
 - pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc8
 - pkg:maven/se.wollan/bananabomb-compiler@1.0.0-rc8?classifier=sources
 - pkg:maven/se.wollan/bananabomb-compiler@1.0.0?classifier=sources
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.1
+- pkg:maven/se.wollan/bananabomb-compiler@1.0.1?classifier=sources

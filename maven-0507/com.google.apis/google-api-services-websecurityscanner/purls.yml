@@ -66,6 +66,8 @@
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1-rev20230107-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1-rev20230701-2.0.0
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1-rev20230701-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1-rev20231021-2.0.0
+- pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1-rev20231021-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1-rev21-1.25.0
@@ -632,6 +634,8 @@
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1alpha-rev20220522-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1alpha-rev20220522-2.0.0
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1alpha-rev20220522-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1alpha-rev20231021-2.0.0
+- pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1alpha-rev20231021-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1alpha-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1alpha-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1alpha-rev21-1.21.0
@@ -1294,6 +1298,8 @@
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1beta-rev20230107-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1beta-rev20230701-2.0.0
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1beta-rev20230701-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1beta-rev20231021-2.0.0
+- pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1beta-rev20231021-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1beta-rev28-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1beta-rev28-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-websecurityscanner@v1beta-rev28-1.25.0

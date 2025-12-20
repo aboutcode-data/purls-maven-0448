@@ -12,3 +12,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-avro@6.5.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-avro@7.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-avro@7.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-avro@8.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-avro@8.0.0?classifier=sources

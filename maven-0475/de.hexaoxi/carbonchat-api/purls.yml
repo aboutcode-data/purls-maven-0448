@@ -9,3 +9,6 @@
 - pkg:maven/de.hexaoxi/carbonchat-api@2.1.0-beta.20?classifier=sources
 - pkg:maven/de.hexaoxi/carbonchat-api@2.1.0-beta.21?classifier=sources
 - pkg:maven/de.hexaoxi/carbonchat-api@2.1.0-beta.22?classifier=sources
+- pkg:maven/de.hexaoxi/carbonchat-api@2.1.0-beta.23?classifier=sources
+- pkg:maven/de.hexaoxi/carbonchat-api@2.1.0-beta.24?classifier=sources
+- pkg:maven/de.hexaoxi/carbonchat-api@3.0.0-beta.25?classifier=sources

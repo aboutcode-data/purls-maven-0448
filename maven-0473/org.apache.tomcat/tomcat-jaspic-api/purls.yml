@@ -57,6 +57,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@10.1.12?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@10.1.13?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@10.1.14?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@10.1.15?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@10.1.16?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@10.1.1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@10.1.2?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@10.1.4?classifier=sources
@@ -68,6 +70,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@11.0.0-M10?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@11.0.0-M11?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@11.0.0-M12?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@11.0.0-M13?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@11.0.0-M14?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@11.0.0-M1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@11.0.0-M3?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@11.0.0-M4?classifier=sources
@@ -190,6 +194,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.92?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.93?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.94?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.95?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.96?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@8.5.9?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.0.M13
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.0.M13?classifier=sources
@@ -309,4 +315,6 @@
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.8
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.80?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.81?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.82?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.83?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-jaspic-api@9.0.8?classifier=sources

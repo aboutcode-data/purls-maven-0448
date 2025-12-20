@@ -22,4 +22,6 @@
 - pkg:maven/org.bdware.doip/doip-sdk@1.4.7?classifier=sources
 - pkg:maven/org.bdware.doip/doip-sdk@1.4.8?classifier=sources
 - pkg:maven/org.bdware.doip/doip-sdk@1.4.91?classifier=sources
+- pkg:maven/org.bdware.doip/doip-sdk@1.4.92?classifier=sources
 - pkg:maven/org.bdware.doip/doip-sdk@1.4.9?classifier=sources
+- pkg:maven/org.bdware.doip/doip-sdk@1.5.0?classifier=sources

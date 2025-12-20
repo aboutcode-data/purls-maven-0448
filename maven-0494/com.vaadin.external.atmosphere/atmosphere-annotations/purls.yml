@@ -118,3 +118,5 @@
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.3.slf4jvaadin4?classifier=sources
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.3.slf4jvaadin5
 - pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.3.slf4jvaadin5?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.3.slf4jvaadin6
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-annotations@2.7.3.slf4jvaadin6?classifier=sources

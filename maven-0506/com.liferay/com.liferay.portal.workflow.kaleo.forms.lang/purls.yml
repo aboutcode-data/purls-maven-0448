@@ -253,6 +253,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.lang@4.0.36
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.lang@4.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.lang@4.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.lang@4.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.lang@4.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.lang@4.0.4
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.lang@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.lang@4.0.4?classifier=sources-commercial

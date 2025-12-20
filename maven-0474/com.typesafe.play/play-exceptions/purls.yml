@@ -245,6 +245,8 @@
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.2
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.20
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.20?classifier=sources
+- pkg:maven/com.typesafe.play/play-exceptions@2.8.21
+- pkg:maven/com.typesafe.play/play-exceptions@2.8.21?classifier=sources
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.2?classifier=sources
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.3
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.3?classifier=sources
@@ -264,6 +266,7 @@
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.9-RC1
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.9-RC1?classifier=sources
 - pkg:maven/com.typesafe.play/play-exceptions@2.8.9?classifier=sources
+- pkg:maven/com.typesafe.play/play-exceptions@2.9.0
 - pkg:maven/com.typesafe.play/play-exceptions@2.9.0-M2
 - pkg:maven/com.typesafe.play/play-exceptions@2.9.0-M2?classifier=sources
 - pkg:maven/com.typesafe.play/play-exceptions@2.9.0-M3
@@ -282,3 +285,4 @@
 - pkg:maven/com.typesafe.play/play-exceptions@2.9.0-RC2?classifier=sources
 - pkg:maven/com.typesafe.play/play-exceptions@2.9.0-RC3
 - pkg:maven/com.typesafe.play/play-exceptions@2.9.0-RC3?classifier=sources
+- pkg:maven/com.typesafe.play/play-exceptions@2.9.0?classifier=sources

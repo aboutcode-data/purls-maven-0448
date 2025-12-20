@@ -4,3 +4,4 @@
 - pkg:maven/cn.javaer.jany/jany-spring-boot-starter-handlebars@0.2.0?classifier=sources
 - pkg:maven/cn.javaer.jany/jany-spring-boot-starter-handlebars@0.3.0?classifier=sources
 - pkg:maven/cn.javaer.jany/jany-spring-boot-starter-handlebars@0.4.0?classifier=sources
+- pkg:maven/cn.javaer.jany/jany-spring-boot-starter-handlebars@0.5.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/io.github.seikodictionaryenginev2/core_base@2.0-dev-1?classifier=sources
+- pkg:maven/io.github.seikodictionaryenginev2/core_base@2.0-dev-2?classifier=sources
+- pkg:maven/io.github.seikodictionaryenginev2/core_base@2.0-dev-3?classifier=sources
+- pkg:maven/io.github.seikodictionaryenginev2/core_base@2.0-dev-4?classifier=sources
+- pkg:maven/io.github.seikodictionaryenginev2/core_base@2.0-dev-5?classifier=sources

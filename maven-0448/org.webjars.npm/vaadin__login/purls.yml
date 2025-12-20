@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vaadin__login@23.2.10
 - pkg:maven/org.webjars.npm/vaadin__login@23.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/vaadin__login@24.2.3
+- pkg:maven/org.webjars.npm/vaadin__login@24.2.3?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.banno/vault4s_3@9.0.0?classifier=sources
 - pkg:maven/com.banno/vault4s_3@9.1.0
 - pkg:maven/com.banno/vault4s_3@9.1.0?classifier=sources
+- pkg:maven/com.banno/vault4s_3@9.2.0
+- pkg:maven/com.banno/vault4s_3@9.2.0?classifier=sources

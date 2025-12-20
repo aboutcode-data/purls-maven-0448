@@ -95,3 +95,4 @@
 - pkg:maven/com.gu/content-atom-model-thrift@3.4.3
 - pkg:maven/com.gu/content-atom-model-thrift@3.4.4
 - pkg:maven/com.gu/content-atom-model-thrift@3.4.5-beta.0
+- pkg:maven/com.gu/content-atom-model-thrift@4.0.0

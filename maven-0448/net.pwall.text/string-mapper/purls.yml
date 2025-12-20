@@ -4,3 +4,5 @@
 - pkg:maven/net.pwall.text/string-mapper@1.1?classifier=sources
 - pkg:maven/net.pwall.text/string-mapper@2.0
 - pkg:maven/net.pwall.text/string-mapper@2.0?classifier=sources
+- pkg:maven/net.pwall.text/string-mapper@2.1
+- pkg:maven/net.pwall.text/string-mapper@2.1?classifier=sources

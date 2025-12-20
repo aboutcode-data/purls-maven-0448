@@ -1,3 +1,5 @@
+- pkg:maven/de.m3y.kformat/kformat@0.10
+- pkg:maven/de.m3y.kformat/kformat@0.10?classifier=sources
 - pkg:maven/de.m3y.kformat/kformat@0.2
 - pkg:maven/de.m3y.kformat/kformat@0.2?classifier=sources
 - pkg:maven/de.m3y.kformat/kformat@0.3

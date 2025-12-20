@@ -1,0 +1,2 @@
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/spiro-ndk26-shared@20221101-beta-1?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/spiro-ndk26-shared@20221101-beta-2?classifier=sources

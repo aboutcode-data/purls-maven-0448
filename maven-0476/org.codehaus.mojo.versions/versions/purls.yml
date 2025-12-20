@@ -4,3 +4,4 @@
 - pkg:maven/org.codehaus.mojo.versions/versions@2.15.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.versions/versions@2.16.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.versions/versions@2.16.1?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.versions/versions@2.16.2?classifier=source-release&type=zip

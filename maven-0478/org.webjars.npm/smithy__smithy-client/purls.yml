@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/smithy__smithy-client@2.1.15
+- pkg:maven/org.webjars.npm/smithy__smithy-client@2.1.15?classifier=sources

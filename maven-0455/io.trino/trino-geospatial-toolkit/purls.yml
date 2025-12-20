@@ -154,3 +154,11 @@
 - pkg:maven/io.trino/trino-geospatial-toolkit@428?classifier=sources
 - pkg:maven/io.trino/trino-geospatial-toolkit@429
 - pkg:maven/io.trino/trino-geospatial-toolkit@429?classifier=sources
+- pkg:maven/io.trino/trino-geospatial-toolkit@430
+- pkg:maven/io.trino/trino-geospatial-toolkit@430?classifier=sources
+- pkg:maven/io.trino/trino-geospatial-toolkit@431
+- pkg:maven/io.trino/trino-geospatial-toolkit@431?classifier=sources
+- pkg:maven/io.trino/trino-geospatial-toolkit@432
+- pkg:maven/io.trino/trino-geospatial-toolkit@432?classifier=sources
+- pkg:maven/io.trino/trino-geospatial-toolkit@433
+- pkg:maven/io.trino/trino-geospatial-toolkit@433?classifier=sources

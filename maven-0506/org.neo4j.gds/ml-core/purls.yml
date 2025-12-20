@@ -104,3 +104,5 @@
 - pkg:maven/org.neo4j.gds/ml-core@2.5.0?classifier=sources
 - pkg:maven/org.neo4j.gds/ml-core@2.5.1?classifier=sources
 - pkg:maven/org.neo4j.gds/ml-core@2.5.2?classifier=sources
+- pkg:maven/org.neo4j.gds/ml-core@2.5.3?classifier=sources
+- pkg:maven/org.neo4j.gds/ml-core@2.5.4?classifier=sources

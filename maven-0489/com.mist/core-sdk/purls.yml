@@ -2,3 +2,4 @@
 - pkg:maven/com.mist/core-sdk@2.3.0?classifier=sources
 - pkg:maven/com.mist/core-sdk@3.0.2?classifier=sources
 - pkg:maven/com.mist/core-sdk@3.0.3?classifier=sources
+- pkg:maven/com.mist/core-sdk@3.0.9?classifier=sources

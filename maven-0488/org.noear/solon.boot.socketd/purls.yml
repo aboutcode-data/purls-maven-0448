@@ -1,0 +1,6 @@
+- pkg:maven/org.noear/solon.boot.socketd@2.6.0
+- pkg:maven/org.noear/solon.boot.socketd@2.6.0-M2
+- pkg:maven/org.noear/solon.boot.socketd@2.6.0-M2?classifier=sources
+- pkg:maven/org.noear/solon.boot.socketd@2.6.0-M3
+- pkg:maven/org.noear/solon.boot.socketd@2.6.0-M3?classifier=sources
+- pkg:maven/org.noear/solon.boot.socketd@2.6.0?classifier=sources

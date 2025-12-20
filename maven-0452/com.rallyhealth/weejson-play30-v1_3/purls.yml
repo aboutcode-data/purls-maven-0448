@@ -1,0 +1,2 @@
+- pkg:maven/com.rallyhealth/weejson-play30-v1_3@1.9.1
+- pkg:maven/com.rallyhealth/weejson-play30-v1_3@1.9.1?classifier=sources

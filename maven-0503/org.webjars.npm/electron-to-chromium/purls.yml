@@ -186,6 +186,8 @@
 - pkg:maven/org.webjars.npm/electron-to-chromium@1.4.438?classifier=sources
 - pkg:maven/org.webjars.npm/electron-to-chromium@1.4.468
 - pkg:maven/org.webjars.npm/electron-to-chromium@1.4.468?classifier=sources
+- pkg:maven/org.webjars.npm/electron-to-chromium@1.4.582
+- pkg:maven/org.webjars.npm/electron-to-chromium@1.4.582?classifier=sources
 - pkg:maven/org.webjars.npm/electron-to-chromium@1.4.66
 - pkg:maven/org.webjars.npm/electron-to-chromium@1.4.66?classifier=sources
 - pkg:maven/org.webjars.npm/electron-to-chromium@1.4.67

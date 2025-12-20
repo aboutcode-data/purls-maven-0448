@@ -1,0 +1,6 @@
+- pkg:maven/org.sentrysoftware.maven/maven-skin-tools@1.0.00
+- pkg:maven/org.sentrysoftware.maven/maven-skin-tools@1.0.00?classifier=sources
+- pkg:maven/org.sentrysoftware.maven/maven-skin-tools@1.1.00
+- pkg:maven/org.sentrysoftware.maven/maven-skin-tools@1.1.00?classifier=sources
+- pkg:maven/org.sentrysoftware.maven/maven-skin-tools@1.2.00
+- pkg:maven/org.sentrysoftware.maven/maven-skin-tools@1.2.00?classifier=sources

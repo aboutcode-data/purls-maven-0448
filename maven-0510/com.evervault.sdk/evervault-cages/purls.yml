@@ -1,3 +1,9 @@
 - pkg:maven/com.evervault.sdk/evervault-cages@1.0?classifier=sources
 - pkg:maven/com.evervault.sdk/evervault-cages@1.1?classifier=sources
 - pkg:maven/com.evervault.sdk/evervault-cages@1.2?classifier=sources
+- pkg:maven/com.evervault.sdk/evervault-cages@1.3?classifier=sources
+- pkg:maven/com.evervault.sdk/evervault-cages@1.4?classifier=sources
+- pkg:maven/com.evervault.sdk/evervault-cages@1.5?classifier=sources
+- pkg:maven/com.evervault.sdk/evervault-cages@1.6.0?classifier=sources
+- pkg:maven/com.evervault.sdk/evervault-cages@1.6.1?classifier=sources
+- pkg:maven/com.evervault.sdk/evervault-cages@1.6.2?classifier=sources

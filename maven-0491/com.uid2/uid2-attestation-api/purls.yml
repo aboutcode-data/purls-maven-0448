@@ -2,3 +2,5 @@
 - pkg:maven/com.uid2/uid2-attestation-api@1.1.0?classifier=sources
 - pkg:maven/com.uid2/uid2-attestation-api@1.4.0-e5df2e10aa
 - pkg:maven/com.uid2/uid2-attestation-api@1.4.0-e5df2e10aa?classifier=sources
+- pkg:maven/com.uid2/uid2-attestation-api@1.5.0-676519b018
+- pkg:maven/com.uid2/uid2-attestation-api@1.5.0-676519b018?classifier=sources

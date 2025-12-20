@@ -9,3 +9,5 @@
 - pkg:maven/net.devslash.fetchdsl/benchmarks@0.24.3?classifier=sources
 - pkg:maven/net.devslash.fetchdsl/benchmarks@0.24.4?classifier=sources
 - pkg:maven/net.devslash.fetchdsl/benchmarks@0.25.0?classifier=sources
+- pkg:maven/net.devslash.fetchdsl/benchmarks@0.26.0?classifier=sources
+- pkg:maven/net.devslash.fetchdsl/benchmarks@0.26.1?classifier=sources

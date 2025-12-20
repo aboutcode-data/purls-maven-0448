@@ -47,8 +47,11 @@
 - pkg:maven/com.palantir.conjure.java.api/ssl-config@2.35.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/ssl-config@2.36.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/ssl-config@2.37.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/ssl-config@2.38.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/ssl-config@2.39.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/ssl-config@2.4.0
 - pkg:maven/com.palantir.conjure.java.api/ssl-config@2.4.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/ssl-config@2.40.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/ssl-config@2.5.0
 - pkg:maven/com.palantir.conjure.java.api/ssl-config@2.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/ssl-config@2.6.0

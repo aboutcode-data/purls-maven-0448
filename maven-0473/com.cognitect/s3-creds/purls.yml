@@ -8,3 +8,4 @@
 - pkg:maven/com.cognitect/s3-creds@1.0.25
 - pkg:maven/com.cognitect/s3-creds@1.0.26
 - pkg:maven/com.cognitect/s3-creds@1.0.27
+- pkg:maven/com.cognitect/s3-creds@1.0.28

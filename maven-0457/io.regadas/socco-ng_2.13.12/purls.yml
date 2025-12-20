@@ -1,0 +1,2 @@
+- pkg:maven/io.regadas/socco-ng_2.13.12@0.1.10
+- pkg:maven/io.regadas/socco-ng_2.13.12@0.1.10?classifier=sources

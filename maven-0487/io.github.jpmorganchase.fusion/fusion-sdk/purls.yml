@@ -12,3 +12,5 @@
 - pkg:maven/io.github.jpmorganchase.fusion/fusion-sdk@0.0.6?classifier=sources
 - pkg:maven/io.github.jpmorganchase.fusion/fusion-sdk@0.0.7
 - pkg:maven/io.github.jpmorganchase.fusion/fusion-sdk@0.0.7?classifier=sources
+- pkg:maven/io.github.jpmorganchase.fusion/fusion-sdk@0.0.8
+- pkg:maven/io.github.jpmorganchase.fusion/fusion-sdk@0.0.8?classifier=sources
