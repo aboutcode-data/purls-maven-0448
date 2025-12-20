@@ -30,3 +30,5 @@
 - pkg:maven/org.clojure/core.cache@1.0.217?classifier=sources
 - pkg:maven/org.clojure/core.cache@1.0.225
 - pkg:maven/org.clojure/core.cache@1.0.225?classifier=sources
+- pkg:maven/org.clojure/core.cache@1.1.234
+- pkg:maven/org.clojure/core.cache@1.1.234?classifier=sources

@@ -30,3 +30,4 @@
 - pkg:maven/de.adorsys/datasafe-test-storages@1.0.3?classifier=sources
 - pkg:maven/de.adorsys/datasafe-test-storages@2.0.0
 - pkg:maven/de.adorsys/datasafe-test-storages@2.0.0?classifier=sources
+- pkg:maven/de.adorsys/datasafe-test-storages@2.0.1

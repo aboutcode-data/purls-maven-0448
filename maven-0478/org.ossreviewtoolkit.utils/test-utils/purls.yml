@@ -8,6 +8,11 @@
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@14.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@15.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@15.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@15.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@15.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@16.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@17.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@17.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@4.0.0?classifier=sources

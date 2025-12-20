@@ -1,0 +1,4 @@
+- pkg:maven/bi.deep/druid-encrypting-password-provider@27.0.0
+- pkg:maven/bi.deep/druid-encrypting-password-provider@27.0.0?classifier=sources
+- pkg:maven/bi.deep/druid-encrypting-password-provider@28.0.0
+- pkg:maven/bi.deep/druid-encrypting-password-provider@28.0.0?classifier=sources

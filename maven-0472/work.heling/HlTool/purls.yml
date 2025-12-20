@@ -1,2 +1,6 @@
 - pkg:maven/work.heling/HlTool@1.0.9
 - pkg:maven/work.heling/HlTool@1.0.9?classifier=sources
+- pkg:maven/work.heling/HlTool@1.17.2?classifier=sources
+- pkg:maven/work.heling/HlTool@1.17.3?classifier=sources
+- pkg:maven/work.heling/HlTool@1.17.4?classifier=sources
+- pkg:maven/work.heling/HlTool@1.17.6?classifier=sources

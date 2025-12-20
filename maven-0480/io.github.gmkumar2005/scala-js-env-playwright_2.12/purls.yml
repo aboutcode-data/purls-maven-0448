@@ -1,5 +1,7 @@
 - pkg:maven/io.github.gmkumar2005/scala-js-env-playwright_2.12@0.1.11
 - pkg:maven/io.github.gmkumar2005/scala-js-env-playwright_2.12@0.1.11?classifier=sources
+- pkg:maven/io.github.gmkumar2005/scala-js-env-playwright_2.12@0.1.12
+- pkg:maven/io.github.gmkumar2005/scala-js-env-playwright_2.12@0.1.12?classifier=sources
 - pkg:maven/io.github.gmkumar2005/scala-js-env-playwright_2.12@0.1.8
 - pkg:maven/io.github.gmkumar2005/scala-js-env-playwright_2.12@0.1.8?classifier=sources
 - pkg:maven/io.github.gmkumar2005/scala-js-env-playwright_2.12@0.1.9

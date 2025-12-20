@@ -1,0 +1,2 @@
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-resource-throttler@3.0.0-beta
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-resource-throttler@3.0.0-beta?classifier=sources

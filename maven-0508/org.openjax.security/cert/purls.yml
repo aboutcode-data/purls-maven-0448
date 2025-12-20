@@ -1,2 +1,4 @@
 - pkg:maven/org.openjax.security/cert@0.3.4
 - pkg:maven/org.openjax.security/cert@0.3.4?classifier=sources
+- pkg:maven/org.openjax.security/cert@0.3.5
+- pkg:maven/org.openjax.security/cert@0.3.5?classifier=sources

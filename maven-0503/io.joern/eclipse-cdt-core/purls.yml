@@ -1,0 +1,4 @@
+- pkg:maven/io.joern/eclipse-cdt-core@8.4.0.202401242025
+- pkg:maven/io.joern/eclipse-cdt-core@8.4.0.202401242025?classifier=sources
+- pkg:maven/io.joern/eclipse-cdt-core@8.4.0.202401242025_1
+- pkg:maven/io.joern/eclipse-cdt-core@8.4.0.202401242025_1?classifier=sources

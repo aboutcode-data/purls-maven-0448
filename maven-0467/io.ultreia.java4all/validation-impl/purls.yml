@@ -1,0 +1,2 @@
+- pkg:maven/io.ultreia.java4all/validation-impl@2.0.0-RC-1
+- pkg:maven/io.ultreia.java4all/validation-impl@2.0.0-RC-1?classifier=sources

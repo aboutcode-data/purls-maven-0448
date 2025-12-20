@@ -69,3 +69,5 @@
 - pkg:maven/io.hyphenate/ease-im-kit@4.2.1?type=aar
 - pkg:maven/io.hyphenate/ease-im-kit@4.3.0?classifier=sources
 - pkg:maven/io.hyphenate/ease-im-kit@4.3.0?type=aar
+- pkg:maven/io.hyphenate/ease-im-kit@4.4.0?classifier=sources
+- pkg:maven/io.hyphenate/ease-im-kit@4.4.0?type=aar

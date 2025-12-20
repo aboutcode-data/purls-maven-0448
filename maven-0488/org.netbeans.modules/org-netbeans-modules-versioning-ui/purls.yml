@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-ui@RELEASE90?classifier=sources

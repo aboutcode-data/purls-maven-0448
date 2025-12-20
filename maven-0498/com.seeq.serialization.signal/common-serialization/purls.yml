@@ -2,9 +2,17 @@
 - pkg:maven/com.seeq.serialization.signal/common-serialization@62.0.12-v202312060059?classifier=sources
 - pkg:maven/com.seeq.serialization.signal/common-serialization@62.0.13-v202312210325?classifier=sources
 - pkg:maven/com.seeq.serialization.signal/common-serialization@62.0.14-v202401232350?classifier=sources
+- pkg:maven/com.seeq.serialization.signal/common-serialization@62.0.15-v202402211744?classifier=sources
+- pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.10-v202402170154?classifier=sources
+- pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.11-v202402221731?classifier=sources
 - pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.3-v202311160754?classifier=sources
 - pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.4-v202312042328?classifier=sources
 - pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.5-v202312160011?classifier=sources
 - pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.6-v202401030435?classifier=sources
 - pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.7-v202401090119?classifier=sources
 - pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.8-v202401100807?classifier=sources
+- pkg:maven/com.seeq.serialization.signal/common-serialization@63.0.9-v202401260310?classifier=sources
+- pkg:maven/com.seeq.serialization.signal/common-serialization@64.0.0-v202401250607?classifier=sources
+- pkg:maven/com.seeq.serialization.signal/common-serialization@64.0.1-v202402020435?classifier=sources
+- pkg:maven/com.seeq.serialization.signal/common-serialization@64.0.2-v202402091721?classifier=sources
+- pkg:maven/com.seeq.serialization.signal/common-serialization@64.0.3-v202402170510?classifier=sources

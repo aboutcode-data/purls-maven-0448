@@ -1,2 +1,4 @@
+- pkg:maven/org.virtuslab/besom-civo_3@2.3.13-core.0.2
+- pkg:maven/org.virtuslab/besom-civo_3@2.3.13-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-civo_3@2.3.8-core.0.1.0
 - pkg:maven/org.virtuslab/besom-civo_3@2.3.8-core.0.1.0?classifier=sources

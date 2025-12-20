@@ -1,2 +1,3 @@
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-integration-test@2.0.2
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-integration-test@2.10.0
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-integration-test@2.3.0

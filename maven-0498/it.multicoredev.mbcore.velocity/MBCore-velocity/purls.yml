@@ -1,0 +1,2 @@
+- pkg:maven/it.multicoredev.mbcore.velocity/MBCore-velocity@8.0.1
+- pkg:maven/it.multicoredev.mbcore.velocity/MBCore-velocity@8.0.1?classifier=sources

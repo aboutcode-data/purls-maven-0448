@@ -5,7 +5,14 @@
 - pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.16.0?classifier=sources
 - pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.16.1?classifier=sources
 - pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.17.0?classifier=sources
+- pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.18.0?classifier=sources
+- pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.18.1?classifier=sources
+- pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.19.0?classifier=sources
+- pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.19.1?classifier=sources
 - pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.2.0?classifier=sources
+- pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.20.0?classifier=sources
+- pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.21.0?classifier=sources
+- pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.22.0?classifier=sources
 - pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.3.0?classifier=sources
 - pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.4.0?classifier=sources
 - pkg:maven/com.hedera.fullstack/fullstack-junit-support@0.5.0?classifier=sources

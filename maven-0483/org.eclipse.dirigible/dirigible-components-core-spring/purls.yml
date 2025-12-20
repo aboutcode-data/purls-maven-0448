@@ -1,3 +1,9 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@10.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@10.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@10.0.1
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@10.0.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@10.0.2
+- pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@8.10.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@8.10.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-core-spring@8.10.1

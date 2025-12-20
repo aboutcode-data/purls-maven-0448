@@ -26,3 +26,4 @@
 - pkg:maven/org.seasar.doma/doma-slf4j@2.55.1?classifier=sources
 - pkg:maven/org.seasar.doma/doma-slf4j@2.55.2?classifier=sources
 - pkg:maven/org.seasar.doma/doma-slf4j@2.55.3?classifier=sources
+- pkg:maven/org.seasar.doma/doma-slf4j@2.56.0?classifier=sources

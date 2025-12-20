@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.search.develocity/hibernate-search-develocity-extension@1.0.0.Final
+- pkg:maven/org.hibernate.search.develocity/hibernate-search-develocity-extension@1.0.0.Final?classifier=sources

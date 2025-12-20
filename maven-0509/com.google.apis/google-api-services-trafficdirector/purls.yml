@@ -20,3 +20,9 @@
 - pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20231018-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20231101-2.0.0
 - pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20231101-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20240201-2.0.0
+- pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20240201-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20240213-2.0.0
+- pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20240213-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20240214-2.0.0
+- pkg:maven/com.google.apis/google-api-services-trafficdirector@v3-rev20240214-2.0.0?classifier=sources

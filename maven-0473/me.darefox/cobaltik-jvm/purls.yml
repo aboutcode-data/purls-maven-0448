@@ -1,1 +1,2 @@
 - pkg:maven/me.darefox/cobaltik-jvm@1.0.0?classifier=sources
+- pkg:maven/me.darefox/cobaltik-jvm@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.7mind.izumi.sbt/sbtmeta_3@0.0.100
+- pkg:maven/io.7mind.izumi.sbt/sbtmeta_3@0.0.100?classifier=sources

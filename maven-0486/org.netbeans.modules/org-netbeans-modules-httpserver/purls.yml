@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-httpserver@RELEASE90?classifier=sources

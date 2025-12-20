@@ -34,3 +34,4 @@
 - pkg:maven/com.moengage/moe-push-firebase@6.4.0?classifier=sources
 - pkg:maven/com.moengage/moe-push-firebase@6.5.0?classifier=sources
 - pkg:maven/com.moengage/moe-push-firebase@6.6.0?classifier=sources
+- pkg:maven/com.moengage/moe-push-firebase@7.0.0?classifier=sources

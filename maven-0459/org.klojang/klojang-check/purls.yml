@@ -20,3 +20,5 @@
 - pkg:maven/org.klojang/klojang-check@3.0.0-jdk21?classifier=sources
 - pkg:maven/org.klojang/klojang-check@3.0.1-jdk21
 - pkg:maven/org.klojang/klojang-check@3.0.1-jdk21?classifier=sources
+- pkg:maven/org.klojang/klojang-check@3.0.3-jdk21
+- pkg:maven/org.klojang/klojang-check@3.0.3-jdk21?classifier=sources

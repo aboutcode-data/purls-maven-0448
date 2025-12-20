@@ -62,3 +62,9 @@
 - pkg:maven/com.dvmms/dejapay@2.0.43?type=aar
 - pkg:maven/com.dvmms/dejapay@2.0.44?classifier=sources
 - pkg:maven/com.dvmms/dejapay@2.0.44?type=aar
+- pkg:maven/com.dvmms/dejapay@2.0.45?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.45?type=aar
+- pkg:maven/com.dvmms/dejapay@2.0.46?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.46?type=aar
+- pkg:maven/com.dvmms/dejapay@2.0.47?classifier=sources
+- pkg:maven/com.dvmms/dejapay@2.0.47?type=aar

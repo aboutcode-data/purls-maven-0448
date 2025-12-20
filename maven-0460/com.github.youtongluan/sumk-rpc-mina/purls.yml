@@ -2,3 +2,7 @@
 - pkg:maven/com.github.youtongluan/sumk-rpc-mina@3.0.0?classifier=sources
 - pkg:maven/com.github.youtongluan/sumk-rpc-mina@3.1.0
 - pkg:maven/com.github.youtongluan/sumk-rpc-mina@3.1.0?classifier=sources
+- pkg:maven/com.github.youtongluan/sumk-rpc-mina@4.0.0
+- pkg:maven/com.github.youtongluan/sumk-rpc-mina@4.0.0?classifier=sources
+- pkg:maven/com.github.youtongluan/sumk-rpc-mina@4.0.1
+- pkg:maven/com.github.youtongluan/sumk-rpc-mina@4.0.1?classifier=sources

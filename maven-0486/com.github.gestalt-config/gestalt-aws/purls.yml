@@ -8,3 +8,6 @@
 - pkg:maven/com.github.gestalt-config/gestalt-aws@0.24.1?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-aws@0.24.2?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-aws@0.24.3?classifier=sources
+- pkg:maven/com.github.gestalt-config/gestalt-aws@0.24.4?classifier=sources
+- pkg:maven/com.github.gestalt-config/gestalt-aws@0.24.5?classifier=sources
+- pkg:maven/com.github.gestalt-config/gestalt-aws@0.24.6?classifier=sources

@@ -85,6 +85,7 @@
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@3.2.3?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@3.2.4?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@3.2.5?classifier=sources
+- pkg:maven/io.helidon.microprofile.bundles/bundles-project@3.2.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.0.0-ALPHA1?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.0.0-ALPHA2?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.0.0-ALPHA3?classifier=sources
@@ -99,3 +100,5 @@
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.0.1?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.0.2?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.0.3?classifier=sources
+- pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.0.4?classifier=sources
+- pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.0.5?classifier=sources

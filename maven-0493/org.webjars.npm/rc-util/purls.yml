@@ -22,5 +22,7 @@
 - pkg:maven/org.webjars.npm/rc-util@5.27.2?classifier=sources
 - pkg:maven/org.webjars.npm/rc-util@5.33.1
 - pkg:maven/org.webjars.npm/rc-util@5.33.1?classifier=sources
+- pkg:maven/org.webjars.npm/rc-util@5.38.2
+- pkg:maven/org.webjars.npm/rc-util@5.38.2?classifier=sources
 - pkg:maven/org.webjars.npm/rc-util@5.5.0
 - pkg:maven/org.webjars.npm/rc-util@5.5.0?classifier=sources

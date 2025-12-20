@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.external/jing@RELEASE180
 - pkg:maven/org.netbeans.external/jing@RELEASE190
 - pkg:maven/org.netbeans.external/jing@RELEASE200
+- pkg:maven/org.netbeans.external/jing@RELEASE210
 - pkg:maven/org.netbeans.external/jing@RELEASE90

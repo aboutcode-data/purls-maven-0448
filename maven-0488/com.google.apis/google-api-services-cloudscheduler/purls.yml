@@ -126,6 +126,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1-rev20230816-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1-rev20231201-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1-rev20231201-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1-rev20240126-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1-rev20240126-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1-rev3-1.22.0
@@ -278,6 +280,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1beta1-rev20230816-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1beta1-rev20231201-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1beta1-rev20231201-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1beta1-rev20240126-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1beta1-rev20240126-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1beta1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1beta1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudscheduler@v1beta1-rev22-1.25.0

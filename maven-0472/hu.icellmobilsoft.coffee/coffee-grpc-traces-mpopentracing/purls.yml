@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-traces-mpopentracing@2.5.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-traces-mpopentracing@2.5.0?classifier=sources

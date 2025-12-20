@@ -61,5 +61,7 @@
 - pkg:maven/com.markelliot.barista/barista-conjure@0.70.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.71.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.72.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-conjure@0.73.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-conjure@0.74.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.8.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-conjure@0.9.0?classifier=sources

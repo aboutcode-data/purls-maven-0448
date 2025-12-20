@@ -1,0 +1,1 @@
+- pkg:maven/org.opendaylight.netconf/keystore-legacy@7.0.0?classifier=sources

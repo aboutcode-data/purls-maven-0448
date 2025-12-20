@@ -5,3 +5,4 @@
 - pkg:maven/nl.sanderdijkhuis/noise-kotlin@0.8.0?classifier=sources
 - pkg:maven/nl.sanderdijkhuis/noise-kotlin@0.9.0?classifier=sources
 - pkg:maven/nl.sanderdijkhuis/noise-kotlin@1.0.0?classifier=sources
+- pkg:maven/nl.sanderdijkhuis/noise-kotlin@1.0.1?classifier=sources

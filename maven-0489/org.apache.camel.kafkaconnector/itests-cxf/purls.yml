@@ -23,3 +23,5 @@
 - pkg:maven/org.apache.camel.kafkaconnector/itests-cxf@3.20.6?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/itests-cxf@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/itests-cxf@4.0.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/itests-cxf@4.0.3
+- pkg:maven/org.apache.camel.kafkaconnector/itests-cxf@4.0.3?classifier=sources

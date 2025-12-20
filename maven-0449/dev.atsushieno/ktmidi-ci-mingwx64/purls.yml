@@ -1,0 +1,3 @@
+- pkg:maven/dev.atsushieno/ktmidi-ci-mingwx64@0.7.0?classifier=sources
+- pkg:maven/dev.atsushieno/ktmidi-ci-mingwx64@0.8.0-pre2?classifier=sources
+- pkg:maven/dev.atsushieno/ktmidi-ci-mingwx64@0.8.0-pre?classifier=sources

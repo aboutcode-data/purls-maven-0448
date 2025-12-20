@@ -37,3 +37,5 @@
 - pkg:maven/com.walmartlabs.concord.plugins/msteams-task@1.47.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/msteams-task@1.48.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/msteams-task@1.49.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/msteams-task@2.0.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/msteams-task@2.0.1?classifier=sources

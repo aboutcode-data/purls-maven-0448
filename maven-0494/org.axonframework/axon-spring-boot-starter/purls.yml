@@ -98,3 +98,4 @@
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.9.0
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.9.1
 - pkg:maven/org.axonframework/axon-spring-boot-starter@4.9.2
+- pkg:maven/org.axonframework/axon-spring-boot-starter@4.9.3

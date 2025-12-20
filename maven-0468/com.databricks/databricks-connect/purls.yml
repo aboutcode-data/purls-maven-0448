@@ -10,3 +10,7 @@
 - pkg:maven/com.databricks/databricks-connect@14.1.0?classifier=sources
 - pkg:maven/com.databricks/databricks-connect@14.2.0
 - pkg:maven/com.databricks/databricks-connect@14.2.0?classifier=sources
+- pkg:maven/com.databricks/databricks-connect@14.3.0
+- pkg:maven/com.databricks/databricks-connect@14.3.0?classifier=sources
+- pkg:maven/com.databricks/databricks-connect@14.3.1
+- pkg:maven/com.databricks/databricks-connect@14.3.1?classifier=sources

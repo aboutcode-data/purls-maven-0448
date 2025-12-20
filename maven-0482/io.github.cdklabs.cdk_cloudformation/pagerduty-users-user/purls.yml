@@ -6,3 +6,5 @@
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/pagerduty-users-user@1.0.0-alpha.7?classifier=sources
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/pagerduty-users-user@1.1.0-alpha.7
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/pagerduty-users-user@1.1.0-alpha.7?classifier=sources
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/pagerduty-users-user@1.5.0-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/pagerduty-users-user@1.5.0-alpha.7?classifier=sources

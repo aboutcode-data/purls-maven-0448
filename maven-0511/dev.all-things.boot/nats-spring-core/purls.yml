@@ -1,0 +1,2 @@
+- pkg:maven/dev.all-things.boot/nats-spring-core@0.1.0
+- pkg:maven/dev.all-things.boot/nats-spring-core@0.1.0?classifier=sources

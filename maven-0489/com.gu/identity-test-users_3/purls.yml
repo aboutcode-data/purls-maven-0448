@@ -1,4 +1,6 @@
 - pkg:maven/com.gu/identity-test-users_3@0.10.0
 - pkg:maven/com.gu/identity-test-users_3@0.10.0?classifier=sources
+- pkg:maven/com.gu/identity-test-users_3@0.10.1
+- pkg:maven/com.gu/identity-test-users_3@0.10.1?classifier=sources
 - pkg:maven/com.gu/identity-test-users_3@0.9
 - pkg:maven/com.gu/identity-test-users_3@0.9?classifier=sources

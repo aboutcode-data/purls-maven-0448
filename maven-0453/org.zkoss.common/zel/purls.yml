@@ -1,4 +1,6 @@
 - pkg:maven/org.zkoss.common/zel@10.0.0-Beta?classifier=sources
+- pkg:maven/org.zkoss.common/zel@10.0.0-jakarta?classifier=sources
+- pkg:maven/org.zkoss.common/zel@10.0.0?classifier=sources
 - pkg:maven/org.zkoss.common/zel@2.2.0
 - pkg:maven/org.zkoss.common/zel@2.2.0?classifier=sources
 - pkg:maven/org.zkoss.common/zel@2.2.1

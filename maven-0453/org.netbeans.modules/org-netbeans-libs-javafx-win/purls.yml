@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE210?classifier=sources

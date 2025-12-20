@@ -366,6 +366,12 @@
 - pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.0.2?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.0.3
 - pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.0.3?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.1.0
+- pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.2.0
+- pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.3.0
+- pkg:maven/com.hashicorp/cdktf-provider-snowflake@11.3.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-snowflake@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-snowflake@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-snowflake@2.0.1

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.woodser/monero-java@0.8.10
+- pkg:maven/io.github.woodser/monero-java@0.8.10?classifier=sources

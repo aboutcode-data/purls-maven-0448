@@ -1,0 +1,2 @@
+- pkg:maven/com.farao-community.farao/gridcapa-swe-commons@1.16.0
+- pkg:maven/com.farao-community.farao/gridcapa-swe-commons@1.16.0?classifier=sources

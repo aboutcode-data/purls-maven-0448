@@ -32,3 +32,5 @@
 - pkg:maven/org.imixs.workflow/imixs-adapters-ldap@2.3.1?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-adapters-ldap@2.3.2
 - pkg:maven/org.imixs.workflow/imixs-adapters-ldap@2.3.2?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-adapters-ldap@3.0.0
+- pkg:maven/org.imixs.workflow/imixs-adapters-ldap@3.0.0?classifier=sources

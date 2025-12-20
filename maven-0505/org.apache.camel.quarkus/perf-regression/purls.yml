@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.camel.quarkus/perf-regression@3.6.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/perf-regression@3.7.0
 - pkg:maven/org.apache.camel.quarkus/perf-regression@3.7.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/perf-regression@3.8.0
+- pkg:maven/org.apache.camel.quarkus/perf-regression@3.8.0?classifier=sources

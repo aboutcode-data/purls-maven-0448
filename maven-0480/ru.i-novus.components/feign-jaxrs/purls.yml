@@ -4,3 +4,7 @@
 - pkg:maven/ru.i-novus.components/feign-jaxrs@2.0?classifier=sources
 - pkg:maven/ru.i-novus.components/feign-jaxrs@2.2
 - pkg:maven/ru.i-novus.components/feign-jaxrs@2.2?classifier=sources
+- pkg:maven/ru.i-novus.components/feign-jaxrs@3.0.0
+- pkg:maven/ru.i-novus.components/feign-jaxrs@3.0.0?classifier=sources
+- pkg:maven/ru.i-novus.components/feign-jaxrs@3.0.1
+- pkg:maven/ru.i-novus.components/feign-jaxrs@3.0.1?classifier=sources

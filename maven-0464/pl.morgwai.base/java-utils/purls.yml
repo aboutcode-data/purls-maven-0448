@@ -52,3 +52,5 @@
 - pkg:maven/pl.morgwai.base/java-utils@3.3?classifier=sources
 - pkg:maven/pl.morgwai.base/java-utils@4.0
 - pkg:maven/pl.morgwai.base/java-utils@4.0?classifier=sources
+- pkg:maven/pl.morgwai.base/java-utils@4.1
+- pkg:maven/pl.morgwai.base/java-utils@4.1?classifier=sources

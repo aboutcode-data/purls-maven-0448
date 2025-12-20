@@ -4,6 +4,8 @@
 - pkg:maven/com.netease.nimlib/avsignalling@0.0.1?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@0.0.2?classifier=sources
 - pkg:maven/com.netease.nimlib/avsignalling@0.0.2?type=aar
+- pkg:maven/com.netease.nimlib/avsignalling@10.2.0-beta?classifier=sources
+- pkg:maven/com.netease.nimlib/avsignalling@10.2.0-beta?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@5.9.0?classifier=sources
 - pkg:maven/com.netease.nimlib/avsignalling@5.9.0?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@6.10.0?classifier=sources
@@ -264,6 +266,10 @@
 - pkg:maven/com.netease.nimlib/avsignalling@8.9.123?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@8.9.124?classifier=sources
 - pkg:maven/com.netease.nimlib/avsignalling@8.9.124?type=aar
+- pkg:maven/com.netease.nimlib/avsignalling@8.9.125?classifier=sources
+- pkg:maven/com.netease.nimlib/avsignalling@8.9.125?type=aar
+- pkg:maven/com.netease.nimlib/avsignalling@8.9.126?classifier=sources
+- pkg:maven/com.netease.nimlib/avsignalling@8.9.126?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@9.0.0?classifier=sources
 - pkg:maven/com.netease.nimlib/avsignalling@9.0.0?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@9.0.100?classifier=sources
@@ -308,6 +314,8 @@
 - pkg:maven/com.netease.nimlib/avsignalling@9.14.1?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@9.14.2?classifier=sources
 - pkg:maven/com.netease.nimlib/avsignalling@9.14.2?type=aar
+- pkg:maven/com.netease.nimlib/avsignalling@9.15.0?classifier=sources
+- pkg:maven/com.netease.nimlib/avsignalling@9.15.0?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@9.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/avsignalling@9.2.0?type=aar
 - pkg:maven/com.netease.nimlib/avsignalling@9.2.1?classifier=sources

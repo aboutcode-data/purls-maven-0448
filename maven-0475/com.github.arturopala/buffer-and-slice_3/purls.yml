@@ -16,3 +16,5 @@
 - pkg:maven/com.github.arturopala/buffer-and-slice_3@1.61.0?classifier=sources
 - pkg:maven/com.github.arturopala/buffer-and-slice_3@1.63.0
 - pkg:maven/com.github.arturopala/buffer-and-slice_3@1.63.0?classifier=sources
+- pkg:maven/com.github.arturopala/buffer-and-slice_3@1.64.0
+- pkg:maven/com.github.arturopala/buffer-and-slice_3@1.64.0?classifier=sources

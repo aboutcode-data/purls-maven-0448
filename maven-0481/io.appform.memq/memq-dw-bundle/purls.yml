@@ -1,0 +1,2 @@
+- pkg:maven/io.appform.memq/memq-dw-bundle@2.1.10-0-1
+- pkg:maven/io.appform.memq/memq-dw-bundle@2.1.10-0-1?classifier=sources
