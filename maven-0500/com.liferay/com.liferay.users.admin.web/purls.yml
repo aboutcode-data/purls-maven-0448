@@ -382,6 +382,7 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.106?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.107
 - pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.107?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.108?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.web@3.0.11
@@ -968,6 +969,7 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.96?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.97
 - pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.97?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.98?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@4.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.web@5.0.0
@@ -1288,9 +1290,12 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.105?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.106?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.107?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.108?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.109?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.11
+- pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.110?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.web@6.0.12

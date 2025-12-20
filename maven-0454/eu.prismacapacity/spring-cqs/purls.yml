@@ -22,3 +22,5 @@
 - pkg:maven/eu.prismacapacity/spring-cqs@2.0.6?classifier=sources
 - pkg:maven/eu.prismacapacity/spring-cqs@2.0.7
 - pkg:maven/eu.prismacapacity/spring-cqs@2.0.7?classifier=sources
+- pkg:maven/eu.prismacapacity/spring-cqs@3.0.0
+- pkg:maven/eu.prismacapacity/spring-cqs@3.0.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/com.aserto/java-authorizer@0.20.5?classifier=sources
+- pkg:maven/com.aserto/java-authorizer@0.20.6
+- pkg:maven/com.aserto/java-authorizer@0.20.6?classifier=sources
 - pkg:maven/com.aserto/java-authorizer@1.0.0
 - pkg:maven/com.aserto/java-authorizer@1.0.0?classifier=sources
 - pkg:maven/com.aserto/java-authorizer@1.0.1

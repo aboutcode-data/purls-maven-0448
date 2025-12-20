@@ -5,3 +5,7 @@
 - pkg:maven/org.virtuslab/pulumi-kubernetes-kotlin@4.1.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-kubernetes-kotlin@4.1.1.1?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-kubernetes-kotlin@4.2.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-kubernetes-kotlin@4.3.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-kubernetes-kotlin@4.4.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-kubernetes-kotlin@4.5.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-kubernetes-kotlin@4.5.2.0?classifier=sources

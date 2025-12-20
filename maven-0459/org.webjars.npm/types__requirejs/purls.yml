@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/types__requirejs@2.1.33?classifier=sources
 - pkg:maven/org.webjars.npm/types__requirejs@2.1.34
 - pkg:maven/org.webjars.npm/types__requirejs@2.1.34?classifier=sources
+- pkg:maven/org.webjars.npm/types__requirejs@2.1.36
+- pkg:maven/org.webjars.npm/types__requirejs@2.1.36?classifier=sources

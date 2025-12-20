@@ -26,3 +26,7 @@
 - pkg:maven/plus.jdk.grpc/spring-boot-starter-grpc@1.1.04?classifier=sources
 - pkg:maven/plus.jdk.grpc/spring-boot-starter-grpc@1.1.05
 - pkg:maven/plus.jdk.grpc/spring-boot-starter-grpc@1.1.05?classifier=sources
+- pkg:maven/plus.jdk.grpc/spring-boot-starter-grpc@1.1.06
+- pkg:maven/plus.jdk.grpc/spring-boot-starter-grpc@1.1.06?classifier=sources
+- pkg:maven/plus.jdk.grpc/spring-boot-starter-grpc@1.1.07
+- pkg:maven/plus.jdk.grpc/spring-boot-starter-grpc@1.1.07?classifier=sources

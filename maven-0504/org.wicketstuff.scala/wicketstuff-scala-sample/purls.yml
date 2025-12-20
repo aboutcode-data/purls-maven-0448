@@ -1,0 +1,2 @@
+- pkg:maven/org.wicketstuff.scala/wicketstuff-scala-sample@10.0.0-M2
+- pkg:maven/org.wicketstuff.scala/wicketstuff-scala-sample@10.0.0-M2?classifier=sources

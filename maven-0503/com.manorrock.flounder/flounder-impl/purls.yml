@@ -4,6 +4,8 @@
 - pkg:maven/com.manorrock.flounder/flounder-impl@22.7.0?classifier=sources
 - pkg:maven/com.manorrock.flounder/flounder-impl@23.1.0
 - pkg:maven/com.manorrock.flounder/flounder-impl@23.1.0?classifier=sources
+- pkg:maven/com.manorrock.flounder/flounder-impl@23.10.0
+- pkg:maven/com.manorrock.flounder/flounder-impl@23.10.0?classifier=sources
 - pkg:maven/com.manorrock.flounder/flounder-impl@23.2.0
 - pkg:maven/com.manorrock.flounder/flounder-impl@23.2.0?classifier=sources
 - pkg:maven/com.manorrock.flounder/flounder-impl@23.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.jetrs.client/jetty-client-9@2.1.0-alpha-5
+- pkg:maven/org.jetrs.client/jetty-client-9@2.1.0-alpha-5?classifier=sources

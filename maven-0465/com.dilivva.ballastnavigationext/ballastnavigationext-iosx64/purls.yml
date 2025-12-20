@@ -1,0 +1,2 @@
+- pkg:maven/com.dilivva.ballastnavigationext/ballastnavigationext-iosx64@0.0.2?classifier=sources
+- pkg:maven/com.dilivva.ballastnavigationext/ballastnavigationext-iosx64@1.0.0?classifier=sources

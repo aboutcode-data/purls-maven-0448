@@ -309,3 +309,4 @@
 - pkg:maven/com.netflix.genie/genie-app@4.3.0?classifier=sources
 - pkg:maven/com.netflix.genie/genie-app@4.3.2?classifier=sources
 - pkg:maven/com.netflix.genie/genie-app@4.3.3?classifier=sources
+- pkg:maven/com.netflix.genie/genie-app@4.3.4?classifier=sources

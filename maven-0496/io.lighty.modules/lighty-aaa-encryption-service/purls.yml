@@ -44,3 +44,5 @@
 - pkg:maven/io.lighty.modules/lighty-aaa-encryption-service@18.1.0?classifier=sources
 - pkg:maven/io.lighty.modules/lighty-aaa-encryption-service@18.2.0
 - pkg:maven/io.lighty.modules/lighty-aaa-encryption-service@18.2.0?classifier=sources
+- pkg:maven/io.lighty.modules/lighty-aaa-encryption-service@19.0.0
+- pkg:maven/io.lighty.modules/lighty-aaa-encryption-service@19.0.0?classifier=sources

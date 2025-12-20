@@ -6,6 +6,8 @@
 - pkg:maven/me.hsgamer/hscore-expansion-gson@4.3.12?classifier=sources
 - pkg:maven/me.hsgamer/hscore-expansion-gson@4.3.13
 - pkg:maven/me.hsgamer/hscore-expansion-gson@4.3.13?classifier=sources
+- pkg:maven/me.hsgamer/hscore-expansion-gson@4.3.14
+- pkg:maven/me.hsgamer/hscore-expansion-gson@4.3.14?classifier=sources
 - pkg:maven/me.hsgamer/hscore-expansion-gson@4.3.4
 - pkg:maven/me.hsgamer/hscore-expansion-gson@4.3.4?classifier=sources
 - pkg:maven/me.hsgamer/hscore-expansion-gson@4.3.5

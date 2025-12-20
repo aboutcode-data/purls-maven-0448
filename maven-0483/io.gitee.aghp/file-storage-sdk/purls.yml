@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.aghp/file-storage-sdk@0.0.1
+- pkg:maven/io.gitee.aghp/file-storage-sdk@0.0.1?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/com.sandinh/couchbase-scala_2.13@10.0.0-M5?classifier=sources
 - pkg:maven/com.sandinh/couchbase-scala_2.13@10.0.0-M6
 - pkg:maven/com.sandinh/couchbase-scala_2.13@10.0.0-M6?classifier=sources
+- pkg:maven/com.sandinh/couchbase-scala_2.13@10.0.0-M7
+- pkg:maven/com.sandinh/couchbase-scala_2.13@10.0.0-M7?classifier=sources
 - pkg:maven/com.sandinh/couchbase-scala_2.13@8.0.0
 - pkg:maven/com.sandinh/couchbase-scala_2.13@8.0.0-1-g0a620a6
 - pkg:maven/com.sandinh/couchbase-scala_2.13@8.0.0-1-g0a620a6?classifier=sources

@@ -28,3 +28,9 @@
 - pkg:maven/io.dekorate/dekorate-formatter@2.9.3?classifier=sources
 - pkg:maven/io.dekorate/dekorate-formatter@3.7.0
 - pkg:maven/io.dekorate/dekorate-formatter@3.7.0?classifier=sources
+- pkg:maven/io.dekorate/dekorate-formatter@3.7.3
+- pkg:maven/io.dekorate/dekorate-formatter@3.7.3?classifier=sources
+- pkg:maven/io.dekorate/dekorate-formatter@4.0.0
+- pkg:maven/io.dekorate/dekorate-formatter@4.0.0?classifier=sources
+- pkg:maven/io.dekorate/dekorate-formatter@4.0.1
+- pkg:maven/io.dekorate/dekorate-formatter@4.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/es_serverless20230627@1.0.0
+- pkg:maven/com.aliyun/es_serverless20230627@1.0.0?classifier=sources

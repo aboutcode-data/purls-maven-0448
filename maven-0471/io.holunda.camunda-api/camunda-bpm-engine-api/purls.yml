@@ -12,3 +12,7 @@
 - pkg:maven/io.holunda.camunda-api/camunda-bpm-engine-api@7.17.0?classifier=sources
 - pkg:maven/io.holunda.camunda-api/camunda-bpm-engine-api@7.18.0
 - pkg:maven/io.holunda.camunda-api/camunda-bpm-engine-api@7.18.0?classifier=sources
+- pkg:maven/io.holunda.camunda-api/camunda-bpm-engine-api@7.19.0
+- pkg:maven/io.holunda.camunda-api/camunda-bpm-engine-api@7.19.0?classifier=sources
+- pkg:maven/io.holunda.camunda-api/camunda-bpm-engine-api@7.20.0
+- pkg:maven/io.holunda.camunda-api/camunda-bpm-engine-api@7.20.0?classifier=sources

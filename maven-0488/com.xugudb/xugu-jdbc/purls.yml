@@ -1,0 +1,4 @@
+- pkg:maven/com.xugudb/xugu-jdbc@12.1.11
+- pkg:maven/com.xugudb/xugu-jdbc@12.1.11?classifier=sources
+- pkg:maven/com.xugudb/xugu-jdbc@12.1.12
+- pkg:maven/com.xugudb/xugu-jdbc@12.1.12?classifier=sources

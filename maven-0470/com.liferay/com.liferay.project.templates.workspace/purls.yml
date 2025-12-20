@@ -337,6 +337,9 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.202?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.203?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.204?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.205?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.206?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.207?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.workspace@1.0.21

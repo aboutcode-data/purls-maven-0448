@@ -30,3 +30,5 @@
 - pkg:maven/cloud.pangea/pangea-sdk@2.1.0?classifier=sources
 - pkg:maven/cloud.pangea/pangea-sdk@2.2.0
 - pkg:maven/cloud.pangea/pangea-sdk@2.2.0?classifier=sources
+- pkg:maven/cloud.pangea/pangea-sdk@2.3.0
+- pkg:maven/cloud.pangea/pangea-sdk@2.3.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/dev.voidframework/voidframework-bucket4j@1.10.0
+- pkg:maven/dev.voidframework/voidframework-bucket4j@1.10.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-bucket4j@1.9.0
 - pkg:maven/dev.voidframework/voidframework-bucket4j@1.9.0?classifier=sources

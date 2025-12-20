@@ -1,0 +1,1 @@
+- pkg:maven/org.embulk/embulk-util-msgpack@0.8.24?classifier=sources

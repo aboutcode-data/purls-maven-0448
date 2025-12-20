@@ -42,3 +42,4 @@
 - pkg:maven/com.linecorp.decaton/decaton-brave@6.5.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-brave@7.0.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-brave@7.1.0?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-brave@7.1.1?classifier=sources

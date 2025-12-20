@@ -3,3 +3,5 @@
 - pkg:maven/de.hdi/mongobumblebee@1.0.3
 - pkg:maven/de.hdi/mongobumblebee@1.0.3?classifier=sources
 - pkg:maven/de.hdi/mongobumblebee@1.0?classifier=sources
+- pkg:maven/de.hdi/mongobumblebee@1.1
+- pkg:maven/de.hdi/mongobumblebee@1.1?classifier=sources

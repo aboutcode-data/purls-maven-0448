@@ -19,3 +19,4 @@
 - pkg:maven/io.github.astrapi69/gen-tree@8.3?classifier=sources
 - pkg:maven/io.github.astrapi69/gen-tree@8.4?classifier=sources
 - pkg:maven/io.github.astrapi69/gen-tree@8?classifier=sources
+- pkg:maven/io.github.astrapi69/gen-tree@9?classifier=sources

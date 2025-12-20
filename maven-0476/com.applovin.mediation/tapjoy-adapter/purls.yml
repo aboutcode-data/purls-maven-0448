@@ -29,3 +29,4 @@
 - pkg:maven/com.applovin.mediation/tapjoy-adapter@13.1.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/tapjoy-adapter@13.1.1.0?classifier=sources
 - pkg:maven/com.applovin.mediation/tapjoy-adapter@13.1.2.0?classifier=sources
+- pkg:maven/com.applovin.mediation/tapjoy-adapter@13.2.0.0?classifier=sources

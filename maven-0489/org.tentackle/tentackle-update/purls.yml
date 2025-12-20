@@ -38,3 +38,5 @@
 - pkg:maven/org.tentackle/tentackle-update@17.8.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-update@17.9.0.0
 - pkg:maven/org.tentackle/tentackle-update@17.9.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-update@21.15.0.0
+- pkg:maven/org.tentackle/tentackle-update@21.15.0.0?classifier=sources

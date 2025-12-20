@@ -76,3 +76,4 @@
 - pkg:maven/io.joynr.java/coverage@1.22.0
 - pkg:maven/io.joynr.java/coverage@1.23.0
 - pkg:maven/io.joynr.java/coverage@1.23.1
+- pkg:maven/io.joynr.java/coverage@1.24.0

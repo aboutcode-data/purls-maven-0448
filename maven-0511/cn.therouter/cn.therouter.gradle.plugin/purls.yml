@@ -66,3 +66,11 @@
 - pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc1?classifier=sources
 - pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc2
 - pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc2?classifier=sources
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc3
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc3?classifier=sources
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc4
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc4?classifier=sources
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc5
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc5?classifier=sources
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc6
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.0-rc6?classifier=sources

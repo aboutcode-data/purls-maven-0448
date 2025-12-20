@@ -1,0 +1,2 @@
+- pkg:maven/io.github.osguima3.jooqdsl/jooqdsl-model@1.0.0
+- pkg:maven/io.github.osguima3.jooqdsl/jooqdsl-model@1.0.0?classifier=sources

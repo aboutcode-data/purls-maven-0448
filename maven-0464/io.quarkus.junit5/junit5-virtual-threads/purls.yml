@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus.junit5/junit5-virtual-threads@3.5.0.CR1
+- pkg:maven/io.quarkus.junit5/junit5-virtual-threads@3.5.0.CR1?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/info.cqframework/cql@2.8.0?classifier=sources
 - pkg:maven/info.cqframework/cql@2.9.0?classifier=sources
 - pkg:maven/info.cqframework/cql@3.0.0?classifier=sources
+- pkg:maven/info.cqframework/cql@3.1.0?classifier=sources
+- pkg:maven/info.cqframework/cql@3.2.0?classifier=sources

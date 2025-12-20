@@ -153,6 +153,8 @@
 - pkg:maven/org.jooq/jooq-checker@3.16.20?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.16.21
 - pkg:maven/org.jooq/jooq-checker@3.16.21?classifier=sources
+- pkg:maven/org.jooq/jooq-checker@3.16.22
+- pkg:maven/org.jooq/jooq-checker@3.16.22?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.16.2?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.16.3
 - pkg:maven/org.jooq/jooq-checker@3.16.3?classifier=sources
@@ -183,6 +185,8 @@
 - pkg:maven/org.jooq/jooq-checker@3.17.14?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.17.15
 - pkg:maven/org.jooq/jooq-checker@3.17.15?classifier=sources
+- pkg:maven/org.jooq/jooq-checker@3.17.16
+- pkg:maven/org.jooq/jooq-checker@3.17.16?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.17.1?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.17.2
 - pkg:maven/org.jooq/jooq-checker@3.17.2?classifier=sources
@@ -214,6 +218,8 @@
 - pkg:maven/org.jooq/jooq-checker@3.18.5?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.18.6
 - pkg:maven/org.jooq/jooq-checker@3.18.6?classifier=sources
+- pkg:maven/org.jooq/jooq-checker@3.18.7
+- pkg:maven/org.jooq/jooq-checker@3.18.7?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.9.0
 - pkg:maven/org.jooq/jooq-checker@3.9.0?classifier=sources
 - pkg:maven/org.jooq/jooq-checker@3.9.1

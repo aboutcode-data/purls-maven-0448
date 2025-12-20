@@ -90,10 +90,16 @@
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.4.8?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.1
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.1?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.2-5ce22c
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.2-5ce22c?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.3
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.3?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.4
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.4-681bb8
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.4-681bb8?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.4?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.5
+- pkg:maven/io.streamnative/java-version-trim-agent@2.10.5.5?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202204242205
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202204242205?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.11.0-rc-202204252206
@@ -232,3 +238,5 @@
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.5.2?classifier=sources
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.5.3
 - pkg:maven/io.streamnative/java-version-trim-agent@2.9.5.3?classifier=sources
+- pkg:maven/io.streamnative/java-version-trim-agent@2.9.5.4
+- pkg:maven/io.streamnative/java-version-trim-agent@2.9.5.4?classifier=sources

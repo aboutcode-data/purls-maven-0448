@@ -34,3 +34,5 @@
 - pkg:maven/org.finos.morphir/morphir-interop-zio-json_3@0.4.0-RC02.REV01?classifier=sources
 - pkg:maven/org.finos.morphir/morphir-interop-zio-json_3@0.4.0-RC03
 - pkg:maven/org.finos.morphir/morphir-interop-zio-json_3@0.4.0-RC03?classifier=sources
+- pkg:maven/org.finos.morphir/morphir-interop-zio-json_3@0.4.0-RC05
+- pkg:maven/org.finos.morphir/morphir-interop-zio-json_3@0.4.0-RC05?classifier=sources

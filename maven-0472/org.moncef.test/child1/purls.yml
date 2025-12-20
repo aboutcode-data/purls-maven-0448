@@ -1,0 +1,2 @@
+- pkg:maven/org.moncef.test/child1@1.0.0-SNAPSHOT?classifier=sources
+- pkg:maven/org.moncef.test/child1@1.0.1-SNAPSHOT?classifier=sources

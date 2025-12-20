@@ -64,3 +64,5 @@
 - pkg:maven/net.pincette/pincette-rs@3.2.2
 - pkg:maven/net.pincette/pincette-rs@3.2.2?classifier=sources
 - pkg:maven/net.pincette/pincette-rs@3.2?classifier=sources
+- pkg:maven/net.pincette/pincette-rs@3.3
+- pkg:maven/net.pincette/pincette-rs@3.3?classifier=sources

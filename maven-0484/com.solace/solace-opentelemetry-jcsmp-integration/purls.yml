@@ -1,2 +1,4 @@
 - pkg:maven/com.solace/solace-opentelemetry-jcsmp-integration@1.0.0
 - pkg:maven/com.solace/solace-opentelemetry-jcsmp-integration@1.0.0?classifier=sources
+- pkg:maven/com.solace/solace-opentelemetry-jcsmp-integration@1.1.0
+- pkg:maven/com.solace/solace-opentelemetry-jcsmp-integration@1.1.0?classifier=sources

@@ -40,10 +40,16 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.26.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.27.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.27.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.28.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.28.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.3.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.3.1
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.3.1?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.31.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.31.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.32.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.32.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.4.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-service-usage-v1beta1@0.4.1

@@ -43,6 +43,8 @@
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.18.0
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.18.0?classifier=sources
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.18.1
+- pkg:maven/nl.clockwork.ebms/ebms-core@2.18.10
+- pkg:maven/nl.clockwork.ebms/ebms-core@2.18.10?classifier=sources
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.18.1?classifier=sources
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.18.2
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.18.2?classifier=sources
@@ -66,3 +68,5 @@
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.19.1?classifier=sources
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.19.2
 - pkg:maven/nl.clockwork.ebms/ebms-core@2.19.2?classifier=sources
+- pkg:maven/nl.clockwork.ebms/ebms-core@2.19.3
+- pkg:maven/nl.clockwork.ebms/ebms-core@2.19.3?classifier=sources

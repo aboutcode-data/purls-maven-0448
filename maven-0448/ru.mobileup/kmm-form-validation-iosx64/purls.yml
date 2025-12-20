@@ -1,1 +1,2 @@
 - pkg:maven/ru.mobileup/kmm-form-validation-iosx64@1.0.0-alpha1?classifier=sources
+- pkg:maven/ru.mobileup/kmm-form-validation-iosx64@1.0.0?classifier=sources

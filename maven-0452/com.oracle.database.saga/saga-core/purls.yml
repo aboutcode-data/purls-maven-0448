@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.database.saga/saga-core@23.3.0
+- pkg:maven/com.oracle.database.saga/saga-core@23.3.0?classifier=sources

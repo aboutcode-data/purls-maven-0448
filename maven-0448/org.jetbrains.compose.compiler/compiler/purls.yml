@@ -29,4 +29,5 @@
 - pkg:maven/org.jetbrains.compose.compiler/compiler@1.5.0?classifier=sources
 - pkg:maven/org.jetbrains.compose.compiler/compiler@1.5.1?classifier=sources
 - pkg:maven/org.jetbrains.compose.compiler/compiler@1.5.2.1-Beta2?classifier=sources
+- pkg:maven/org.jetbrains.compose.compiler/compiler@1.5.2.1-Beta3?classifier=sources
 - pkg:maven/org.jetbrains.compose.compiler/compiler@1.5.2?classifier=sources

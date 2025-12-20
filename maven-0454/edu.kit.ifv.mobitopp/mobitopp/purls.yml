@@ -1,1 +1,2 @@
 - pkg:maven/edu.kit.ifv.mobitopp/mobitopp@0.2.3.546?classifier=sources
+- pkg:maven/edu.kit.ifv.mobitopp/mobitopp@0.3.580?classifier=sources

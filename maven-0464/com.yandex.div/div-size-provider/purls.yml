@@ -21,3 +21,7 @@
 - pkg:maven/com.yandex.div/div-size-provider@27.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-size-provider@27.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-size-provider@28.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@28.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@28.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@28.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@28.4.0?classifier=sources

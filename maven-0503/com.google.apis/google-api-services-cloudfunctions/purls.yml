@@ -1364,6 +1364,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230608-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230907-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2-rev20230907-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20220203-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20220203-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20220218-1.32.1
@@ -1426,6 +1428,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230608-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230907-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2alpha-rev20230907-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20220203-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20220203-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20220218-1.32.1
@@ -1488,3 +1492,5 @@
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230608-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230907-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudfunctions@v2beta-rev20230907-2.0.0?classifier=sources

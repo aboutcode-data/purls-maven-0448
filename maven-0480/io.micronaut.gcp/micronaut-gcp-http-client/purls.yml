@@ -55,3 +55,4 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@5.0.2?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@5.0.3?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@5.0.4?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-http-client@5.1.0?classifier=sources

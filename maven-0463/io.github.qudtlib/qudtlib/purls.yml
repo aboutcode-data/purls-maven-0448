@@ -11,3 +11,5 @@
 - pkg:maven/io.github.qudtlib/qudtlib@4.1.0
 - pkg:maven/io.github.qudtlib/qudtlib@4.2.0
 - pkg:maven/io.github.qudtlib/qudtlib@4.3.0
+- pkg:maven/io.github.qudtlib/qudtlib@5.0.0
+- pkg:maven/io.github.qudtlib/qudtlib@5.0.1
