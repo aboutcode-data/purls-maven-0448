@@ -1,0 +1,4 @@
+- pkg:maven/cloud.thingslinker/onion-mqtt-example@1.0.4
+- pkg:maven/cloud.thingslinker/onion-mqtt-example@1.0.4?classifier=sources
+- pkg:maven/cloud.thingslinker/onion-mqtt-example@1.0.5
+- pkg:maven/cloud.thingslinker/onion-mqtt-example@1.0.5?classifier=sources

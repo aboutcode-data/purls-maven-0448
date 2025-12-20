@@ -1,0 +1,2 @@
+- pkg:maven/com.swirlds/swirlds-config-processor@0.45.1?classifier=sources
+- pkg:maven/com.swirlds/swirlds-config-processor@0.46.0?classifier=sources

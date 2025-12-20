@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel__plugin-syntax-import-attributes@8.0.0-alpha.6
+- pkg:maven/org.webjars.npm/babel__plugin-syntax-import-attributes@8.0.0-alpha.6?classifier=sources

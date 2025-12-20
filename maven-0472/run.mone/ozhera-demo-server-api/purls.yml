@@ -1,2 +1,6 @@
 - pkg:maven/run.mone/ozhera-demo-server-api@1.0.0
 - pkg:maven/run.mone/ozhera-demo-server-api@1.0.0?classifier=sources
+- pkg:maven/run.mone/ozhera-demo-server-api@1.0.1-jdk21
+- pkg:maven/run.mone/ozhera-demo-server-api@1.0.1-jdk21?classifier=sources
+- pkg:maven/run.mone/ozhera-demo-server-api@1.0.2-jdk21
+- pkg:maven/run.mone/ozhera-demo-server-api@1.0.2-jdk21?classifier=sources

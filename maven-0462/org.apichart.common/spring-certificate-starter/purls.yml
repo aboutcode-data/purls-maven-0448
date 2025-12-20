@@ -1,0 +1,4 @@
+- pkg:maven/org.apichart.common/spring-certificate-starter@2.3.10.RELEASE
+- pkg:maven/org.apichart.common/spring-certificate-starter@2.3.10.RELEASE?classifier=sources
+- pkg:maven/org.apichart.common/spring-certificate-starter@2.3.9.RELEASE
+- pkg:maven/org.apichart.common/spring-certificate-starter@2.3.9.RELEASE?classifier=sources

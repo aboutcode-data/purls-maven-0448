@@ -62,6 +62,7 @@
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.15.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.16.0-rc1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.16.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.16.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.3.0
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.3.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-objects@2.3.1

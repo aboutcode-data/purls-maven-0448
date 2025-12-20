@@ -77,6 +77,7 @@
 - pkg:maven/org.testcontainers/vault@1.19.1?classifier=sources
 - pkg:maven/org.testcontainers/vault@1.19.2?classifier=sources
 - pkg:maven/org.testcontainers/vault@1.19.3?classifier=sources
+- pkg:maven/org.testcontainers/vault@1.19.4?classifier=sources
 - pkg:maven/org.testcontainers/vault@1.4.3
 - pkg:maven/org.testcontainers/vault@1.4.3?classifier=sources
 - pkg:maven/org.testcontainers/vault@1.5.1

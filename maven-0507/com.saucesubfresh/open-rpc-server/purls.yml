@@ -28,3 +28,7 @@
 - pkg:maven/com.saucesubfresh/open-rpc-server@1.4.0?classifier=sources
 - pkg:maven/com.saucesubfresh/open-rpc-server@1.5.0
 - pkg:maven/com.saucesubfresh/open-rpc-server@1.5.0?classifier=sources
+- pkg:maven/com.saucesubfresh/open-rpc-server@2.0.0
+- pkg:maven/com.saucesubfresh/open-rpc-server@2.0.0?classifier=sources
+- pkg:maven/com.saucesubfresh/open-rpc-server@2.1.0
+- pkg:maven/com.saucesubfresh/open-rpc-server@2.1.0?classifier=sources

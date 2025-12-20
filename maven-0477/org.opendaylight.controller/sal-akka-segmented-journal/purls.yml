@@ -144,3 +144,6 @@
 - pkg:maven/org.opendaylight.controller/sal-akka-segmented-journal@8.0.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-akka-segmented-journal@8.0.3
 - pkg:maven/org.opendaylight.controller/sal-akka-segmented-journal@8.0.3?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-akka-segmented-journal@8.0.4?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-akka-segmented-journal@9.0.0
+- pkg:maven/org.opendaylight.controller/sal-akka-segmented-journal@9.0.0?classifier=sources

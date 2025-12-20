@@ -148,6 +148,8 @@
 - pkg:maven/com.google.dagger/dagger-android@2.48?type=aar
 - pkg:maven/com.google.dagger/dagger-android@2.49?classifier=sources
 - pkg:maven/com.google.dagger/dagger-android@2.49?type=aar
+- pkg:maven/com.google.dagger/dagger-android@2.50?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android@2.50?type=aar
 - pkg:maven/com.google.dagger/dagger-android@2.8?classifier=sources
 - pkg:maven/com.google.dagger/dagger-android@2.8?type=aar
 - pkg:maven/com.google.dagger/dagger-android@2.9?classifier=sources

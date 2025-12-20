@@ -77,3 +77,5 @@
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@6.8.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@6.8.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@6.8.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.client.extension.type.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.client.extension.type.api@7.1.0?classifier=sources

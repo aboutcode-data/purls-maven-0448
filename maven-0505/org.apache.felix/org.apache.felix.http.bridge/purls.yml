@@ -87,6 +87,9 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.16
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.16?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.16?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.18
+- pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.18?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.18?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.2
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@4.2.2?classifier=sources
@@ -114,3 +117,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@5.1.4
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@5.1.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.bridge@5.1.4?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.bridge@5.1.6
+- pkg:maven/org.apache.felix/org.apache.felix.http.bridge@5.1.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.bridge@5.1.6?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/chat.dim/DIMP@0.9.9?classifier=sources
 - pkg:maven/chat.dim/DIMP@1.0.0
 - pkg:maven/chat.dim/DIMP@1.0.0?classifier=sources
+- pkg:maven/chat.dim/DIMP@1.0.1
+- pkg:maven/chat.dim/DIMP@1.0.1?classifier=sources

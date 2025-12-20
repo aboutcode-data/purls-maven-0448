@@ -8,3 +8,5 @@
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20230907-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20230912-2.0.0
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20230912-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20231213-2.0.0
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20231213-2.0.0?classifier=sources

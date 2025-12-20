@@ -68,3 +68,7 @@
 - pkg:maven/com.exasol/project-keeper-shared-model-classes@2.9.8?classifier=sources
 - pkg:maven/com.exasol/project-keeper-shared-model-classes@2.9.9
 - pkg:maven/com.exasol/project-keeper-shared-model-classes@2.9.9?classifier=sources
+- pkg:maven/com.exasol/project-keeper-shared-model-classes@3.0.0
+- pkg:maven/com.exasol/project-keeper-shared-model-classes@3.0.0?classifier=sources
+- pkg:maven/com.exasol/project-keeper-shared-model-classes@3.0.1
+- pkg:maven/com.exasol/project-keeper-shared-model-classes@3.0.1?classifier=sources

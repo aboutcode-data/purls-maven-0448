@@ -46,3 +46,5 @@
 - pkg:maven/com.github.darkice1/easy@1.0.66?classifier=sources
 - pkg:maven/com.github.darkice1/easy@1.0.67
 - pkg:maven/com.github.darkice1/easy@1.0.67?classifier=sources
+- pkg:maven/com.github.darkice1/easy@1.0.68
+- pkg:maven/com.github.darkice1/easy@1.0.68?classifier=sources

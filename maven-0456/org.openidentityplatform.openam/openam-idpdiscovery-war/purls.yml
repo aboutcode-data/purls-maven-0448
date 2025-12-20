@@ -14,3 +14,4 @@
 - pkg:maven/org.openidentityplatform.openam/openam-idpdiscovery-war@14.7.4?type=war
 - pkg:maven/org.openidentityplatform.openam/openam-idpdiscovery-war@14.8.1?type=war
 - pkg:maven/org.openidentityplatform.openam/openam-idpdiscovery-war@14.8.2?type=war
+- pkg:maven/org.openidentityplatform.openam/openam-idpdiscovery-war@14.8.3?type=war

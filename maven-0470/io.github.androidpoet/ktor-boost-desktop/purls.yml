@@ -1,1 +1,2 @@
 - pkg:maven/io.github.androidpoet/ktor-boost-desktop@0.0.9?classifier=sources
+- pkg:maven/io.github.androidpoet/ktor-boost-desktop@1.0.0?classifier=sources

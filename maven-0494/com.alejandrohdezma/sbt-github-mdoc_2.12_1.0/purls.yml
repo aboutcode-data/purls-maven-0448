@@ -2,5 +2,9 @@
 - pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.10?classifier=sources
 - pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.11
 - pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.11?classifier=sources
+- pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.12
+- pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.12?classifier=sources
+- pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.13
+- pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.13?classifier=sources
 - pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.9
 - pkg:maven/com.alejandrohdezma/sbt-github-mdoc_2.12_1.0@0.11.9?classifier=sources

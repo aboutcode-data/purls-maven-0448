@@ -144,3 +144,13 @@
 - pkg:maven/io.github.pme123/camundala-bpmn_3@1.26.1?classifier=sources
 - pkg:maven/io.github.pme123/camundala-bpmn_3@1.26.2
 - pkg:maven/io.github.pme123/camundala-bpmn_3@1.26.2?classifier=sources
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.27.0
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.27.0?classifier=sources
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.27.1
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.27.1?classifier=sources
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.28.0
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.28.0?classifier=sources
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.28.1
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.28.1?classifier=sources
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.28.2
+- pkg:maven/io.github.pme123/camundala-bpmn_3@1.28.2?classifier=sources

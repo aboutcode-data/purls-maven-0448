@@ -1,2 +1,4 @@
 - pkg:maven/io.github.crac.com.amazonaws/aws-lambda-java-runtime-interface-client@1.0.0
 - pkg:maven/io.github.crac.com.amazonaws/aws-lambda-java-runtime-interface-client@1.0.0?classifier=sources
+- pkg:maven/io.github.crac.com.amazonaws/aws-lambda-java-runtime-interface-client@2.4.1.CRAC.0
+- pkg:maven/io.github.crac.com.amazonaws/aws-lambda-java-runtime-interface-client@2.4.1.CRAC.0?classifier=sources

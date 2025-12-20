@@ -10,3 +10,5 @@
 - pkg:maven/org.tweetyproject/preferences@1.23?classifier=sources
 - pkg:maven/org.tweetyproject/preferences@1.24
 - pkg:maven/org.tweetyproject/preferences@1.24?classifier=sources
+- pkg:maven/org.tweetyproject/preferences@1.25
+- pkg:maven/org.tweetyproject/preferences@1.25?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.fares.bind.xjc.plugins/jaxb-xew-plugin@2.1.0
+- pkg:maven/io.fares.bind.xjc.plugins/jaxb-xew-plugin@2.1.0?classifier=sources

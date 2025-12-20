@@ -28,3 +28,4 @@
 - pkg:maven/it.unibo.tuprolog/datalog@0.31.7?classifier=sources
 - pkg:maven/it.unibo.tuprolog/datalog@0.31.8?classifier=sources
 - pkg:maven/it.unibo.tuprolog/datalog@0.31.9?classifier=sources
+- pkg:maven/it.unibo.tuprolog/datalog@0.32.0?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-ak_2abe765c32934341bd9bb6cc1c8ff589@1.0.0?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-ak_2abe765c32934341bd9bb6cc1c8ff589@1.0.2
 - pkg:maven/cn.com.antcloud.api/antcloud-api-ak_2abe765c32934341bd9bb6cc1c8ff589@1.0.2?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-ak_2abe765c32934341bd9bb6cc1c8ff589@1.0.3
+- pkg:maven/cn.com.antcloud.api/antcloud-api-ak_2abe765c32934341bd9bb6cc1c8ff589@1.0.3?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-ak_2abe765c32934341bd9bb6cc1c8ff589@1.1.0
+- pkg:maven/cn.com.antcloud.api/antcloud-api-ak_2abe765c32934341bd9bb6cc1c8ff589@1.1.0?classifier=sources

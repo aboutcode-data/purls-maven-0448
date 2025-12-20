@@ -27,6 +27,7 @@
 - pkg:maven/org.finos.symphony.wdk/workflow-language@1.6.2?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-language@1.6.3-pre?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-language@1.6.3?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-language@1.6.4?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-language@DUMMY_RELEASE_TEST?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-language@DUMMY_VERSION?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-language@new-dummy-release-for-testing?classifier=sources

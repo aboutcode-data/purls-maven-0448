@@ -30,3 +30,5 @@
 - pkg:maven/com.sportradar.livedata.sdk/sdk@2.0.6-3
 - pkg:maven/com.sportradar.livedata.sdk/sdk@2.0.6-3?classifier=sources
 - pkg:maven/com.sportradar.livedata.sdk/sdk@2.0.6?classifier=sources
+- pkg:maven/com.sportradar.livedata.sdk/sdk@2.0.7
+- pkg:maven/com.sportradar.livedata.sdk/sdk@2.0.7?classifier=sources

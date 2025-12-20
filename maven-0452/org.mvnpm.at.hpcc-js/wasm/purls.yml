@@ -1,2 +1,5 @@
 - pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.14.1?classifier=sources
+- pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.15.0?classifier=sources
 - pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.15.1?classifier=sources
+- pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.15.2?classifier=sources
+- pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.15.3?classifier=sources

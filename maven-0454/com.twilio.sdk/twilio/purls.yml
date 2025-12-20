@@ -472,6 +472,10 @@
 - pkg:maven/com.twilio.sdk/twilio@9.14.0?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio@9.14.1
 - pkg:maven/com.twilio.sdk/twilio@9.14.1?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio@9.15.0
+- pkg:maven/com.twilio.sdk/twilio@9.15.0?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio@9.15.1
+- pkg:maven/com.twilio.sdk/twilio@9.15.1?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio@9.2.0
 - pkg:maven/com.twilio.sdk/twilio@9.2.0?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio@9.2.1

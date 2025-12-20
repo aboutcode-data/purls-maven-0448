@@ -26,3 +26,5 @@
 - pkg:maven/com.aftership/aftership-sdk@2.1.9?classifier=sources
 - pkg:maven/com.aftership/aftership-sdk@3.0.0
 - pkg:maven/com.aftership/aftership-sdk@3.0.0?classifier=sources
+- pkg:maven/com.aftership/aftership-sdk@4.0.0
+- pkg:maven/com.aftership/aftership-sdk@4.0.0?classifier=sources

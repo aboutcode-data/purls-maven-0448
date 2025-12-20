@@ -12,3 +12,5 @@
 - pkg:maven/org.dwcj/dwcj-youtube@23.04?classifier=sources
 - pkg:maven/org.dwcj/dwcj-youtube@23.05
 - pkg:maven/org.dwcj/dwcj-youtube@23.05?classifier=sources
+- pkg:maven/org.dwcj/dwcj-youtube@23.06
+- pkg:maven/org.dwcj/dwcj-youtube@23.06?classifier=sources

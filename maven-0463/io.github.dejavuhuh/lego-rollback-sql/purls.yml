@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dejavuhuh/lego-rollback-sql@0.0.1
+- pkg:maven/io.github.dejavuhuh/lego-rollback-sql@0.0.1?classifier=sources

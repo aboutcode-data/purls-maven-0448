@@ -2,3 +2,5 @@
 - pkg:maven/com.thesamet.scalapb/sparksql33-scalapb0_10_2.13@1.0.2?classifier=sources
 - pkg:maven/com.thesamet.scalapb/sparksql33-scalapb0_10_2.13@1.0.3
 - pkg:maven/com.thesamet.scalapb/sparksql33-scalapb0_10_2.13@1.0.3?classifier=sources
+- pkg:maven/com.thesamet.scalapb/sparksql33-scalapb0_10_2.13@1.0.4
+- pkg:maven/com.thesamet.scalapb/sparksql33-scalapb0_10_2.13@1.0.4?classifier=sources

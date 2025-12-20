@@ -70,3 +70,5 @@
 - pkg:maven/cn.ucloud.ufile/ufile-client-java@2.6.7?classifier=sources
 - pkg:maven/cn.ucloud.ufile/ufile-client-java@2.6.8
 - pkg:maven/cn.ucloud.ufile/ufile-client-java@2.6.8?classifier=sources
+- pkg:maven/cn.ucloud.ufile/ufile-client-java@2.6.9
+- pkg:maven/cn.ucloud.ufile/ufile-client-java@2.6.9?classifier=sources

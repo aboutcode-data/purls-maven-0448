@@ -1,0 +1,2 @@
+- pkg:maven/se.malmin.informationssamverkan/af-csn-webserver@0.0.1?classifier=sources
+- pkg:maven/se.malmin.informationssamverkan/af-csn-webserver@0.0.1?type=war

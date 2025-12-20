@@ -6,3 +6,7 @@
 - pkg:maven/dev.vality/swag-organizations@1.22-cd6cc10-client?classifier=sources
 - pkg:maven/dev.vality/swag-organizations@1.22-cd6cc10-server
 - pkg:maven/dev.vality/swag-organizations@1.22-cd6cc10-server?classifier=sources
+- pkg:maven/dev.vality/swag-organizations@1.23-5c295cc-client
+- pkg:maven/dev.vality/swag-organizations@1.23-5c295cc-client?classifier=sources
+- pkg:maven/dev.vality/swag-organizations@1.23-5c295cc-server
+- pkg:maven/dev.vality/swag-organizations@1.23-5c295cc-server?classifier=sources

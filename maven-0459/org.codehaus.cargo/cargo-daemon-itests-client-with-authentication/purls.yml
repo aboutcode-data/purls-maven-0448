@@ -1,1 +1,2 @@
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-client-with-authentication@1.10.11
+- pkg:maven/org.codehaus.cargo/cargo-daemon-itests-client-with-authentication@1.10.12

@@ -48,6 +48,8 @@
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.33.0?classifier=sources
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.35.0
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.35.0?classifier=sources
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.37.0
+- pkg:maven/io.github.ardoco.core/text-preprocessing@0.37.0?classifier=sources
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.8.0
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.8.0?classifier=sources
 - pkg:maven/io.github.ardoco.core/text-preprocessing@0.8.2

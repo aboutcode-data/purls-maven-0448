@@ -20,3 +20,7 @@
 - pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.520.1390?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.542.1412?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.542.1412?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.561.1431?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.561.1431?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.562.1432?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.562.1432?type=aar

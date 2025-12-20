@@ -57,8 +57,16 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.26?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.27
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.27?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.28
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.28?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.29
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.29?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.2?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.3
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.30
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.30?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.31
+- pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.31?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.3?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.4
 - pkg:maven/edu.iu.uits.lms/lms-canvas-common-configuration@5.2.4?classifier=sources

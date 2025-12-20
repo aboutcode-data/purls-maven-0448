@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/b2bi@852.2.1525.0
+- pkg:maven/com.cognitect.aws/b2bi@852.2.1525.0?classifier=sources

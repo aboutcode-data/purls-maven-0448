@@ -1,3 +1,4 @@
 - pkg:maven/com.clover.sdk/clover-android-sdk-retrofit@292?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-sdk-retrofit@293?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-sdk-retrofit@304?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-sdk-retrofit@306?classifier=sources

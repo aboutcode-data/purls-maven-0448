@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/babel__plugin-syntax-import-assertions@7.18.6?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-syntax-import-assertions@7.20.0
 - pkg:maven/org.webjars.npm/babel__plugin-syntax-import-assertions@7.20.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-syntax-import-assertions@8.0.0-alpha.6
+- pkg:maven/org.webjars.npm/babel__plugin-syntax-import-assertions@8.0.0-alpha.6?classifier=sources

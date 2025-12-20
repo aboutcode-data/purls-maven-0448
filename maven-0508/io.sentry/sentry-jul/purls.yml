@@ -260,3 +260,5 @@
 - pkg:maven/io.sentry/sentry-jul@7.0.0?classifier=sources
 - pkg:maven/io.sentry/sentry-jul@7.1.0
 - pkg:maven/io.sentry/sentry-jul@7.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-jul@7.2.0
+- pkg:maven/io.sentry/sentry-jul@7.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.wudgaby.platform/basis-project-spring-ext@1.0.7
+- pkg:maven/com.wudgaby.platform/basis-project-spring-ext@1.0.7?classifier=sources
+- pkg:maven/com.wudgaby.platform/basis-project-spring-ext@1.1.0
+- pkg:maven/com.wudgaby.platform/basis-project-spring-ext@1.1.0?classifier=sources

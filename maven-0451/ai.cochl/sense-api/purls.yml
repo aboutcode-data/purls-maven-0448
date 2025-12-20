@@ -4,3 +4,5 @@
 - pkg:maven/ai.cochl/sense-api@v1.0.0?classifier=sources
 - pkg:maven/ai.cochl/sense-api@v1.1.0
 - pkg:maven/ai.cochl/sense-api@v1.1.0?classifier=sources
+- pkg:maven/ai.cochl/sense-api@v1.4.0
+- pkg:maven/ai.cochl/sense-api@v1.4.0?classifier=sources

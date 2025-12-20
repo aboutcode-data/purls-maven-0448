@@ -97,6 +97,12 @@
 - pkg:maven/com.google.api/api-common@2.20.0?classifier=sources
 - pkg:maven/com.google.api/api-common@2.21.0
 - pkg:maven/com.google.api/api-common@2.21.0?classifier=sources
+- pkg:maven/com.google.api/api-common@2.22.0
+- pkg:maven/com.google.api/api-common@2.22.0?classifier=sources
+- pkg:maven/com.google.api/api-common@2.23.0
+- pkg:maven/com.google.api/api-common@2.23.0?classifier=sources
+- pkg:maven/com.google.api/api-common@2.24.0
+- pkg:maven/com.google.api/api-common@2.24.0?classifier=sources
 - pkg:maven/com.google.api/api-common@2.3.1
 - pkg:maven/com.google.api/api-common@2.3.1?classifier=sources
 - pkg:maven/com.google.api/api-common@2.4.0

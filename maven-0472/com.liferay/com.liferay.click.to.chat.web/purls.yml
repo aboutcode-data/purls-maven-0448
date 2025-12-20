@@ -78,6 +78,9 @@
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.click.to.chat.web@1.0.4

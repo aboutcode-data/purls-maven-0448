@@ -188,6 +188,12 @@
 - pkg:maven/nl.vpro.poms/poms-npoplayer@7.1.6?classifier=sources
 - pkg:maven/nl.vpro.poms/poms-npoplayer@7.10.0
 - pkg:maven/nl.vpro.poms/poms-npoplayer@7.10.0?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-npoplayer@7.10.1
+- pkg:maven/nl.vpro.poms/poms-npoplayer@7.10.1?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-npoplayer@7.10.2
+- pkg:maven/nl.vpro.poms/poms-npoplayer@7.10.2?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-npoplayer@7.10.3
+- pkg:maven/nl.vpro.poms/poms-npoplayer@7.10.3?classifier=sources
 - pkg:maven/nl.vpro.poms/poms-npoplayer@7.2.0
 - pkg:maven/nl.vpro.poms/poms-npoplayer@7.2.0?classifier=sources
 - pkg:maven/nl.vpro.poms/poms-npoplayer@7.2.1

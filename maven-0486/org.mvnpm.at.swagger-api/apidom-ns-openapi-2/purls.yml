@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-ns-openapi-2@0.91.0?classifier=sources
+- pkg:maven/org.mvnpm.at.swagger-api/apidom-ns-openapi-2@0.92.0?classifier=sources

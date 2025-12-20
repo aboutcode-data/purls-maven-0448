@@ -1,0 +1,2 @@
+- pkg:maven/com.kalman03/apideploy-javadoc-common@1.0.2
+- pkg:maven/com.kalman03/apideploy-javadoc-common@1.0.2?classifier=sources

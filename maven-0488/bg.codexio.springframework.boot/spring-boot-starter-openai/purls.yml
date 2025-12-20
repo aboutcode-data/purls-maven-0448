@@ -1,0 +1,4 @@
+- pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-openai@0.8.0.BETA
+- pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-openai@0.8.0.BETA?classifier=sources
+- pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-openai@0.8.1.BETA
+- pkg:maven/bg.codexio.springframework.boot/spring-boot-starter-openai@0.8.1.BETA?classifier=sources
