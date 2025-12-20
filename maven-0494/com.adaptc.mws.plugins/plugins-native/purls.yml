@@ -36,6 +36,7 @@
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.7-146?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.7-151
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.7-151?classifier=sources
+- pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1415237846
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1415237846?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1415243874
@@ -44,3 +45,4 @@
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1415375795?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1464025210
 - pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8-1464025210?classifier=sources
+- pkg:maven/com.adaptc.mws.plugins/plugins-native@1.8?classifier=sources

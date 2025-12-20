@@ -1,0 +1,2 @@
+- pkg:maven/com.yandex.div/coil@29.0.0?classifier=sources
+- pkg:maven/com.yandex.div/coil@29.1.0?classifier=sources

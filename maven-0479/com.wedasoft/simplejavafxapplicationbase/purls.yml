@@ -4,3 +4,4 @@
 - pkg:maven/com.wedasoft/simplejavafxapplicationbase@1.5.0?classifier=sources
 - pkg:maven/com.wedasoft/simplejavafxapplicationbase@1.6.0?classifier=sources
 - pkg:maven/com.wedasoft/simplejavafxapplicationbase@1.7.0?classifier=sources
+- pkg:maven/com.wedasoft/simplejavafxapplicationbase@2.0.0?classifier=sources

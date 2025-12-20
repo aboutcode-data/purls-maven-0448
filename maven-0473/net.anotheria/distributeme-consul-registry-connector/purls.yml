@@ -24,3 +24,5 @@
 - pkg:maven/net.anotheria/distributeme-consul-registry-connector@2.5.1?classifier=sources
 - pkg:maven/net.anotheria/distributeme-consul-registry-connector@2.5.2
 - pkg:maven/net.anotheria/distributeme-consul-registry-connector@2.5.2?classifier=sources
+- pkg:maven/net.anotheria/distributeme-consul-registry-connector@4.0.0
+- pkg:maven/net.anotheria/distributeme-consul-registry-connector@4.0.0?classifier=sources

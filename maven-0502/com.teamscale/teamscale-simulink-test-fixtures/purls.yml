@@ -578,6 +578,9 @@
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.10?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.11?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.12?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.13?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.14?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.15?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.1.3?classifier=sources
@@ -591,6 +594,7 @@
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.0-rc2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.0-rc3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.10?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.3?classifier=sources
@@ -598,8 +602,15 @@
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.5?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.6?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.7?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.8?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.2.9?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.3.0-rc1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.3.0-rc2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.3.0-rc3?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.3.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.3.1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.3.2?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.3.3?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.3.4?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.4.0-rc1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-simulink-test-fixtures@9.4.0-rc2?classifier=sources

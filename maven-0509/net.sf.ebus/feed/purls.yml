@@ -52,3 +52,5 @@
 - pkg:maven/net.sf.ebus/feed@6.6.0?classifier=sources
 - pkg:maven/net.sf.ebus/feed@7.0.0
 - pkg:maven/net.sf.ebus/feed@7.0.0?classifier=sources
+- pkg:maven/net.sf.ebus/feed@7.1.0
+- pkg:maven/net.sf.ebus/feed@7.1.0?classifier=sources

@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser-chrome@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser-chrome@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser-chrome@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser-chrome@RELEASE200?classifier=sources

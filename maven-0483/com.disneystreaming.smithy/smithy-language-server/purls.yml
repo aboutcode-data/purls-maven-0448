@@ -2,6 +2,8 @@
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-0009bf83?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-0964bb71
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-0964bb71?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-0c250694
+- pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-0c250694?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-1bac6089
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-1bac6089?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-1bb5e7d1
@@ -56,6 +58,8 @@
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-9efffb53?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-a002eae7
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-a002eae7?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-a8bfc343
+- pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-a8bfc343?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-adfbfd3f
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-adfbfd3f?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.0%2B0-b1a920a7
@@ -123,6 +127,8 @@
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.27?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.28
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.28?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.29
+- pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.29?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.2?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.3
 - pkg:maven/com.disneystreaming.smithy/smithy-language-server@0.0.3?classifier=sources

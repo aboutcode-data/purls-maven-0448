@@ -1,0 +1,4 @@
+- pkg:maven/io.github.spyrosmoux/opensearch-analysis-greeklish@2.11.0.1?classifier=sources
+- pkg:maven/io.github.spyrosmoux/opensearch-analysis-greeklish@2.11.0.1?type=zip
+- pkg:maven/io.github.spyrosmoux/opensearch-analysis-greeklish@2.8.0.1?classifier=sources
+- pkg:maven/io.github.spyrosmoux/opensearch-analysis-greeklish@2.8.0.1?type=zip

@@ -22,3 +22,4 @@
 - pkg:maven/org.apache.carbondata/carbondata-parent@2.1.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.carbondata/carbondata-parent@2.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.carbondata/carbondata-parent@2.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.carbondata/carbondata-parent@apache-carbondata-2.3.1-rc1?classifier=source-release&type=zip

@@ -30,3 +30,5 @@
 - pkg:maven/io.toolisticon.aptk/aptk-example-usecase@0.22.7?classifier=sources
 - pkg:maven/io.toolisticon.aptk/aptk-example-usecase@0.22.8
 - pkg:maven/io.toolisticon.aptk/aptk-example-usecase@0.22.8?classifier=sources
+- pkg:maven/io.toolisticon.aptk/aptk-example-usecase@0.22.9
+- pkg:maven/io.toolisticon.aptk/aptk-example-usecase@0.22.9?classifier=sources

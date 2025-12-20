@@ -167,3 +167,4 @@
 - pkg:maven/com.mparticle/android-plugin@5.53.0?classifier=sources
 - pkg:maven/com.mparticle/android-plugin@5.53.2?classifier=sources
 - pkg:maven/com.mparticle/android-plugin@5.54.0?classifier=sources
+- pkg:maven/com.mparticle/android-plugin@5.55.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-logback-logserver@3.3?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-logback-logserver@3.4
 - pkg:maven/se.sundsvall.dept44/dept44-starter-logback-logserver@3.4?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-logback-logserver@4.0
+- pkg:maven/se.sundsvall.dept44/dept44-starter-logback-logserver@4.0?classifier=sources

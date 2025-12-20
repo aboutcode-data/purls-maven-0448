@@ -1,0 +1,2 @@
+- pkg:maven/net.alphatab/alphaSkia@1.0.117?classifier=sources
+- pkg:maven/net.alphatab/alphaSkia@2.0.120?classifier=sources

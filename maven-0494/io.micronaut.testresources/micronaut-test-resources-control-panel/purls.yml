@@ -1,1 +1,3 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-control-panel@2.2.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-control-panel@2.3.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-control-panel@2.3.1?classifier=sources

@@ -123,6 +123,8 @@
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.23?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.24
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.24?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.25
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.25?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.2?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.3
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@2.5.3?classifier=sources
@@ -147,6 +149,8 @@
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.11?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.12
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.12?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.13
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.13?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.1?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.2
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.0.2?classifier=sources
@@ -168,3 +172,7 @@
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.1.0?classifier=sources
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.1.1
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.1.1?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.1.2
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.1.2?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.1.3
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-autoconfigure@3.1.3?classifier=sources

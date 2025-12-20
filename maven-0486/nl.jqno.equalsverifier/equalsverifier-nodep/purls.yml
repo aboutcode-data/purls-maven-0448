@@ -17,5 +17,7 @@
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.15.1?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.15.2?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.15.3?classifier=sources
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.15.4?classifier=sources
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.15.5?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.15?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@3.9.1?classifier=sources

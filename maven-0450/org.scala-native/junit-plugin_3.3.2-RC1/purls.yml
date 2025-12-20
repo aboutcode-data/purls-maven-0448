@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-native/junit-plugin_3.3.2-RC1@0.4.16
+- pkg:maven/org.scala-native/junit-plugin_3.3.2-RC1@0.4.16?classifier=sources

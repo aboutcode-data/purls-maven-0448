@@ -1,1 +1,3 @@
 - pkg:maven/com.gurobi/gurobi@10.0.3?classifier=sources
+- pkg:maven/com.gurobi/gurobi@11.0.0
+- pkg:maven/com.gurobi/gurobi@11.0.0?classifier=sources

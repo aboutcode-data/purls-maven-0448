@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm.at.stdlib/assert-is-integer@0.0.8?classifier=sources
 - pkg:maven/org.mvnpm.at.stdlib/assert-is-integer@0.1.0?classifier=sources

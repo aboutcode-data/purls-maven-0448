@@ -1,0 +1,1 @@
+- pkg:maven/org.jboss.integration/narayana-tomcat-all@2.0.0.Final?classifier=source-release&type=zip

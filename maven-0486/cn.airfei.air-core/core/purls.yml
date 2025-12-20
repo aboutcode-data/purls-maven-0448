@@ -93,3 +93,5 @@
 - pkg:maven/cn.airfei.air-core/core@3.0.4?classifier=sources
 - pkg:maven/cn.airfei.air-core/core@4.0.0
 - pkg:maven/cn.airfei.air-core/core@4.0.0?classifier=sources
+- pkg:maven/cn.airfei.air-core/core@5.0.0
+- pkg:maven/cn.airfei.air-core/core@5.0.0?classifier=sources

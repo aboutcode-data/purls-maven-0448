@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.boot/nacos-spring-boot-aot@0.3.0-RC
+- pkg:maven/com.alibaba.boot/nacos-spring-boot-aot@0.3.0-RC?classifier=sources

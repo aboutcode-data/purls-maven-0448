@@ -1,1 +1,2 @@
 - pkg:maven/com.projectmanager/projectmanagersdk@97.0.2178?classifier=sources
+- pkg:maven/com.projectmanager/projectmanagersdk@99.0.2550?classifier=sources

@@ -204,3 +204,5 @@
 - pkg:maven/org.ninjaframework/ninja-core@6.8.1?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-core@6.9.0
 - pkg:maven/org.ninjaframework/ninja-core@6.9.0?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-core@7.0.0
+- pkg:maven/org.ninjaframework/ninja-core@7.0.0?classifier=sources

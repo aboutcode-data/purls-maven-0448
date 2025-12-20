@@ -500,6 +500,10 @@
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.269?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates@5.0.270?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates@5.0.271?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates@5.0.272?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates@5.0.273?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.28?classifier=sources

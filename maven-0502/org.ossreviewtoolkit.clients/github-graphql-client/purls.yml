@@ -1,6 +1,8 @@
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@1.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@1.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@1.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@10.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@4.0.0?classifier=sources
@@ -10,3 +12,6 @@
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@7.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@8.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/github-graphql-client@9.0.0?classifier=sources

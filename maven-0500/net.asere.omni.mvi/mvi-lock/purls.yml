@@ -15,4 +15,5 @@
 - pkg:maven/net.asere.omni.mvi/mvi-lock@1.7.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-lock@1.7.1?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-lock@1.7.2?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-lock@1.7.3?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-lock@unspecified?classifier=sources

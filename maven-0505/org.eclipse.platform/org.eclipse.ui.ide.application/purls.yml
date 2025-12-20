@@ -44,3 +44,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.ide.application@1.5.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.ide.application@1.5.100
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.ide.application@1.5.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.ide.application@1.5.200
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.ide.application@1.5.200?classifier=sources

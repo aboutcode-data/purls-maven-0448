@@ -1,0 +1,12 @@
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-20231130
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-20231130?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-20231202
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-20231202?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-20231203
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-20231203?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-jdk17-20231130
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-jdk17-20231130?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-jdk17-20231203
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-jdk17-20231203?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-jdk17-20232101
+- pkg:maven/org.anyline/anyline-data-jdbc-gbase-postgres@8.7.1-jdk17-20232101?classifier=sources

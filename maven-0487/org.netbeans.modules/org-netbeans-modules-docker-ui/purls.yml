@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-ui@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-ui@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-ui@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-ui@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-ui@RELEASE90?classifier=sources

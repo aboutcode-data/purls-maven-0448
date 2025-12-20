@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-kit@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-kit@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-kit@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-kit@RELEASE200?classifier=sources

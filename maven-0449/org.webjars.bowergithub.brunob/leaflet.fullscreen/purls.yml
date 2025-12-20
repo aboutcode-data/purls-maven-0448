@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bowergithub.brunob/leaflet.fullscreen@2.0.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.brunob/leaflet.fullscreen@2.4.0
 - pkg:maven/org.webjars.bowergithub.brunob/leaflet.fullscreen@2.4.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.brunob/leaflet.fullscreen@3.0.0
+- pkg:maven/org.webjars.bowergithub.brunob/leaflet.fullscreen@3.0.0?classifier=sources

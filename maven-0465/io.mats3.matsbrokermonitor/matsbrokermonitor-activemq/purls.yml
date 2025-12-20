@@ -5,3 +5,4 @@
 - pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-activemq@0.1.4-2022-11-09?classifier=sources
 - pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-activemq@0.1.5-2022-11-13?classifier=sources
 - pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-activemq@0.1.6-2023-11-13?classifier=sources
+- pkg:maven/io.mats3.matsbrokermonitor/matsbrokermonitor-activemq@0.1.7-2023-11-28?classifier=sources

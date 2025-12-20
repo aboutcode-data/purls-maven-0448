@@ -63,6 +63,7 @@
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-yaml-provider@2.15.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-yaml-provider@2.15.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-yaml-provider@2.16.0-rc1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-yaml-provider@2.16.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-yaml-provider@2.6.0
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-yaml-provider@2.6.0-rc3
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-yaml-provider@2.6.0-rc3?classifier=sources

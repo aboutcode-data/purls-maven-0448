@@ -1,0 +1,2 @@
+- pkg:maven/io.github.karl-chanel/sentinel-prometheus-exporter@1.0.0
+- pkg:maven/io.github.karl-chanel/sentinel-prometheus-exporter@1.0.0?classifier=sources

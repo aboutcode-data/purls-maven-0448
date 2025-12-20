@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zk-api/doc-analysis-api@1.0.0
+- pkg:maven/io.github.zk-api/doc-analysis-api@1.0.0?classifier=sources

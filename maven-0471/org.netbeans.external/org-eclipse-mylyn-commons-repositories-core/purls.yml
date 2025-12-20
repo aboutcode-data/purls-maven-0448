@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-repositories-core@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-repositories-core@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-repositories-core@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-repositories-core@RELEASE200?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.types/jquery@3.5.27?classifier=sources
+- pkg:maven/org.mvnpm.at.types/jquery@3.5.29?classifier=sources

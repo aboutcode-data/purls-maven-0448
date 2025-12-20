@@ -1,2 +1,4 @@
 - pkg:maven/io.glutenproject/spark-sql-columnar-shims-spark32@1.0.0
 - pkg:maven/io.glutenproject/spark-sql-columnar-shims-spark32@1.0.0?classifier=sources
+- pkg:maven/io.glutenproject/spark-sql-columnar-shims-spark32@1.1.0
+- pkg:maven/io.glutenproject/spark-sql-columnar-shims-spark32@1.1.0?classifier=sources

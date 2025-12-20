@@ -1,1 +1,4 @@
 - pkg:maven/com.outsidesource/oskit-compose-jvm@3.0.0?classifier=sources
+- pkg:maven/com.outsidesource/oskit-compose-jvm@3.1.0?classifier=sources
+- pkg:maven/com.outsidesource/oskit-compose-jvm@3.2.0?classifier=sources
+- pkg:maven/com.outsidesource/oskit-compose-jvm@3.2.1?classifier=sources

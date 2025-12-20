@@ -1,6 +1,8 @@
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@1.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@1.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@1.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@10.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@4.0.0?classifier=sources
@@ -10,3 +12,6 @@
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/test-utils@7.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@8.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/test-utils@9.0.0?classifier=sources

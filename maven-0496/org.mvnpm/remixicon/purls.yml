@@ -1,1 +1,5 @@
 - pkg:maven/org.mvnpm/remixicon@3.5.0?classifier=sources
+- pkg:maven/org.mvnpm/remixicon@3.6.0?classifier=sources
+- pkg:maven/org.mvnpm/remixicon@3.7.0?classifier=sources
+- pkg:maven/org.mvnpm/remixicon@4.0.0?classifier=sources
+- pkg:maven/org.mvnpm/remixicon@4.0.1?classifier=sources
