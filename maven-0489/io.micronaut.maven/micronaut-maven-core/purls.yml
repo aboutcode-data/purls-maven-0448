@@ -62,3 +62,7 @@
 - pkg:maven/io.micronaut.maven/micronaut-maven-core@4.6.2?classifier=sources
 - pkg:maven/io.micronaut.maven/micronaut-maven-core@4.6.3
 - pkg:maven/io.micronaut.maven/micronaut-maven-core@4.6.3?classifier=sources
+- pkg:maven/io.micronaut.maven/micronaut-maven-core@4.7.0
+- pkg:maven/io.micronaut.maven/micronaut-maven-core@4.7.0?classifier=sources
+- pkg:maven/io.micronaut.maven/micronaut-maven-core@4.7.1
+- pkg:maven/io.micronaut.maven/micronaut-maven-core@4.7.1?classifier=sources

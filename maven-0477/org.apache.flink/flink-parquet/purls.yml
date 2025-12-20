@@ -56,3 +56,5 @@
 - pkg:maven/org.apache.flink/flink-parquet@1.8.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-parquet@1.8.3
 - pkg:maven/org.apache.flink/flink-parquet@1.8.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-parquet@2.0-preview1
+- pkg:maven/org.apache.flink/flink-parquet@2.0-preview1?classifier=sources

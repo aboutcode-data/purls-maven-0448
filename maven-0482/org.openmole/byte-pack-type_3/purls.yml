@@ -1,3 +1,5 @@
+- pkg:maven/org.openmole/byte-pack-type_3@0.10
+- pkg:maven/org.openmole/byte-pack-type_3@0.10?classifier=sources
 - pkg:maven/org.openmole/byte-pack-type_3@0.8
 - pkg:maven/org.openmole/byte-pack-type_3@0.8?classifier=sources
 - pkg:maven/org.openmole/byte-pack-type_3@0.9

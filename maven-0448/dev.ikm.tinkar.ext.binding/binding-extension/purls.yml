@@ -30,3 +30,9 @@
 - pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.74.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.75.0
 - pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.75.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.76.0
+- pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.76.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.77.0
+- pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.77.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.78.0
+- pkg:maven/dev.ikm.tinkar.ext.binding/binding-extension@1.78.0?classifier=sources

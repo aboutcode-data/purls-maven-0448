@@ -48,6 +48,8 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-local@1.1.1.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-local@1.1.2.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-local@1.1.2.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-local@1.1.3.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-local@1.1.3.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-local@2.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-local@2.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-local@3.0.0.CR1

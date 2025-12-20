@@ -1,1 +1,4 @@
 - pkg:maven/io.github.flaxoos/common-native@1.2.10?classifier=sources
+- pkg:maven/io.github.flaxoos/common-native@2.0.0?classifier=sources
+- pkg:maven/io.github.flaxoos/common-native@2.1.0?classifier=sources
+- pkg:maven/io.github.flaxoos/common-native@2.1.1?classifier=sources

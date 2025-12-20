@@ -1,0 +1,2 @@
+- pkg:maven/edu.berkeley.cs/ip-contributions_2.12@0.5.2
+- pkg:maven/edu.berkeley.cs/ip-contributions_2.12@0.5.2?classifier=sources

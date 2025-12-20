@@ -57,6 +57,14 @@
 - pkg:maven/com.heliorm/generate-model-plugin@0.99.102?classifier=sources
 - pkg:maven/com.heliorm/generate-model-plugin@0.99.103
 - pkg:maven/com.heliorm/generate-model-plugin@0.99.103?classifier=sources
+- pkg:maven/com.heliorm/generate-model-plugin@0.99.104
+- pkg:maven/com.heliorm/generate-model-plugin@0.99.104?classifier=sources
+- pkg:maven/com.heliorm/generate-model-plugin@0.99.105
+- pkg:maven/com.heliorm/generate-model-plugin@0.99.105?classifier=sources
+- pkg:maven/com.heliorm/generate-model-plugin@0.99.106
+- pkg:maven/com.heliorm/generate-model-plugin@0.99.106?classifier=sources
+- pkg:maven/com.heliorm/generate-model-plugin@0.99.107
+- pkg:maven/com.heliorm/generate-model-plugin@0.99.107?classifier=sources
 - pkg:maven/com.heliorm/generate-model-plugin@0.99.1?classifier=sources
 - pkg:maven/com.heliorm/generate-model-plugin@0.99.2
 - pkg:maven/com.heliorm/generate-model-plugin@0.99.2?classifier=sources

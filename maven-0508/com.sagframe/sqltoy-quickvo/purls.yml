@@ -158,3 +158,5 @@
 - pkg:maven/com.sagframe/sqltoy-quickvo@5.2.2?classifier=sources
 - pkg:maven/com.sagframe/sqltoy-quickvo@5.2.3
 - pkg:maven/com.sagframe/sqltoy-quickvo@5.2.3?classifier=sources
+- pkg:maven/com.sagframe/sqltoy-quickvo@5.2.4
+- pkg:maven/com.sagframe/sqltoy-quickvo@5.2.4?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-csharp-core@10.0.0.102753?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-csharp-core@10.2.0.105762?classifier=sources

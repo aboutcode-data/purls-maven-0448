@@ -53,3 +53,6 @@
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-nifi-rest@1.27.0
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-nifi-rest@1.27.0?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-nifi-rest@1.28.0
+- pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-nifi-rest@1.28.0?classifier=sources
+- pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-nifi-rest@1.28.1
+- pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-nifi-rest@1.28.1?classifier=sources

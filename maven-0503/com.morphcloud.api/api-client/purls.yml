@@ -1,1 +1,2 @@
 - pkg:maven/com.morphcloud.api/api-client@1.0.0?classifier=sources
+- pkg:maven/com.morphcloud.api/api-client@1.1.0?classifier=sources

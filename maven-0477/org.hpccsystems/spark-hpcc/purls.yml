@@ -989,6 +989,10 @@
 - pkg:maven/org.hpccsystems/spark-hpcc@9.2.8-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.4.106-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.4.106-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.4.112-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.4.112-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.4.114-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.4.114-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.4.26-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.4.26-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.4.34-1
@@ -1013,6 +1017,10 @@
 - pkg:maven/org.hpccsystems/spark-hpcc@9.6.36-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.6.38-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.6.38-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.6.64-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.6.64-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.6.66-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.6.66-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.12-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.12-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.14-1
@@ -1023,3 +1031,7 @@
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.32-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.34-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.34-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.8.38-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.8.38-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.8.40-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.8.40-1?classifier=sources

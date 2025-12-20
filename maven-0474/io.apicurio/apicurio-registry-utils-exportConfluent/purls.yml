@@ -90,3 +90,5 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.1?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.2?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.2?type=zip
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.3?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.3?type=zip

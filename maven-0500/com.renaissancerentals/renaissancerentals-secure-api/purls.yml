@@ -18,3 +18,8 @@
 - pkg:maven/com.renaissancerentals/renaissancerentals-secure-api@2.0.7-RELEASE?classifier=sources
 - pkg:maven/com.renaissancerentals/renaissancerentals-secure-api@2.0.8-RELEASE?classifier=sources
 - pkg:maven/com.renaissancerentals/renaissancerentals-secure-api@2.0.9-RELEASE?classifier=sources
+- pkg:maven/com.renaissancerentals/renaissancerentals-secure-api@2.1.1-RELEASE?classifier=sources
+- pkg:maven/com.renaissancerentals/renaissancerentals-secure-api@2.1.2-RELEASE?classifier=sources
+- pkg:maven/com.renaissancerentals/renaissancerentals-secure-api@3.0.0.RELEASE?classifier=sources
+- pkg:maven/com.renaissancerentals/renaissancerentals-secure-api@3.0.1.RELEASE?classifier=sources
+- pkg:maven/com.renaissancerentals/renaissancerentals-secure-api@5.0.1.RELEASE?classifier=sources

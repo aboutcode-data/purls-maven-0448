@@ -1,0 +1,2 @@
+- pkg:maven/work.alsace.mapmanagercos/MapManager-COSDownloader@1.2
+- pkg:maven/work.alsace.mapmanagercos/MapManager-COSDownloader@1.2?classifier=sources

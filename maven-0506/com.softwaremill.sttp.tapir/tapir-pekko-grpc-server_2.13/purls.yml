@@ -42,6 +42,10 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.11.6?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.11.7
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.11.7?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.11.8
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.11.8?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.11.9
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.11.9?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.7.6
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.7.6?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-server_2.13@1.8.0

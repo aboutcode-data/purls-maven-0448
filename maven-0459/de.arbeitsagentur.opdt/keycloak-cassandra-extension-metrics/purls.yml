@@ -34,3 +34,4 @@
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension-metrics@4.0.2-25.0
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension-metrics@4.0.3-25.0
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension-metrics@4.0.4-25.0
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-cassandra-extension-metrics@4.0.5-25.0

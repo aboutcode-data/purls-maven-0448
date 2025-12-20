@@ -6,3 +6,4 @@
 - pkg:maven/dev.zwander/kmpfile-macosx64@0.5.0?classifier=sources
 - pkg:maven/dev.zwander/kmpfile-macosx64@0.6.0?classifier=sources
 - pkg:maven/dev.zwander/kmpfile-macosx64@0.6.1?classifier=sources
+- pkg:maven/dev.zwander/kmpfile-macosx64@0.6.2?classifier=sources

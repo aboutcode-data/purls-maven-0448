@@ -1,2 +1,4 @@
 - pkg:maven/org.scalameta/scalafmt-config_native0.5_2.12@3.8.4-RC1
 - pkg:maven/org.scalameta/scalafmt-config_native0.5_2.12@3.8.4-RC1?classifier=sources
+- pkg:maven/org.scalameta/scalafmt-config_native0.5_2.12@3.8.4-RC2
+- pkg:maven/org.scalameta/scalafmt-config_native0.5_2.12@3.8.4-RC2?classifier=sources

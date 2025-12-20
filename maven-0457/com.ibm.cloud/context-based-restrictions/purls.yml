@@ -172,3 +172,7 @@
 - pkg:maven/com.ibm.cloud/context-based-restrictions@0.58.1?classifier=sources
 - pkg:maven/com.ibm.cloud/context-based-restrictions@0.58.2
 - pkg:maven/com.ibm.cloud/context-based-restrictions@0.58.2?classifier=sources
+- pkg:maven/com.ibm.cloud/context-based-restrictions@0.59.0
+- pkg:maven/com.ibm.cloud/context-based-restrictions@0.59.0?classifier=sources
+- pkg:maven/com.ibm.cloud/context-based-restrictions@0.60.0
+- pkg:maven/com.ibm.cloud/context-based-restrictions@0.60.0?classifier=sources

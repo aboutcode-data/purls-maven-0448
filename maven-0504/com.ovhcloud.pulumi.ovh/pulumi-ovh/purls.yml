@@ -2,3 +2,4 @@
 - pkg:maven/com.ovhcloud.pulumi.ovh/pulumi-ovh@0.49.0?classifier=sources
 - pkg:maven/com.ovhcloud.pulumi.ovh/pulumi-ovh@0.50.0?classifier=sources
 - pkg:maven/com.ovhcloud.pulumi.ovh/pulumi-ovh@0.50.1?classifier=sources
+- pkg:maven/com.ovhcloud.pulumi.ovh/pulumi-ovh@1.0.0?classifier=sources

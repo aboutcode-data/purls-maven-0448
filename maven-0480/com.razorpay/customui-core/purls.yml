@@ -1,1 +1,2 @@
 - pkg:maven/com.razorpay/customui-core@3.9.22?classifier=sources
+- pkg:maven/com.razorpay/customui-core@3.9.23?classifier=sources

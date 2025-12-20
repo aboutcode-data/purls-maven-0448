@@ -3,3 +3,4 @@
 - pkg:maven/org.mvnpm/react-hotkeys-hook@4.4.4?classifier=sources
 - pkg:maven/org.mvnpm/react-hotkeys-hook@4.5.0?classifier=sources
 - pkg:maven/org.mvnpm/react-hotkeys-hook@4.5.1?classifier=sources
+- pkg:maven/org.mvnpm/react-hotkeys-hook@4.6.1?classifier=sources

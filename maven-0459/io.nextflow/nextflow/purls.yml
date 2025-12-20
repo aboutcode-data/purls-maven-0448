@@ -451,3 +451,4 @@
 - pkg:maven/io.nextflow/nextflow@24.09.0-edge?classifier=sources
 - pkg:maven/io.nextflow/nextflow@24.09.1-edge?classifier=sources
 - pkg:maven/io.nextflow/nextflow@24.09.2-edge?classifier=sources
+- pkg:maven/io.nextflow/nextflow@24.10.0?classifier=sources

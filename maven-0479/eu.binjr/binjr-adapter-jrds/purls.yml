@@ -57,6 +57,8 @@
 - pkg:maven/eu.binjr/binjr-adapter-jrds@3.18.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-jrds@3.19.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-jrds@3.2.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-jrds@3.20.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-jrds@3.20.1?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-jrds@3.3.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-jrds@3.4.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-jrds@3.5.0?classifier=sources

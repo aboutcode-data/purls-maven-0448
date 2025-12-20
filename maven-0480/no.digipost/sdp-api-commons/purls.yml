@@ -122,3 +122,5 @@
 - pkg:maven/no.digipost/sdp-api-commons@5.0.0?classifier=sources
 - pkg:maven/no.digipost/sdp-api-commons@5.1.0
 - pkg:maven/no.digipost/sdp-api-commons@5.1.0?classifier=sources
+- pkg:maven/no.digipost/sdp-api-commons@5.1.1
+- pkg:maven/no.digipost/sdp-api-commons@5.1.1?classifier=sources

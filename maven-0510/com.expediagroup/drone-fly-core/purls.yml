@@ -4,3 +4,5 @@
 - pkg:maven/com.expediagroup/drone-fly-core@0.0.2?classifier=sources
 - pkg:maven/com.expediagroup/drone-fly-core@1.0.0
 - pkg:maven/com.expediagroup/drone-fly-core@1.0.0?classifier=sources
+- pkg:maven/com.expediagroup/drone-fly-core@1.0.2
+- pkg:maven/com.expediagroup/drone-fly-core@1.0.2?classifier=sources

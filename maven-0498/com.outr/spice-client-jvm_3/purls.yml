@@ -66,3 +66,5 @@
 - pkg:maven/com.outr/spice-client-jvm_3@0.5.8?classifier=sources
 - pkg:maven/com.outr/spice-client-jvm_3@0.5.9
 - pkg:maven/com.outr/spice-client-jvm_3@0.5.9?classifier=sources
+- pkg:maven/com.outr/spice-client-jvm_3@0.6.0
+- pkg:maven/com.outr/spice-client-jvm_3@0.6.0?classifier=sources

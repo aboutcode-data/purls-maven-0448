@@ -5,3 +5,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@1.6.0.2.06171?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@1.6.1.1.09061?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@1.6.1.1.09061?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@1.6.1.1.11131?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@1.6.1.1.11131?type=aar

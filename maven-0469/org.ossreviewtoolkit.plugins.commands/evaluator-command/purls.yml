@@ -50,7 +50,12 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@41.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/evaluator-command@6.0.0?classifier=sources

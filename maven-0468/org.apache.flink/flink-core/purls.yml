@@ -242,3 +242,5 @@
 - pkg:maven/org.apache.flink/flink-core@1.9.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-core@1.9.3
 - pkg:maven/org.apache.flink/flink-core@1.9.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-core@2.0-preview1
+- pkg:maven/org.apache.flink/flink-core@2.0-preview1?classifier=sources

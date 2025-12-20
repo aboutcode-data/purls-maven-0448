@@ -109,3 +109,5 @@
 - pkg:maven/io.trino/trino-benchto-benchmarks@460?classifier=sources
 - pkg:maven/io.trino/trino-benchto-benchmarks@461?classifier=sources
 - pkg:maven/io.trino/trino-benchto-benchmarks@462?classifier=sources
+- pkg:maven/io.trino/trino-benchto-benchmarks@463?classifier=sources
+- pkg:maven/io.trino/trino-benchto-benchmarks@464?classifier=sources

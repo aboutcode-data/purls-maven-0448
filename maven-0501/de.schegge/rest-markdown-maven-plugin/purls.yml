@@ -36,3 +36,5 @@
 - pkg:maven/de.schegge/rest-markdown-maven-plugin@1.4.3?classifier=sources
 - pkg:maven/de.schegge/rest-markdown-maven-plugin@1.4.4
 - pkg:maven/de.schegge/rest-markdown-maven-plugin@1.4.4?classifier=sources
+- pkg:maven/de.schegge/rest-markdown-maven-plugin@1.4.5
+- pkg:maven/de.schegge/rest-markdown-maven-plugin@1.4.5?classifier=sources

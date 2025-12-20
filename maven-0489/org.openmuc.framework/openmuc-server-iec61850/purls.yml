@@ -1,1 +1,2 @@
 - pkg:maven/org.openmuc.framework/openmuc-server-iec61850@0.20.0?classifier=sources
+- pkg:maven/org.openmuc.framework/openmuc-server-iec61850@0.20.1?classifier=sources

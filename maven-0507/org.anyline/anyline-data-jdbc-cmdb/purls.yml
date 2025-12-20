@@ -458,6 +458,12 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241012?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241016
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241016?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241022
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241107
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241107?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241120
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-20241120?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk11-20240826
@@ -470,6 +476,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk11-20240912?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk11-20241015
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk11-20241015?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk11-20241022
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk11-20241022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk17-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk17-20240505
@@ -736,3 +744,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk21-20241016?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk21-20241018
 - pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk21-20241018?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk21-20241022
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk21-20241022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk21-20241025
+- pkg:maven/org.anyline/anyline-data-jdbc-cmdb@8.7.2-jdk21-20241025?classifier=sources

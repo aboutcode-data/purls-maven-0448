@@ -32,6 +32,8 @@
 - pkg:maven/org.apache.arrow/arrow-memory-unsafe@16.1.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-memory-unsafe@17.0.0
 - pkg:maven/org.apache.arrow/arrow-memory-unsafe@17.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-memory-unsafe@18.0.0
+- pkg:maven/org.apache.arrow/arrow-memory-unsafe@18.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-memory-unsafe@2.0.0
 - pkg:maven/org.apache.arrow/arrow-memory-unsafe@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-memory-unsafe@3.0.0

@@ -1,0 +1,5 @@
+- pkg:maven/io.doraig/zen-java-engine@1.7?classifier=sources
+- pkg:maven/io.doraig/zen-java-engine@1.9.1?classifier=sources
+- pkg:maven/io.doraig/zen-java-engine@1.9.2?classifier=sources
+- pkg:maven/io.doraig/zen-java-engine@1.9.3?classifier=sources
+- pkg:maven/io.doraig/zen-java-engine@1.9?classifier=sources

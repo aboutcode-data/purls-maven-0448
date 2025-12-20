@@ -8,3 +8,4 @@
 - pkg:maven/com.svenjacobs.reveal/reveal-core-iosarm64@3.0.7?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-core-iosarm64@3.0.8?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-core-iosarm64@3.1.0?classifier=sources
+- pkg:maven/com.svenjacobs.reveal/reveal-core-iosarm64@3.1.1?classifier=sources

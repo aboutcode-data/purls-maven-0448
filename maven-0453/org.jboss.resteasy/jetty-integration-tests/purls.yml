@@ -1,4 +1,5 @@
 - pkg:maven/org.jboss.resteasy/jetty-integration-tests@6.2.10.Final
+- pkg:maven/org.jboss.resteasy/jetty-integration-tests@6.2.11.Final
 - pkg:maven/org.jboss.resteasy/jetty-integration-tests@6.2.6.Final
 - pkg:maven/org.jboss.resteasy/jetty-integration-tests@6.2.7.Final
 - pkg:maven/org.jboss.resteasy/jetty-integration-tests@6.2.8.Final
@@ -6,3 +7,4 @@
 - pkg:maven/org.jboss.resteasy/jetty-integration-tests@7.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy/jetty-integration-tests@7.0.0.Alpha2
 - pkg:maven/org.jboss.resteasy/jetty-integration-tests@7.0.0.Alpha3
+- pkg:maven/org.jboss.resteasy/jetty-integration-tests@7.0.0.Alpha4

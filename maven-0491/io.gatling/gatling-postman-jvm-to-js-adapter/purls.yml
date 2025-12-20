@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.0
+- pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.0?classifier=sources

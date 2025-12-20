@@ -788,3 +788,11 @@
 - pkg:maven/uk.gov.service.payments/testing@1.0.20241028115125?classifier=sources
 - pkg:maven/uk.gov.service.payments/testing@1.0.20241028115727
 - pkg:maven/uk.gov.service.payments/testing@1.0.20241028115727?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20241105102555
+- pkg:maven/uk.gov.service.payments/testing@1.0.20241105102555?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20241105103214
+- pkg:maven/uk.gov.service.payments/testing@1.0.20241105103214?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20241118085938
+- pkg:maven/uk.gov.service.payments/testing@1.0.20241118085938?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing@1.0.20241120144934
+- pkg:maven/uk.gov.service.payments/testing@1.0.20241120144934?classifier=sources

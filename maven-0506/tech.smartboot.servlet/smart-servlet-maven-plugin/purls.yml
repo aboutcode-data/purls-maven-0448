@@ -1,2 +1,4 @@
 - pkg:maven/tech.smartboot.servlet/smart-servlet-maven-plugin@2.0?classifier=sources
 - pkg:maven/tech.smartboot.servlet/smart-servlet-maven-plugin@2.1?classifier=sources
+- pkg:maven/tech.smartboot.servlet/smart-servlet-maven-plugin@2.3?classifier=sources
+- pkg:maven/tech.smartboot.servlet/smart-servlet-maven-plugin@2.4?classifier=sources

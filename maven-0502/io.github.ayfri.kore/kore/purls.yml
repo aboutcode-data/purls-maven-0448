@@ -44,6 +44,8 @@
 - pkg:maven/io.github.ayfri.kore/kore@1.15.0-1.21.1?classifier=sources
 - pkg:maven/io.github.ayfri.kore/kore@1.15.0-1.21?classifier=sources
 - pkg:maven/io.github.ayfri.kore/kore@1.15.1-1.21.1?classifier=sources
+- pkg:maven/io.github.ayfri.kore/kore@1.16.0-1.21.1?classifier=sources
+- pkg:maven/io.github.ayfri.kore/kore@1.17.0-1.21.1?classifier=sources
 - pkg:maven/io.github.ayfri.kore/kore@1.2.0-24w05a?classifier=sources
 - pkg:maven/io.github.ayfri.kore/kore@1.2.0-24w05b?classifier=sources
 - pkg:maven/io.github.ayfri.kore/kore@1.2.0-24w06a?classifier=sources

@@ -18,6 +18,7 @@
 - pkg:maven/net.corda/corda-standalone-shell@4.11?classifier=sources
 - pkg:maven/net.corda/corda-standalone-shell@4.12
 - pkg:maven/net.corda/corda-standalone-shell@4.12.1
+- pkg:maven/net.corda/corda-standalone-shell@4.12.2
 - pkg:maven/net.corda/corda-standalone-shell@4.12?classifier=sources
 - pkg:maven/net.corda/corda-standalone-shell@4.9
 - pkg:maven/net.corda/corda-standalone-shell@4.9.1

@@ -47,3 +47,5 @@
 - pkg:maven/io.github.csdn-mobile/DaVinci@1.0.3?type=aar
 - pkg:maven/io.github.csdn-mobile/DaVinci@1.0.4?type=aar
 - pkg:maven/io.github.csdn-mobile/DaVinci@1.0.6?type=aar
+- pkg:maven/io.github.csdn-mobile/DaVinci@1.0.8?type=aar
+- pkg:maven/io.github.csdn-mobile/DaVinci@1.0.9?type=aar
