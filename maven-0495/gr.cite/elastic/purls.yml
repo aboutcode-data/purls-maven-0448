@@ -12,3 +12,5 @@
 - pkg:maven/gr.cite/elastic@1.0.7?classifier=sources
 - pkg:maven/gr.cite/elastic@2.1.0
 - pkg:maven/gr.cite/elastic@2.1.0?classifier=sources
+- pkg:maven/gr.cite/elastic@2.1.4
+- pkg:maven/gr.cite/elastic@2.1.4?classifier=sources

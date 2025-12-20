@@ -3,3 +3,11 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.1-pre.811?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.1-pre.812?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.814?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.815?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.816?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.817?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.818?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.819?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.820?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.821?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc@0.38.2-pre.822?classifier=sources

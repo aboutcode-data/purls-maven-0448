@@ -1,0 +1,6 @@
+- pkg:maven/io.github.iscasdmo/dmo-connect-java@0.2.3.20241009-alpha?classifier=sources
+- pkg:maven/io.github.iscasdmo/dmo-connect-java@0.3.0.20241014-alpha?classifier=sources
+- pkg:maven/io.github.iscasdmo/dmo-connect-java@0.3.1.20241015-alpha?classifier=sources
+- pkg:maven/io.github.iscasdmo/dmo-connect-java@0.3.14.20241016-alpha?classifier=sources
+- pkg:maven/io.github.iscasdmo/dmo-connect-java@0.3.2.20241015-alpha?classifier=sources
+- pkg:maven/io.github.iscasdmo/dmo-connect-java@0.3.3.20241015-alpha?classifier=sources

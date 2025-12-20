@@ -78,6 +78,7 @@
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@6.0.7?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@6.0.8
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@6.0.8?classifier=sources
+- pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@6.0.9?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@7.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@7.0.1
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@7.0.10?classifier=sources
@@ -96,3 +97,4 @@
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@8.0.1?classifier=sources
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@8.0.2
 - pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@8.0.2?classifier=sources
+- pkg:maven/org.opendaylight.netconf/restconf-wadl-generator@8.0.3?classifier=sources

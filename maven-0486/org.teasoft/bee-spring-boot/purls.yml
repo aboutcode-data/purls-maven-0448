@@ -89,4 +89,14 @@
 - pkg:maven/org.teasoft/bee-spring-boot@2.2.boot3.0.13?classifier=sources
 - pkg:maven/org.teasoft/bee-spring-boot@2.2?classifier=sources
 - pkg:maven/org.teasoft/bee-spring-boot@2.4.0
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot2.7.18
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot2.7.18?classifier=sources
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot3.0.13
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot3.0.13?classifier=sources
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot3.1.12
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot3.1.12?classifier=sources
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot3.2.10
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot3.2.10?classifier=sources
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot3.3.3
+- pkg:maven/org.teasoft/bee-spring-boot@2.4.0.boot3.3.3?classifier=sources
 - pkg:maven/org.teasoft/bee-spring-boot@2.4.0?classifier=sources

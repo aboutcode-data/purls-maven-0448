@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-aws-trustedadvisor_3@7.28.24.2
+- pkg:maven/dev.zio/zio-aws-trustedadvisor_3@7.28.24.2?classifier=sources

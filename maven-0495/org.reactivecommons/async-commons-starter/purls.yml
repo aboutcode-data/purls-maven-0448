@@ -59,3 +59,4 @@
 - pkg:maven/org.reactivecommons/async-commons-starter@1.0.0-beta5
 - pkg:maven/org.reactivecommons/async-commons-starter@1.0.0-beta5?classifier=sources
 - pkg:maven/org.reactivecommons/async-commons-starter@1.0.0-beta7?classifier=sources
+- pkg:maven/org.reactivecommons/async-commons-starter@5.1.0-beta?classifier=sources

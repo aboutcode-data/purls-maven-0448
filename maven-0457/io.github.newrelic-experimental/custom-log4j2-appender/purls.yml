@@ -1,0 +1,2 @@
+- pkg:maven/io.github.newrelic-experimental/custom-log4j2-appender@0.0.8
+- pkg:maven/io.github.newrelic-experimental/custom-log4j2-appender@0.0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.1-SHAPSHOT?classifier=sources
+- pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.2-SHAPSHOT?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/lucide-static@0.446.0?classifier=sources
+- pkg:maven/org.mvnpm/lucide-static@0.452.0?classifier=sources

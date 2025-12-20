@@ -22,3 +22,5 @@
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-resource-throttler@3.3.0?classifier=sources
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-resource-throttler@3.3.1
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-resource-throttler@3.3.1?classifier=sources
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-resource-throttler@3.3.2
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-resource-throttler@3.3.2?classifier=sources

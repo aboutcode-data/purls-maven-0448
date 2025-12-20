@@ -1,2 +1,3 @@
 - pkg:maven/com.elanion.aem.connector/com.elanion.aem.connector.core@2.0.0
 - pkg:maven/com.elanion.aem.connector/com.elanion.aem.connector.core@2.0.0?classifier=sources
+- pkg:maven/com.elanion.aem.connector/com.elanion.aem.connector.core@2.0.1?classifier=sources

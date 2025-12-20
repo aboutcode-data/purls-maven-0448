@@ -176,3 +176,5 @@
 - pkg:maven/com.mybatis-flex/mybatis-flex-solon-plugin@1.9.6?classifier=sources
 - pkg:maven/com.mybatis-flex/mybatis-flex-solon-plugin@1.9.7
 - pkg:maven/com.mybatis-flex/mybatis-flex-solon-plugin@1.9.7?classifier=sources
+- pkg:maven/com.mybatis-flex/mybatis-flex-solon-plugin@1.9.8
+- pkg:maven/com.mybatis-flex/mybatis-flex-solon-plugin@1.9.8?classifier=sources

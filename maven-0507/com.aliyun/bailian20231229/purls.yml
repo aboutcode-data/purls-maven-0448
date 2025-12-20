@@ -26,3 +26,5 @@
 - pkg:maven/com.aliyun/bailian20231229@1.8.3?classifier=sources
 - pkg:maven/com.aliyun/bailian20231229@1.8.4
 - pkg:maven/com.aliyun/bailian20231229@1.8.4?classifier=sources
+- pkg:maven/com.aliyun/bailian20231229@1.9.0
+- pkg:maven/com.aliyun/bailian20231229@1.9.0?classifier=sources

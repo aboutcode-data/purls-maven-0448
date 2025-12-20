@@ -1,4 +1,6 @@
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.14@3.0.0
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.14@3.0.0-2-6342755f
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.14@3.0.0-2-6342755f?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.14@3.0.0-M1-17-2ee6a197
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.14@3.0.0-M1-17-2ee6a197?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.14@3.0.0-M1-18-99efad1f

@@ -800,6 +800,8 @@
 - pkg:maven/org.gweninterpreter/gwen-web@3.75.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@3.76.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@3.76.0?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@3.77.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@3.77.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@3.8.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@3.8.0?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@3.8.1?classifier=sources

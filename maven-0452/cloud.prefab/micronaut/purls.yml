@@ -68,6 +68,8 @@
 - pkg:maven/cloud.prefab/micronaut@0.3.22?classifier=sources
 - pkg:maven/cloud.prefab/micronaut@0.3.23
 - pkg:maven/cloud.prefab/micronaut@0.3.23?classifier=sources
+- pkg:maven/cloud.prefab/micronaut@0.3.24
+- pkg:maven/cloud.prefab/micronaut@0.3.24?classifier=sources
 - pkg:maven/cloud.prefab/micronaut@0.3.8
 - pkg:maven/cloud.prefab/micronaut@0.3.8?classifier=sources
 - pkg:maven/cloud.prefab/micronaut@0.3.8pre4

@@ -1,0 +1,2 @@
+- pkg:maven/com.powsybl/open-rao-crac-io-cse@6.1.0-RC
+- pkg:maven/com.powsybl/open-rao-crac-io-cse@6.1.0-RC?classifier=sources

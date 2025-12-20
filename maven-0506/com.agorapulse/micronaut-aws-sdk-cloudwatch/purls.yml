@@ -115,3 +115,4 @@
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-cloudwatch@3.1.8?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-cloudwatch@3.1.9?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-cloudwatch@3.2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-cloudwatch@3.3.0?classifier=sources

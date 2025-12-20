@@ -1,3 +1,5 @@
+- pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.10
+- pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.10?classifier=sources
 - pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.4
 - pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.4?classifier=sources
 - pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.5
@@ -10,3 +12,5 @@
 - pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.8?classifier=sources
 - pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.9
 - pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.71.9?classifier=sources
+- pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.72.0
+- pkg:maven/io.telicent.jena/rdf-abac-fuseki-server@0.72.0?classifier=sources

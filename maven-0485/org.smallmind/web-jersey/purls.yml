@@ -226,3 +226,5 @@
 - pkg:maven/org.smallmind/web-jersey@5.8.0?classifier=sources
 - pkg:maven/org.smallmind/web-jersey@5.9.0
 - pkg:maven/org.smallmind/web-jersey@5.9.0?classifier=sources
+- pkg:maven/org.smallmind/web-jersey@6.0.0
+- pkg:maven/org.smallmind/web-jersey@6.0.0?classifier=sources

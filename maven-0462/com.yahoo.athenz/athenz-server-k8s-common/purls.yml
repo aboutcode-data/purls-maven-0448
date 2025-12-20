@@ -10,3 +10,9 @@
 - pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.11.64?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.11.65
 - pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.11.65?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.11.66
+- pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.11.66?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.12.1
+- pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.12.1?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.12.2
+- pkg:maven/com.yahoo.athenz/athenz-server-k8s-common@1.12.2?classifier=sources

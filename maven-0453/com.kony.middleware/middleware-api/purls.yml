@@ -1,4 +1,5 @@
 - pkg:maven/com.kony.middleware/middleware-api@202404.0.1
+- pkg:maven/com.kony.middleware/middleware-api@202410.0.0
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.10
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.11
 - pkg:maven/com.kony.middleware/middleware-api@8.4.3.12

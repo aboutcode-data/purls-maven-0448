@@ -34,3 +34,4 @@
 - pkg:maven/org.apache.maven.doxia/doxia-sitetools@2.0.0-M6?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.doxia/doxia-sitetools@2.0.0-M7?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.doxia/doxia-sitetools@2.0.0-M8?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.doxia/doxia-sitetools@2.0.0?classifier=source-release&type=zip

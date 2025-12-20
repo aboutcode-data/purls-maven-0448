@@ -2,3 +2,5 @@
 - pkg:maven/cn.xuqiudong.basic/lcxm-common@1.0.1-2024?classifier=sources
 - pkg:maven/cn.xuqiudong.basic/lcxm-common@1.0.1?classifier=sources
 - pkg:maven/cn.xuqiudong.basic/lcxm-common@1.0.2-2024?classifier=sources
+- pkg:maven/cn.xuqiudong.basic/lcxm-common@1.0.3-2024?classifier=sources
+- pkg:maven/cn.xuqiudong.basic/lcxm-common@1.0.4-2024?classifier=sources

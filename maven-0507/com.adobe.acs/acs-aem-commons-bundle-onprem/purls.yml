@@ -1,2 +1,6 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-onprem@6.6.4
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-onprem@6.6.4?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-onprem@6.7.0
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-onprem@6.7.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-onprem@6.8.0
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-onprem@6.8.0?classifier=sources

@@ -22,5 +22,7 @@
 - pkg:maven/in.hocg.boot/mybatis-plus-generator@1.0.58?classifier=sources
 - pkg:maven/in.hocg.boot/mybatis-plus-generator@1.0.60
 - pkg:maven/in.hocg.boot/mybatis-plus-generator@1.0.60?classifier=sources
+- pkg:maven/in.hocg.boot/mybatis-plus-generator@1.0.61
+- pkg:maven/in.hocg.boot/mybatis-plus-generator@1.0.61?classifier=sources
 - pkg:maven/in.hocg.boot/mybatis-plus-generator@v1.0.46
 - pkg:maven/in.hocg.boot/mybatis-plus-generator@v1.0.46?classifier=sources

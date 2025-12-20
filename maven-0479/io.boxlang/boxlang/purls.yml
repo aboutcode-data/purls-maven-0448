@@ -1,0 +1,4 @@
+- pkg:maven/io.boxlang/boxlang@1.0.0-beta16?classifier=sources
+- pkg:maven/io.boxlang/boxlang@1.0.0-beta17?classifier=sources
+- pkg:maven/io.boxlang/boxlang@1.0.0-beta18?classifier=sources
+- pkg:maven/io.boxlang/boxlang@1.0.0-beta19?classifier=sources

@@ -102,6 +102,7 @@
 - pkg:maven/com.instabug.library/instabug-crash@13.2.1?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@13.3.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@13.4.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-crash@13.4.1-no-diagnostics?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@13.4.1?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@4.1.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-crash@4.1.0?type=aar

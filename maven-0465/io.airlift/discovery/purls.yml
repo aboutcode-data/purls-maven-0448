@@ -375,3 +375,11 @@
 - pkg:maven/io.airlift/discovery@266?classifier=sources
 - pkg:maven/io.airlift/discovery@267?classifier=sources
 - pkg:maven/io.airlift/discovery@268?classifier=sources
+- pkg:maven/io.airlift/discovery@269?classifier=sources
+- pkg:maven/io.airlift/discovery@270?classifier=sources
+- pkg:maven/io.airlift/discovery@271?classifier=sources
+- pkg:maven/io.airlift/discovery@272?classifier=sources
+- pkg:maven/io.airlift/discovery@273?classifier=sources
+- pkg:maven/io.airlift/discovery@274?classifier=sources
+- pkg:maven/io.airlift/discovery@275?classifier=sources
+- pkg:maven/io.airlift/discovery@276?classifier=sources

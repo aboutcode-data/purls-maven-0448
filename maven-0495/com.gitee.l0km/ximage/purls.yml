@@ -1,2 +1,6 @@
 - pkg:maven/com.gitee.l0km/ximage@1.0.0
 - pkg:maven/com.gitee.l0km/ximage@1.0.0?classifier=sources
+- pkg:maven/com.gitee.l0km/ximage@2.0.0
+- pkg:maven/com.gitee.l0km/ximage@2.0.0?classifier=sources
+- pkg:maven/com.gitee.l0km/ximage@2.0.1
+- pkg:maven/com.gitee.l0km/ximage@2.0.1?classifier=sources

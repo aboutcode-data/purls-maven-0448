@@ -10,3 +10,5 @@
 - pkg:maven/io.gitee.ezhuwx/QzWidgetTools@1.0.3.88?classifier=sources
 - pkg:maven/io.gitee.ezhuwx/QzWidgetTools@1.0.4.01?classifier=sources
 - pkg:maven/io.gitee.ezhuwx/QzWidgetTools@1.0.4.10?classifier=sources
+- pkg:maven/io.gitee.ezhuwx/QzWidgetTools@1.0.4.20?classifier=sources
+- pkg:maven/io.gitee.ezhuwx/QzWidgetTools@1.0.4.25?classifier=sources

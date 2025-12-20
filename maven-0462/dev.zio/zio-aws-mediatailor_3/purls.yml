@@ -478,3 +478,5 @@
 - pkg:maven/dev.zio/zio-aws-mediatailor_3@7.21.15.8?classifier=sources
 - pkg:maven/dev.zio/zio-aws-mediatailor_3@7.21.15.9
 - pkg:maven/dev.zio/zio-aws-mediatailor_3@7.21.15.9?classifier=sources
+- pkg:maven/dev.zio/zio-aws-mediatailor_3@7.28.24.2
+- pkg:maven/dev.zio/zio-aws-mediatailor_3@7.28.24.2?classifier=sources

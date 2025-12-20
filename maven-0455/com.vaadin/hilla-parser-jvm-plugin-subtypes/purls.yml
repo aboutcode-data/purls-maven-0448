@@ -16,3 +16,7 @@
 - pkg:maven/com.vaadin/hilla-parser-jvm-plugin-subtypes@24.4.7?classifier=sources
 - pkg:maven/com.vaadin/hilla-parser-jvm-plugin-subtypes@24.4.8
 - pkg:maven/com.vaadin/hilla-parser-jvm-plugin-subtypes@24.4.8?classifier=sources
+- pkg:maven/com.vaadin/hilla-parser-jvm-plugin-subtypes@24.4.9
+- pkg:maven/com.vaadin/hilla-parser-jvm-plugin-subtypes@24.4.9?classifier=sources
+- pkg:maven/com.vaadin/hilla-parser-jvm-plugin-subtypes@24.5.0
+- pkg:maven/com.vaadin/hilla-parser-jvm-plugin-subtypes@24.5.0?classifier=sources

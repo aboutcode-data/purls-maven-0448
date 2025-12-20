@@ -13,3 +13,4 @@
 - pkg:maven/com.jashmore/sqs-brave-tracing@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/sqs-brave-tracing@5.1.0?classifier=sources
 - pkg:maven/com.jashmore/sqs-brave-tracing@6.0.0?classifier=sources
+- pkg:maven/com.jashmore/sqs-brave-tracing@7.0.0?classifier=sources

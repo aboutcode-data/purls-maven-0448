@@ -126,3 +126,9 @@
 - pkg:maven/net.xiaoboli.jishi/framework@1.6.6?classifier=sources
 - pkg:maven/net.xiaoboli.jishi/framework@1.6.7
 - pkg:maven/net.xiaoboli.jishi/framework@1.6.7?classifier=sources
+- pkg:maven/net.xiaoboli.jishi/framework@1.7.0
+- pkg:maven/net.xiaoboli.jishi/framework@1.7.0?classifier=sources
+- pkg:maven/net.xiaoboli.jishi/framework@1.8.0
+- pkg:maven/net.xiaoboli.jishi/framework@1.8.0?classifier=sources
+- pkg:maven/net.xiaoboli.jishi/framework@1.8.1
+- pkg:maven/net.xiaoboli.jishi/framework@1.8.1?classifier=sources

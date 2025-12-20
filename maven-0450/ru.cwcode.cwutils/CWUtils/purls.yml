@@ -6,3 +6,5 @@
 - pkg:maven/ru.cwcode.cwutils/CWUtils@2.2.0?classifier=sources
 - pkg:maven/ru.cwcode.cwutils/CWUtils@2.3.1
 - pkg:maven/ru.cwcode.cwutils/CWUtils@2.3.1?classifier=sources
+- pkg:maven/ru.cwcode.cwutils/CWUtils@2.4.0
+- pkg:maven/ru.cwcode.cwutils/CWUtils@2.4.0?classifier=sources

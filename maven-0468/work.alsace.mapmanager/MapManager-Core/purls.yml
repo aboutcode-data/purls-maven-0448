@@ -11,4 +11,8 @@
 - pkg:maven/work.alsace.mapmanager/MapManager-Core@3.1.4?classifier=sources
 - pkg:maven/work.alsace.mapmanager/MapManager-Core@3.1.5
 - pkg:maven/work.alsace.mapmanager/MapManager-Core@3.1.5?classifier=sources
+- pkg:maven/work.alsace.mapmanager/MapManager-Core@3.1.7
+- pkg:maven/work.alsace.mapmanager/MapManager-Core@3.1.7?classifier=sources
+- pkg:maven/work.alsace.mapmanager/MapManager-Core@3.1.8
+- pkg:maven/work.alsace.mapmanager/MapManager-Core@3.1.8?classifier=sources
 - pkg:maven/work.alsace.mapmanager/MapManager-Core@3.1?classifier=sources

@@ -67,6 +67,7 @@
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.10
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.11
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.12
+- pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.13
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.2
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.3
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.4
@@ -75,3 +76,4 @@
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.7
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.8
 - pkg:maven/com.vaadin/vaadin-testbench-junit5@24.4.9
+- pkg:maven/com.vaadin/vaadin-testbench-junit5@24.5.0

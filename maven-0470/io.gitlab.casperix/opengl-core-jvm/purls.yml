@@ -5,3 +5,4 @@
 - pkg:maven/io.gitlab.casperix/opengl-core-jvm@0.5.2?classifier=sources
 - pkg:maven/io.gitlab.casperix/opengl-core-jvm@0.5.3?classifier=sources
 - pkg:maven/io.gitlab.casperix/opengl-core-jvm@0.9.1?classifier=sources
+- pkg:maven/io.gitlab.casperix/opengl-core-jvm@1.0.0?classifier=sources

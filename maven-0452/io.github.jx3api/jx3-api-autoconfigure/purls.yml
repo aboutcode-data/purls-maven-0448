@@ -1,1 +1,4 @@
 - pkg:maven/io.github.jx3api/jx3-api-autoconfigure@1.0?classifier=sources
+- pkg:maven/io.github.jx3api/jx3-api-autoconfigure@1.1?classifier=sources
+- pkg:maven/io.github.jx3api/jx3-api-autoconfigure@1.2.1?classifier=sources
+- pkg:maven/io.github.jx3api/jx3-api-autoconfigure@1.2?classifier=sources

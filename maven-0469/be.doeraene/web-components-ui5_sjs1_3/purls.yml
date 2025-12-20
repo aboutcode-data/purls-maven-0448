@@ -24,7 +24,9 @@
 - pkg:maven/be.doeraene/web-components-ui5_sjs1_3@1.9.2?classifier=sources
 - pkg:maven/be.doeraene/web-components-ui5_sjs1_3@1.9.3
 - pkg:maven/be.doeraene/web-components-ui5_sjs1_3@1.9.3?classifier=sources
+- pkg:maven/be.doeraene/web-components-ui5_sjs1_3@2.0.0
 - pkg:maven/be.doeraene/web-components-ui5_sjs1_3@2.0.0-RC1
 - pkg:maven/be.doeraene/web-components-ui5_sjs1_3@2.0.0-RC1?classifier=sources
 - pkg:maven/be.doeraene/web-components-ui5_sjs1_3@2.0.0-RC2
 - pkg:maven/be.doeraene/web-components-ui5_sjs1_3@2.0.0-RC2?classifier=sources
+- pkg:maven/be.doeraene/web-components-ui5_sjs1_3@2.0.0?classifier=sources

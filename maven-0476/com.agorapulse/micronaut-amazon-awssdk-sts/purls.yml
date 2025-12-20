@@ -114,3 +114,4 @@
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sts@3.1.8?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sts@3.1.9?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sts@3.2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-sts@3.3.0?classifier=sources

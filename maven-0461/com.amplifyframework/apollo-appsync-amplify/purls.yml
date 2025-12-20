@@ -1,1 +1,2 @@
 - pkg:maven/com.amplifyframework/apollo-appsync-amplify@1.0.0?classifier=sources
+- pkg:maven/com.amplifyframework/apollo-appsync-amplify@1.1.0?classifier=sources

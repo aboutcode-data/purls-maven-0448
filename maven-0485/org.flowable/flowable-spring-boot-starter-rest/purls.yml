@@ -14,3 +14,4 @@
 - pkg:maven/org.flowable/flowable-spring-boot-starter-rest@7.0.0.M1
 - pkg:maven/org.flowable/flowable-spring-boot-starter-rest@7.0.0.M2
 - pkg:maven/org.flowable/flowable-spring-boot-starter-rest@7.0.1
+- pkg:maven/org.flowable/flowable-spring-boot-starter-rest@7.1.0

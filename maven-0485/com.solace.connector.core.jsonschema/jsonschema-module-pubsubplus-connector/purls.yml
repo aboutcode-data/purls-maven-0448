@@ -1,3 +1,5 @@
+- pkg:maven/com.solace.connector.core.jsonschema/jsonschema-module-pubsubplus-connector@2.10.0
+- pkg:maven/com.solace.connector.core.jsonschema/jsonschema-module-pubsubplus-connector@2.10.0?classifier=sources
 - pkg:maven/com.solace.connector.core.jsonschema/jsonschema-module-pubsubplus-connector@2.3.0
 - pkg:maven/com.solace.connector.core.jsonschema/jsonschema-module-pubsubplus-connector@2.3.0?classifier=sources
 - pkg:maven/com.solace.connector.core.jsonschema/jsonschema-module-pubsubplus-connector@2.4.0

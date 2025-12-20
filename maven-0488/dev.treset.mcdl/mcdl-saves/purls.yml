@@ -1,0 +1,2 @@
+- pkg:maven/dev.treset.mcdl/mcdl-saves@1.0.0?classifier=sources
+- pkg:maven/dev.treset.mcdl/mcdl-saves@2.0.0?classifier=sources

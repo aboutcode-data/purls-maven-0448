@@ -1,1 +1,2 @@
 - pkg:maven/org.bitbucket.tbrugz/qon-web@0.7?type=war
+- pkg:maven/org.bitbucket.tbrugz/qon-web@0.8?type=war

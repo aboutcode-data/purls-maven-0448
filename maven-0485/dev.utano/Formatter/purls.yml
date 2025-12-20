@@ -1,1 +1,2 @@
 - pkg:maven/dev.utano/Formatter@1.0?classifier=sources
+- pkg:maven/dev.utano/Formatter@1.1?classifier=sources

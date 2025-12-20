@@ -82,3 +82,5 @@
 - pkg:maven/org.oxerr.viagogo.cached/gogokit-client-cached-core@6.3.1?classifier=sources
 - pkg:maven/org.oxerr.viagogo.cached/gogokit-client-cached-core@6.4.0
 - pkg:maven/org.oxerr.viagogo.cached/gogokit-client-cached-core@6.4.0?classifier=sources
+- pkg:maven/org.oxerr.viagogo.cached/gogokit-client-cached-core@6.4.1
+- pkg:maven/org.oxerr.viagogo.cached/gogokit-client-cached-core@6.4.1?classifier=sources

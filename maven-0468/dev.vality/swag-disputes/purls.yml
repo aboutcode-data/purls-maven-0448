@@ -26,3 +26,7 @@
 - pkg:maven/dev.vality/swag-disputes@1.17-8e552ef-client?classifier=sources
 - pkg:maven/dev.vality/swag-disputes@1.17-8e552ef-server
 - pkg:maven/dev.vality/swag-disputes@1.17-8e552ef-server?classifier=sources
+- pkg:maven/dev.vality/swag-disputes@1.18-fc22f97-client
+- pkg:maven/dev.vality/swag-disputes@1.18-fc22f97-client?classifier=sources
+- pkg:maven/dev.vality/swag-disputes@1.18-fc22f97-server
+- pkg:maven/dev.vality/swag-disputes@1.18-fc22f97-server?classifier=sources

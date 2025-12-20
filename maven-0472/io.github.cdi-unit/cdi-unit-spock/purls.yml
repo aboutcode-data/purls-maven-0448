@@ -1,3 +1,4 @@
 - pkg:maven/io.github.cdi-unit/cdi-unit-spock@5.0.0-EA4?classifier=sources
 - pkg:maven/io.github.cdi-unit/cdi-unit-spock@5.0.0-EA5?classifier=sources
+- pkg:maven/io.github.cdi-unit/cdi-unit-spock@5.0.0-EA7?classifier=sources
 - pkg:maven/io.github.cdi-unit/cdi-unit-spock@cdi-unit-5.0.0-EA5?classifier=sources

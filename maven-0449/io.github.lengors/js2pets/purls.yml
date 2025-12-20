@@ -10,3 +10,7 @@
 - pkg:maven/io.github.lengors/js2pets@1.1.0-dev.1?classifier=sources
 - pkg:maven/io.github.lengors/js2pets@1.1.0-dev.2?classifier=sources
 - pkg:maven/io.github.lengors/js2pets@1.1.0?classifier=sources
+- pkg:maven/io.github.lengors/js2pets@1.1.1-alpha.1?classifier=sources
+- pkg:maven/io.github.lengors/js2pets@1.1.1-beta.1?classifier=sources
+- pkg:maven/io.github.lengors/js2pets@1.1.1-dev.1?classifier=sources
+- pkg:maven/io.github.lengors/js2pets@1.1.1?classifier=sources

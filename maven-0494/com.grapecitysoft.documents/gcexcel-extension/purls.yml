@@ -1,1 +1,2 @@
 - pkg:maven/com.grapecitysoft.documents/gcexcel-extension@7.2.2?classifier=sources
+- pkg:maven/com.grapecitysoft.documents/gcexcel-extension@7.2.3?classifier=sources

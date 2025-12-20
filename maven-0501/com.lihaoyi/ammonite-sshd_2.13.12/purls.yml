@@ -3,6 +3,8 @@
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.13.12@2.5.9-2-7633e640
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.13.12@2.5.9-2-7633e640?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.13.12@3.0.0
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.13.12@3.0.0-2-6342755f
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.13.12@3.0.0-2-6342755f?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.13.12@3.0.0-M0-52-d2acc162
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.13.12@3.0.0-M0-52-d2acc162?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-sshd_2.13.12@3.0.0-M0-53-084f7f4e

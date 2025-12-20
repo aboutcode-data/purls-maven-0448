@@ -75,3 +75,5 @@
 - pkg:maven/com.palantir.tritium/tritium-processor@0.91.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-processor@0.92.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-processor@0.93.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-processor@0.94.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-processor@0.95.0?classifier=sources
