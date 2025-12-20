@@ -46,3 +46,5 @@
 - pkg:maven/io.wcm/io.wcm.wcm.parsys@1.7.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.wcm.parsys@1.7.2
 - pkg:maven/io.wcm/io.wcm.wcm.parsys@1.7.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.wcm.parsys@1.7.4
+- pkg:maven/io.wcm/io.wcm.wcm.parsys@1.7.4?classifier=sources

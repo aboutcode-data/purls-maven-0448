@@ -1,0 +1,1 @@
+- pkg:maven/org.testcontainers/k6@1.19.7?classifier=sources

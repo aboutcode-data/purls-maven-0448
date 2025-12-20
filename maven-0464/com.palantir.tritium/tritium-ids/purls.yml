@@ -5,3 +5,4 @@
 - pkg:maven/com.palantir.tritium/tritium-ids@0.80.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-ids@0.81.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-ids@0.82.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-ids@0.83.0?classifier=sources

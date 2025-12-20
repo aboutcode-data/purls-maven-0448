@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.10.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.10.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.4.100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.4.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.engine@2.5.0

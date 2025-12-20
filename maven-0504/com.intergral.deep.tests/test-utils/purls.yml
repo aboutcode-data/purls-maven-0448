@@ -10,3 +10,5 @@
 - pkg:maven/com.intergral.deep.tests/test-utils@1.1.4?classifier=sources
 - pkg:maven/com.intergral.deep.tests/test-utils@1.2.0
 - pkg:maven/com.intergral.deep.tests/test-utils@1.2.0?classifier=sources
+- pkg:maven/com.intergral.deep.tests/test-utils@1.2.1
+- pkg:maven/com.intergral.deep.tests/test-utils@1.2.1?classifier=sources

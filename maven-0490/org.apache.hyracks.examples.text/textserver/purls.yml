@@ -13,3 +13,5 @@
 - pkg:maven/org.apache.hyracks.examples.text/textserver@0.3.7.1
 - pkg:maven/org.apache.hyracks.examples.text/textserver@0.3.8
 - pkg:maven/org.apache.hyracks.examples.text/textserver@0.3.8.1
+- pkg:maven/org.apache.hyracks.examples.text/textserver@0.3.8.2
+- pkg:maven/org.apache.hyracks.examples.text/textserver@0.3.9

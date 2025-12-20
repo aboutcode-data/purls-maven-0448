@@ -34,6 +34,8 @@
 - pkg:maven/net.sf.jstuff/jstuff-core@7.0.0?classifier=sources
 - pkg:maven/net.sf.jstuff/jstuff-core@7.1.0
 - pkg:maven/net.sf.jstuff/jstuff-core@7.1.0?classifier=sources
+- pkg:maven/net.sf.jstuff/jstuff-core@7.10.0
+- pkg:maven/net.sf.jstuff/jstuff-core@7.10.0?classifier=sources
 - pkg:maven/net.sf.jstuff/jstuff-core@7.2.0
 - pkg:maven/net.sf.jstuff/jstuff-core@7.2.0?classifier=sources
 - pkg:maven/net.sf.jstuff/jstuff-core@7.3.0

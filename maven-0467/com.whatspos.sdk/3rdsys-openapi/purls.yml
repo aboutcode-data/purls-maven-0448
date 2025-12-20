@@ -26,3 +26,5 @@
 - pkg:maven/com.whatspos.sdk/3rdsys-openapi@9.2.0?classifier=sources
 - pkg:maven/com.whatspos.sdk/3rdsys-openapi@9.2.1
 - pkg:maven/com.whatspos.sdk/3rdsys-openapi@9.2.1?classifier=sources
+- pkg:maven/com.whatspos.sdk/3rdsys-openapi@9.2.2
+- pkg:maven/com.whatspos.sdk/3rdsys-openapi@9.2.2?classifier=sources

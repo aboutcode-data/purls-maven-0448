@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-anthropic@0.28.0
+- pkg:maven/dev.langchain4j/langchain4j-anthropic@0.28.0?classifier=sources

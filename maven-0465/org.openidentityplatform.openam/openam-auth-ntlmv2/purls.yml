@@ -10,3 +10,5 @@
 - pkg:maven/org.openidentityplatform.openam/openam-auth-ntlmv2@14.8.2?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/openam-auth-ntlmv2@14.8.3
 - pkg:maven/org.openidentityplatform.openam/openam-auth-ntlmv2@14.8.3?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-auth-ntlmv2@14.8.4
+- pkg:maven/org.openidentityplatform.openam/openam-auth-ntlmv2@14.8.4?classifier=sources

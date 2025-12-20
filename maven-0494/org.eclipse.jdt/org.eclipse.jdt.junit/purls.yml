@@ -52,5 +52,7 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit@3.16.100?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit@3.16.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit@3.16.200?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit@3.16.300
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit@3.16.300?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit@3.9.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit@3.9.0?classifier=sources

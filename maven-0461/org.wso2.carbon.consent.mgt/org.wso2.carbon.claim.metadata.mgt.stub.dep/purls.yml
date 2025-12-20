@@ -200,3 +200,5 @@
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.5.2?classifier=sources
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.5.4
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.5.4?classifier=sources
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.5.5
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.claim.metadata.mgt.stub.dep@2.5.5?classifier=sources

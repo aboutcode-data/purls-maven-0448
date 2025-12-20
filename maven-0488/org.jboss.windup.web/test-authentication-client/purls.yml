@@ -120,3 +120,4 @@
 - pkg:maven/org.jboss.windup.web/test-authentication-client@6.3.4.Final
 - pkg:maven/org.jboss.windup.web/test-authentication-client@6.3.5.Final
 - pkg:maven/org.jboss.windup.web/test-authentication-client@6.3.6.Final
+- pkg:maven/org.jboss.windup.web/test-authentication-client@6.3.7.Final

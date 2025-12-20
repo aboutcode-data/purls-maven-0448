@@ -44,3 +44,5 @@
 - pkg:maven/net.ravendb/ravendb-test-driver@5.4.3?classifier=sources
 - pkg:maven/net.ravendb/ravendb-test-driver@6.0.0
 - pkg:maven/net.ravendb/ravendb-test-driver@6.0.0?classifier=sources
+- pkg:maven/net.ravendb/ravendb-test-driver@6.0.1
+- pkg:maven/net.ravendb/ravendb-test-driver@6.0.1?classifier=sources

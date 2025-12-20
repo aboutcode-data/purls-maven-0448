@@ -11,3 +11,4 @@
 - pkg:maven/com.factset.sdk/irnmeetings@1.0.6?classifier=sources
 - pkg:maven/com.factset.sdk/irnmeetings@1.0.7?classifier=sources
 - pkg:maven/com.factset.sdk/irnmeetings@2.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/irnmeetings@2.0.1?classifier=sources

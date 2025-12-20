@@ -90,3 +90,5 @@
 - pkg:maven/com.michaelpollmeier/scala-repl-pp-shaded-libs_3@0.1.81?classifier=sources
 - pkg:maven/com.michaelpollmeier/scala-repl-pp-shaded-libs_3@0.1.82
 - pkg:maven/com.michaelpollmeier/scala-repl-pp-shaded-libs_3@0.1.82?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala-repl-pp-shaded-libs_3@0.1.83
+- pkg:maven/com.michaelpollmeier/scala-repl-pp-shaded-libs_3@0.1.83?classifier=sources

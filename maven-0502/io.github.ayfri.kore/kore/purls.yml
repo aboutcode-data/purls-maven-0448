@@ -24,3 +24,5 @@
 - pkg:maven/io.github.ayfri.kore/kore@1.2.0-24w05b?classifier=sources
 - pkg:maven/io.github.ayfri.kore/kore@1.2.0-24w06a?classifier=sources
 - pkg:maven/io.github.ayfri.kore/kore@1.2.0-24w07a?classifier=sources
+- pkg:maven/io.github.ayfri.kore/kore@1.3.0-24w09a?classifier=sources
+- pkg:maven/io.github.ayfri.kore/kore@1.4.0-24w10a?classifier=sources

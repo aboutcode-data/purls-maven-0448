@@ -31,3 +31,4 @@
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@1.5.4
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@1.5.5
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@1.5.6
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-itest@1.5.7

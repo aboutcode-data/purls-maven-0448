@@ -19,6 +19,7 @@
 - pkg:maven/me.proton.core/mail-send-preferences-domain@18.2.2?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences-domain@18.2.3?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences-domain@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@18.2.5?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences-domain@18.3.0?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences-domain@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences-domain@18.4.1?classifier=sources
@@ -26,3 +27,9 @@
 - pkg:maven/me.proton.core/mail-send-preferences-domain@19.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences-domain@19.1.0?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences-domain@20.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@21.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@21.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@21.2.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@21.2.1?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@22.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences-domain@22.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/work.alsace.mapmanager/MapManager-Core@3.0
+- pkg:maven/work.alsace.mapmanager/MapManager-Core@3.0?classifier=sources

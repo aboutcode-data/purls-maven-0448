@@ -32,6 +32,8 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.31.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.32.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.32.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.33.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.33.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.4.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.5.0-alpha?classifier=sources
@@ -50,3 +52,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@1.9.2-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@2.0.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@2.1.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-jetty-httpclient-9.2@2.2.0-alpha?classifier=sources

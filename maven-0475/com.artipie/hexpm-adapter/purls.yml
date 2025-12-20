@@ -12,6 +12,8 @@
 - pkg:maven/com.artipie/hexpm-adapter@v0.1.9?classifier=sources
 - pkg:maven/com.artipie/hexpm-adapter@v0.30.13
 - pkg:maven/com.artipie/hexpm-adapter@v0.30.13?classifier=sources
+- pkg:maven/com.artipie/hexpm-adapter@v0.30.14
+- pkg:maven/com.artipie/hexpm-adapter@v0.30.14?classifier=sources
 - pkg:maven/com.artipie/hexpm-adapter@v1.17.10
 - pkg:maven/com.artipie/hexpm-adapter@v1.17.10?classifier=sources
 - pkg:maven/com.artipie/hexpm-adapter@v1.17.2

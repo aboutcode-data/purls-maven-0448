@@ -64,3 +64,5 @@
 - pkg:maven/com.tosan.server.http/tosan-httpserver-spring-boot-sample@2.0.8?classifier=sources
 - pkg:maven/com.tosan.server.http/tosan-httpserver-spring-boot-sample@2.0.9
 - pkg:maven/com.tosan.server.http/tosan-httpserver-spring-boot-sample@2.0.9?classifier=sources
+- pkg:maven/com.tosan.server.http/tosan-httpserver-spring-boot-sample@2.1.0
+- pkg:maven/com.tosan.server.http/tosan-httpserver-spring-boot-sample@2.1.0?classifier=sources

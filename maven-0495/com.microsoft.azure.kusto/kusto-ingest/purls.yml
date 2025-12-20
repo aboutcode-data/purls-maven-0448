@@ -92,3 +92,4 @@
 - pkg:maven/com.microsoft.azure.kusto/kusto-ingest@5.0.2?classifier=sources
 - pkg:maven/com.microsoft.azure.kusto/kusto-ingest@5.0.3?classifier=sources
 - pkg:maven/com.microsoft.azure.kusto/kusto-ingest@5.0.4?classifier=sources
+- pkg:maven/com.microsoft.azure.kusto/kusto-ingest@5.0.5?classifier=sources

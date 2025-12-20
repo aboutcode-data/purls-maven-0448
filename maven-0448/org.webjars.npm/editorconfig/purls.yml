@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/editorconfig@0.15.2?classifier=sources
 - pkg:maven/org.webjars.npm/editorconfig@0.15.3
 - pkg:maven/org.webjars.npm/editorconfig@0.15.3?classifier=sources
+- pkg:maven/org.webjars.npm/editorconfig@1.0.4
+- pkg:maven/org.webjars.npm/editorconfig@1.0.4?classifier=sources

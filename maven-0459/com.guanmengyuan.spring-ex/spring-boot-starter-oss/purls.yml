@@ -59,6 +59,8 @@
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-oss@1.2.37?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-oss@1.2.38
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-oss@1.2.38?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-oss@1.2.39
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-oss@1.2.39?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-oss@1.2.3?classifier=sources
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-oss@1.2.4
 - pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-oss@1.2.4?classifier=sources

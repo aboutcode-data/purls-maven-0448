@@ -16,3 +16,4 @@
 - pkg:maven/org.apache.skywalking/kafka-reporter-plugin@8.9.0
 - pkg:maven/org.apache.skywalking/kafka-reporter-plugin@9.0.0
 - pkg:maven/org.apache.skywalking/kafka-reporter-plugin@9.1.0
+- pkg:maven/org.apache.skywalking/kafka-reporter-plugin@9.2.0

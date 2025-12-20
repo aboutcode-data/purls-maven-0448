@@ -66,3 +66,4 @@
 - pkg:maven/com.codeborne/selenide-proxy@7.0.6?classifier=sources
 - pkg:maven/com.codeborne/selenide-proxy@7.1.0?classifier=sources
 - pkg:maven/com.codeborne/selenide-proxy@7.2.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-proxy@7.2.1?classifier=sources

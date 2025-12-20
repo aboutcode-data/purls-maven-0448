@@ -7,3 +7,5 @@
 - pkg:maven/io.qameta.allure/allure-awaitility@2.23.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-awaitility@2.24.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-awaitility@2.25.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-awaitility@2.26.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-awaitility@2.27.0?classifier=sources

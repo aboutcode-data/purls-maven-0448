@@ -104,6 +104,12 @@
 - pkg:maven/io.github.lsd-consulting/lsd-core@7.0.1?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-core@7.0.20?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-core@7.0.21?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-core@7.0.22?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-core@7.0.23?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-core@7.0.24?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-core@7.0.25?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-core@7.0.27?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-core@7.0.28?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-core@7.0.2?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-core@7.0.3?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-core@7.0.4?classifier=sources

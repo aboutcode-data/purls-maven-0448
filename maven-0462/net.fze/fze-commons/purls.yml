@@ -1,1 +1,2 @@
 - pkg:maven/net.fze/fze-commons@0.4.7?classifier=sources
+- pkg:maven/net.fze/fze-commons@0.4.8?classifier=sources

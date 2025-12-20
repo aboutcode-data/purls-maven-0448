@@ -48,6 +48,7 @@
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.4.9-R2?classifier=sources
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.4.9?classifier=sources
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.4?classifier=sources
+- pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0-Alpha
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0-Alpha2
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0-Alpha2?classifier=sources
@@ -96,3 +97,8 @@
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0-R3?classifier=sources
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0-R4
 - pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0-R4?classifier=sources
+- pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0-RC
+- pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0-RC?classifier=sources
+- pkg:maven/io.github.kloping/bot-qqpd-java@1.5.0?classifier=sources
+- pkg:maven/io.github.kloping/bot-qqpd-java@1.5.1-Beta1
+- pkg:maven/io.github.kloping/bot-qqpd-java@1.5.1-Beta1?classifier=sources

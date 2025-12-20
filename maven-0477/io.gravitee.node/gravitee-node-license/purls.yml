@@ -202,6 +202,10 @@
 - pkg:maven/io.gravitee.node/gravitee-node-license@4.8.1?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-license@4.8.2
 - pkg:maven/io.gravitee.node/gravitee-node-license@4.8.2?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@4.8.3
+- pkg:maven/io.gravitee.node/gravitee-node-license@4.8.3?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@4.8.4
+- pkg:maven/io.gravitee.node/gravitee-node-license@4.8.4?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.0.0
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.0.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.0.1
@@ -210,6 +214,18 @@
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.0.2?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.1.0
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.1.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.10.0
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.10.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.11.0
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.11.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.12.0
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.12.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.12.1
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.12.1?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.12.2
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.12.2?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.12.3
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.12.3?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.2.0
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.2.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.3.0
@@ -232,3 +248,7 @@
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.8.0?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.8.1
 - pkg:maven/io.gravitee.node/gravitee-node-license@5.8.1?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.9.0
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.9.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.9.1
+- pkg:maven/io.gravitee.node/gravitee-node-license@5.9.1?classifier=sources

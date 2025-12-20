@@ -13,6 +13,8 @@
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@13.1
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@13.10
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@13.10?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@13.11
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@13.11?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@13.12
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@13.12?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@13.1?classifier=sources
@@ -38,3 +40,9 @@
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@14.3?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@14.5
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@14.5?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@14.6
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@14.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@14.7
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@14.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@15.1
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@15.1?classifier=sources

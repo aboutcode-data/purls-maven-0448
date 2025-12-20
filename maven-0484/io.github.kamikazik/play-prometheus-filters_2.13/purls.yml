@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kamikazik/play-prometheus-filters_2.13@0.7.0
+- pkg:maven/io.github.kamikazik/play-prometheus-filters_2.13@0.7.0?classifier=sources

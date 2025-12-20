@@ -8,6 +8,7 @@
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@1.6.1?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.0.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.1.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.10.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.2.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.3.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.4.0?classifier=sources
@@ -17,3 +18,4 @@
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.7.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.7.1?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.8.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.9.0?classifier=sources

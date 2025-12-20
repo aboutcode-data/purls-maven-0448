@@ -1,0 +1,2 @@
+- pkg:maven/top.lingkang/final-session-jakarta@4.0.0
+- pkg:maven/top.lingkang/final-session-jakarta@4.0.0?classifier=sources

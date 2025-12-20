@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.security/wildfly-elytron-dynamic-ssl@2.4.0.CR1
+- pkg:maven/org.wildfly.security/wildfly-elytron-dynamic-ssl@2.4.0.CR1?classifier=sources

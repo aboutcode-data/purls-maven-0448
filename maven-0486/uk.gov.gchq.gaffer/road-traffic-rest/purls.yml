@@ -194,3 +194,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-rest@2.0.0?type=war
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-rest@2.1.0?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/road-traffic-rest@2.1.0?type=war
+- pkg:maven/uk.gov.gchq.gaffer/road-traffic-rest@2.2.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/road-traffic-rest@2.2.0?type=war

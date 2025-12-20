@@ -10,3 +10,11 @@
 - pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.0.0-jdk8
 - pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.0.0-jdk8?classifier=sources
 - pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.0.0?classifier=sources
+- pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.1.0
+- pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.1.0-jdk8
+- pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.1.0-jdk8?classifier=sources
+- pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.1.0?classifier=sources
+- pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.1.1
+- pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.1.1-jdk8
+- pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.1.1-jdk8?classifier=sources
+- pkg:maven/io.github.genie-cloud/sql-genie-jpa@1.1.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.37.16?classifier=sources
+- pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.37.19?classifier=sources

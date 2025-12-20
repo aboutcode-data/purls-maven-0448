@@ -306,6 +306,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@5.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@5.0.13
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@5.0.13?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@5.0.14?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@5.0.2
@@ -471,6 +472,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@6.0.50
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@6.0.50?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@6.0.51?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@6.0.52?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@6.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@6.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@6.0.6
@@ -539,6 +541,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.122?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.123?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.124?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.125?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.126?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.127?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.12?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.13

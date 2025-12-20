@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/lib0@0.2.53
 - pkg:maven/org.webjars.npm/lib0@0.2.53?classifier=sources
+- pkg:maven/org.webjars.npm/lib0@0.2.93
+- pkg:maven/org.webjars.npm/lib0@0.2.93?classifier=sources

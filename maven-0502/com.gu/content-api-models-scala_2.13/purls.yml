@@ -166,3 +166,15 @@
 - pkg:maven/com.gu/content-api-models-scala_2.13@19.0.1?classifier=sources
 - pkg:maven/com.gu/content-api-models-scala_2.13@20.0.0
 - pkg:maven/com.gu/content-api-models-scala_2.13@20.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.13@20.1.0
+- pkg:maven/com.gu/content-api-models-scala_2.13@20.1.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.13@21.0.0
+- pkg:maven/com.gu/content-api-models-scala_2.13@21.0.0-PREVIEW.agschema-org-field.2024-03-01T1602.c5a81993
+- pkg:maven/com.gu/content-api-models-scala_2.13@21.0.0-PREVIEW.agschema-org-field.2024-03-01T1602.c5a81993?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.13@21.0.0-PREVIEW.agschema-org-field.2024-03-05T1018.a555b63a
+- pkg:maven/com.gu/content-api-models-scala_2.13@21.0.0-PREVIEW.agschema-org-field.2024-03-05T1018.a555b63a?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.13@21.0.0-PREVIEW.db-rt-ebremove-metadata-provided.2024-03-07T1207.cd929deb
+- pkg:maven/com.gu/content-api-models-scala_2.13@21.0.0-PREVIEW.db-rt-ebremove-metadata-provided.2024-03-07T1207.cd929deb?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.13@21.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.13@22.0.0
+- pkg:maven/com.gu/content-api-models-scala_2.13@22.0.0?classifier=sources
