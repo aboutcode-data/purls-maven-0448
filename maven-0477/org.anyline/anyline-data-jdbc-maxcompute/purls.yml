@@ -1,0 +1,6 @@
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20240827
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20240827?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20240827
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20240827?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20240827
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20240827?classifier=sources

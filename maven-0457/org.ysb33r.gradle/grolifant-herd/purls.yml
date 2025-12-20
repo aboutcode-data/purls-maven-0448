@@ -13,3 +13,4 @@
 - pkg:maven/org.ysb33r.gradle/grolifant-herd@2.2.3?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant-herd@3.0.0?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant-herd@3.0.1?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant-herd@4.0.0?classifier=sources

@@ -144,3 +144,4 @@
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.89?classifier=sources
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.8?classifier=sources
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.91?classifier=sources
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat9-slf4j-logback@9.0.93?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.cidaas/cidaas-quarkus-extension@1.0.0
 - pkg:maven/de.cidaas/cidaas-quarkus-extension@1.0.0?classifier=sources
+- pkg:maven/de.cidaas/cidaas-quarkus-extension@2.0.0
+- pkg:maven/de.cidaas/cidaas-quarkus-extension@2.0.0?classifier=sources

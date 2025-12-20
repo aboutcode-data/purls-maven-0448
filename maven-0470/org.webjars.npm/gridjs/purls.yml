@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/gridjs@5.1.0
 - pkg:maven/org.webjars.npm/gridjs@5.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/gridjs@6.2.0

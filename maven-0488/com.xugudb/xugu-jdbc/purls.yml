@@ -6,3 +6,5 @@
 - pkg:maven/com.xugudb/xugu-jdbc@12.2.0?classifier=sources
 - pkg:maven/com.xugudb/xugu-jdbc@12.3.0
 - pkg:maven/com.xugudb/xugu-jdbc@12.3.0?classifier=sources
+- pkg:maven/com.xugudb/xugu-jdbc@12.3.1
+- pkg:maven/com.xugudb/xugu-jdbc@12.3.1?classifier=sources

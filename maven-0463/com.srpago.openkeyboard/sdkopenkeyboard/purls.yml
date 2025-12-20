@@ -1,2 +1,3 @@
 - pkg:maven/com.srpago.openkeyboard/sdkopenkeyboard@0.4.0?classifier=sources
 - pkg:maven/com.srpago.openkeyboard/sdkopenkeyboard@0.6.6?classifier=sources
+- pkg:maven/com.srpago.openkeyboard/sdkopenkeyboard@0.6.7?classifier=sources

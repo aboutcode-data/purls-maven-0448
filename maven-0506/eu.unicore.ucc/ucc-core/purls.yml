@@ -1,0 +1,2 @@
+- pkg:maven/eu.unicore.ucc/ucc-core@2.7.0
+- pkg:maven/eu.unicore.ucc/ucc-core@2.7.0?classifier=sources

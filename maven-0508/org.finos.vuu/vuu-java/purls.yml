@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.vuu/vuu-java@0.9.72
+- pkg:maven/org.finos.vuu/vuu-java@0.9.72?classifier=sources

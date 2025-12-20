@@ -202,3 +202,5 @@
 - pkg:maven/org.ofdrw/ofdrw-converter@2.3.0?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-converter@2.3.1
 - pkg:maven/org.ofdrw/ofdrw-converter@2.3.1?classifier=sources
+- pkg:maven/org.ofdrw/ofdrw-converter@2.3.2
+- pkg:maven/org.ofdrw/ofdrw-converter@2.3.2?classifier=sources

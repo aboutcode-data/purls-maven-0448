@@ -83,6 +83,8 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8520-ietf-acldns@13.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8520-ietf-acldns@13.0.4
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8520-ietf-acldns@13.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8520-ietf-acldns@13.0.5
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8520-ietf-acldns@13.0.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8520-ietf-acldns@14.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8520-ietf-acldns@14.0.1
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8520-ietf-acldns@14.0.1?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/com.trimble/trimble-id@1.0.2-RC2?classifier=sources
 - pkg:maven/com.trimble/trimble-id@1.0.2-RC3
 - pkg:maven/com.trimble/trimble-id@1.0.2-RC3?classifier=sources
+- pkg:maven/com.trimble/trimble-id@1.0.2-RC4
+- pkg:maven/com.trimble/trimble-id@1.0.2-RC4?classifier=sources
+- pkg:maven/com.trimble/trimble-id@1.0.2-beta.20240826
+- pkg:maven/com.trimble/trimble-id@1.0.2-beta.20240826?classifier=sources

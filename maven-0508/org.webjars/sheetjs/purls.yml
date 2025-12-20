@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars/sheetjs@0.12.4
+- pkg:maven/org.webjars/sheetjs@0.18.7

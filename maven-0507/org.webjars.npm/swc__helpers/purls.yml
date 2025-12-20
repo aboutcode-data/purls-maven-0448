@@ -9,6 +9,7 @@
 - pkg:maven/org.webjars.npm/swc__helpers@0.4.14
 - pkg:maven/org.webjars.npm/swc__helpers@0.4.14?classifier=sources
 - pkg:maven/org.webjars.npm/swc__helpers@0.5.1
+- pkg:maven/org.webjars.npm/swc__helpers@0.5.12
 - pkg:maven/org.webjars.npm/swc__helpers@0.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/swc__helpers@0.5.3
 - pkg:maven/org.webjars.npm/swc__helpers@0.5.3?classifier=sources

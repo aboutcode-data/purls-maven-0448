@@ -286,3 +286,5 @@
 - pkg:maven/org.dbflute.utflute/utflute-mocklet@0.9.7?classifier=sources
 - pkg:maven/org.dbflute.utflute/utflute-mocklet@0.9.8
 - pkg:maven/org.dbflute.utflute/utflute-mocklet@0.9.8?classifier=sources
+- pkg:maven/org.dbflute.utflute/utflute-mocklet@2.0.0
+- pkg:maven/org.dbflute.utflute/utflute-mocklet@2.0.0?classifier=sources

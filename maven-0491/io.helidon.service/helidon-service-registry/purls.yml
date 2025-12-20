@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.service/helidon-service-registry@4.1.0
+- pkg:maven/io.helidon.service/helidon-service-registry@4.1.0?classifier=sources

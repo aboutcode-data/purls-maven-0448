@@ -9,4 +9,6 @@
 - pkg:maven/com.github.davidmoten/parallel-exec-maven-plugin@0.1.4?classifier=sources
 - pkg:maven/com.github.davidmoten/parallel-exec-maven-plugin@0.1.6
 - pkg:maven/com.github.davidmoten/parallel-exec-maven-plugin@0.1.6?classifier=sources
+- pkg:maven/com.github.davidmoten/parallel-exec-maven-plugin@0.1.7
+- pkg:maven/com.github.davidmoten/parallel-exec-maven-plugin@0.1.7?classifier=sources
 - pkg:maven/com.github.davidmoten/parallel-exec-maven-plugin@0.1?classifier=sources

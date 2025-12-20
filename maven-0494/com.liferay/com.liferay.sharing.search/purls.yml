@@ -71,3 +71,4 @@
 - pkg:maven/com.liferay/com.liferay.sharing.search@3.0.7
 - pkg:maven/com.liferay/com.liferay.sharing.search@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.search@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.search@3.0.9?classifier=sources

@@ -276,3 +276,5 @@
 - pkg:maven/org.dbflute.utflute/utflute-lastaflute@1.5.1?classifier=sources
 - pkg:maven/org.dbflute.utflute/utflute-lastaflute@1.5.2
 - pkg:maven/org.dbflute.utflute/utflute-lastaflute@1.5.2?classifier=sources
+- pkg:maven/org.dbflute.utflute/utflute-lastaflute@2.0.0
+- pkg:maven/org.dbflute.utflute/utflute-lastaflute@2.0.0?classifier=sources

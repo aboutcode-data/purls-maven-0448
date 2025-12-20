@@ -1,0 +1,2 @@
+- pkg:maven/org.httpobjects.websockets/httpobjects-websockets@0.55.0?classifier=sources
+- pkg:maven/org.httpobjects.websockets/httpobjects-websockets@1.0.0.pre1?classifier=sources

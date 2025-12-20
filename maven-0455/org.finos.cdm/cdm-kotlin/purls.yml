@@ -136,6 +136,8 @@
 - pkg:maven/org.finos.cdm/cdm-kotlin@5.14.0?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-kotlin@5.14.1
 - pkg:maven/org.finos.cdm/cdm-kotlin@5.14.1?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-kotlin@5.15.0
+- pkg:maven/org.finos.cdm/cdm-kotlin@5.15.0?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-kotlin@5.2.0
 - pkg:maven/org.finos.cdm/cdm-kotlin@5.2.0?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-kotlin@5.3.2
@@ -264,6 +266,10 @@
 - pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.61?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.62
 - pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.62?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.64
+- pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.64?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.65
+- pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.65?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.8
 - pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.8?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-kotlin@6.0.0-dev.9

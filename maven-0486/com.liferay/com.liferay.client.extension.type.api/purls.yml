@@ -4,6 +4,7 @@
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@1.0.1
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@1.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.client.extension.type.api@10.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@2.0.0?classifier=sources-commercial
@@ -86,3 +87,4 @@
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@8.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@8.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.type.api@9.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.client.extension.type.api@9.1.0?classifier=sources

@@ -5,5 +5,7 @@
 - pkg:maven/io.debezium/debezium-system-tests@2.7.0.Beta1
 - pkg:maven/io.debezium/debezium-system-tests@2.7.0.Beta2
 - pkg:maven/io.debezium/debezium-system-tests@2.7.0.Final
+- pkg:maven/io.debezium/debezium-system-tests@2.7.1.Final
 - pkg:maven/io.debezium/debezium-system-tests@3.0.0.Alpha1
 - pkg:maven/io.debezium/debezium-system-tests@3.0.0.Alpha2
+- pkg:maven/io.debezium/debezium-system-tests@3.0.0.Beta1

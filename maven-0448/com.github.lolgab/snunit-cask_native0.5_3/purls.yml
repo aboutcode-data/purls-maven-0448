@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lolgab/snunit-cask_native0.5_3@0.10.1
+- pkg:maven/com.github.lolgab/snunit-cask_native0.5_3@0.10.1?classifier=sources

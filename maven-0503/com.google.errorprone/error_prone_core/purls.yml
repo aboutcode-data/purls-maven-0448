@@ -178,6 +178,10 @@
 - pkg:maven/com.google.errorprone/error_prone_core@2.3.3?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_core@2.3.4
 - pkg:maven/com.google.errorprone/error_prone_core@2.3.4?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_core@2.30.0
+- pkg:maven/com.google.errorprone/error_prone_core@2.30.0?classifier=sources
+- pkg:maven/com.google.errorprone/error_prone_core@2.31.0
+- pkg:maven/com.google.errorprone/error_prone_core@2.31.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_core@2.4.0
 - pkg:maven/com.google.errorprone/error_prone_core@2.4.0?classifier=sources
 - pkg:maven/com.google.errorprone/error_prone_core@2.5.0

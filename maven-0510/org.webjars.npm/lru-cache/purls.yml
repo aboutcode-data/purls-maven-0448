@@ -6,6 +6,7 @@
 - pkg:maven/org.webjars.npm/lru-cache@10.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/lru-cache@10.2.0
 - pkg:maven/org.webjars.npm/lru-cache@10.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/lru-cache@10.4.3
 - pkg:maven/org.webjars.npm/lru-cache@2.0.0
 - pkg:maven/org.webjars.npm/lru-cache@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/lru-cache@2.0.4

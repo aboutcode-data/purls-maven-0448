@@ -1,0 +1,14 @@
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@1.0?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@1.1?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@2.0.0-beta?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@2.0.0?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@2.0.1?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@3.0.0-beta?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@3.0.0?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@3.1.0?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@3.1.1?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@3.1.2?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@3.2.0?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@3.3.0?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@3.3.1?classifier=sources
+- pkg:maven/io.github.k3nder/lwjgl-util-lib@4.0.0?classifier=sources

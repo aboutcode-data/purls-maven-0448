@@ -2,3 +2,5 @@
 - pkg:maven/com.aliyun/es_serverless20230627@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/es_serverless20230627@2.0.0
 - pkg:maven/com.aliyun/es_serverless20230627@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/es_serverless20230627@2.1.0
+- pkg:maven/com.aliyun/es_serverless20230627@2.1.0?classifier=sources

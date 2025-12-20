@@ -82,5 +82,11 @@
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.40.3?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.41.0
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.41.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.43.0
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.43.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.44.0
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.44.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.45.3
+- pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.45.3?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.6.0
 - pkg:maven/ru.i-novus.ms.rdm.sync/rdm-sync-spring-boot-starter@1.6.0?classifier=sources

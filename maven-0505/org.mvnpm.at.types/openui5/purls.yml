@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm.at.types/openui5@1.120.0?classifier=sources
 - pkg:maven/org.mvnpm.at.types/openui5@1.120.1?classifier=sources
 - pkg:maven/org.mvnpm.at.types/openui5@1.122.0?classifier=sources
+- pkg:maven/org.mvnpm.at.types/openui5@1.127.0?classifier=sources

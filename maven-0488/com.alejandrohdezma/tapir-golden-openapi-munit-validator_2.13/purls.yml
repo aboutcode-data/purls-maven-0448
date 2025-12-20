@@ -16,3 +16,5 @@
 - pkg:maven/com.alejandrohdezma/tapir-golden-openapi-munit-validator_2.13@0.6.2?classifier=sources
 - pkg:maven/com.alejandrohdezma/tapir-golden-openapi-munit-validator_2.13@0.7.0
 - pkg:maven/com.alejandrohdezma/tapir-golden-openapi-munit-validator_2.13@0.7.0?classifier=sources
+- pkg:maven/com.alejandrohdezma/tapir-golden-openapi-munit-validator_2.13@1.0.0
+- pkg:maven/com.alejandrohdezma/tapir-golden-openapi-munit-validator_2.13@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.google-ai-edge/litert-metadata@0.1.0
+- pkg:maven/io.github.google-ai-edge/litert-metadata@0.1.0?classifier=sources

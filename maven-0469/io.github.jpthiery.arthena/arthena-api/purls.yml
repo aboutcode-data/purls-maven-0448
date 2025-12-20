@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jpthiery.arthena/arthena-api@0.1.1?classifier=sources
+- pkg:maven/io.github.jpthiery.arthena/arthena-api@0.1.4?classifier=sources

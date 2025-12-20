@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.tractusx.edc/federated-catalog@0.8.0-rc1?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/federated-catalog@0.8.0-rc2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.soundness/diuretic-core@0.15.0
+- pkg:maven/dev.soundness/diuretic-core@0.15.0?classifier=sources

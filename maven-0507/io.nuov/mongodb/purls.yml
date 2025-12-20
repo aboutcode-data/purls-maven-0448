@@ -1,0 +1,2 @@
+- pkg:maven/io.nuov/mongodb@1.0.11?classifier=sources
+- pkg:maven/io.nuov/mongodb@1.0.12?classifier=sources

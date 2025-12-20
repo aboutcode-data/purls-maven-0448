@@ -80,3 +80,5 @@
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@6.0.5?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@6.0.6
 - pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@6.0.6?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@6.0.7
+- pkg:maven/org.imixs.workflow/imixs-workflow-index-lucene@6.0.7?classifier=sources

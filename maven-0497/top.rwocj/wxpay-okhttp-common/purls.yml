@@ -1,0 +1,8 @@
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.12
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.12-javax
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.12-javax?classifier=sources
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.12?classifier=sources
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.13
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.13-javax
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.13-javax?classifier=sources
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.13?classifier=sources

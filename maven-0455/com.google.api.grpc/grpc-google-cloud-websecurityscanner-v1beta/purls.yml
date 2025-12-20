@@ -64,6 +64,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.133.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.134.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.134.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.135.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.135.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.60.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.60.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-websecurityscanner-v1beta@0.61.0

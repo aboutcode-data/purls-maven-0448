@@ -6,3 +6,6 @@
 - pkg:maven/io.github.bluegroundltd/transactional-outbox-core@0.4.0?classifier=sources
 - pkg:maven/io.github.bluegroundltd/transactional-outbox-core@1.0.0?classifier=sources
 - pkg:maven/io.github.bluegroundltd/transactional-outbox-core@2.0.0?classifier=sources
+- pkg:maven/io.github.bluegroundltd/transactional-outbox-core@2.0.3?classifier=sources
+- pkg:maven/io.github.bluegroundltd/transactional-outbox-core@2.0.4?classifier=sources
+- pkg:maven/io.github.bluegroundltd/transactional-outbox-core@2.1.0?classifier=sources

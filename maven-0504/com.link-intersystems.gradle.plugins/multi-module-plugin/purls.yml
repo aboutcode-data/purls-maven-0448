@@ -1,1 +1,4 @@
 - pkg:maven/com.link-intersystems.gradle.plugins/multi-module-plugin@0.5.0?classifier=sources
+- pkg:maven/com.link-intersystems.gradle.plugins/multi-module-plugin@0.5.2?classifier=sources
+- pkg:maven/com.link-intersystems.gradle.plugins/multi-module-plugin@0.5.3?classifier=sources
+- pkg:maven/com.link-intersystems.gradle.plugins/multi-module-plugin@0.5.4?classifier=sources

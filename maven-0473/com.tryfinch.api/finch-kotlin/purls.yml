@@ -56,3 +56,7 @@
 - pkg:maven/com.tryfinch.api/finch-kotlin@0.8.1?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-kotlin@0.9.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-kotlin@1.0.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin@1.0.1?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin@1.1.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin@1.2.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin@1.2.1?classifier=sources

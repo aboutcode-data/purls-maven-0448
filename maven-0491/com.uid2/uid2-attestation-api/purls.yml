@@ -8,3 +8,5 @@
 - pkg:maven/com.uid2/uid2-attestation-api@1.6.0-9665e9805f?classifier=sources
 - pkg:maven/com.uid2/uid2-attestation-api@2.0.0-f968aec0e3
 - pkg:maven/com.uid2/uid2-attestation-api@2.0.0-f968aec0e3?classifier=sources
+- pkg:maven/com.uid2/uid2-attestation-api@2.1.6
+- pkg:maven/com.uid2/uid2-attestation-api@2.1.6?classifier=sources

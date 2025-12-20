@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jeff-tian/keycloak-services-social-weixin@0.5.35?classifier=sources
+- pkg:maven/io.github.jeff-tian/keycloak-services-social-weixin@0.5.36?classifier=sources

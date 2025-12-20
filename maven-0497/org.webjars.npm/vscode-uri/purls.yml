@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/vscode-uri@1.0.6?classifier=sources
 - pkg:maven/org.webjars.npm/vscode-uri@3.0.7
 - pkg:maven/org.webjars.npm/vscode-uri@3.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/vscode-uri@3.0.8

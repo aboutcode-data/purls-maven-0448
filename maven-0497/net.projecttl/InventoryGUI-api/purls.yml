@@ -20,3 +20,4 @@
 - pkg:maven/net.projecttl/InventoryGUI-api@4.5.0?classifier=sources
 - pkg:maven/net.projecttl/InventoryGUI-api@4.5.1?classifier=sources
 - pkg:maven/net.projecttl/InventoryGUI-api@4.5.2?classifier=sources
+- pkg:maven/net.projecttl/InventoryGUI-api@4.6.0?classifier=sources

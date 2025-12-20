@@ -40,3 +40,5 @@
 - pkg:maven/org.smallmind/file-ephemeral@5.7.0?classifier=sources
 - pkg:maven/org.smallmind/file-ephemeral@5.8.0
 - pkg:maven/org.smallmind/file-ephemeral@5.8.0?classifier=sources
+- pkg:maven/org.smallmind/file-ephemeral@5.9.0
+- pkg:maven/org.smallmind/file-ephemeral@5.9.0?classifier=sources

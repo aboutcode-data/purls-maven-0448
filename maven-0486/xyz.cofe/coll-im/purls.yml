@@ -11,3 +11,5 @@
 - pkg:maven/xyz.cofe/coll-im@3.0?classifier=sources
 - pkg:maven/xyz.cofe/coll-im@3.1
 - pkg:maven/xyz.cofe/coll-im@3.1?classifier=sources
+- pkg:maven/xyz.cofe/coll-im@4.0
+- pkg:maven/xyz.cofe/coll-im@4.0?classifier=sources
