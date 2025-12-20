@@ -48,3 +48,5 @@
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.discovery.service@1.4.46?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.discovery.service@1.4.47
 - pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.discovery.service@1.4.47?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.discovery.service@1.4.48
+- pkg:maven/org.wso2.carbon.identity.organization.management/org.wso2.carbon.identity.organization.discovery.service@1.4.48?classifier=sources

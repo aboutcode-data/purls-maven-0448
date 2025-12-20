@@ -1,2 +1,3 @@
 - pkg:maven/hu.gecsevar/hu.gecsevar.openapi@1.0.15?classifier=sources
 - pkg:maven/hu.gecsevar/hu.gecsevar.openapi@1.1.0?classifier=sources
+- pkg:maven/hu.gecsevar/hu.gecsevar.openapi@1.2.0?classifier=sources

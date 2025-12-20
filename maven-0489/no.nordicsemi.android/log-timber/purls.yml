@@ -4,3 +4,5 @@
 - pkg:maven/no.nordicsemi.android/log-timber@2.2.0?type=aar
 - pkg:maven/no.nordicsemi.android/log-timber@2.3.0?classifier=sources
 - pkg:maven/no.nordicsemi.android/log-timber@2.3.0?type=aar
+- pkg:maven/no.nordicsemi.android/log-timber@2.4.0?classifier=sources
+- pkg:maven/no.nordicsemi.android/log-timber@2.5.0?classifier=sources

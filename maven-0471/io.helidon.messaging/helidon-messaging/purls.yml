@@ -66,6 +66,8 @@
 - pkg:maven/io.helidon.messaging/helidon-messaging@2.6.7?classifier=sources
 - pkg:maven/io.helidon.messaging/helidon-messaging@2.6.8
 - pkg:maven/io.helidon.messaging/helidon-messaging@2.6.8?classifier=sources
+- pkg:maven/io.helidon.messaging/helidon-messaging@2.6.9
+- pkg:maven/io.helidon.messaging/helidon-messaging@2.6.9?classifier=sources
 - pkg:maven/io.helidon.messaging/helidon-messaging@3.0.0
 - pkg:maven/io.helidon.messaging/helidon-messaging@3.0.0-M1
 - pkg:maven/io.helidon.messaging/helidon-messaging@3.0.0-M1?classifier=sources
@@ -152,3 +154,5 @@
 - pkg:maven/io.helidon.messaging/helidon-messaging@4.0.9?classifier=sources
 - pkg:maven/io.helidon.messaging/helidon-messaging@4.1.0
 - pkg:maven/io.helidon.messaging/helidon-messaging@4.1.0?classifier=sources
+- pkg:maven/io.helidon.messaging/helidon-messaging@4.1.1
+- pkg:maven/io.helidon.messaging/helidon-messaging@4.1.1?classifier=sources

@@ -47,3 +47,5 @@
 - pkg:maven/org.mongodb/mongodb-crypt@1.8.0-alpha0?classifier=sources
 - pkg:maven/org.mongodb/mongodb-crypt@1.8.0-alpha1?classifier=sources
 - pkg:maven/org.mongodb/mongodb-crypt@1.8.0?classifier=sources
+- pkg:maven/org.mongodb/mongodb-crypt@5.2.0
+- pkg:maven/org.mongodb/mongodb-crypt@5.2.0?classifier=sources

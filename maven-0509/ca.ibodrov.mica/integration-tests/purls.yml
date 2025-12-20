@@ -22,6 +22,8 @@
 - pkg:maven/ca.ibodrov.mica/integration-tests@0.0.20?classifier=sources
 - pkg:maven/ca.ibodrov.mica/integration-tests@0.0.21
 - pkg:maven/ca.ibodrov.mica/integration-tests@0.0.21?classifier=sources
+- pkg:maven/ca.ibodrov.mica/integration-tests@0.0.22
+- pkg:maven/ca.ibodrov.mica/integration-tests@0.0.22?classifier=sources
 - pkg:maven/ca.ibodrov.mica/integration-tests@0.0.5
 - pkg:maven/ca.ibodrov.mica/integration-tests@0.0.5?classifier=sources
 - pkg:maven/ca.ibodrov.mica/integration-tests@0.0.6

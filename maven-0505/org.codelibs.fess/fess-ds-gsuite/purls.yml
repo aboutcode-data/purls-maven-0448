@@ -76,6 +76,8 @@
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.15.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.16.0
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.16.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.17.0
+- pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.17.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.2.0
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.2.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.3.0

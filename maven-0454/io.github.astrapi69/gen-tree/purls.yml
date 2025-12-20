@@ -1,3 +1,4 @@
+- pkg:maven/io.github.astrapi69/gen-tree@10?classifier=sources
 - pkg:maven/io.github.astrapi69/gen-tree@5
 - pkg:maven/io.github.astrapi69/gen-tree@5.1
 - pkg:maven/io.github.astrapi69/gen-tree@5.1?classifier=sources

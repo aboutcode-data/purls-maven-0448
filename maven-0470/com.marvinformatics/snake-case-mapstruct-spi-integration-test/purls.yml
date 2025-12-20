@@ -1,0 +1,2 @@
+- pkg:maven/com.marvinformatics/snake-case-mapstruct-spi-integration-test@0.1
+- pkg:maven/com.marvinformatics/snake-case-mapstruct-spi-integration-test@0.1?classifier=sources

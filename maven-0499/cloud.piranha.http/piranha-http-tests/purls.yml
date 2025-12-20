@@ -80,3 +80,5 @@
 - pkg:maven/cloud.piranha.http/piranha-http-tests@24.7.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-tests@24.8.0
 - pkg:maven/cloud.piranha.http/piranha-http-tests@24.8.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-tests@24.9.0
+- pkg:maven/cloud.piranha.http/piranha-http-tests@24.9.0?classifier=sources

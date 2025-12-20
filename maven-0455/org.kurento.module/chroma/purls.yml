@@ -25,3 +25,5 @@
 - pkg:maven/org.kurento.module/chroma@6.6.0?classifier=sources
 - pkg:maven/org.kurento.module/chroma@7.0.0
 - pkg:maven/org.kurento.module/chroma@7.0.0?classifier=sources
+- pkg:maven/org.kurento.module/chroma@7.1.0
+- pkg:maven/org.kurento.module/chroma@7.1.0?classifier=sources

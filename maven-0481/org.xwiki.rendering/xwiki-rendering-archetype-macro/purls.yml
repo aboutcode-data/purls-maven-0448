@@ -268,6 +268,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.7.0?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.7.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.8.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.8.0?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@3.2-milestone-3?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@3.2-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@3.2.1?classifier=sources

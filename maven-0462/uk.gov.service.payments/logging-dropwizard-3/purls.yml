@@ -248,3 +248,5 @@
 - pkg:maven/uk.gov.service.payments/logging-dropwizard-3@1.0.20240916102750?classifier=sources
 - pkg:maven/uk.gov.service.payments/logging-dropwizard-3@1.0.20240918093225
 - pkg:maven/uk.gov.service.payments/logging-dropwizard-3@1.0.20240918093225?classifier=sources
+- pkg:maven/uk.gov.service.payments/logging-dropwizard-3@1.0.20240930090628
+- pkg:maven/uk.gov.service.payments/logging-dropwizard-3@1.0.20240930090628?classifier=sources

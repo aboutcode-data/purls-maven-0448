@@ -8,6 +8,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1-rev20240731-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1-rev20240814-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1-rev20240814-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1-rev20240904-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1-rev20240904-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1beta-rev20240320-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1beta-rev20240320-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1beta-rev20240619-2.0.0
@@ -18,3 +20,5 @@
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1beta-rev20240731-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1beta-rev20240814-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1beta-rev20240814-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1beta-rev20240904-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudcontrolspartner@v1beta-rev20240904-2.0.0?classifier=sources

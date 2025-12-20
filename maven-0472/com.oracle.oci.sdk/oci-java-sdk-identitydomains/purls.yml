@@ -168,6 +168,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identitydomains@3.47.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identitydomains@3.48.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identitydomains@3.48.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identitydomains@3.49.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identitydomains@3.49.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identitydomains@3.8.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identitydomains@3.8.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-identitydomains@3.9.0

@@ -33,6 +33,7 @@
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@1.11.3-alpha?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@1.11.4-alpha?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@1.11.5-beta?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/codegen@1.11.6?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@1.2.0-beta?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@1.2.1-beta?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@1.2.2-beta?classifier=sources
@@ -187,3 +188,4 @@
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@2.1.0-beta09?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@2.1.0-beta10?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/codegen@2.1.0-beta11?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/codegen@2.1.0-beta12?classifier=sources

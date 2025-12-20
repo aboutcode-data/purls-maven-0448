@@ -1,0 +1,1 @@
+- pkg:maven/org.neo4j.gds/centrality-configs@2.10.1?classifier=sources

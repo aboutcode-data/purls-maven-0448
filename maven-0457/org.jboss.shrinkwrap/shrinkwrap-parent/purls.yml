@@ -3,3 +3,4 @@
 - pkg:maven/org.jboss.shrinkwrap/shrinkwrap-parent@1.2.5?classifier=source-release&type=zip
 - pkg:maven/org.jboss.shrinkwrap/shrinkwrap-parent@1.2.6?classifier=source-release&type=zip
 - pkg:maven/org.jboss.shrinkwrap/shrinkwrap-parent@2.0.0-beta-1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-parent@2.0.0-beta-2?classifier=source-release&type=zip

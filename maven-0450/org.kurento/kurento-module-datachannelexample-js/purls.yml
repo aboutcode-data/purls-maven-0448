@@ -11,3 +11,5 @@
 - pkg:maven/org.kurento/kurento-module-datachannelexample-js@6.6.0?classifier=sources
 - pkg:maven/org.kurento/kurento-module-datachannelexample-js@7.0.0?classifier=sources
 - pkg:maven/org.kurento/kurento-module-datachannelexample-js@7.0.0?type=zip
+- pkg:maven/org.kurento/kurento-module-datachannelexample-js@7.1.0?classifier=sources
+- pkg:maven/org.kurento/kurento-module-datachannelexample-js@7.1.0?type=zip

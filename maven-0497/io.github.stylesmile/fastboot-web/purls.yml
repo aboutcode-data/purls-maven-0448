@@ -2,6 +2,8 @@
 - pkg:maven/io.github.stylesmile/fastboot-web@1.1.0
 - pkg:maven/io.github.stylesmile/fastboot-web@2.0.0
 - pkg:maven/io.github.stylesmile/fastboot-web@2.0R.0
+- pkg:maven/io.github.stylesmile/fastboot-web@2.10.1
+- pkg:maven/io.github.stylesmile/fastboot-web@2.10.2
 - pkg:maven/io.github.stylesmile/fastboot-web@2.2.0
 - pkg:maven/io.github.stylesmile/fastboot-web@2.3.0
 - pkg:maven/io.github.stylesmile/fastboot-web@2.3.1

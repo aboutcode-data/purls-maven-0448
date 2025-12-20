@@ -1,0 +1,2 @@
+- pkg:maven/io.github.crac.io.vertx/vertx-pg-client@4.4.6.CRAC.0
+- pkg:maven/io.github.crac.io.vertx/vertx-pg-client@4.4.6.CRAC.0?classifier=sources

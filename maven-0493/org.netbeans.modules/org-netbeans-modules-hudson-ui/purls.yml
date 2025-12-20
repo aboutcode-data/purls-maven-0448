@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-ui@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-ui@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-ui@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-ui@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-ui@RELEASE90?classifier=sources

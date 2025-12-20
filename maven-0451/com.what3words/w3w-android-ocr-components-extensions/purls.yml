@@ -3,3 +3,4 @@
 - pkg:maven/com.what3words/w3w-android-ocr-components-extensions@1.0.3?classifier=sources
 - pkg:maven/com.what3words/w3w-android-ocr-components-extensions@1.0.4?classifier=sources
 - pkg:maven/com.what3words/w3w-android-ocr-components-extensions@1.1.0?classifier=sources
+- pkg:maven/com.what3words/w3w-android-ocr-components-extensions@1.1.1?classifier=sources

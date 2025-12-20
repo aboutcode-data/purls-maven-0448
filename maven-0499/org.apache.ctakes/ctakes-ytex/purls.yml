@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.ctakes/ctakes-ytex@4.0.0?classifier=sources
 - pkg:maven/org.apache.ctakes/ctakes-ytex@5.1.0
 - pkg:maven/org.apache.ctakes/ctakes-ytex@5.1.0?classifier=sources
+- pkg:maven/org.apache.ctakes/ctakes-ytex@6.0.0
+- pkg:maven/org.apache.ctakes/ctakes-ytex@6.0.0?classifier=sources

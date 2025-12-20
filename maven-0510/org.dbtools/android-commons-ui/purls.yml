@@ -49,3 +49,5 @@
 - pkg:maven/org.dbtools/android-commons-ui@2.0.0-beta01?classifier=sources
 - pkg:maven/org.dbtools/android-commons-ui@2.0.0-beta02?classifier=sources
 - pkg:maven/org.dbtools/android-commons-ui@2.0.0-beta03?classifier=sources
+- pkg:maven/org.dbtools/android-commons-ui@2.0.0?classifier=sources
+- pkg:maven/org.dbtools/android-commons-ui@2.1.0?classifier=sources

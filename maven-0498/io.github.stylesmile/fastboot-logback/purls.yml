@@ -1,3 +1,5 @@
+- pkg:maven/io.github.stylesmile/fastboot-logback@2.10.1
+- pkg:maven/io.github.stylesmile/fastboot-logback@2.10.2
 - pkg:maven/io.github.stylesmile/fastboot-logback@2.7.1
 - pkg:maven/io.github.stylesmile/fastboot-logback@2.7.2
 - pkg:maven/io.github.stylesmile/fastboot-logback@2.7.3

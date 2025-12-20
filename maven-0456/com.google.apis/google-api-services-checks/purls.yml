@@ -22,3 +22,5 @@
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20240424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20240626-2.0.0
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20240626-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20240904-2.0.0
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20240904-2.0.0?classifier=sources

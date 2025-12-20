@@ -1,3 +1,7 @@
+- pkg:maven/com.agentsflex/milvus-samples@1.0.0-beta.10
+- pkg:maven/com.agentsflex/milvus-samples@1.0.0-beta.10?classifier=sources
+- pkg:maven/com.agentsflex/milvus-samples@1.0.0-beta.11
+- pkg:maven/com.agentsflex/milvus-samples@1.0.0-beta.11?classifier=sources
 - pkg:maven/com.agentsflex/milvus-samples@1.0.0-beta.4
 - pkg:maven/com.agentsflex/milvus-samples@1.0.0-beta.4?classifier=sources
 - pkg:maven/com.agentsflex/milvus-samples@1.0.0-beta.5

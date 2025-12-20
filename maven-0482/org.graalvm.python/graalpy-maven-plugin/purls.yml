@@ -1,2 +1,4 @@
 - pkg:maven/org.graalvm.python/graalpy-maven-plugin@24.0.0
 - pkg:maven/org.graalvm.python/graalpy-maven-plugin@24.0.0?classifier=sources
+- pkg:maven/org.graalvm.python/graalpy-maven-plugin@24.1.0
+- pkg:maven/org.graalvm.python/graalpy-maven-plugin@24.1.0?classifier=sources

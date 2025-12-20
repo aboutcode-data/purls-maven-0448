@@ -1,0 +1,2 @@
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/postgres-liquibase@3.3.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/postgres-liquibase@3.3.0?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/org.languagetool/language-all@6.1
 - pkg:maven/org.languagetool/language-all@6.3
 - pkg:maven/org.languagetool/language-all@6.4
+- pkg:maven/org.languagetool/language-all@6.5

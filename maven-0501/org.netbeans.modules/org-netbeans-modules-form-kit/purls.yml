@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-form-kit@RELEASE90?classifier=sources

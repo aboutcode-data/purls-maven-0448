@@ -48,6 +48,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@5.0.19?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@5.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@5.0.20?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-angular@5.0.21?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@5.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@5.0.3?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@5.0.4?type=war
@@ -64,6 +65,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@6.0.14?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@6.0.15?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@6.0.16?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-angular@6.0.17?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@6.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@6.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@6.0.3?type=war
@@ -81,6 +83,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@7.0.14?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@7.0.15?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@7.0.16?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-angular@7.0.17?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@7.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@7.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-angular@7.0.3?type=war

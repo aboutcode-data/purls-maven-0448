@@ -1,0 +1,2 @@
+- pkg:maven/de.cuioss.portal.authentication/portal-authentication-dummy@1.0.0
+- pkg:maven/de.cuioss.portal.authentication/portal-authentication-dummy@1.0.0?classifier=sources

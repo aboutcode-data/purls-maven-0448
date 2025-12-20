@@ -183,6 +183,7 @@
 - pkg:maven/com.atlassian.oai/swagger-request-validator-wiremock@2.4.7?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-wiremock@2.40.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-wiremock@2.41.0?classifier=sources
+- pkg:maven/com.atlassian.oai/swagger-request-validator-wiremock@2.42.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-wiremock@2.5.0
 - pkg:maven/com.atlassian.oai/swagger-request-validator-wiremock@2.5.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-wiremock@2.6.0

@@ -18,3 +18,5 @@
 - pkg:maven/com.github.jensborch.webhooks4j/webhook4j-core@0.6.5?classifier=sources
 - pkg:maven/com.github.jensborch.webhooks4j/webhook4j-core@1.0.0
 - pkg:maven/com.github.jensborch.webhooks4j/webhook4j-core@1.0.0?classifier=sources
+- pkg:maven/com.github.jensborch.webhooks4j/webhook4j-core@1.0.1
+- pkg:maven/com.github.jensborch.webhooks4j/webhook4j-core@1.0.1?classifier=sources

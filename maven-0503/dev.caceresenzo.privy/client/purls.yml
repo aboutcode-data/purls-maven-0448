@@ -1,0 +1,3 @@
+- pkg:maven/dev.caceresenzo.privy/client@0.1.0?classifier=sources
+- pkg:maven/dev.caceresenzo.privy/client@0.2.0?classifier=sources
+- pkg:maven/dev.caceresenzo.privy/client@0.3.0?classifier=sources

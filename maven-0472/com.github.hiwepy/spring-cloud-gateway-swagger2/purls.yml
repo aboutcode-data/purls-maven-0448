@@ -6,3 +6,9 @@
 - pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@1.0.2.RELEASE?classifier=sources
 - pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@1.0.3.RELEASE
 - pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@1.0.3.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@2021.0.x.20240823.RELEASE
+- pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@2021.0.x.20240823.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@2023.0.x.20240823.RELEASE
+- pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@2023.0.x.20240823.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@Hoxton.x.20240823.RELEASE
+- pkg:maven/com.github.hiwepy/spring-cloud-gateway-swagger2@Hoxton.x.20240823.RELEASE?classifier=sources

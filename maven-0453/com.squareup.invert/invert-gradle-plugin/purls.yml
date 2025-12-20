@@ -1,1 +1,2 @@
 - pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.1-dev?classifier=sources
+- pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.2-dev?classifier=sources

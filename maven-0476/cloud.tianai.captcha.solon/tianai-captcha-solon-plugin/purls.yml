@@ -1,0 +1,2 @@
+- pkg:maven/cloud.tianai.captcha.solon/tianai-captcha-solon-plugin@1.5.1
+- pkg:maven/cloud.tianai.captcha.solon/tianai-captcha-solon-plugin@1.5.1?classifier=sources

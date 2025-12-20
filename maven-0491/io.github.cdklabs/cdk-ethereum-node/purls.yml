@@ -1122,6 +1122,12 @@
 - pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.622?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.623
 - pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.623?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.624
+- pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.624?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.625
+- pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.625?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.626
+- pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.626?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.62?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.63
 - pkg:maven/io.github.cdklabs/cdk-ethereum-node@0.0.63?classifier=sources

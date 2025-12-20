@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/keycloak-js@25.0.1?classifier=sources
+- pkg:maven/org.mvnpm/keycloak-js@25.0.4?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-ant@7.3.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-ant@7.4.0
 - pkg:maven/net.sourceforge.pmd/pmd-ant@7.4.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-ant@7.5.0
+- pkg:maven/net.sourceforge.pmd/pmd-ant@7.5.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-ant@7.6.0
+- pkg:maven/net.sourceforge.pmd/pmd-ant@7.6.0?classifier=sources

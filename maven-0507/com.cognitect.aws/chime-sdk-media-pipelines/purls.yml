@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/chime-sdk-media-pipelines@847.2.1365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/chime-sdk-media-pipelines@852.2.1526.0
 - pkg:maven/com.cognitect.aws/chime-sdk-media-pipelines@852.2.1526.0?classifier=sources
+- pkg:maven/com.cognitect.aws/chime-sdk-media-pipelines@869.2.1687.0
+- pkg:maven/com.cognitect.aws/chime-sdk-media-pipelines@869.2.1687.0?classifier=sources

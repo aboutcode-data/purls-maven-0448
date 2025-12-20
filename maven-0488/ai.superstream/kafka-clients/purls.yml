@@ -79,6 +79,12 @@
 - pkg:maven/ai.superstream/kafka-clients@3.5.113-beta5?classifier=sources
 - pkg:maven/ai.superstream/kafka-clients@3.5.113-beta?classifier=sources
 - pkg:maven/ai.superstream/kafka-clients@3.5.113?classifier=sources
+- pkg:maven/ai.superstream/kafka-clients@3.5.114-beta?classifier=sources
+- pkg:maven/ai.superstream/kafka-clients@3.5.114?classifier=sources
+- pkg:maven/ai.superstream/kafka-clients@3.5.115-beta?classifier=sources
+- pkg:maven/ai.superstream/kafka-clients@3.5.115?classifier=sources
+- pkg:maven/ai.superstream/kafka-clients@3.5.116-beta?classifier=sources
+- pkg:maven/ai.superstream/kafka-clients@3.5.116?classifier=sources
 - pkg:maven/ai.superstream/kafka-clients@3.5.11?classifier=sources
 - pkg:maven/ai.superstream/kafka-clients@3.5.12-beta?classifier=sources
 - pkg:maven/ai.superstream/kafka-clients@3.5.12?classifier=sources
