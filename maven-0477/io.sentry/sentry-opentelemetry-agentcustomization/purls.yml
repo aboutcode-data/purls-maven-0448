@@ -80,6 +80,7 @@
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.0.0?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.1.0
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.10.0?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.2.0
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.3.0
@@ -96,5 +97,9 @@
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.8.0-alpha.0
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.8.0-alpha.0?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.8.0?classifier=sources
+- pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.9.0
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.9.0-alpha.1
 - pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.9.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@7.9.0?classifier=sources
+- pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@8.0.0-alpha.1
+- pkg:maven/io.sentry/sentry-opentelemetry-agentcustomization@8.0.0-alpha.1?classifier=sources

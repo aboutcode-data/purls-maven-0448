@@ -16,3 +16,5 @@
 - pkg:maven/com.aliyun/alibabacloud-qualitycheck20190115@4.12.7?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-qualitycheck20190115@4.12.8
 - pkg:maven/com.aliyun/alibabacloud-qualitycheck20190115@4.12.8?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-qualitycheck20190115@5.0.0
+- pkg:maven/com.aliyun/alibabacloud-qualitycheck20190115@5.0.0?classifier=sources

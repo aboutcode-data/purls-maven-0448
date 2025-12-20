@@ -1,0 +1,2 @@
+- pkg:maven/com.asemicanalytics/semantic-layer@1.10?classifier=sources
+- pkg:maven/com.asemicanalytics/semantic-layer@1.11?classifier=sources

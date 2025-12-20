@@ -11,3 +11,4 @@
 - pkg:maven/org.taack/taack-ui@0.3.9?classifier=sources
 - pkg:maven/org.taack/taack-ui@0.3?classifier=sources
 - pkg:maven/org.taack/taack-ui@0.4.0?classifier=sources
+- pkg:maven/org.taack/taack-ui@0.4.1?classifier=sources

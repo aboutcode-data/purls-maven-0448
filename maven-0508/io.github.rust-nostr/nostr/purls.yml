@@ -1,2 +1,4 @@
 - pkg:maven/io.github.rust-nostr/nostr@0.10.0?classifier=sources
 - pkg:maven/io.github.rust-nostr/nostr@0.11.0?classifier=sources
+- pkg:maven/io.github.rust-nostr/nostr@0.12.0?classifier=sources
+- pkg:maven/io.github.rust-nostr/nostr@0.12.1?classifier=sources

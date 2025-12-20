@@ -116,6 +116,8 @@
 - pkg:maven/com.aliyun.openservices/tablestore@5.16.3-time
 - pkg:maven/com.aliyun.openservices/tablestore@5.16.3-time?classifier=sources
 - pkg:maven/com.aliyun.openservices/tablestore@5.16.3?classifier=sources
+- pkg:maven/com.aliyun.openservices/tablestore@5.17.0
+- pkg:maven/com.aliyun.openservices/tablestore@5.17.0?classifier=sources
 - pkg:maven/com.aliyun.openservices/tablestore@5.3.0
 - pkg:maven/com.aliyun.openservices/tablestore@5.3.0-byok
 - pkg:maven/com.aliyun.openservices/tablestore@5.3.0-byok?classifier=sources

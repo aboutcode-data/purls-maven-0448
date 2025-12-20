@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-bookmarks@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-bookmarks@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-bookmarks@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-bookmarks@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-bookmarks@RELEASE90?classifier=sources

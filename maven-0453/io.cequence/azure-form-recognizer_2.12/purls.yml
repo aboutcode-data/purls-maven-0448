@@ -1,0 +1,2 @@
+- pkg:maven/io.cequence/azure-form-recognizer_2.12@0.1.2
+- pkg:maven/io.cequence/azure-form-recognizer_2.12@0.1.2?classifier=sources

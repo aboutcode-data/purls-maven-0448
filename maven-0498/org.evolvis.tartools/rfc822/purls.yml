@@ -13,4 +13,6 @@
 - pkg:maven/org.evolvis.tartools/rfc822@0.7
 - pkg:maven/org.evolvis.tartools/rfc822@0.7?classifier=sources
 - pkg:maven/org.evolvis.tartools/rfc822@0.8
+- pkg:maven/org.evolvis.tartools/rfc822@0.8.1
+- pkg:maven/org.evolvis.tartools/rfc822@0.8.1?classifier=sources
 - pkg:maven/org.evolvis.tartools/rfc822@0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.emotion/hash@0.8.0?classifier=sources
+- pkg:maven/org.mvnpm.at.emotion/hash@0.9.1?classifier=sources

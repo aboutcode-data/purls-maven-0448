@@ -1,0 +1,2 @@
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-logging-api@24.5.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-logging-api@24.5.0?classifier=sources

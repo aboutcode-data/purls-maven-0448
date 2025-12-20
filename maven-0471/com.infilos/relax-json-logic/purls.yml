@@ -1,2 +1,8 @@
 - pkg:maven/com.infilos/relax-json-logic@2.15.0-7
 - pkg:maven/com.infilos/relax-json-logic@2.15.0-7?classifier=sources
+- pkg:maven/com.infilos/relax-json-logic@2.15.4-0
+- pkg:maven/com.infilos/relax-json-logic@2.15.4-0?classifier=sources
+- pkg:maven/com.infilos/relax-json-logic@2.16.2-0
+- pkg:maven/com.infilos/relax-json-logic@2.16.2-0?classifier=sources
+- pkg:maven/com.infilos/relax-json-logic@2.17.0-0
+- pkg:maven/com.infilos/relax-json-logic@2.17.0-0?classifier=sources

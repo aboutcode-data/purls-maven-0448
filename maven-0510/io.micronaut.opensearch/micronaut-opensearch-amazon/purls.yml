@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.opensearch/micronaut-opensearch-amazon@1.0.0?classifier=sources
+- pkg:maven/io.micronaut.opensearch/micronaut-opensearch-amazon@1.1.0?classifier=sources

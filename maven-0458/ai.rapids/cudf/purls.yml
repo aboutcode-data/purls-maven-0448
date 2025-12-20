@@ -66,3 +66,5 @@
 - pkg:maven/ai.rapids/cudf@24.02.1?classifier=sources
 - pkg:maven/ai.rapids/cudf@24.02.2
 - pkg:maven/ai.rapids/cudf@24.02.2?classifier=sources
+- pkg:maven/ai.rapids/cudf@24.04.0
+- pkg:maven/ai.rapids/cudf@24.04.0?classifier=sources

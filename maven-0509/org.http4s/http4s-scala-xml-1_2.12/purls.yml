@@ -4,5 +4,7 @@
 - pkg:maven/org.http4s/http4s-scala-xml-1_2.12@0.23.12?classifier=sources
 - pkg:maven/org.http4s/http4s-scala-xml-1_2.12@0.23.13
 - pkg:maven/org.http4s/http4s-scala-xml-1_2.12@0.23.13?classifier=sources
+- pkg:maven/org.http4s/http4s-scala-xml-1_2.12@0.23.14
+- pkg:maven/org.http4s/http4s-scala-xml-1_2.12@0.23.14?classifier=sources
 - pkg:maven/org.http4s/http4s-scala-xml-1_2.12@1.0.0-M38
 - pkg:maven/org.http4s/http4s-scala-xml-1_2.12@1.0.0-M38?classifier=sources

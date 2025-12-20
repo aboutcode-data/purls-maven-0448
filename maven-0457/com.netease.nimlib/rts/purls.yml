@@ -28,6 +28,8 @@
 - pkg:maven/com.netease.nimlib/rts@10.2.4-beta?type=aar
 - pkg:maven/com.netease.nimlib/rts@10.2.5-beta?classifier=sources
 - pkg:maven/com.netease.nimlib/rts@10.2.5-beta?type=aar
+- pkg:maven/com.netease.nimlib/rts@10.2.6-beta?classifier=sources
+- pkg:maven/com.netease.nimlib/rts@10.2.6-beta?type=aar
 - pkg:maven/com.netease.nimlib/rts@2.5.0?classifier=sources
 - pkg:maven/com.netease.nimlib/rts@2.5.0?type=aar
 - pkg:maven/com.netease.nimlib/rts@2.6.0?classifier=sources
@@ -384,6 +386,8 @@
 - pkg:maven/com.netease.nimlib/rts@8.9.128?type=aar
 - pkg:maven/com.netease.nimlib/rts@8.9.129?classifier=sources
 - pkg:maven/com.netease.nimlib/rts@8.9.129?type=aar
+- pkg:maven/com.netease.nimlib/rts@8.9.130?classifier=sources
+- pkg:maven/com.netease.nimlib/rts@8.9.130?type=aar
 - pkg:maven/com.netease.nimlib/rts@9.0.0?classifier=sources
 - pkg:maven/com.netease.nimlib/rts@9.0.0?type=aar
 - pkg:maven/com.netease.nimlib/rts@9.0.100?classifier=sources
@@ -438,6 +442,8 @@
 - pkg:maven/com.netease.nimlib/rts@9.16.0?type=aar
 - pkg:maven/com.netease.nimlib/rts@9.16.1?classifier=sources
 - pkg:maven/com.netease.nimlib/rts@9.16.1?type=aar
+- pkg:maven/com.netease.nimlib/rts@9.16.3?classifier=sources
+- pkg:maven/com.netease.nimlib/rts@9.16.3?type=aar
 - pkg:maven/com.netease.nimlib/rts@9.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/rts@9.2.0?type=aar
 - pkg:maven/com.netease.nimlib/rts@9.2.1?classifier=sources

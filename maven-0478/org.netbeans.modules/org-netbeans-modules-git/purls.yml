@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-git@RELEASE90?classifier=sources

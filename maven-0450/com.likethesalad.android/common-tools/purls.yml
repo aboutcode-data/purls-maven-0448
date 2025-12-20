@@ -12,3 +12,4 @@
 - pkg:maven/com.likethesalad.android/common-tools@2.6.0?classifier=sources
 - pkg:maven/com.likethesalad.android/common-tools@2.7.0?classifier=sources
 - pkg:maven/com.likethesalad.android/common-tools@2.8.0?classifier=sources
+- pkg:maven/com.likethesalad.android/common-tools@2.9.0?classifier=sources

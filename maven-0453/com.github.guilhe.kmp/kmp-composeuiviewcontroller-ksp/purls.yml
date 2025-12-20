@@ -11,3 +11,5 @@
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp@1.5.0-ALPHA?classifier=sources
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp@1.6.0-ALPHA?classifier=sources
 - pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp@1.7.0-ALPHA?classifier=sources
+- pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp@1.8.0-ALPHA?classifier=sources
+- pkg:maven/com.github.guilhe.kmp/kmp-composeuiviewcontroller-ksp@1.9.0-ALPHA?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/io.github.mtrevisan/boxon@3.6.0?classifier=sources
 - pkg:maven/io.github.mtrevisan/boxon@4.0.0
 - pkg:maven/io.github.mtrevisan/boxon@4.0.0?classifier=sources
+- pkg:maven/io.github.mtrevisan/boxon@5.0.0
+- pkg:maven/io.github.mtrevisan/boxon@5.0.0?classifier=sources

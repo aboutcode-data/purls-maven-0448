@@ -72,6 +72,8 @@
 - pkg:maven/com.yandex.div/beacon@29.7.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@29.8.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@29.9.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@30.0.0?classifier=sources
+- pkg:maven/com.yandex.div/beacon@30.1.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/beacon@7.0.0?classifier=sources

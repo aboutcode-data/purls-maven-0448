@@ -1,1 +1,5 @@
 - pkg:maven/com.optimetriks.unio.compose/appbars@0.0.2?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@0.0.3?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@6?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@7?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Location@9.4.8?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Location@9.5.2?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Location@9.5.7?classifier=sources
+- pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Location@9.6.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/nl.dedicon.pipeline/braille-module@1.7.0?classifier=sources
 - pkg:maven/nl.dedicon.pipeline/braille-module@2.0.0
 - pkg:maven/nl.dedicon.pipeline/braille-module@2.0.0?classifier=sources
+- pkg:maven/nl.dedicon.pipeline/braille-module@2.0.1
+- pkg:maven/nl.dedicon.pipeline/braille-module@2.0.1?classifier=sources

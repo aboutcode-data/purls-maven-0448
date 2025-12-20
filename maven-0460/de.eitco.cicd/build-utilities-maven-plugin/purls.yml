@@ -1,0 +1,1 @@
+- pkg:maven/de.eitco.cicd/build-utilities-maven-plugin@0.0.2?classifier=sources

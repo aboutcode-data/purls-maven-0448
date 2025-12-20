@@ -84,6 +84,12 @@
 - pkg:maven/com.palantir.dialogue/dialogue-annotations@3.128.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations@3.129.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations@3.13.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations@3.130.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations@3.131.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations@3.132.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations@3.133.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations@3.134.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-annotations@3.135.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations@3.14.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations@3.15.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-annotations@3.16.0?classifier=sources

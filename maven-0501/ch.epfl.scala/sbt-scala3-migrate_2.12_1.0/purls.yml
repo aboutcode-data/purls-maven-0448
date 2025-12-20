@@ -1,2 +1,6 @@
 - pkg:maven/ch.epfl.scala/sbt-scala3-migrate_2.12_1.0@0.6.2
 - pkg:maven/ch.epfl.scala/sbt-scala3-migrate_2.12_1.0@0.6.2?classifier=sources
+- pkg:maven/ch.epfl.scala/sbt-scala3-migrate_2.12_1.0@0.6.3
+- pkg:maven/ch.epfl.scala/sbt-scala3-migrate_2.12_1.0@0.6.3?classifier=sources
+- pkg:maven/ch.epfl.scala/sbt-scala3-migrate_2.12_1.0@0.6.4
+- pkg:maven/ch.epfl.scala/sbt-scala3-migrate_2.12_1.0@0.6.4?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.io7m.junsigned/com.io7m.junsigned.ranges@2.0.0?classifier=sources
 - pkg:maven/com.io7m.junsigned/com.io7m.junsigned.ranges@3.0.0
 - pkg:maven/com.io7m.junsigned/com.io7m.junsigned.ranges@3.0.0?classifier=sources
+- pkg:maven/com.io7m.junsigned/com.io7m.junsigned.ranges@4.0.0
+- pkg:maven/com.io7m.junsigned/com.io7m.junsigned.ranges@4.0.0?classifier=sources

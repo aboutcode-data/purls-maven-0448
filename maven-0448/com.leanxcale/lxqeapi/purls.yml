@@ -3,3 +3,7 @@
 - pkg:maven/com.leanxcale/lxqeapi@3.1.2404171604?classifier=sources
 - pkg:maven/com.leanxcale/lxqeapi@3.1.2404231050?classifier=sources
 - pkg:maven/com.leanxcale/lxqeapi@3.1.2404261442?classifier=sources
+- pkg:maven/com.leanxcale/lxqeapi@3.2.2405132215?classifier=sources
+- pkg:maven/com.leanxcale/lxqeapi@3.2.2405161239?classifier=sources
+- pkg:maven/com.leanxcale/lxqeapi@3.2.2405171730?classifier=sources
+- pkg:maven/com.leanxcale/lxqeapi@3.2.2405230941?classifier=sources

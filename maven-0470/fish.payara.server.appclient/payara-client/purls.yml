@@ -46,4 +46,5 @@
 - pkg:maven/fish.payara.server.appclient/payara-client@6.2024.2?classifier=sources
 - pkg:maven/fish.payara.server.appclient/payara-client@6.2024.3?classifier=sources
 - pkg:maven/fish.payara.server.appclient/payara-client@6.2024.4?classifier=sources
+- pkg:maven/fish.payara.server.appclient/payara-client@6.2024.5?classifier=sources
 - pkg:maven/fish.payara.server.appclient/payara-client@7.2024.1.Alpha1?classifier=sources

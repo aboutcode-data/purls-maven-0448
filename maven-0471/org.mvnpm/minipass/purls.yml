@@ -1,0 +1,10 @@
+- pkg:maven/org.mvnpm/minipass@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm/minipass@6.0.2?classifier=sources
+- pkg:maven/org.mvnpm/minipass@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/minipass@7.0.1?classifier=sources
+- pkg:maven/org.mvnpm/minipass@7.0.2?classifier=sources
+- pkg:maven/org.mvnpm/minipass@7.0.3?classifier=sources
+- pkg:maven/org.mvnpm/minipass@7.0.4?classifier=sources
+- pkg:maven/org.mvnpm/minipass@7.1.0?classifier=sources
+- pkg:maven/org.mvnpm/minipass@7.1.1?classifier=sources
+- pkg:maven/org.mvnpm/minipass@7.1.2?classifier=sources

@@ -67,3 +67,4 @@
 - pkg:maven/com.squareup.anvil/compiler@2.5.0-beta06?classifier=sources
 - pkg:maven/com.squareup.anvil/compiler@2.5.0-beta07?classifier=sources
 - pkg:maven/com.squareup.anvil/compiler@2.5.0-beta08?classifier=sources
+- pkg:maven/com.squareup.anvil/compiler@2.5.0-beta09?classifier=sources

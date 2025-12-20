@@ -1,0 +1,2 @@
+- pkg:maven/cn.benma666/xxl-job-core@2.4.1
+- pkg:maven/cn.benma666/xxl-job-core@2.4.1?classifier=sources

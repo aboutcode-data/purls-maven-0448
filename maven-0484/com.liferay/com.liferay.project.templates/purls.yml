@@ -526,6 +526,8 @@
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.290?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.291?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates@5.0.292?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates@5.0.293?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates@5.0.2?classifier=sources

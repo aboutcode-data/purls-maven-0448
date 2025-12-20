@@ -1,1 +1,2 @@
 - pkg:maven/team.mke/fk-model-shared@1.0.0?classifier=sources
+- pkg:maven/team.mke/fk-model-shared@1.1.0?classifier=sources

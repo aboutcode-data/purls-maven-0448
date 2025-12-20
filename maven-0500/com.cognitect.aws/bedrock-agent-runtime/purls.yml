@@ -2,3 +2,7 @@
 - pkg:maven/com.cognitect.aws/bedrock-agent-runtime@852.2.1526.0?classifier=sources
 - pkg:maven/com.cognitect.aws/bedrock-agent-runtime@857.2.1574.0
 - pkg:maven/com.cognitect.aws/bedrock-agent-runtime@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/bedrock-agent-runtime@868.2.1599.0
+- pkg:maven/com.cognitect.aws/bedrock-agent-runtime@868.2.1599.0?classifier=sources
+- pkg:maven/com.cognitect.aws/bedrock-agent-runtime@869.2.1616.0
+- pkg:maven/com.cognitect.aws/bedrock-agent-runtime@869.2.1616.0?classifier=sources

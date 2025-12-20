@@ -40,6 +40,10 @@
 - pkg:maven/com.siftscience/sift-java@3.13.0?classifier=sources
 - pkg:maven/com.siftscience/sift-java@3.13.1
 - pkg:maven/com.siftscience/sift-java@3.13.1?classifier=sources
+- pkg:maven/com.siftscience/sift-java@3.14.0
+- pkg:maven/com.siftscience/sift-java@3.14.0?classifier=sources
+- pkg:maven/com.siftscience/sift-java@3.14.1
+- pkg:maven/com.siftscience/sift-java@3.14.1?classifier=sources
 - pkg:maven/com.siftscience/sift-java@3.2.0
 - pkg:maven/com.siftscience/sift-java@3.2.0?classifier=sources
 - pkg:maven/com.siftscience/sift-java@3.3.0

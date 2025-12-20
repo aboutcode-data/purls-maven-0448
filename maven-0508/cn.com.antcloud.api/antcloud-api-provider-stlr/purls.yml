@@ -24,3 +24,7 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-stlr@2.4.0?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-stlr@2.6.0
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-stlr@2.6.0?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-stlr@2.7.4
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-stlr@2.7.4?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-stlr@2.8.1
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-stlr@2.8.1?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.typelevel/discipline-munit_native0.5_2.12@2.0.0
 - pkg:maven/org.typelevel/discipline-munit_native0.5_2.12@2.0.0-M4
 - pkg:maven/org.typelevel/discipline-munit_native0.5_2.12@2.0.0-M4?classifier=sources
+- pkg:maven/org.typelevel/discipline-munit_native0.5_2.12@2.0.0?classifier=sources
