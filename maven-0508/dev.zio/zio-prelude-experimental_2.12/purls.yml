@@ -51,6 +51,8 @@
 - pkg:maven/dev.zio/zio-prelude-experimental_2.12@1.0.0-RC33?classifier=sources
 - pkg:maven/dev.zio/zio-prelude-experimental_2.12@1.0.0-RC34
 - pkg:maven/dev.zio/zio-prelude-experimental_2.12@1.0.0-RC34?classifier=sources
+- pkg:maven/dev.zio/zio-prelude-experimental_2.12@1.0.0-RC35
+- pkg:maven/dev.zio/zio-prelude-experimental_2.12@1.0.0-RC35?classifier=sources
 - pkg:maven/dev.zio/zio-prelude-experimental_2.12@1.0.0-RC3?classifier=sources
 - pkg:maven/dev.zio/zio-prelude-experimental_2.12@1.0.0-RC4
 - pkg:maven/dev.zio/zio-prelude-experimental_2.12@1.0.0-RC4?classifier=sources

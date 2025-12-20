@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/jquery-ui@1.13.2?classifier=sources
+- pkg:maven/org.mvnpm/jquery-ui@1.14.0?classifier=sources

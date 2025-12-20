@@ -8,6 +8,8 @@
 - pkg:maven/com.google.endpoints/endpoints-management-control-all@1.0.13?classifier=sources
 - pkg:maven/com.google.endpoints/endpoints-management-control-all@1.0.14
 - pkg:maven/com.google.endpoints/endpoints-management-control-all@1.0.14?classifier=sources
+- pkg:maven/com.google.endpoints/endpoints-management-control-all@1.0.15
+- pkg:maven/com.google.endpoints/endpoints-management-control-all@1.0.15?classifier=sources
 - pkg:maven/com.google.endpoints/endpoints-management-control-all@1.0.2
 - pkg:maven/com.google.endpoints/endpoints-management-control-all@1.0.2?classifier=sources
 - pkg:maven/com.google.endpoints/endpoints-management-control-all@1.0.3

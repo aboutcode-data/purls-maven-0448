@@ -13,6 +13,8 @@
 - pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.5.0
 - pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.5.0?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.5.1
+- pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.5.10
+- pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.5.10?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.5.1?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.5.2
 - pkg:maven/org.apache.cxf/cxf-servlet-compatible@3.5.2?classifier=sources

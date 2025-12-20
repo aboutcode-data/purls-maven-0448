@@ -30,3 +30,9 @@
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241025-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241029-2.0.0
 - pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241029-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241114-2.0.0
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241114-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241119-2.0.0
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241119-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241203-2.0.0
+- pkg:maven/com.google.apis/google-api-services-checks@v1alpha-rev20241203-2.0.0?classifier=sources

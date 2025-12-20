@@ -75,3 +75,5 @@
 - pkg:maven/com.gitee.l0km/xthrift-metadata@2.1.2?classifier=sources
 - pkg:maven/com.gitee.l0km/xthrift-metadata@2.2.0
 - pkg:maven/com.gitee.l0km/xthrift-metadata@2.2.0?classifier=sources
+- pkg:maven/com.gitee.l0km/xthrift-metadata@2.4.0
+- pkg:maven/com.gitee.l0km/xthrift-metadata@2.4.0?classifier=sources

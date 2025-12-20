@@ -1,1 +1,2 @@
 - pkg:maven/io.github.spah1879/hwp-doclet@1.0.0?classifier=sources
+- pkg:maven/io.github.spah1879/hwp-doclet@1.1.0?classifier=sources

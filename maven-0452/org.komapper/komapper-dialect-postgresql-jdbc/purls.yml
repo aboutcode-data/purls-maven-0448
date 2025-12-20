@@ -60,3 +60,4 @@
 - pkg:maven/org.komapper/komapper-dialect-postgresql-jdbc@3.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-postgresql-jdbc@3.1.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-postgresql-jdbc@4.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-postgresql-jdbc@5.0.0?classifier=sources

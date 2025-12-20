@@ -1,0 +1,2 @@
+- pkg:maven/org.knowm.xchange/xchange-stream-bitget@5.2.1
+- pkg:maven/org.knowm.xchange/xchange-stream-bitget@5.2.1?classifier=sources

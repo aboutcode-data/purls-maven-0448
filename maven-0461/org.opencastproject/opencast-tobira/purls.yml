@@ -73,6 +73,8 @@
 - pkg:maven/org.opencastproject/opencast-tobira@15.11?classifier=sources
 - pkg:maven/org.opencastproject/opencast-tobira@15.12
 - pkg:maven/org.opencastproject/opencast-tobira@15.12?classifier=sources
+- pkg:maven/org.opencastproject/opencast-tobira@15.13
+- pkg:maven/org.opencastproject/opencast-tobira@15.13?classifier=sources
 - pkg:maven/org.opencastproject/opencast-tobira@15.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-tobira@15.2
 - pkg:maven/org.opencastproject/opencast-tobira@15.2?classifier=sources

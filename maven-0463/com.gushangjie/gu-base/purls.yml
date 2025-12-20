@@ -12,3 +12,17 @@
 - pkg:maven/com.gushangjie/gu-base@1.1.1?classifier=sources
 - pkg:maven/com.gushangjie/gu-base@1.1.2
 - pkg:maven/com.gushangjie/gu-base@1.1.2?classifier=sources
+- pkg:maven/com.gushangjie/gu-base@1.1.4
+- pkg:maven/com.gushangjie/gu-base@1.1.4?classifier=sources
+- pkg:maven/com.gushangjie/gu-base@1.1.5
+- pkg:maven/com.gushangjie/gu-base@1.1.5?classifier=sources
+- pkg:maven/com.gushangjie/gu-base@v2024.12.03a
+- pkg:maven/com.gushangjie/gu-base@v2024.12.03a?classifier=sources
+- pkg:maven/com.gushangjie/gu-base@v2024.12.06b
+- pkg:maven/com.gushangjie/gu-base@v2024.12.06b?classifier=sources
+- pkg:maven/com.gushangjie/gu-base@v2024.12.06c
+- pkg:maven/com.gushangjie/gu-base@v2024.12.06c?classifier=sources
+- pkg:maven/com.gushangjie/gu-base@v2024.12.06d
+- pkg:maven/com.gushangjie/gu-base@v2024.12.06d?classifier=sources
+- pkg:maven/com.gushangjie/gu-base@v2024.12.08a
+- pkg:maven/com.gushangjie/gu-base@v2024.12.08a?classifier=sources

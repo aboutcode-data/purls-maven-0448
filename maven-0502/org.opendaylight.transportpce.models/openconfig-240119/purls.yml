@@ -6,5 +6,7 @@
 - pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@20.1.2?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@20.2.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@20.2.1?classifier=sources
+- pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@20.3.0
+- pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@20.3.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@21.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@21.1.0?classifier=sources

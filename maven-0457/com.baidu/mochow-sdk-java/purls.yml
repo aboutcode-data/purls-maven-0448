@@ -1,0 +1,2 @@
+- pkg:maven/com.baidu/mochow-sdk-java@2.0.1
+- pkg:maven/com.baidu/mochow-sdk-java@2.0.1?classifier=sources

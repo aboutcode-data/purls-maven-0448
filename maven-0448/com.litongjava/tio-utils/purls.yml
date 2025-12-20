@@ -122,3 +122,7 @@
 - pkg:maven/com.litongjava/tio-utils@3.7.3.v20241014-RELEASE?classifier=sources
 - pkg:maven/com.litongjava/tio-utils@3.7.3.v20241015-RELEASE
 - pkg:maven/com.litongjava/tio-utils@3.7.3.v20241015-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-utils@3.7.3.v20241130-RELEASE
+- pkg:maven/com.litongjava/tio-utils@3.7.3.v20241130-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-utils@3.7.3.v20241201-RELEASE
+- pkg:maven/com.litongjava/tio-utils@3.7.3.v20241201-RELEASE?classifier=sources

@@ -34,3 +34,4 @@
 - pkg:maven/org.jpos/jpos@2.1.7?classifier=sources
 - pkg:maven/org.jpos/jpos@2.1.8?classifier=sources
 - pkg:maven/org.jpos/jpos@2.1.9?classifier=sources
+- pkg:maven/org.jpos/jpos@3.0.0?classifier=sources

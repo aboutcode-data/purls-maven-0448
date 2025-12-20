@@ -272,3 +272,10 @@
 - pkg:maven/com.pulumi/snowflake@0.61.1?classifier=sources
 - pkg:maven/com.pulumi/snowflake@0.62.0-alpha.1731653966?classifier=sources
 - pkg:maven/com.pulumi/snowflake@0.62.0-alpha.1731738646?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.62.0-alpha.1732300245?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.62.0-alpha.1732559781?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.62.0-alpha.1732602720?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.62.0-alpha.1732688512?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.62.0-alpha.1732732164?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.62.0?classifier=sources
+- pkg:maven/com.pulumi/snowflake@0.63.0-alpha.1732774995?classifier=sources

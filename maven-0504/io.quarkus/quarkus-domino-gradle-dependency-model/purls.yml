@@ -32,6 +32,10 @@
 - pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.115?classifier=sources
 - pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.116
 - pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.116?classifier=sources
+- pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.117
+- pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.117?classifier=sources
+- pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.118
+- pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.118?classifier=sources
 - pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.75
 - pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.75?classifier=sources
 - pkg:maven/io.quarkus/quarkus-domino-gradle-dependency-model@0.0.76

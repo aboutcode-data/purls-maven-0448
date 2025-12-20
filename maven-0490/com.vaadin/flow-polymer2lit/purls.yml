@@ -155,6 +155,10 @@
 - pkg:maven/com.vaadin/flow-polymer2lit@24.4.11?classifier=sources
 - pkg:maven/com.vaadin/flow-polymer2lit@24.4.12
 - pkg:maven/com.vaadin/flow-polymer2lit@24.4.12?classifier=sources
+- pkg:maven/com.vaadin/flow-polymer2lit@24.4.13
+- pkg:maven/com.vaadin/flow-polymer2lit@24.4.13?classifier=sources
+- pkg:maven/com.vaadin/flow-polymer2lit@24.4.14
+- pkg:maven/com.vaadin/flow-polymer2lit@24.4.14?classifier=sources
 - pkg:maven/com.vaadin/flow-polymer2lit@24.4.1?classifier=sources
 - pkg:maven/com.vaadin/flow-polymer2lit@24.4.2
 - pkg:maven/com.vaadin/flow-polymer2lit@24.4.2?classifier=sources
@@ -184,3 +188,11 @@
 - pkg:maven/com.vaadin/flow-polymer2lit@24.5.4?classifier=sources
 - pkg:maven/com.vaadin/flow-polymer2lit@24.5.5
 - pkg:maven/com.vaadin/flow-polymer2lit@24.5.5?classifier=sources
+- pkg:maven/com.vaadin/flow-polymer2lit@24.5.6
+- pkg:maven/com.vaadin/flow-polymer2lit@24.5.6?classifier=sources
+- pkg:maven/com.vaadin/flow-polymer2lit@24.5.7
+- pkg:maven/com.vaadin/flow-polymer2lit@24.5.7?classifier=sources
+- pkg:maven/com.vaadin/flow-polymer2lit@24.5.8
+- pkg:maven/com.vaadin/flow-polymer2lit@24.5.8?classifier=sources
+- pkg:maven/com.vaadin/flow-polymer2lit@24.5.9
+- pkg:maven/com.vaadin/flow-polymer2lit@24.5.9?classifier=sources

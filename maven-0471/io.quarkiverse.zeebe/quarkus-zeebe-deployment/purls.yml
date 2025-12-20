@@ -36,3 +36,4 @@
 - pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@1.4.0?classifier=sources
 - pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@1.5.0
 - pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@1.5.0?classifier=sources
+- pkg:maven/io.quarkiverse.zeebe/quarkus-zeebe-deployment@1.6.0?classifier=sources

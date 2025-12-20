@@ -58,3 +58,4 @@
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-autoconfigure@3.0.2
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-autoconfigure@3.0.2?classifier=sources
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-autoconfigure@3.0.3?classifier=sources
+- pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-autoconfigure@3.0.4?classifier=sources

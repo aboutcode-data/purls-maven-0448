@@ -34,6 +34,8 @@
 - pkg:maven/team.razz.eva/eva-migrations@0.6.19?classifier=sources
 - pkg:maven/team.razz.eva/eva-migrations@0.6.1?classifier=sources
 - pkg:maven/team.razz.eva/eva-migrations@0.6.20?classifier=sources
+- pkg:maven/team.razz.eva/eva-migrations@0.6.21?classifier=sources
+- pkg:maven/team.razz.eva/eva-migrations@0.6.22?classifier=sources
 - pkg:maven/team.razz.eva/eva-migrations@0.6.2?classifier=sources
 - pkg:maven/team.razz.eva/eva-migrations@0.6.3?classifier=sources
 - pkg:maven/team.razz.eva/eva-migrations@0.6.4?classifier=sources
@@ -42,3 +44,4 @@
 - pkg:maven/team.razz.eva/eva-migrations@0.6.7?classifier=sources
 - pkg:maven/team.razz.eva/eva-migrations@0.6.8?classifier=sources
 - pkg:maven/team.razz.eva/eva-migrations@0.6.9?classifier=sources
+- pkg:maven/team.razz.eva/eva-migrations@0.7.0?classifier=sources

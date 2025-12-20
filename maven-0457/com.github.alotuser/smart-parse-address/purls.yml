@@ -4,3 +4,5 @@
 - pkg:maven/com.github.alotuser/smart-parse-address@1.0.0?classifier=sources
 - pkg:maven/com.github.alotuser/smart-parse-address@1.0.7
 - pkg:maven/com.github.alotuser/smart-parse-address@1.0.7?classifier=sources
+- pkg:maven/com.github.alotuser/smart-parse-address@1.7.7
+- pkg:maven/com.github.alotuser/smart-parse-address@1.7.7?classifier=sources

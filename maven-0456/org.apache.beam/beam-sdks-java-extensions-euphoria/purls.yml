@@ -66,5 +66,6 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-euphoria@2.58.1?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-euphoria@2.59.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-euphoria@2.60.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-euphoria@2.61.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-euphoria@2.9.0
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-euphoria@2.9.0?classifier=sources

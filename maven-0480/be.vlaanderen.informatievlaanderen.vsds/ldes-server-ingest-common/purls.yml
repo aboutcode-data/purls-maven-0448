@@ -1,0 +1,2 @@
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-ingest-common@3.6.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-ingest-common@3.6.0?classifier=sources

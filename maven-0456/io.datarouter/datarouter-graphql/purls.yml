@@ -1,2 +1,4 @@
 - pkg:maven/io.datarouter/datarouter-graphql@0.0.125
 - pkg:maven/io.datarouter/datarouter-graphql@0.0.125?classifier=sources
+- pkg:maven/io.datarouter/datarouter-graphql@0.0.126
+- pkg:maven/io.datarouter/datarouter-graphql@0.0.126?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/net.mbonnin.cast/cast-wasm-wasi@0.0.1?classifier=sources

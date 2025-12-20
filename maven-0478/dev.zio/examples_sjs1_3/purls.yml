@@ -1,3 +1,5 @@
+- pkg:maven/dev.zio/examples_sjs1_3@0.7.0
+- pkg:maven/dev.zio/examples_sjs1_3@0.7.0?classifier=sources
 - pkg:maven/dev.zio/examples_sjs1_3@1.0.12
 - pkg:maven/dev.zio/examples_sjs1_3@1.0.12?classifier=sources
 - pkg:maven/dev.zio/examples_sjs1_3@2.0.0-M3

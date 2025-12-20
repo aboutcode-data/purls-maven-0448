@@ -1,0 +1,2 @@
+- pkg:maven/com.neoutils.xregex/xregex@1.0.0-snapshot1?classifier=sources
+- pkg:maven/com.neoutils.xregex/xregex@1.0.0-snapshot2?classifier=sources

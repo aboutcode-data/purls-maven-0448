@@ -29,3 +29,6 @@
 - pkg:maven/com.github.gestalt-config/gestalt-aws@0.32.2?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-aws@0.33.0?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-aws@0.33.1?classifier=sources
+- pkg:maven/com.github.gestalt-config/gestalt-aws@0.34.0?classifier=sources
+- pkg:maven/com.github.gestalt-config/gestalt-aws@0.35.0?classifier=sources
+- pkg:maven/com.github.gestalt-config/gestalt-aws@0.35.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-addons-tracing-api@10.0.0
+- pkg:maven/org.kie/kie-addons-tracing-api@10.0.0?classifier=sources

@@ -1021,6 +1021,8 @@
 - pkg:maven/org.hpccsystems/spark-hpcc@9.6.64-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.6.66-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.6.66-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.6.68-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.6.68-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.12-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.12-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.14-1

@@ -50,6 +50,8 @@
 - pkg:maven/com.twilio.sdk/twilio@10.6.2?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio@10.6.3
 - pkg:maven/com.twilio.sdk/twilio@10.6.3?classifier=sources
+- pkg:maven/com.twilio.sdk/twilio@10.6.4
+- pkg:maven/com.twilio.sdk/twilio@10.6.4?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio@6.6.10
 - pkg:maven/com.twilio.sdk/twilio@6.6.10?classifier=sources
 - pkg:maven/com.twilio.sdk/twilio@6.6.9

@@ -9,3 +9,5 @@
 - pkg:maven/com.stadiamaps.ferrostar/maplibreui@0.20.1?classifier=sources
 - pkg:maven/com.stadiamaps.ferrostar/maplibreui@0.21.0?classifier=sources
 - pkg:maven/com.stadiamaps.ferrostar/maplibreui@0.22.0?classifier=sources
+- pkg:maven/com.stadiamaps.ferrostar/maplibreui@0.23.0?classifier=sources
+- pkg:maven/com.stadiamaps.ferrostar/maplibreui@0.24.0?classifier=sources

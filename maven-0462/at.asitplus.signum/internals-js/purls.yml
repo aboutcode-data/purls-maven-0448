@@ -1,0 +1,2 @@
+- pkg:maven/at.asitplus.signum/internals-js@3.11.0?classifier=sources
+- pkg:maven/at.asitplus.signum/internals-js@3.11.1?classifier=sources

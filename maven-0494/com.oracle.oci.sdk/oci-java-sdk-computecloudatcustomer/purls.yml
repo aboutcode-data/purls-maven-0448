@@ -2,6 +2,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@2.72.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@2.73.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@2.73.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@2.79.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@2.79.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.23.2
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.23.2?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.24.0
@@ -116,3 +118,7 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.53.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.53.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.53.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.54.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.54.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.55.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-computecloudatcustomer@3.55.0?classifier=sources

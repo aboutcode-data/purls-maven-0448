@@ -28,3 +28,4 @@
 - pkg:maven/org.spdx/java-spdx-library@1.1.8?classifier=sources
 - pkg:maven/org.spdx/java-spdx-library@1.1.9?classifier=sources
 - pkg:maven/org.spdx/java-spdx-library@2.0.0-Alpha?classifier=sources
+- pkg:maven/org.spdx/java-spdx-library@2.0.0-RC1?classifier=sources

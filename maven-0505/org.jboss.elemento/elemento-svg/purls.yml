@@ -63,3 +63,4 @@
 - pkg:maven/org.jboss.elemento/elemento-svg@1.6.7?classifier=sources
 - pkg:maven/org.jboss.elemento/elemento-svg@1.6.8?classifier=sources
 - pkg:maven/org.jboss.elemento/elemento-svg@1.6.9?classifier=sources
+- pkg:maven/org.jboss.elemento/elemento-svg@1.7.0?classifier=sources

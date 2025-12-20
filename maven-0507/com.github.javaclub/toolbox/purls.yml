@@ -99,6 +99,14 @@
 - pkg:maven/com.github.javaclub/toolbox@2.7.4
 - pkg:maven/com.github.javaclub/toolbox@2.7.40
 - pkg:maven/com.github.javaclub/toolbox@2.7.40?classifier=sources
+- pkg:maven/com.github.javaclub/toolbox@2.7.43
+- pkg:maven/com.github.javaclub/toolbox@2.7.43?classifier=sources
+- pkg:maven/com.github.javaclub/toolbox@2.7.44
+- pkg:maven/com.github.javaclub/toolbox@2.7.44?classifier=sources
+- pkg:maven/com.github.javaclub/toolbox@2.7.45
+- pkg:maven/com.github.javaclub/toolbox@2.7.45?classifier=sources
+- pkg:maven/com.github.javaclub/toolbox@2.7.46
+- pkg:maven/com.github.javaclub/toolbox@2.7.46?classifier=sources
 - pkg:maven/com.github.javaclub/toolbox@2.7.4?classifier=sources
 - pkg:maven/com.github.javaclub/toolbox@2.7.5
 - pkg:maven/com.github.javaclub/toolbox@2.7.5?classifier=sources

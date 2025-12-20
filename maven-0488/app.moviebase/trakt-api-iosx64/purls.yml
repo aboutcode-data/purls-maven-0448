@@ -2,3 +2,5 @@
 - pkg:maven/app.moviebase/trakt-api-iosx64@0.1.1?classifier=sources
 - pkg:maven/app.moviebase/trakt-api-iosx64@0.5.0?classifier=sources
 - pkg:maven/app.moviebase/trakt-api-iosx64@0.6.0?classifier=sources
+- pkg:maven/app.moviebase/trakt-api-iosx64@0.7.0?classifier=sources
+- pkg:maven/app.moviebase/trakt-api-iosx64@0.7.1?classifier=sources

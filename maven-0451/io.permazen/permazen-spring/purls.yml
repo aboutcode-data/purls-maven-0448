@@ -30,3 +30,5 @@
 - pkg:maven/io.permazen/permazen-spring@4.2.0?classifier=sources
 - pkg:maven/io.permazen/permazen-spring@5.0.0
 - pkg:maven/io.permazen/permazen-spring@5.0.0?classifier=sources
+- pkg:maven/io.permazen/permazen-spring@5.1.0
+- pkg:maven/io.permazen/permazen-spring@5.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.aagsolutions.telematics/teltonika-codec@0.1.0
+- pkg:maven/eu.aagsolutions.telematics/teltonika-codec@0.1.0?classifier=sources

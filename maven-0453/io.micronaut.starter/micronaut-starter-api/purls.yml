@@ -154,3 +154,4 @@
 - pkg:maven/io.micronaut.starter/micronaut-starter-api@4.6.2?classifier=sources
 - pkg:maven/io.micronaut.starter/micronaut-starter-api@4.6.3?classifier=sources
 - pkg:maven/io.micronaut.starter/micronaut-starter-api@4.7.0?classifier=sources
+- pkg:maven/io.micronaut.starter/micronaut-starter-api@4.7.1?classifier=sources

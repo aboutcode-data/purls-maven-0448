@@ -443,3 +443,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@2.1.0-Beta2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@2.1.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@2.1.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-stdlib@2.1.0?classifier=sources

@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-queries@RELEASE90?classifier=sources

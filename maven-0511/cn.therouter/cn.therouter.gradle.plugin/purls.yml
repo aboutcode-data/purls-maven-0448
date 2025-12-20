@@ -135,3 +135,5 @@
 - pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.3-rc7?classifier=sources
 - pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.3-rc8?classifier=sources
 - pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.3-rc9?classifier=sources
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.3?classifier=sources
+- pkg:maven/cn.therouter/cn.therouter.gradle.plugin@1.2.4-rc1?classifier=sources

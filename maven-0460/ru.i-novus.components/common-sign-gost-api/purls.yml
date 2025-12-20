@@ -10,7 +10,11 @@
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.15?classifier=sources
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.16
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.16?classifier=sources
+- pkg:maven/ru.i-novus.components/common-sign-gost-api@1.17
+- pkg:maven/ru.i-novus.components/common-sign-gost-api@1.17?classifier=sources
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.8
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.8?classifier=sources
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.9
 - pkg:maven/ru.i-novus.components/common-sign-gost-api@1.9?classifier=sources
+- pkg:maven/ru.i-novus.components/common-sign-gost-api@2.0.0
+- pkg:maven/ru.i-novus.components/common-sign-gost-api@2.0.0?classifier=sources

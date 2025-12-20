@@ -1398,6 +1398,14 @@
 - pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.2
 - pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.3
+- pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.3-22cb86
+- pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.3-22cb86?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.4
+- pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.4?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.5
+- pkg:maven/io.streamnative/pulsar-io-hdfs2@3.0.7.5?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-hdfs2@3.1.0.1
 - pkg:maven/io.streamnative/pulsar-io-hdfs2@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-hdfs2@3.1.0.2

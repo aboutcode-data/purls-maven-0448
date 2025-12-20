@@ -10,3 +10,9 @@
 - pkg:maven/com.aliyun/dataworks_public20240518@2.2.0?classifier=sources
 - pkg:maven/com.aliyun/dataworks_public20240518@2.2.1
 - pkg:maven/com.aliyun/dataworks_public20240518@2.2.1?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20240518@3.0.0
+- pkg:maven/com.aliyun/dataworks_public20240518@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20240518@3.1.0
+- pkg:maven/com.aliyun/dataworks_public20240518@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20240518@4.0.0
+- pkg:maven/com.aliyun/dataworks_public20240518@4.0.0?classifier=sources

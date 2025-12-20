@@ -134,6 +134,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@2.72.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@2.73.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@2.73.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@2.79.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@2.79.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.0.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.0.0-beta1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.0.0-beta1?classifier=sources
@@ -310,6 +312,10 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.53.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.53.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.53.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.54.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.54.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.55.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.55.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubsubscription@3.7.0

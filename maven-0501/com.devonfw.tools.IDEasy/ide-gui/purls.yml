@@ -1,0 +1,2 @@
+- pkg:maven/com.devonfw.tools.IDEasy/ide-gui@2024.12.001-beta
+- pkg:maven/com.devonfw.tools.IDEasy/ide-gui@2024.12.001-beta?classifier=sources

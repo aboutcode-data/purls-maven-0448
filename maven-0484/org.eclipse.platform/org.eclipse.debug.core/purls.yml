@@ -52,3 +52,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.core@3.21.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.core@3.21.500
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.core@3.21.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.core@3.22.0
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.core@3.22.0?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.21.0?classifier=sources
 - pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.22.1?classifier=sources
 - pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.22.3?classifier=sources
+- pkg:maven/org.mvnpm.at.hpcc-js/wasm@2.22.4?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.sonarsource.java/check-list@8.4.0.37032?classifier=sources
 - pkg:maven/org.sonarsource.java/check-list@8.5.0.37199?classifier=sources
 - pkg:maven/org.sonarsource.java/check-list@8.6.0.37351?classifier=sources
+- pkg:maven/org.sonarsource.java/check-list@8.7.0.37452?classifier=sources
+- pkg:maven/org.sonarsource.java/check-list@8.8.0.37665?classifier=sources

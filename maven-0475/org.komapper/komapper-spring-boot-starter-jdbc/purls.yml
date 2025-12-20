@@ -60,3 +60,4 @@
 - pkg:maven/org.komapper/komapper-spring-boot-starter-jdbc@3.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-spring-boot-starter-jdbc@3.1.0?classifier=sources
 - pkg:maven/org.komapper/komapper-spring-boot-starter-jdbc@4.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-spring-boot-starter-jdbc@5.0.0?classifier=sources

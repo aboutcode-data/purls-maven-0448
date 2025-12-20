@@ -48,3 +48,7 @@
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-standalone@7.2.0.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-standalone@7.2.1.Final
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-standalone@7.2.1.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-standalone@7.2.2.Final
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-standalone@7.2.2.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-standalone@8.0.0.Alpha1
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-pojo-standalone@8.0.0.Alpha1?classifier=sources

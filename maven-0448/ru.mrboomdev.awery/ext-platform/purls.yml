@@ -1,0 +1,2 @@
+- pkg:maven/ru.mrboomdev.awery/ext-platform@1.0.0?classifier=sources
+- pkg:maven/ru.mrboomdev.awery/ext-platform@1.0.1?classifier=sources

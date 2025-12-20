@@ -1,0 +1,4 @@
+- pkg:maven/com.salesforce.datacloud/jdbc@0.20.0
+- pkg:maven/com.salesforce.datacloud/jdbc@0.20.0?classifier=sources
+- pkg:maven/com.salesforce.datacloud/jdbc@0.22.0
+- pkg:maven/com.salesforce.datacloud/jdbc@0.22.0?classifier=sources

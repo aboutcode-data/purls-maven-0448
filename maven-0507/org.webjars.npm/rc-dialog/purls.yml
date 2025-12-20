@@ -35,3 +35,4 @@
 - pkg:maven/org.webjars.npm/rc-dialog@9.1.0
 - pkg:maven/org.webjars.npm/rc-dialog@9.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/rc-dialog@9.5.2
+- pkg:maven/org.webjars.npm/rc-dialog@9.6.0

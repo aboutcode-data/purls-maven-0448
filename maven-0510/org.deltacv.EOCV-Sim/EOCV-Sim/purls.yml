@@ -1,1 +1,3 @@
 - pkg:maven/org.deltacv.EOCV-Sim/EOCV-Sim@3.8.4?classifier=sources
+- pkg:maven/org.deltacv.EOCV-Sim/EOCV-Sim@4.0.0?classifier=sources
+- pkg:maven/org.deltacv.EOCV-Sim/EOCV-Sim@4.0.1?classifier=sources

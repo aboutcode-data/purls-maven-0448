@@ -31,6 +31,7 @@
 - pkg:maven/org.glassfish.main.hk2/config-types@7.0.18?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/config-types@7.0.19?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/config-types@7.0.1?classifier=sources
+- pkg:maven/org.glassfish.main.hk2/config-types@7.0.20?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/config-types@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/config-types@7.0.3?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/config-types@7.0.4?classifier=sources
@@ -49,3 +50,4 @@
 - pkg:maven/org.glassfish.main.hk2/config-types@8.0.0-M6?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/config-types@8.0.0-M7?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/config-types@8.0.0-M8?classifier=sources
+- pkg:maven/org.glassfish.main.hk2/config-types@8.0.0-M9?classifier=sources

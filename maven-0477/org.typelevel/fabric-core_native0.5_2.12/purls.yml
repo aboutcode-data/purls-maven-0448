@@ -14,3 +14,5 @@
 - pkg:maven/org.typelevel/fabric-core_native0.5_2.12@1.15.3?classifier=sources
 - pkg:maven/org.typelevel/fabric-core_native0.5_2.12@1.15.4
 - pkg:maven/org.typelevel/fabric-core_native0.5_2.12@1.15.4?classifier=sources
+- pkg:maven/org.typelevel/fabric-core_native0.5_2.12@1.15.5
+- pkg:maven/org.typelevel/fabric-core_native0.5_2.12@1.15.5?classifier=sources
