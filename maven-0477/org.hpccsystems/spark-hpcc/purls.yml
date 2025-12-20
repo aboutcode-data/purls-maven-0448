@@ -1037,3 +1037,5 @@
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.38-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.40-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.8.40-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.8.48-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.8.48-1?classifier=sources

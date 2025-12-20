@@ -3,6 +3,9 @@
 - pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.11?classifier=sources
 - pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.12?classifier=sources
 - pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.13?classifier=sources
+- pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.14?classifier=sources
+- pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.15?classifier=sources
+- pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.16?classifier=sources
 - pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.2-SHAPSHOT?classifier=sources
 - pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.3-SHAPSHOT?classifier=sources
 - pkg:maven/io.bitdive/bitdive-producer-spring-2@0.0.4-SHAPSHOT?classifier=sources

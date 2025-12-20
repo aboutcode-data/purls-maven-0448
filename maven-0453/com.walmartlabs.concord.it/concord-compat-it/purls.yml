@@ -20,3 +20,5 @@
 - pkg:maven/com.walmartlabs.concord.it/concord-compat-it@2.19.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it/concord-compat-it@2.20.0
 - pkg:maven/com.walmartlabs.concord.it/concord-compat-it@2.20.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it/concord-compat-it@2.21.0
+- pkg:maven/com.walmartlabs.concord.it/concord-compat-it@2.21.0?classifier=sources

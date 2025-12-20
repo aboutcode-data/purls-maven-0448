@@ -1,0 +1,2 @@
+- pkg:maven/net.tirasa.connid/commons-db@1.6.0.0-RC3
+- pkg:maven/net.tirasa.connid/commons-db@1.6.0.0-RC3?classifier=sources

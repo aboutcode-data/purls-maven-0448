@@ -6,3 +6,4 @@
 - pkg:maven/org.grails.plugins/cache@5.0.1?classifier=sources
 - pkg:maven/org.grails.plugins/cache@6.0.0?classifier=sources
 - pkg:maven/org.grails.plugins/cache@7.0.0?classifier=sources
+- pkg:maven/org.grails.plugins/cache@8.0.0-M2?classifier=sources

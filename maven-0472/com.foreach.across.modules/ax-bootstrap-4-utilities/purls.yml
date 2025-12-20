@@ -12,3 +12,5 @@
 - pkg:maven/com.foreach.across.modules/ax-bootstrap-4-utilities@4.5.0?classifier=sources
 - pkg:maven/com.foreach.across.modules/ax-bootstrap-4-utilities@4.5.1
 - pkg:maven/com.foreach.across.modules/ax-bootstrap-4-utilities@4.5.1?classifier=sources
+- pkg:maven/com.foreach.across.modules/ax-bootstrap-4-utilities@6.0.0
+- pkg:maven/com.foreach.across.modules/ax-bootstrap-4-utilities@6.0.0?classifier=sources

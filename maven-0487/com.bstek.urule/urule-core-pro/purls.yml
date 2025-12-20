@@ -126,3 +126,5 @@
 - pkg:maven/com.bstek.urule/urule-core-pro@4.2.5?classifier=sources
 - pkg:maven/com.bstek.urule/urule-core-pro@4.3.0
 - pkg:maven/com.bstek.urule/urule-core-pro@4.3.0?classifier=sources
+- pkg:maven/com.bstek.urule/urule-core-pro@4.3.1
+- pkg:maven/com.bstek.urule/urule-core-pro@4.3.1?classifier=sources

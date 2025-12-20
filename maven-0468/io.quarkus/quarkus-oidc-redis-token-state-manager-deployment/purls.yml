@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-oidc-redis-token-state-manager-deployment@3.18.0.CR1
+- pkg:maven/io.quarkus/quarkus-oidc-redis-token-state-manager-deployment@3.18.0.CR1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bigbigfeifei/redis-distributed-id-generator-start@1.0?classifier=sources
+- pkg:maven/io.github.bigbigfeifei/redis-distributed-id-generator-start@2.0?classifier=sources

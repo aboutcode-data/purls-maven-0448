@@ -1,0 +1,1 @@
+- pkg:maven/io.github.kai-niemi.cockroachdb.jdbc/cockroachdb-jdbc@2.0.0?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/com.lframework/cloud-starter@3.1.3?classifier=sources
 - pkg:maven/com.lframework/cloud-starter@3.1.4
 - pkg:maven/com.lframework/cloud-starter@3.1.4?classifier=sources
+- pkg:maven/com.lframework/cloud-starter@3.1.5
+- pkg:maven/com.lframework/cloud-starter@3.1.5?classifier=sources

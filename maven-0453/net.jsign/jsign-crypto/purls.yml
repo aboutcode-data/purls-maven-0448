@@ -1,0 +1,2 @@
+- pkg:maven/net.jsign/jsign-crypto@7.0
+- pkg:maven/net.jsign/jsign-crypto@7.0?classifier=sources

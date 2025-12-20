@@ -6,6 +6,7 @@
 - pkg:maven/com.trimble/trimble-id@1.0.0?classifier=sources
 - pkg:maven/com.trimble/trimble-id@1.0.1
 - pkg:maven/com.trimble/trimble-id@1.0.1?classifier=sources
+- pkg:maven/com.trimble/trimble-id@1.0.2
 - pkg:maven/com.trimble/trimble-id@1.0.2-RC1
 - pkg:maven/com.trimble/trimble-id@1.0.2-RC1?classifier=sources
 - pkg:maven/com.trimble/trimble-id@1.0.2-RC2
@@ -20,3 +21,4 @@
 - pkg:maven/com.trimble/trimble-id@1.0.2-beta.20240826?classifier=sources
 - pkg:maven/com.trimble/trimble-id@1.0.2-beta.20240910
 - pkg:maven/com.trimble/trimble-id@1.0.2-beta.20240910?classifier=sources
+- pkg:maven/com.trimble/trimble-id@1.0.2?classifier=sources

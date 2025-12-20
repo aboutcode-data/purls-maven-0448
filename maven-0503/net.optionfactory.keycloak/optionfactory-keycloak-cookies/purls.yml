@@ -6,3 +6,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-cookies@6.16?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-cookies@6.17
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-cookies@6.17?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-cookies@6.18
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-cookies@6.18?classifier=sources

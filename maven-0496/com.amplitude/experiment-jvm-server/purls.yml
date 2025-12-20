@@ -50,3 +50,4 @@
 - pkg:maven/com.amplitude/experiment-jvm-server@1.4.3?classifier=sources
 - pkg:maven/com.amplitude/experiment-jvm-server@1.5.0?classifier=sources
 - pkg:maven/com.amplitude/experiment-jvm-server@1.6.0?classifier=sources
+- pkg:maven/com.amplitude/experiment-jvm-server@1.6.1?classifier=sources

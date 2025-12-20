@@ -20,3 +20,5 @@
 - pkg:maven/com.cognitect.aws/amplifybackend@847.2.1365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/amplifybackend@852.2.1525.0
 - pkg:maven/com.cognitect.aws/amplifybackend@852.2.1525.0?classifier=sources
+- pkg:maven/com.cognitect.aws/amplifybackend@871.2.29.35
+- pkg:maven/com.cognitect.aws/amplifybackend@871.2.29.35?classifier=sources

@@ -114,3 +114,4 @@
 - pkg:maven/io.trino/trino-iceberg@465?classifier=sources
 - pkg:maven/io.trino/trino-iceberg@466?classifier=sources
 - pkg:maven/io.trino/trino-iceberg@467?classifier=sources
+- pkg:maven/io.trino/trino-iceberg@468?classifier=sources

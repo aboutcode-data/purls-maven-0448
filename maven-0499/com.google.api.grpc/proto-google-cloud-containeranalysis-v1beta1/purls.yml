@@ -84,6 +84,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.144.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.145.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.145.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.146.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.146.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.147.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.147.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.23.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.23.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-containeranalysis-v1beta1@0.24.0

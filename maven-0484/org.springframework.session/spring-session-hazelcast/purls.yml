@@ -141,3 +141,4 @@
 - pkg:maven/org.springframework.session/spring-session-hazelcast@3.3.4?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-hazelcast@3.3.5?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-hazelcast@3.4.0?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-hazelcast@3.4.1?classifier=sources

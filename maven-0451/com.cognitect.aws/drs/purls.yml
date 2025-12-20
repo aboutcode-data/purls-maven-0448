@@ -22,3 +22,5 @@
 - pkg:maven/com.cognitect.aws/drs@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/drs@869.2.1616.0
 - pkg:maven/com.cognitect.aws/drs@869.2.1616.0?classifier=sources
+- pkg:maven/com.cognitect.aws/drs@871.2.29.35
+- pkg:maven/com.cognitect.aws/drs@871.2.29.35?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.braimanm/datainstiller@2.1.1?classifier=sources
 - pkg:maven/com.braimanm/datainstiller@3.0.0
 - pkg:maven/com.braimanm/datainstiller@3.0.0?classifier=sources
+- pkg:maven/com.braimanm/datainstiller@3.2.0
+- pkg:maven/com.braimanm/datainstiller@3.2.0?classifier=sources

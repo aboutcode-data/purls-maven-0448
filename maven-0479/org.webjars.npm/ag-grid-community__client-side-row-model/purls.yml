@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/ag-grid-community__client-side-row-model@26.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/ag-grid-community__client-side-row-model@27.1.0
 - pkg:maven/org.webjars.npm/ag-grid-community__client-side-row-model@27.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/ag-grid-community__client-side-row-model@27.3.0

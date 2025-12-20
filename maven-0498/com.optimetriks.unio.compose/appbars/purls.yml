@@ -3,6 +3,12 @@
 - pkg:maven/com.optimetriks.unio.compose/appbars@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/appbars@17?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/appbars@18?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@22?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/appbars@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/appbars@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/appbars@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/appbars@7?classifier=sources

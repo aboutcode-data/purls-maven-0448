@@ -40,3 +40,5 @@
 - pkg:maven/ie.equalit.ouinet/geckoview-ceno-omni-x86_64@132.0.20241110192737?classifier=sources
 - pkg:maven/ie.equalit.ouinet/geckoview-ceno-omni-x86_64@133.0.20241121140525?classifier=sources
 - pkg:maven/ie.equalit.ouinet/geckoview-ceno-omni-x86_64@133.0.20241204213141?classifier=sources
+- pkg:maven/ie.equalit.ouinet/geckoview-ceno-omni-x86_64@133.0.20241209150345?classifier=sources
+- pkg:maven/ie.equalit.ouinet/geckoview-ceno-omni-x86_64@134.0.20241230151726?classifier=sources

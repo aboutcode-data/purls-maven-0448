@@ -90,3 +90,5 @@
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.9.7?classifier=sources
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.9.8
 - pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.9.8?classifier=sources
+- pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.9.9
+- pkg:maven/org.msgpack/jackson-dataformat-msgpack@0.9.9?classifier=sources

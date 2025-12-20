@@ -62,3 +62,5 @@
 - pkg:maven/org.bardframework.crud/crud-api@3.7.2?classifier=sources
 - pkg:maven/org.bardframework.crud/crud-api@3.8.2
 - pkg:maven/org.bardframework.crud/crud-api@3.8.2?classifier=sources
+- pkg:maven/org.bardframework.crud/crud-api@3.9.2
+- pkg:maven/org.bardframework.crud/crud-api@3.9.2?classifier=sources

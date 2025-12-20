@@ -10,7 +10,11 @@
 - pkg:maven/com.lsnju/tp-domain-short@2.7.14?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-short@2.7.15?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-short@2.7.16?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-short@2.7.17?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-short@2.7.18?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-short@2.7.19?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-short@2.7.2
+- pkg:maven/com.lsnju/tp-domain-short@2.7.20?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-short@2.7.2?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-short@2.7.3
 - pkg:maven/com.lsnju/tp-domain-short@2.7.3?classifier=sources

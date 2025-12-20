@@ -22,3 +22,6 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.diagnostics@4.7.219
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.diagnostics@4.7.219?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.diagnostics@4.7.219?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.diagnostics@4.7.224
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.diagnostics@4.7.224?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediation.diagnostics@4.7.224?classifier=sources

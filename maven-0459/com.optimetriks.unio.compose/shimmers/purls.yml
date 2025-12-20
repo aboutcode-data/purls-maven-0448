@@ -1,6 +1,12 @@
 - pkg:maven/com.optimetriks.unio.compose/shimmers@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/shimmers@17?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/shimmers@18?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/shimmers@22?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/shimmers@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/shimmers@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/shimmers@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/shimmers@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/shimmers@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/shimmers@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/shimmers@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/shimmers@8?classifier=sources

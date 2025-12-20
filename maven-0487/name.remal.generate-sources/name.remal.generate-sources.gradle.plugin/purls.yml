@@ -1,0 +1,2 @@
+- pkg:maven/name.remal.generate-sources/name.remal.generate-sources.gradle.plugin@2.0.0-rc-1?classifier=sources
+- pkg:maven/name.remal.generate-sources/name.remal.generate-sources.gradle.plugin@2.0.0-rc-2?classifier=sources

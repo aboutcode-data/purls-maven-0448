@@ -200,6 +200,12 @@
 - pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.24.3?classifier=sources
 - pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.25.0
 - pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.25.0?classifier=sources
+- pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.25.1
+- pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.25.1?classifier=sources
+- pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.25.2
+- pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.25.2?classifier=sources
+- pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.25.3
+- pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.25.3?classifier=sources
 - pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.3.0
 - pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud.datastore/datastore-v1-proto-client@2.3.1

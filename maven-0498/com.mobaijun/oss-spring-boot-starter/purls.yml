@@ -15,6 +15,7 @@
 - pkg:maven/com.mobaijun/oss-spring-boot-starter@3.0.15?classifier=sources
 - pkg:maven/com.mobaijun/oss-spring-boot-starter@3.0.16?classifier=sources
 - pkg:maven/com.mobaijun/oss-spring-boot-starter@3.0.17?classifier=sources
+- pkg:maven/com.mobaijun/oss-spring-boot-starter@3.0.18?classifier=sources
 - pkg:maven/com.mobaijun/oss-spring-boot-starter@3.0.5
 - pkg:maven/com.mobaijun/oss-spring-boot-starter@3.0.5?classifier=sources
 - pkg:maven/com.mobaijun/oss-spring-boot-starter@3.0.6

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.daffodil/daffodil-tdml-junit_2.12@3.10.0
+- pkg:maven/org.apache.daffodil/daffodil-tdml-junit_2.12@3.10.0?classifier=sources

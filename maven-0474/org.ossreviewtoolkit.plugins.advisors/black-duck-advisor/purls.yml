@@ -1,0 +1,2 @@
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@46.0.0?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/de.stuebingerb/kgraphql-ktor@0.22.0?classifier=sources
 - pkg:maven/de.stuebingerb/kgraphql-ktor@0.23.0?classifier=sources
 - pkg:maven/de.stuebingerb/kgraphql-ktor@0.24.0?classifier=sources
+- pkg:maven/de.stuebingerb/kgraphql-ktor@0.25.0?classifier=sources
+- pkg:maven/de.stuebingerb/kgraphql-ktor@0.26.0?classifier=sources

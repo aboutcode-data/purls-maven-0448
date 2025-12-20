@@ -1,1 +1,2 @@
 - pkg:maven/com.simplito.java/privmx-endpoint@2.0?classifier=sources
+- pkg:maven/com.simplito.java/privmx-endpoint@2.1.0-rc1?classifier=sources

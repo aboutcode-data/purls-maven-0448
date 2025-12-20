@@ -2,3 +2,5 @@
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-kotlin-plugin@2.37.2?classifier=sources
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-kotlin-plugin@2.37.3?classifier=sources
 - pkg:maven/io.cobrowse/cobrowse-sdk-android-kotlin-plugin@2.38.0?classifier=sources
+- pkg:maven/io.cobrowse/cobrowse-sdk-android-kotlin-plugin@2.39.0?classifier=sources
+- pkg:maven/io.cobrowse/cobrowse-sdk-android-kotlin-plugin@2.39.1?classifier=sources

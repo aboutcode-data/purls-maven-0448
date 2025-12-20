@@ -1,3 +1,5 @@
+- pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.100.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.100.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.67.0
 - pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.67.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.68.0
@@ -68,3 +70,9 @@
 - pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.95.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.96.0
 - pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.96.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.97.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.97.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.98.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.98.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.99.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection-api_2.13@0.99.0?classifier=sources

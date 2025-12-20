@@ -10,3 +10,5 @@
 - pkg:maven/io.github.epi155/emsql-runtime@0.1-B1?classifier=sources
 - pkg:maven/io.github.epi155/emsql-runtime@0.1-RC1
 - pkg:maven/io.github.epi155/emsql-runtime@0.1-RC1?classifier=sources
+- pkg:maven/io.github.epi155/emsql-runtime@0.1-RC2
+- pkg:maven/io.github.epi155/emsql-runtime@0.1-RC2?classifier=sources

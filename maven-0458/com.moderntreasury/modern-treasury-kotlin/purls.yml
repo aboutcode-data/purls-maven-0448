@@ -32,3 +32,5 @@
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.8.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@2.9.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@3.0.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin@3.1.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin@4.0.0?classifier=sources

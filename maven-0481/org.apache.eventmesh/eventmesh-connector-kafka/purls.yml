@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.eventmesh/eventmesh-connector-kafka@1.10.0-release?classifier=sources
+- pkg:maven/org.apache.eventmesh/eventmesh-connector-kafka@1.11.0-release?classifier=sources
 - pkg:maven/org.apache.eventmesh/eventmesh-connector-kafka@1.7.0-release?classifier=sources
 - pkg:maven/org.apache.eventmesh/eventmesh-connector-kafka@1.8.0-release?classifier=sources

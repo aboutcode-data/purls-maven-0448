@@ -1,0 +1,2 @@
+- pkg:maven/com.michelin.adk.amn.o2c/amn-o2c-sdk@v1.0.0
+- pkg:maven/com.michelin.adk.amn.o2c/amn-o2c-sdk@v1.0.0?classifier=sources

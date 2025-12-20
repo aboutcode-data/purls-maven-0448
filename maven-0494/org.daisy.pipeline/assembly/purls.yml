@@ -5,3 +5,5 @@
 - pkg:maven/org.daisy.pipeline/assembly@1.14.19?classifier=sources
 - pkg:maven/org.daisy.pipeline/assembly@1.14.20
 - pkg:maven/org.daisy.pipeline/assembly@1.14.20?classifier=sources
+- pkg:maven/org.daisy.pipeline/assembly@1.14.21
+- pkg:maven/org.daisy.pipeline/assembly@1.14.21?classifier=sources

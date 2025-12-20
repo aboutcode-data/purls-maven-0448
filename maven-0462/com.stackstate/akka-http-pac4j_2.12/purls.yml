@@ -40,3 +40,7 @@
 - pkg:maven/com.stackstate/akka-http-pac4j_2.12@0.8.3?classifier=sources
 - pkg:maven/com.stackstate/akka-http-pac4j_2.12@0.8.4
 - pkg:maven/com.stackstate/akka-http-pac4j_2.12@0.8.4?classifier=sources
+- pkg:maven/com.stackstate/akka-http-pac4j_2.12@1.0.0
+- pkg:maven/com.stackstate/akka-http-pac4j_2.12@1.0.0?classifier=sources
+- pkg:maven/com.stackstate/akka-http-pac4j_2.12@1.0.1
+- pkg:maven/com.stackstate/akka-http-pac4j_2.12@1.0.1?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.lmax/disruptor-proxy@2.0.7
 - pkg:maven/com.lmax/disruptor-proxy@2.0.7?classifier=sources
 - pkg:maven/com.lmax/disruptor-proxy@3.0.0?classifier=sources
+- pkg:maven/com.lmax/disruptor-proxy@3.1.1?classifier=sources

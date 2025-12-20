@@ -3,3 +3,4 @@
 - pkg:maven/com.rulebricks/rulebricks-sdk-java@1.2?classifier=sources
 - pkg:maven/com.rulebricks/rulebricks-sdk-java@1.3?classifier=sources
 - pkg:maven/com.rulebricks/rulebricks-sdk-java@1.4?classifier=sources
+- pkg:maven/com.rulebricks/rulebricks-sdk-java@1.5?classifier=sources

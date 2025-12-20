@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/hyphenate-style-name@1.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/hyphenate-style-name@1.0.4
 - pkg:maven/org.webjars.npm/hyphenate-style-name@1.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/hyphenate-style-name@1.1.0

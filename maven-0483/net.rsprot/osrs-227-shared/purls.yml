@@ -1,2 +1,10 @@
 - pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20241122?classifier=sources
 - pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20241201?classifier=sources
+- pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20241220?classifier=sources
+- pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20241221?classifier=sources
+- pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20241223?classifier=sources
+- pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20241227?classifier=sources
+- pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20241228?classifier=sources
+- pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20250103?classifier=sources
+- pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20250115?classifier=sources
+- pkg:maven/net.rsprot/osrs-227-shared@1.0.0-ALPHA-20250116?classifier=sources

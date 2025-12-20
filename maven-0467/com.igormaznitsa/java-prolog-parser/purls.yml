@@ -3,3 +3,4 @@
 - pkg:maven/com.igormaznitsa/java-prolog-parser@2.0.2
 - pkg:maven/com.igormaznitsa/java-prolog-parser@2.0.2?classifier=sources
 - pkg:maven/com.igormaznitsa/java-prolog-parser@2.1.0?classifier=sources
+- pkg:maven/com.igormaznitsa/java-prolog-parser@2.2.0?classifier=sources
