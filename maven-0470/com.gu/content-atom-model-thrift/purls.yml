@@ -97,3 +97,6 @@
 - pkg:maven/com.gu/content-atom-model-thrift@3.4.5-beta.0
 - pkg:maven/com.gu/content-atom-model-thrift@4.0.0
 - pkg:maven/com.gu/content-atom-model-thrift@4.0.1
+- pkg:maven/com.gu/content-atom-model-thrift@4.0.2-PREVIEW.db-rttest-content-entity-release.2024-03-26T1749.cb6c4e64
+- pkg:maven/com.gu/content-atom-model-thrift@4.0.3
+- pkg:maven/com.gu/content-atom-model-thrift@4.0.4

@@ -78,3 +78,9 @@
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.3.8?type=war
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.3.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.3.9?type=war
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.4.10?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.4.10?type=war
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.4.11?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.4.11?type=war
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.4.12?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.fido/org.wso2.carbon.identity.application.authenticator.fido2.endpoint@5.4.12?type=war

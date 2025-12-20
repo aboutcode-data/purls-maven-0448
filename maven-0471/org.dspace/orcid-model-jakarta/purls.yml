@@ -1,0 +1,2 @@
+- pkg:maven/org.dspace/orcid-model-jakarta@3.3.0
+- pkg:maven/org.dspace/orcid-model-jakarta@3.3.0?classifier=sources

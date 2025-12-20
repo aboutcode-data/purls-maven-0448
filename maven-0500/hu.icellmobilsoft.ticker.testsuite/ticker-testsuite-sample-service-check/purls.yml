@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.ticker.testsuite/ticker-testsuite-sample-service-check@1.3.0
+- pkg:maven/hu.icellmobilsoft.ticker.testsuite/ticker-testsuite-sample-service-check@1.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.bee-cloud/beecloud-service-sms@6.1.14a
+- pkg:maven/cn.bee-cloud/beecloud-service-sms@6.1.14a?classifier=sources

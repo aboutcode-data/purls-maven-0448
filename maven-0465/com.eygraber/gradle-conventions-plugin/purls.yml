@@ -44,4 +44,5 @@
 - pkg:maven/com.eygraber/gradle-conventions-plugin@0.0.68?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-plugin@0.0.69?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-plugin@0.0.70?classifier=sources
+- pkg:maven/com.eygraber/gradle-conventions-plugin@0.0.71?classifier=sources
 - pkg:maven/com.eygraber/gradle-conventions-plugin@unspecified?classifier=sources

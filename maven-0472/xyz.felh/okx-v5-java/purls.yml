@@ -1,0 +1,6 @@
+- pkg:maven/xyz.felh/okx-v5-java@0.1.2024042001
+- pkg:maven/xyz.felh/okx-v5-java@0.1.2024042001?classifier=sources
+- pkg:maven/xyz.felh/okx-v5-java@0.2.2024042401
+- pkg:maven/xyz.felh/okx-v5-java@0.2.2024042401?classifier=sources
+- pkg:maven/xyz.felh/okx-v5-java@0.2.2024042501
+- pkg:maven/xyz.felh/okx-v5-java@0.2.2024042501?classifier=sources

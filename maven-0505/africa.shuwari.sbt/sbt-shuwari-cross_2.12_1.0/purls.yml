@@ -1,0 +1,2 @@
+- pkg:maven/africa.shuwari.sbt/sbt-shuwari-cross_2.12_1.0@0.12.0
+- pkg:maven/africa.shuwari.sbt/sbt-shuwari-cross_2.12_1.0@0.12.0?classifier=sources

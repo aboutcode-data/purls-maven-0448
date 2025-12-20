@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.bk.devops.ci.misc/api-image@2.1.0-rc.2?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.misc/api-image@2.1.0?classifier=sources

@@ -22,5 +22,7 @@
 - pkg:maven/tech.neander/langoustine-tracer-shared_sjs1_3@0.0.20?classifier=sources
 - pkg:maven/tech.neander/langoustine-tracer-shared_sjs1_3@0.0.21
 - pkg:maven/tech.neander/langoustine-tracer-shared_sjs1_3@0.0.21?classifier=sources
+- pkg:maven/tech.neander/langoustine-tracer-shared_sjs1_3@0.0.22
+- pkg:maven/tech.neander/langoustine-tracer-shared_sjs1_3@0.0.22?classifier=sources
 - pkg:maven/tech.neander/langoustine-tracer-shared_sjs1_3@0.0.9
 - pkg:maven/tech.neander/langoustine-tracer-shared_sjs1_3@0.0.9?classifier=sources

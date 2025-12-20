@@ -2,3 +2,5 @@
 - pkg:maven/org.virtuslab/besom-minio_3@0.14.0-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-minio_3@0.15.1-core.0.2
 - pkg:maven/org.virtuslab/besom-minio_3@0.15.1-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-minio_3@0.15.2-core.0.3
+- pkg:maven/org.virtuslab/besom-minio_3@0.15.2-core.0.3?classifier=sources

@@ -68,6 +68,8 @@
 - pkg:maven/com.starrocks/starmanager@3.1.6?classifier=sources
 - pkg:maven/com.starrocks/starmanager@3.1.7
 - pkg:maven/com.starrocks/starmanager@3.1.7?classifier=sources
+- pkg:maven/com.starrocks/starmanager@3.1.8
+- pkg:maven/com.starrocks/starmanager@3.1.8?classifier=sources
 - pkg:maven/com.starrocks/starmanager@3.2-rc1
 - pkg:maven/com.starrocks/starmanager@3.2-rc1?classifier=sources
 - pkg:maven/com.starrocks/starmanager@3.2-rc2
@@ -84,3 +86,9 @@
 - pkg:maven/com.starrocks/starmanager@3.2-rc7?classifier=sources
 - pkg:maven/com.starrocks/starmanager@3.2-rc8
 - pkg:maven/com.starrocks/starmanager@3.2-rc8?classifier=sources
+- pkg:maven/com.starrocks/starmanager@3.2-rc9
+- pkg:maven/com.starrocks/starmanager@3.2-rc9?classifier=sources
+- pkg:maven/com.starrocks/starmanager@3.2.0
+- pkg:maven/com.starrocks/starmanager@3.2.0?classifier=sources
+- pkg:maven/com.starrocks/starmanager@3.3-rc0
+- pkg:maven/com.starrocks/starmanager@3.3-rc0?classifier=sources

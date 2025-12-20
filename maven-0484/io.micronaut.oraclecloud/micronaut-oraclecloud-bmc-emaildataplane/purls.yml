@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-emaildataplane@3.8.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-emaildataplane@4.0.0?classifier=sources

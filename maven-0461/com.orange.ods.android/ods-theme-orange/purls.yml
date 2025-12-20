@@ -12,3 +12,4 @@
 - pkg:maven/com.orange.ods.android/ods-theme-orange@0.7.0?classifier=sources
 - pkg:maven/com.orange.ods.android/ods-theme-orange@0.8.0?classifier=sources
 - pkg:maven/com.orange.ods.android/ods-theme-orange@0.9.0?classifier=sources
+- pkg:maven/com.orange.ods.android/ods-theme-orange@1.0.0?classifier=sources

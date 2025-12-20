@@ -2,3 +2,5 @@
 - pkg:maven/org.sql2o.extensions/sql2o-oracle-joda-time@1.6.0-RC3?classifier=sources
 - pkg:maven/org.sql2o.extensions/sql2o-oracle-joda-time@1.7.0
 - pkg:maven/org.sql2o.extensions/sql2o-oracle-joda-time@1.7.0?classifier=sources
+- pkg:maven/org.sql2o.extensions/sql2o-oracle-joda-time@1.8.0
+- pkg:maven/org.sql2o.extensions/sql2o-oracle-joda-time@1.8.0?classifier=sources

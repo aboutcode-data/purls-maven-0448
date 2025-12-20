@@ -10,3 +10,5 @@
 - pkg:maven/dev.vality.woody/woody-api@1.0.4?classifier=sources
 - pkg:maven/dev.vality.woody/woody-api@1.0.5
 - pkg:maven/dev.vality.woody/woody-api@1.0.5?classifier=sources
+- pkg:maven/dev.vality.woody/woody-api@2.0.0
+- pkg:maven/dev.vality.woody/woody-api@2.0.0?classifier=sources

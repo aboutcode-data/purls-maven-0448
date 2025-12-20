@@ -233,6 +233,10 @@
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.21?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.22
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.22?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.23
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.23?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.24
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.24?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.2?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.3
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@1.11.3?classifier=sources
@@ -374,3 +378,7 @@
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@2.0.9?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@2.1.0
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets@2.1.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets@2.1.1
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets@2.1.1?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets@2.1.2
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets@2.1.2?classifier=sources

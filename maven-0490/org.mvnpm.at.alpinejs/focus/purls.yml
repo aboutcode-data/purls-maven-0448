@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.alpinejs/focus@3.13.3?classifier=sources
+- pkg:maven/org.mvnpm.at.alpinejs/focus@3.13.8?classifier=sources

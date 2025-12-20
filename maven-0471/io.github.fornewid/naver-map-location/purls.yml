@@ -1,3 +1,4 @@
 - pkg:maven/io.github.fornewid/naver-map-location@16.0.0?classifier=sources
 - pkg:maven/io.github.fornewid/naver-map-location@18.0.0?classifier=sources
 - pkg:maven/io.github.fornewid/naver-map-location@21.0.1?classifier=sources
+- pkg:maven/io.github.fornewid/naver-map-location@21.0.2?classifier=sources

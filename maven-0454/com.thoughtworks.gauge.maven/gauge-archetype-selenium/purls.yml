@@ -36,3 +36,5 @@
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-archetype-selenium@1.5.8?classifier=sources
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-archetype-selenium@1.5.9
 - pkg:maven/com.thoughtworks.gauge.maven/gauge-archetype-selenium@1.5.9?classifier=sources
+- pkg:maven/com.thoughtworks.gauge.maven/gauge-archetype-selenium@1.6.0
+- pkg:maven/com.thoughtworks.gauge.maven/gauge-archetype-selenium@1.6.0?classifier=sources

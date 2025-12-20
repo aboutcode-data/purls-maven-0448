@@ -7,3 +7,4 @@
 - pkg:maven/org.virtuslab/using_directives@0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/using_directives@1.0.0?classifier=sources
 - pkg:maven/org.virtuslab/using_directives@1.1.0?classifier=sources
+- pkg:maven/org.virtuslab/using_directives@1.1.1?classifier=sources

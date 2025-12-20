@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/emoji-datasource-facebook@15.1.2
+- pkg:maven/org.webjars.npm/emoji-datasource-facebook@15.1.2?classifier=sources

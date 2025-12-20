@@ -5,3 +5,4 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-control-panel@2.3.3?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-control-panel@2.4.0?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-control-panel@2.5.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-control-panel@2.5.1?classifier=sources

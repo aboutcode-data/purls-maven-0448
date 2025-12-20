@@ -5,3 +5,5 @@
 - pkg:maven/com.exactpro.th2/pico-operator@1.5.0-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/pico-operator@1.5.1-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/pico-operator@1.5.2-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/pico-operator@1.6.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/pico-operator@1.7.0-dev?classifier=sources

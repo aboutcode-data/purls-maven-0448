@@ -18,6 +18,9 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@20.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@20.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@21.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@22.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@22.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/migrate-command@5.0.0?classifier=sources

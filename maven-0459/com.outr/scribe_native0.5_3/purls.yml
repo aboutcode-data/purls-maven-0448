@@ -1,0 +1,4 @@
+- pkg:maven/com.outr/scribe_native0.5_3@3.13.3
+- pkg:maven/com.outr/scribe_native0.5_3@3.13.3?classifier=sources
+- pkg:maven/com.outr/scribe_native0.5_3@3.13.4
+- pkg:maven/com.outr/scribe_native0.5_3@3.13.4?classifier=sources

@@ -486,6 +486,10 @@
 - pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.29
 - pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.290
 - pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.290?classifier=sources
+- pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.291
+- pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.291?classifier=sources
+- pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.292
+- pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.292?classifier=sources
 - pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.29?classifier=sources
 - pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.2?classifier=sources
 - pkg:maven/io.github.hsiehshujeng/cdk-databrew-cicd@2.0.3

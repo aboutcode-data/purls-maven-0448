@@ -1,0 +1,2 @@
+- pkg:maven/com.swissborg/pekko-persistence-postgres_3@0.7.0-RC1
+- pkg:maven/com.swissborg/pekko-persistence-postgres_3@0.7.0-RC1?classifier=sources

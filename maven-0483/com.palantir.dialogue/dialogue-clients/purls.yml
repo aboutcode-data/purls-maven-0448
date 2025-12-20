@@ -278,6 +278,11 @@
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.122.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.123.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.124.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-clients@3.125.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-clients@3.126.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-clients@3.127.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-clients@3.128.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-clients@3.129.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.13.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.14.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-clients@3.15.0?classifier=sources

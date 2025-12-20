@@ -8,3 +8,4 @@
 - pkg:maven/org.webjars.npm/tweenjs__tween.js@18.6.4?classifier=sources
 - pkg:maven/org.webjars.npm/tweenjs__tween.js@21.0.0
 - pkg:maven/org.webjars.npm/tweenjs__tween.js@21.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/tweenjs__tween.js@23.1.1

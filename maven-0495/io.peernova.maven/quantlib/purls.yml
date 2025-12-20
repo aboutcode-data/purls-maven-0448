@@ -1,0 +1,2 @@
+- pkg:maven/io.peernova.maven/quantlib@1.33
+- pkg:maven/io.peernova.maven/quantlib@1.33?classifier=sources

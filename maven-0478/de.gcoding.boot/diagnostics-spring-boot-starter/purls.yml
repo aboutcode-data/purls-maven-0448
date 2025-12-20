@@ -1,1 +1,2 @@
 - pkg:maven/de.gcoding.boot/diagnostics-spring-boot-starter@1.0.0
+- pkg:maven/de.gcoding.boot/diagnostics-spring-boot-starter@1.0.1

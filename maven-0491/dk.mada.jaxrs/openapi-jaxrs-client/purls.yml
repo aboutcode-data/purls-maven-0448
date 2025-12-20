@@ -1,6 +1,7 @@
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.0?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.10?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.11?classifier=sources
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.12?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.1?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.2?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.3?classifier=sources
@@ -10,6 +11,9 @@
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.7?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.8?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.10.9?classifier=sources
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.11.0?classifier=sources
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.11.1?classifier=sources
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.11.2?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.9.10?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.9.11?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.9.12?classifier=sources

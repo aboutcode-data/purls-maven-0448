@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/vscode-languageserver-protocol@3.17.5?classifier=sources

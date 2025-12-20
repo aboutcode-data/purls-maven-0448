@@ -1,0 +1,2 @@
+- pkg:maven/com.redis/riot-faker@3.2.2?classifier=sources
+- pkg:maven/com.redis/riot-faker@3.2.3?classifier=sources

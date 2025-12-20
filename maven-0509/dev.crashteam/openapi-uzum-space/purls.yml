@@ -30,6 +30,14 @@
 - pkg:maven/dev.crashteam/openapi-uzum-space@1.28-b8f2d17-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-uzum-space@1.28-b8f2d17-server
 - pkg:maven/dev.crashteam/openapi-uzum-space@1.28-b8f2d17-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-uzum-space@1.29-04a1c34-client
+- pkg:maven/dev.crashteam/openapi-uzum-space@1.29-04a1c34-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-uzum-space@1.29-04a1c34-server
+- pkg:maven/dev.crashteam/openapi-uzum-space@1.29-04a1c34-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-uzum-space@1.30-f9757b3-client
+- pkg:maven/dev.crashteam/openapi-uzum-space@1.30-f9757b3-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-uzum-space@1.30-f9757b3-server
+- pkg:maven/dev.crashteam/openapi-uzum-space@1.30-f9757b3-server?classifier=sources
 - pkg:maven/dev.crashteam/openapi-uzum-space@1.5-3d0fc10-client
 - pkg:maven/dev.crashteam/openapi-uzum-space@1.5-3d0fc10-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-uzum-space@1.5-3d0fc10-server

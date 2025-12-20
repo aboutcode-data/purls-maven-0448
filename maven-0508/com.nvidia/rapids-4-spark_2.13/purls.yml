@@ -6,3 +6,5 @@
 - pkg:maven/com.nvidia/rapids-4-spark_2.13@23.12.2?classifier=sources
 - pkg:maven/com.nvidia/rapids-4-spark_2.13@24.02.0
 - pkg:maven/com.nvidia/rapids-4-spark_2.13@24.02.0?classifier=sources
+- pkg:maven/com.nvidia/rapids-4-spark_2.13@24.04.0
+- pkg:maven/com.nvidia/rapids-4-spark_2.13@24.04.0?classifier=sources

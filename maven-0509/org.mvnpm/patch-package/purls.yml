@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/patch-package@6.5.1?classifier=sources
 - pkg:maven/org.mvnpm/patch-package@8.0.0?classifier=sources

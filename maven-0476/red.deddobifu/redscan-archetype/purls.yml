@@ -1,1 +1,2 @@
+- pkg:maven/red.deddobifu/redscan-archetype@1.0.0?classifier=sources
 - pkg:maven/red.deddobifu/redscan-archetype@7.0.0?classifier=sources

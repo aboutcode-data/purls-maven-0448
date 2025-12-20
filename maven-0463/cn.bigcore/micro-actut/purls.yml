@@ -5,5 +5,6 @@
 - pkg:maven/cn.bigcore/micro-actut@11.0.1.105-RELEASE
 - pkg:maven/cn.bigcore/micro-actut@11.0.1.106-RELEASE
 - pkg:maven/cn.bigcore/micro-actut@11.0.10-RELEASE
+- pkg:maven/cn.bigcore/micro-actut@11.0.12-RELEASE?classifier=sources
 - pkg:maven/cn.bigcore/micro-actut@11.0.7-RELEASE
 - pkg:maven/cn.bigcore/micro-actut@11.0.9-RELEASE

@@ -1,3 +1,4 @@
 - pkg:maven/net.twisterrob.gradle/twister-convention-settings@0.15.1?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-convention-settings@0.15?classifier=sources
 - pkg:maven/net.twisterrob.gradle/twister-convention-settings@0.16?classifier=sources
+- pkg:maven/net.twisterrob.gradle/twister-convention-settings@0.17?classifier=sources

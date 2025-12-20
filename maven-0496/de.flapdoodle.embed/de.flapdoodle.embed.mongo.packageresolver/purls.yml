@@ -42,6 +42,16 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.10.2?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.1
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.1?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.2
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.2?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.3
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.3?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.4
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.11.4?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.12.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.12.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.2.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.2.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.3.0

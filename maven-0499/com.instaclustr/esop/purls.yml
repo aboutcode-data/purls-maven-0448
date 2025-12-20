@@ -40,3 +40,5 @@
 - pkg:maven/com.instaclustr/esop@2.0.3?classifier=sources
 - pkg:maven/com.instaclustr/esop@2.0.4
 - pkg:maven/com.instaclustr/esop@2.0.4?classifier=sources
+- pkg:maven/com.instaclustr/esop@3.0.0-rc1
+- pkg:maven/com.instaclustr/esop@3.0.0-rc1?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/cesium__engine@5.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/cesium__engine@6.1.0
 - pkg:maven/org.webjars.npm/cesium__engine@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/cesium__engine@9.0.0

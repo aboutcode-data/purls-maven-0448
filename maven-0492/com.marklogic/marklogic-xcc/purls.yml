@@ -21,6 +21,7 @@
 - pkg:maven/com.marklogic/marklogic-xcc@11.0.2?classifier=sources
 - pkg:maven/com.marklogic/marklogic-xcc@11.0.3?classifier=sources
 - pkg:maven/com.marklogic/marklogic-xcc@11.1.0?classifier=sources
+- pkg:maven/com.marklogic/marklogic-xcc@11.2.0?classifier=sources
 - pkg:maven/com.marklogic/marklogic-xcc@9.0.1
 - pkg:maven/com.marklogic/marklogic-xcc@9.0.10
 - pkg:maven/com.marklogic/marklogic-xcc@9.0.10.2

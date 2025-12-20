@@ -269,6 +269,8 @@
 - pkg:maven/io.stargate.db/persistence-test@2.0.24?classifier=sources
 - pkg:maven/io.stargate.db/persistence-test@2.0.25
 - pkg:maven/io.stargate.db/persistence-test@2.0.25?classifier=sources
+- pkg:maven/io.stargate.db/persistence-test@2.0.26
+- pkg:maven/io.stargate.db/persistence-test@2.0.26?classifier=sources
 - pkg:maven/io.stargate.db/persistence-test@2.0.2?classifier=sources
 - pkg:maven/io.stargate.db/persistence-test@2.0.3
 - pkg:maven/io.stargate.db/persistence-test@2.0.3?classifier=sources
@@ -309,6 +311,8 @@
 - pkg:maven/io.stargate.db/persistence-test@2.1.0-BETA-1
 - pkg:maven/io.stargate.db/persistence-test@2.1.0-BETA-10
 - pkg:maven/io.stargate.db/persistence-test@2.1.0-BETA-10?classifier=sources
+- pkg:maven/io.stargate.db/persistence-test@2.1.0-BETA-11
+- pkg:maven/io.stargate.db/persistence-test@2.1.0-BETA-11?classifier=sources
 - pkg:maven/io.stargate.db/persistence-test@2.1.0-BETA-1?classifier=sources
 - pkg:maven/io.stargate.db/persistence-test@2.1.0-BETA-2
 - pkg:maven/io.stargate.db/persistence-test@2.1.0-BETA-2?classifier=sources

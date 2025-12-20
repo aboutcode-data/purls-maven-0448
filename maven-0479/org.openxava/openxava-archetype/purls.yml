@@ -19,4 +19,5 @@
 - pkg:maven/org.openxava/openxava-archetype@7.2.2?classifier=sources
 - pkg:maven/org.openxava/openxava-archetype@7.2.3?classifier=sources
 - pkg:maven/org.openxava/openxava-archetype@7.2?classifier=sources
+- pkg:maven/org.openxava/openxava-archetype@7.3?classifier=sources
 - pkg:maven/org.openxava/openxava-archetype@7.X.X?classifier=sources

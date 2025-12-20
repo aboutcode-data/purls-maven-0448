@@ -36,3 +36,5 @@
 - pkg:maven/org.smartboot.servlet/smart-servlet-maven-plugin@0.9?classifier=sources
 - pkg:maven/org.smartboot.servlet/smart-servlet-maven-plugin@1.0
 - pkg:maven/org.smartboot.servlet/smart-servlet-maven-plugin@1.0?classifier=sources
+- pkg:maven/org.smartboot.servlet/smart-servlet-maven-plugin@1.1
+- pkg:maven/org.smartboot.servlet/smart-servlet-maven-plugin@1.1?classifier=sources

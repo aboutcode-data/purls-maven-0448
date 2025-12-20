@@ -1,0 +1,2 @@
+- pkg:maven/net.siisise/softlib-rebind.module@0.0.3
+- pkg:maven/net.siisise/softlib-rebind.module@0.0.3?classifier=sources

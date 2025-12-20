@@ -83,6 +83,7 @@
 - pkg:maven/org.jboss.xnio/xnio-all@3.8.11.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.xnio/xnio-all@3.8.12.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.xnio/xnio-all@3.8.13.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.xnio/xnio-all@3.8.14.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.xnio/xnio-all@3.8.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.xnio/xnio-all@3.8.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.xnio/xnio-all@3.8.4.Final?classifier=source-release&type=zip

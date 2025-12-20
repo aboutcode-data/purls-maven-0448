@@ -4,3 +4,4 @@
 - pkg:maven/fish.payara.starter/payara-starter-archetype@1.0-beta4?classifier=sources
 - pkg:maven/fish.payara.starter/payara-starter-archetype@1.0-beta5?classifier=sources
 - pkg:maven/fish.payara.starter/payara-starter-archetype@1.0-beta6?classifier=sources
+- pkg:maven/fish.payara.starter/payara-starter-archetype@1.0-beta7?classifier=sources
