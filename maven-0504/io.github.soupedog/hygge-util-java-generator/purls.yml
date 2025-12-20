@@ -2,3 +2,5 @@
 - pkg:maven/io.github.soupedog/hygge-util-java-generator@0.0.14?classifier=sources
 - pkg:maven/io.github.soupedog/hygge-util-java-generator@0.0.15
 - pkg:maven/io.github.soupedog/hygge-util-java-generator@0.0.15?classifier=sources
+- pkg:maven/io.github.soupedog/hygge-util-java-generator@0.0.16
+- pkg:maven/io.github.soupedog/hygge-util-java-generator@0.0.16?classifier=sources

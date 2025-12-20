@@ -1,2 +1,6 @@
 - pkg:maven/org.openlca/olca-process-xls@2.0.0
 - pkg:maven/org.openlca/olca-process-xls@2.0.0?classifier=sources
+- pkg:maven/org.openlca/olca-process-xls@2.2.0
+- pkg:maven/org.openlca/olca-process-xls@2.2.0?classifier=sources
+- pkg:maven/org.openlca/olca-process-xls@3.0.0
+- pkg:maven/org.openlca/olca-process-xls@3.0.0?classifier=sources

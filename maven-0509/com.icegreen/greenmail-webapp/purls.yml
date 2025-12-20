@@ -82,3 +82,5 @@
 - pkg:maven/com.icegreen/greenmail-webapp@2.1.0-alpha-3?type=war
 - pkg:maven/com.icegreen/greenmail-webapp@2.1.0-alpha-4?classifier=sources
 - pkg:maven/com.icegreen/greenmail-webapp@2.1.0-alpha-4?type=war
+- pkg:maven/com.icegreen/greenmail-webapp@2.1.0-rc-1?classifier=sources
+- pkg:maven/com.icegreen/greenmail-webapp@2.1.0-rc-1?type=war

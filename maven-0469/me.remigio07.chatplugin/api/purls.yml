@@ -1,3 +1,5 @@
 - pkg:maven/me.remigio07.chatplugin/api@1.9.3?classifier=sources
 - pkg:maven/me.remigio07.chatplugin/api@1.9.4?classifier=sources
 - pkg:maven/me.remigio07.chatplugin/api@1.9.5?classifier=sources
+- pkg:maven/me.remigio07.chatplugin/api@1.9.6?classifier=sources
+- pkg:maven/me.remigio07.chatplugin/api@1.9.7?classifier=sources

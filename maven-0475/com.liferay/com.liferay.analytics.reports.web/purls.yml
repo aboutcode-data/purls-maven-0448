@@ -412,5 +412,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.92?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.93?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.94?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.95?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.96?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.reports.web@2.0.9?classifier=sources-commercial

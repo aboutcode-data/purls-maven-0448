@@ -28,3 +28,11 @@
 - pkg:maven/net.osgiliath.datamigrator.modules/faker@1.48?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator.modules/faker@1.53
 - pkg:maven/net.osgiliath.datamigrator.modules/faker@1.53?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.59
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.59?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.60
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.60?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.61
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.61?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.64
+- pkg:maven/net.osgiliath.datamigrator.modules/faker@1.64?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.restx/restx-samplest-custom-types-testing@1.1.0-rc3
 - pkg:maven/io.restx/restx-samplest-custom-types-testing@1.1.0-rc3?classifier=sources
 - pkg:maven/io.restx/restx-samplest-custom-types-testing@1.1.0?classifier=sources
+- pkg:maven/io.restx/restx-samplest-custom-types-testing@1.2.0-rc1
+- pkg:maven/io.restx/restx-samplest-custom-types-testing@1.2.0-rc1?classifier=sources

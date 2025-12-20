@@ -15,3 +15,6 @@
 - pkg:maven/io.envoyproxy.envoymobile/envoy_xds@0.5.0.20240401?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy_xds@0.5.0.20240408?classifier=sources
 - pkg:maven/io.envoyproxy.envoymobile/envoy_xds@0.5.0.20240415?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy_xds@0.5.0.20240605?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy_xds@0.5.0.20240610?classifier=sources
+- pkg:maven/io.envoyproxy.envoymobile/envoy_xds@0.5.0.20240617?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.avaje/avaje-inject-events@10.0-RC6
+- pkg:maven/io.avaje/avaje-inject-events@10.0-RC6?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-events@10.0-RC7
+- pkg:maven/io.avaje/avaje-inject-events@10.0-RC7?classifier=sources

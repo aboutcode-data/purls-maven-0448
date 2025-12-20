@@ -993,5 +993,9 @@
 - pkg:maven/org.hpccsystems/spark-hpcc@9.4.52-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.4.56-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.4.56-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.4.74-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.4.74-1?classifier=sources
 - pkg:maven/org.hpccsystems/spark-hpcc@9.6.10-1
 - pkg:maven/org.hpccsystems/spark-hpcc@9.6.10-1?classifier=sources
+- pkg:maven/org.hpccsystems/spark-hpcc@9.6.26-1
+- pkg:maven/org.hpccsystems/spark-hpcc@9.6.26-1?classifier=sources

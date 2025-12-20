@@ -224,6 +224,8 @@
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@2.21.797?classifier=sources
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@2.21.798
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@2.21.798?classifier=sources
+- pkg:maven/com.cognite/cognite-sdk-scala_2.12@2.22.799
+- pkg:maven/com.cognite/cognite-sdk-scala_2.12@2.22.799?classifier=sources
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@2.3.0
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@2.3.0?classifier=sources
 - pkg:maven/com.cognite/cognite-sdk-scala_2.12@2.3.1

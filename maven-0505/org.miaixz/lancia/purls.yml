@@ -1,1 +1,5 @@
 - pkg:maven/org.miaixz/lancia@1.5.0?classifier=sources
+- pkg:maven/org.miaixz/lancia@8.0.0?classifier=sources
+- pkg:maven/org.miaixz/lancia@8.0.1?classifier=sources
+- pkg:maven/org.miaixz/lancia@8.0.2?classifier=sources
+- pkg:maven/org.miaixz/lancia@8.0.5?classifier=sources

@@ -60,3 +60,4 @@
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.9.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.9.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.9.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.accountlock/identity-handler-account-lock@1.9.8?classifier=source-release&type=zip

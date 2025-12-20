@@ -12,3 +12,7 @@
 - pkg:maven/com.qvantel/jsonapi-scala-akka_2.13@10.4.0?classifier=sources
 - pkg:maven/com.qvantel/jsonapi-scala-akka_2.13@10.4.1
 - pkg:maven/com.qvantel/jsonapi-scala-akka_2.13@10.4.1?classifier=sources
+- pkg:maven/com.qvantel/jsonapi-scala-akka_2.13@11.0.1
+- pkg:maven/com.qvantel/jsonapi-scala-akka_2.13@11.0.1?classifier=sources
+- pkg:maven/com.qvantel/jsonapi-scala-akka_2.13@11.0.2
+- pkg:maven/com.qvantel/jsonapi-scala-akka_2.13@11.0.2?classifier=sources

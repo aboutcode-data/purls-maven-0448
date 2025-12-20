@@ -20,3 +20,5 @@
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@2.1.0?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@2.2.0?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@2.2.0?type=war
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@2.3.0?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-servlet@2.3.0?type=war

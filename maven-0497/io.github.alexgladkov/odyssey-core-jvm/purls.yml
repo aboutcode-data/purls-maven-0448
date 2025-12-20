@@ -1,1 +1,2 @@
 - pkg:maven/io.github.alexgladkov/odyssey-core-jvm@1.3.60?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-core-jvm@1.3.61?classifier=sources

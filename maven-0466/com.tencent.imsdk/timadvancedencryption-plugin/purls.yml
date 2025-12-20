@@ -3,3 +3,4 @@
 - pkg:maven/com.tencent.imsdk/timadvancedencryption-plugin@7.8.5505?classifier=sources
 - pkg:maven/com.tencent.imsdk/timadvancedencryption-plugin@7.9.5666?classifier=sources
 - pkg:maven/com.tencent.imsdk/timadvancedencryption-plugin@7.9.5680?classifier=sources
+- pkg:maven/com.tencent.imsdk/timadvancedencryption-plugin@8.0.5895?classifier=sources

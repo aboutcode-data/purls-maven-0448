@@ -2,3 +2,5 @@
 - pkg:maven/net.xdob.pf4boot/plugin2@0.12.0?classifier=sources
 - pkg:maven/net.xdob.pf4boot/plugin2@0.13.0?classifier=sources
 - pkg:maven/net.xdob.pf4boot/plugin2@1.0.0?classifier=sources
+- pkg:maven/net.xdob.pf4boot/plugin2@1.1.0?classifier=sources
+- pkg:maven/net.xdob.pf4boot/plugin2@1.2.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.github.selamanse.kafka.connect/kafka-connect-xml@0.2.16?classifier=sources

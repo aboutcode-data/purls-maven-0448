@@ -10,3 +10,5 @@
 - pkg:maven/com.basksoft/baskreport@2.0.4?classifier=sources
 - pkg:maven/com.basksoft/baskreport@2.0.5
 - pkg:maven/com.basksoft/baskreport@2.0.5?classifier=sources
+- pkg:maven/com.basksoft/baskreport@2.1.0
+- pkg:maven/com.basksoft/baskreport@2.1.0?classifier=sources

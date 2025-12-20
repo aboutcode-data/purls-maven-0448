@@ -50,6 +50,8 @@
 - pkg:maven/org.jline/jline-style@3.26.0?classifier=sources
 - pkg:maven/org.jline/jline-style@3.26.1
 - pkg:maven/org.jline/jline-style@3.26.1?classifier=sources
+- pkg:maven/org.jline/jline-style@3.26.2
+- pkg:maven/org.jline/jline-style@3.26.2?classifier=sources
 - pkg:maven/org.jline/jline-style@3.4.0
 - pkg:maven/org.jline/jline-style@3.4.0?classifier=sources
 - pkg:maven/org.jline/jline-style@3.5.0

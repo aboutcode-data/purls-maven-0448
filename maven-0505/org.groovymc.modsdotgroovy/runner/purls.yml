@@ -2,3 +2,7 @@
 - pkg:maven/org.groovymc.modsdotgroovy/runner@2.0.0-beta.24?classifier=sources
 - pkg:maven/org.groovymc.modsdotgroovy/runner@2.0.0-beta.25?classifier=sources
 - pkg:maven/org.groovymc.modsdotgroovy/runner@2.0.0-beta.26?classifier=sources
+- pkg:maven/org.groovymc.modsdotgroovy/runner@2.0.0-beta.27?classifier=sources
+- pkg:maven/org.groovymc.modsdotgroovy/runner@2.0.0-beta.28?classifier=sources
+- pkg:maven/org.groovymc.modsdotgroovy/runner@2.0.0-beta.29?classifier=sources
+- pkg:maven/org.groovymc.modsdotgroovy/runner@2.0.0-beta.30?classifier=sources

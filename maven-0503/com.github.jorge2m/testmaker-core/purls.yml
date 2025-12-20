@@ -270,3 +270,7 @@
 - pkg:maven/com.github.jorge2m/testmaker-core@2.8.4?classifier=sources
 - pkg:maven/com.github.jorge2m/testmaker-core@2.8.6
 - pkg:maven/com.github.jorge2m/testmaker-core@2.8.6?classifier=sources
+- pkg:maven/com.github.jorge2m/testmaker-core@2.8.7
+- pkg:maven/com.github.jorge2m/testmaker-core@2.8.7?classifier=sources
+- pkg:maven/com.github.jorge2m/testmaker-core@2.8.8
+- pkg:maven/com.github.jorge2m/testmaker-core@2.8.8?classifier=sources

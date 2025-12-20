@@ -20,3 +20,5 @@
 - pkg:maven/com.github.eoscode/spring-api-tools@1.3.2-RELEASE?classifier=sources
 - pkg:maven/com.github.eoscode/spring-api-tools@1.3.3-RELEASE
 - pkg:maven/com.github.eoscode/spring-api-tools@1.3.3-RELEASE?classifier=sources
+- pkg:maven/com.github.eoscode/spring-api-tools@2.0.0
+- pkg:maven/com.github.eoscode/spring-api-tools@2.0.0?classifier=sources
