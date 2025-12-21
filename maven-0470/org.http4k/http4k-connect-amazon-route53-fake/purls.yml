@@ -1,0 +1,4 @@
+- pkg:maven/org.http4k/http4k-connect-amazon-route53-fake@6.16.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-route53-fake@6.17.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-route53-fake@6.18.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-route53-fake@6.18.1.0?classifier=sources

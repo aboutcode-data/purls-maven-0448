@@ -5,6 +5,7 @@
 - pkg:maven/net.accelbyte.sdk/module-match2@0.12.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-match2@0.13.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-match2@0.14.0?classifier=sources
+- pkg:maven/net.accelbyte.sdk/module-match2@0.15.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-match2@0.2.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-match2@0.3.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-match2@0.4.0?classifier=sources

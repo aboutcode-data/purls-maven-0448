@@ -239,3 +239,5 @@
 - pkg:maven/cn.herodotus.oss/oss-s3-spring-boot-starter@3.5.5.0?classifier=sources
 - pkg:maven/cn.herodotus.oss/oss-s3-spring-boot-starter@3.5.5.1?classifier=sources
 - pkg:maven/cn.herodotus.oss/oss-s3-spring-boot-starter@3.5.5.2?classifier=sources
+- pkg:maven/cn.herodotus.oss/oss-s3-spring-boot-starter@3.5.5.3?classifier=sources
+- pkg:maven/cn.herodotus.oss/oss-s3-spring-boot-starter@3.5.6.0?classifier=sources

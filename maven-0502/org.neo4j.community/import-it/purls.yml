@@ -22,6 +22,8 @@
 - pkg:maven/org.neo4j.community/import-it@2025.07.1?classifier=sources
 - pkg:maven/org.neo4j.community/import-it@2025.08.0
 - pkg:maven/org.neo4j.community/import-it@2025.08.0?classifier=sources
+- pkg:maven/org.neo4j.community/import-it@2025.09.0
+- pkg:maven/org.neo4j.community/import-it@2025.09.0?classifier=sources
 - pkg:maven/org.neo4j.community/import-it@3.5.0
 - pkg:maven/org.neo4j.community/import-it@3.5.0-alpha02
 - pkg:maven/org.neo4j.community/import-it@3.5.0-alpha02?classifier=sources
@@ -407,6 +409,8 @@
 - pkg:maven/org.neo4j.community/import-it@5.26.10?classifier=sources
 - pkg:maven/org.neo4j.community/import-it@5.26.11
 - pkg:maven/org.neo4j.community/import-it@5.26.11?classifier=sources
+- pkg:maven/org.neo4j.community/import-it@5.26.12
+- pkg:maven/org.neo4j.community/import-it@5.26.12?classifier=sources
 - pkg:maven/org.neo4j.community/import-it@5.26.1?classifier=sources
 - pkg:maven/org.neo4j.community/import-it@5.26.2
 - pkg:maven/org.neo4j.community/import-it@5.26.2?classifier=sources

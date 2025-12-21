@@ -1,2 +1,6 @@
 - pkg:maven/nl.gn0s1s/sbt-jackson-version-check_sbt2_3@0.0.3
 - pkg:maven/nl.gn0s1s/sbt-jackson-version-check_sbt2_3@0.0.3?classifier=sources
+- pkg:maven/nl.gn0s1s/sbt-jackson-version-check_sbt2_3@0.0.4
+- pkg:maven/nl.gn0s1s/sbt-jackson-version-check_sbt2_3@0.0.4?classifier=sources
+- pkg:maven/nl.gn0s1s/sbt-jackson-version-check_sbt2_3@0.0.5
+- pkg:maven/nl.gn0s1s/sbt-jackson-version-check_sbt2_3@0.0.5?classifier=sources

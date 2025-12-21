@@ -39,6 +39,7 @@
 - pkg:maven/org.webjars.npm/unpoly@3.10.1
 - pkg:maven/org.webjars.npm/unpoly@3.10.2
 - pkg:maven/org.webjars.npm/unpoly@3.11.0-rc1
+- pkg:maven/org.webjars.npm/unpoly@3.12.0
 - pkg:maven/org.webjars.npm/unpoly@3.2.2
 - pkg:maven/org.webjars.npm/unpoly@3.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/unpoly@3.3.0

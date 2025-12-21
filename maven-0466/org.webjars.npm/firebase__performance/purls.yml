@@ -16,3 +16,4 @@
 - pkg:maven/org.webjars.npm/firebase__performance@0.6.4?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__performance@0.6.8
 - pkg:maven/org.webjars.npm/firebase__performance@0.7.6
+- pkg:maven/org.webjars.npm/firebase__performance@0.7.9

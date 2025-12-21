@@ -7,3 +7,6 @@
 - pkg:maven/is.codion/codion-framework-lambda@0.18.45?classifier=sources
 - pkg:maven/is.codion/codion-framework-lambda@0.18.46?classifier=sources
 - pkg:maven/is.codion/codion-framework-lambda@0.18.47?classifier=sources
+- pkg:maven/is.codion/codion-framework-lambda@0.18.48?classifier=sources
+- pkg:maven/is.codion/codion-framework-lambda@0.18.49?classifier=sources
+- pkg:maven/is.codion/codion-framework-lambda@0.18.50?classifier=sources

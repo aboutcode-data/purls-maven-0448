@@ -15,3 +15,4 @@
 - pkg:maven/chat.dim/NativePlugins@1.2.0
 - pkg:maven/chat.dim/NativePlugins@1.2.0?classifier=sources
 - pkg:maven/chat.dim/NativePlugins@2.0.0?classifier=sources
+- pkg:maven/chat.dim/NativePlugins@2.1.0?classifier=sources

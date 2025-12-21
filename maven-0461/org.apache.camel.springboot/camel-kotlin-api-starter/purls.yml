@@ -16,3 +16,4 @@
 - pkg:maven/org.apache.camel.springboot/camel-kotlin-api-starter@4.8.6
 - pkg:maven/org.apache.camel.springboot/camel-kotlin-api-starter@4.8.7
 - pkg:maven/org.apache.camel.springboot/camel-kotlin-api-starter@4.8.8
+- pkg:maven/org.apache.camel.springboot/camel-kotlin-api-starter@4.8.9

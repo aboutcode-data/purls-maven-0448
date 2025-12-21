@@ -1,2 +1,3 @@
 - pkg:maven/io.maphero/android-sdk@1.0.0?classifier=sources
 - pkg:maven/io.maphero/android-sdk@1.0.1?type=aar
+- pkg:maven/io.maphero/android-sdk@1.0.2?type=aar

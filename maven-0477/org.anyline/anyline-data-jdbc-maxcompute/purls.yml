@@ -90,6 +90,9 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-20250818?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-20250826?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-20250827?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-20250903?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20240827
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20240827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20240830
@@ -139,6 +142,9 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20250818?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20250826?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20250827?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20250903?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk11-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20240827
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20240827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20240830
@@ -200,6 +206,9 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20250818?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20250826?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20250827?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20250903?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk17-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20240827
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20240827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20240902
@@ -267,3 +276,6 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20250818?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20250826?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20250827?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20250903?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-maxcompute@8.7.2-jdk21-20250918?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/org.mvnpm/whatwg-url@11.0.0?classifier=sources
 - pkg:maven/org.mvnpm/whatwg-url@14.2.0?classifier=sources
+- pkg:maven/org.mvnpm/whatwg-url@15.0.0
+- pkg:maven/org.mvnpm/whatwg-url@15.0.0?classifier=sources
+- pkg:maven/org.mvnpm/whatwg-url@15.1.0
+- pkg:maven/org.mvnpm/whatwg-url@15.1.0?classifier=sources
 - pkg:maven/org.mvnpm/whatwg-url@5.0.0?classifier=sources
 - pkg:maven/org.mvnpm/whatwg-url@8.7.0?classifier=sources

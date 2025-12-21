@@ -42,6 +42,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jt400-mocked@3.25.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jt400-mocked@3.26.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jt400-mocked@3.26.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jt400-mocked@3.27.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jt400-mocked@3.27.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jt400-mocked@3.8.2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jt400-mocked@3.8.2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-jt400-mocked@3.8.3

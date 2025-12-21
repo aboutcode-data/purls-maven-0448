@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.plc4x/plc4x-extras-parent@0.13.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.plc4x/plc4x-extras-parent@0.13.1?classifier=source-release&type=zip

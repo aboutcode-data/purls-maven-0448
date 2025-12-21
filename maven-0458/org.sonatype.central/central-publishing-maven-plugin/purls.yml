@@ -19,3 +19,4 @@
 - pkg:maven/org.sonatype.central/central-publishing-maven-plugin@0.7.0
 - pkg:maven/org.sonatype.central/central-publishing-maven-plugin@0.7.0?classifier=sources
 - pkg:maven/org.sonatype.central/central-publishing-maven-plugin@0.8.0?classifier=sources
+- pkg:maven/org.sonatype.central/central-publishing-maven-plugin@0.9.0?classifier=sources

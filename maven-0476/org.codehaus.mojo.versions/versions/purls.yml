@@ -8,3 +8,5 @@
 - pkg:maven/org.codehaus.mojo.versions/versions@2.17.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.versions/versions@2.17.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.versions/versions@2.18.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.versions/versions@2.19.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.versions/versions@2.19.1?classifier=source-release&type=zip

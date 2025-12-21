@@ -30,3 +30,4 @@
 - pkg:maven/net.anotheria/distributeme-consul-registry-connector@4.0.1?classifier=sources
 - pkg:maven/net.anotheria/distributeme-consul-registry-connector@4.0.2
 - pkg:maven/net.anotheria/distributeme-consul-registry-connector@4.0.2?classifier=sources
+- pkg:maven/net.anotheria/distributeme-consul-registry-connector@4.0.3?classifier=sources

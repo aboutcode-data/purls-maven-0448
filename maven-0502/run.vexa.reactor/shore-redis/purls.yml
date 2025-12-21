@@ -1,0 +1,4 @@
+- pkg:maven/run.vexa.reactor/shore-redis@2.6.1?classifier=sources
+- pkg:maven/run.vexa.reactor/shore-redis@2.7.0?classifier=sources
+- pkg:maven/run.vexa.reactor/shore-redis@2.7.1?classifier=sources
+- pkg:maven/run.vexa.reactor/shore-redis@3.0.0?classifier=sources

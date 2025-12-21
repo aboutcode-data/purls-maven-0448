@@ -69,3 +69,4 @@
 - pkg:maven/com.walmartlabs.concord.plugins/jenkins-task@2.6.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/jenkins-task@2.7.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/jenkins-task@2.8.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/jenkins-task@2.9.0?classifier=sources

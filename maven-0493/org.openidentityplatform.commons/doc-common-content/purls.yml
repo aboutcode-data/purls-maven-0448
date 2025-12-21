@@ -47,3 +47,4 @@
 - pkg:maven/org.openidentityplatform.commons/doc-common-content@2.3.0
 - pkg:maven/org.openidentityplatform.commons/doc-common-content@2.3.0?classifier=sources
 - pkg:maven/org.openidentityplatform.commons/doc-common-content@2.4.0?classifier=sources
+- pkg:maven/org.openidentityplatform.commons/doc-common-content@2.4.1?classifier=sources

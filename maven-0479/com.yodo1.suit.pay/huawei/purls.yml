@@ -1,2 +1,5 @@
 - pkg:maven/com.yodo1.suit.pay/huawei@6.10.0.300.10?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/huawei@6.13.0.300.2?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/huawei@6.13.0.300.3?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/huawei@6.13.0.300.4?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/huawei@6.6.0.301.0?classifier=sources

@@ -21,3 +21,6 @@
 - pkg:maven/io.sundr.tests/buildable-pojos@0.200.4
 - pkg:maven/io.sundr.tests/buildable-pojos@0.200.4?classifier=sources
 - pkg:maven/io.sundr.tests/buildable-pojos@0.201.0?classifier=sources
+- pkg:maven/io.sundr.tests/buildable-pojos@0.210.0?classifier=sources
+- pkg:maven/io.sundr.tests/buildable-pojos@0.220.0?classifier=sources
+- pkg:maven/io.sundr.tests/buildable-pojos@0.220.1?classifier=sources

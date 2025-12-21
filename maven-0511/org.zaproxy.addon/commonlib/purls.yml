@@ -1,3 +1,4 @@
 - pkg:maven/org.zaproxy.addon/commonlib@1.0.0
 - pkg:maven/org.zaproxy.addon/commonlib@1.0.0?classifier=sources
+- pkg:maven/org.zaproxy.addon/commonlib@1.36.0?classifier=sources
 - pkg:maven/org.zaproxy.addon/commonlib@1.4.0?classifier=sources

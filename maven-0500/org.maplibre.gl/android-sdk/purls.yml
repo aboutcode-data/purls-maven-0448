@@ -36,6 +36,7 @@
 - pkg:maven/org.maplibre.gl/android-sdk@11.13.0-pre0?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk@11.13.0?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk@11.13.1?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk@11.13.5?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk@11.2.0?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk@11.3.0-vulkan-pre0?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk@11.3.0?classifier=sources

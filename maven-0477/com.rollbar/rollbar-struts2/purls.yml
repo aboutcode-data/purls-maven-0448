@@ -10,3 +10,4 @@
 - pkg:maven/com.rollbar/rollbar-struts2@1.9.0?classifier=sources
 - pkg:maven/com.rollbar/rollbar-struts2@2.0.0-alpha.1?classifier=sources
 - pkg:maven/com.rollbar/rollbar-struts2@2.0.0?classifier=sources
+- pkg:maven/com.rollbar/rollbar-struts2@2.1.0-alpha.1?classifier=sources

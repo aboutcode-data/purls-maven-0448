@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.yuno-payments/sdk-web-types@4.2.0
+- pkg:maven/org.mvnpm.at.yuno-payments/sdk-web-types@4.2.0?classifier=sources

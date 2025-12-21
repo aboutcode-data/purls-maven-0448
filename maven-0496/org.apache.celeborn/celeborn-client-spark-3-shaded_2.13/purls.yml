@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.celeborn/celeborn-client-spark-3-shaded_2.13@0.5.4?classifier=sources
 - pkg:maven/org.apache.celeborn/celeborn-client-spark-3-shaded_2.13@0.6.0
 - pkg:maven/org.apache.celeborn/celeborn-client-spark-3-shaded_2.13@0.6.0?classifier=sources
+- pkg:maven/org.apache.celeborn/celeborn-client-spark-3-shaded_2.13@0.6.1
+- pkg:maven/org.apache.celeborn/celeborn-client-spark-3-shaded_2.13@0.6.1?classifier=sources

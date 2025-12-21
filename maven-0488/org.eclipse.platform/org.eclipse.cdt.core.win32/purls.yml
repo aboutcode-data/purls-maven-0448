@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.cdt.core.win32@6.1.200
+- pkg:maven/org.eclipse.platform/org.eclipse.cdt.core.win32@6.1.200?classifier=sources

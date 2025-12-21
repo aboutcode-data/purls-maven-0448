@@ -202,3 +202,5 @@
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250807-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250813-2.0.0
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250813-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250826-2.0.0
+- pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250826-2.0.0?classifier=sources

@@ -2,5 +2,6 @@
 - pkg:maven/org.apache.netbeans.utilities/utilities-parent@14.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans.utilities/utilities-parent@14.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans.utilities/utilities-parent@14.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.netbeans.utilities/utilities-parent@14.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans.utilities/utilities-parent@1?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans.utilities/utilities-parent@2?classifier=source-release&type=zip

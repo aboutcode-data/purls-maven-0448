@@ -29,3 +29,4 @@
 - pkg:maven/net.optionfactory.spring/authentication@22.2?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication@22.3?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication@22.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication@22.5?classifier=sources

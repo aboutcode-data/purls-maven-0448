@@ -1,1 +1,2 @@
 - pkg:maven/cn.easygd/dyna-guard-groovy@0.0.5-beta?classifier=sources
+- pkg:maven/cn.easygd/dyna-guard-groovy@0.0.6-beta?classifier=sources

@@ -3,6 +3,7 @@
 - pkg:maven/org.firstinspires.ftc/Blocks@10.1.1?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Blocks@10.2.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Blocks@10.3.0?classifier=sources
+- pkg:maven/org.firstinspires.ftc/Blocks@11.0.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Blocks@6.2.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Blocks@6.2.1?classifier=sources
 - pkg:maven/org.firstinspires.ftc/Blocks@7.0.0?classifier=sources

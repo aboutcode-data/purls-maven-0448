@@ -8,6 +8,9 @@
 - pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.108?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.109?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.110?classifier=sources
+- pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.112?classifier=sources
+- pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.113?classifier=sources
+- pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.114?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.71?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.72?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver-lambda-function-impl@4.0.73?classifier=sources

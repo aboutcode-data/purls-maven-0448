@@ -157,3 +157,4 @@
 - pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-bundle@3.6.2
 - pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-bundle@3.6.2?classifier=sources
 - pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-bundle@4.0.0?classifier=sources
+- pkg:maven/biz.netcentric.cq.tools.accesscontroltool/accesscontroltool-bundle@4.0.1?classifier=sources

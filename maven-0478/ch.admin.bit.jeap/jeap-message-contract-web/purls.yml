@@ -13,3 +13,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-web@3.38.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-web@3.39.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-web@3.40.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-web@3.41.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-web@3.42.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-web@3.43.0?classifier=sources

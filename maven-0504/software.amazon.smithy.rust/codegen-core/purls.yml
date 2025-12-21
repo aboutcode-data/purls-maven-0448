@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.smithy.rust/codegen-core@0.1.0?classifier=sources
