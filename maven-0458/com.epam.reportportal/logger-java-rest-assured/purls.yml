@@ -21,3 +21,4 @@
 - pkg:maven/com.epam.reportportal/logger-java-rest-assured@5.3.7?classifier=sources
 - pkg:maven/com.epam.reportportal/logger-java-rest-assured@5.3.8?classifier=sources
 - pkg:maven/com.epam.reportportal/logger-java-rest-assured@5.3.9?classifier=sources
+- pkg:maven/com.epam.reportportal/logger-java-rest-assured@5.4.0?classifier=sources

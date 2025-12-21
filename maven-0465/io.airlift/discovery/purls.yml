@@ -445,3 +445,4 @@
 - pkg:maven/io.airlift/discovery@336?classifier=sources
 - pkg:maven/io.airlift/discovery@337?classifier=sources
 - pkg:maven/io.airlift/discovery@338?classifier=sources
+- pkg:maven/io.airlift/discovery@339?classifier=sources

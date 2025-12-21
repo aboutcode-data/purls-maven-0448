@@ -17,3 +17,9 @@
 - pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.1.2-beta?classifier=sources
 - pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.2.1-GA?classifier=sources
 - pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.2.3-GA?classifier=sources
+- pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.2.4-GA?classifier=sources
+- pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.2.5-GA?classifier=sources
+- pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.2.6-GA?classifier=sources
+- pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.2.7-GA?classifier=sources
+- pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.2.8-GA?classifier=sources
+- pkg:maven/site.edody.dframe/dframe-ssoserver-spring-boot-starter@1.2.9-GA?classifier=sources

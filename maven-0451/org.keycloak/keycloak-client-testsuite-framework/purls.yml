@@ -1,0 +1,1 @@
+- pkg:maven/org.keycloak/keycloak-client-testsuite-framework@26.0.6?classifier=sources

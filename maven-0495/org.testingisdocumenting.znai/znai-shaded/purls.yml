@@ -48,3 +48,4 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.71
 - pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.72
 - pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.73
+- pkg:maven/org.testingisdocumenting.znai/znai-shaded@1.77.2?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/com.convertapi.client/convertapi@2.11?classifier=sources
 - pkg:maven/com.convertapi.client/convertapi@2.12
 - pkg:maven/com.convertapi.client/convertapi@2.12?classifier=sources
+- pkg:maven/com.convertapi.client/convertapi@2.13
+- pkg:maven/com.convertapi.client/convertapi@2.13?classifier=sources
 - pkg:maven/com.convertapi.client/convertapi@2.2
 - pkg:maven/com.convertapi.client/convertapi@2.2?classifier=sources
 - pkg:maven/com.convertapi.client/convertapi@2.3

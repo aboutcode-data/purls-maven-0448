@@ -2830,6 +2830,12 @@
 - pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250320-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250415-2.0.0
 - pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250415-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250603-2.0.0
+- pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250603-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250626-2.0.0
+- pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250626-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250708-2.0.0
+- pkg:maven/com.google.apis/google-api-services-compute@v1-rev20250708-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-compute@v1-rev207-1.22.0
 - pkg:maven/com.google.apis/google-api-services-compute@v1-rev207-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-compute@v1-rev207-1.23.0

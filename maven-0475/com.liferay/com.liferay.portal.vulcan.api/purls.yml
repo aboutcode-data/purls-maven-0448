@@ -407,6 +407,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@46.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@46.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@47.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.api@47.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.api@47.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.api@47.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.api@5.0.0?classifier=sources-commercial

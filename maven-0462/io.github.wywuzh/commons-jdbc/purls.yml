@@ -51,3 +51,4 @@
 - pkg:maven/io.github.wywuzh/commons-jdbc@3.3.3.RELEASE?classifier=sources
 - pkg:maven/io.github.wywuzh/commons-jdbc@3.3.4.RELEASE?classifier=sources
 - pkg:maven/io.github.wywuzh/commons-jdbc@3.3.5.RELEASE?classifier=sources
+- pkg:maven/io.github.wywuzh/commons-jdbc@3.3.6.RELEASE?classifier=sources

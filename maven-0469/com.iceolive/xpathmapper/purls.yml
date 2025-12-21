@@ -28,3 +28,4 @@
 - pkg:maven/com.iceolive/xpathmapper@1.2.7?classifier=sources
 - pkg:maven/com.iceolive/xpathmapper@1.2.8
 - pkg:maven/com.iceolive/xpathmapper@1.2.8?classifier=sources
+- pkg:maven/com.iceolive/xpathmapper@1.2.9?classifier=sources

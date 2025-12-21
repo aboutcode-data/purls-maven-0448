@@ -1,0 +1,2 @@
+- pkg:maven/com.datanutshell.flink/flink-http-lookup-connector@1.0.1?classifier=sources
+- pkg:maven/com.datanutshell.flink/flink-http-lookup-connector@1.0?classifier=sources

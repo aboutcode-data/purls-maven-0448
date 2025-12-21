@@ -21,6 +21,7 @@
 - pkg:maven/com.landawn/abacus-extra@0.9.9
 - pkg:maven/com.landawn/abacus-extra@0.9.9?classifier=sources
 - pkg:maven/com.landawn/abacus-extra@0.9?classifier=sources
+- pkg:maven/com.landawn/abacus-extra@1.0.0?classifier=sources
 - pkg:maven/com.landawn/abacus-extra@1.0?classifier=sources
 - pkg:maven/com.landawn/abacus-extra@1.1?classifier=sources
 - pkg:maven/com.landawn/abacus-extra@1.2?classifier=sources
@@ -44,3 +45,7 @@
 - pkg:maven/com.landawn/abacus-extra@2.0.1?classifier=sources
 - pkg:maven/com.landawn/abacus-extra@2.0.2?classifier=sources
 - pkg:maven/com.landawn/abacus-extra@2.1.0?classifier=sources
+- pkg:maven/com.landawn/abacus-extra@2.1.1?classifier=sources
+- pkg:maven/com.landawn/abacus-extra@2.2.0?classifier=sources
+- pkg:maven/com.landawn/abacus-extra@2.2.1?classifier=sources
+- pkg:maven/com.landawn/abacus-extra@2.3.0?classifier=sources

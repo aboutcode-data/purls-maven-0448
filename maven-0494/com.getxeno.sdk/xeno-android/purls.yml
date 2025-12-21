@@ -9,6 +9,7 @@
 - pkg:maven/com.getxeno.sdk/xeno-android@0.0.0-alpha1-v19?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-android@0.0.0-alpha1-v1?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-android@0.0.0-alpha1-v20?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-android@0.0.0-alpha1-v21?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-android@0.0.0-alpha1-v2?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-android@0.0.0-alpha1-v3?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-android@0.0.0-alpha1-v4?classifier=sources
@@ -29,3 +30,10 @@
 - pkg:maven/com.getxeno.sdk/xeno-android@0.1.1?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-android@0.1.2?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-android@0.1.3?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-android@0.1.4?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-android@0.1.5?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-android@0.1.6?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-android@0.1.7?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-android@0.1.8?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-android@0.1.9?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-android@0.2.0?classifier=sources

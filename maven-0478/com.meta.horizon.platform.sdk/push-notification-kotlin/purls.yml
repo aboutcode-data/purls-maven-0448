@@ -1,0 +1,2 @@
+- pkg:maven/com.meta.horizon.platform.sdk/push-notification-kotlin@0.1.0?classifier=sources
+- pkg:maven/com.meta.horizon.platform.sdk/push-notification-kotlin@0.1.0?type=aar

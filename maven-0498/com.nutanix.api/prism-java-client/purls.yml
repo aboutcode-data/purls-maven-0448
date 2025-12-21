@@ -8,3 +8,5 @@
 - pkg:maven/com.nutanix.api/prism-java-client@4.0.2-alpha-1?classifier=sources
 - pkg:maven/com.nutanix.api/prism-java-client@4.0.3-alpha-2
 - pkg:maven/com.nutanix.api/prism-java-client@4.0.3-alpha-2?classifier=sources
+- pkg:maven/com.nutanix.api/prism-java-client@4.1.1
+- pkg:maven/com.nutanix.api/prism-java-client@4.1.1?classifier=sources

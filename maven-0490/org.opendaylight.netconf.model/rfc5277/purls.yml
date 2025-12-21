@@ -69,3 +69,5 @@
 - pkg:maven/org.opendaylight.netconf.model/rfc5277@8.0.6
 - pkg:maven/org.opendaylight.netconf.model/rfc5277@8.0.6?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/rfc5277@8.0.7?classifier=sources
+- pkg:maven/org.opendaylight.netconf.model/rfc5277@9.0.0
+- pkg:maven/org.opendaylight.netconf.model/rfc5277@9.0.0?classifier=sources

@@ -15,3 +15,5 @@
 - pkg:maven/io.zeebe/zeebe-test-container-exporter-test@3.6.5
 - pkg:maven/io.zeebe/zeebe-test-container-exporter-test@3.6.5?classifier=sources
 - pkg:maven/io.zeebe/zeebe-test-container-exporter-test@3.6.6?classifier=sources
+- pkg:maven/io.zeebe/zeebe-test-container-exporter-test@3.6.7
+- pkg:maven/io.zeebe/zeebe-test-container-exporter-test@3.6.7?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/no.entur.tlv/parser@0.1.0?classifier=sources
 - pkg:maven/no.entur.tlv/parser@0.2.0?classifier=sources
 - pkg:maven/no.entur.tlv/parser@1.0.0?classifier=sources
+- pkg:maven/no.entur.tlv/parser@1.0.1?classifier=sources

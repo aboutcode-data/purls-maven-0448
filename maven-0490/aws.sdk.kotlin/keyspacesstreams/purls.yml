@@ -1,0 +1,7 @@
+- pkg:maven/aws.sdk.kotlin/keyspacesstreams@1.4.114?classifier=sources
+- pkg:maven/aws.sdk.kotlin/keyspacesstreams@1.4.115?classifier=sources
+- pkg:maven/aws.sdk.kotlin/keyspacesstreams@1.4.116?classifier=sources
+- pkg:maven/aws.sdk.kotlin/keyspacesstreams@1.4.117?classifier=sources
+- pkg:maven/aws.sdk.kotlin/keyspacesstreams@1.4.118?classifier=sources
+- pkg:maven/aws.sdk.kotlin/keyspacesstreams@1.4.119?classifier=sources
+- pkg:maven/aws.sdk.kotlin/keyspacesstreams@1.4.120?classifier=sources

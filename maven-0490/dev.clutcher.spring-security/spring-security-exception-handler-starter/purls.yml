@@ -1,0 +1,2 @@
+- pkg:maven/dev.clutcher.spring-security/spring-security-exception-handler-starter@1.0.0?classifier=sources
+- pkg:maven/dev.clutcher.spring-security/spring-security-exception-handler-starter@1.0.1?classifier=sources

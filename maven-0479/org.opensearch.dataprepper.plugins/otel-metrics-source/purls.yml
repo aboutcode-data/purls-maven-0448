@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch.dataprepper.plugins/otel-metrics-source@2.12.0?classifier=sources

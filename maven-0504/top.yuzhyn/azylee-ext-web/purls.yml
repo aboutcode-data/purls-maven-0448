@@ -12,3 +12,8 @@
 - pkg:maven/top.yuzhyn/azylee-ext-web@1.0.8?classifier=sources
 - pkg:maven/top.yuzhyn/azylee-ext-web@2.1.7
 - pkg:maven/top.yuzhyn/azylee-ext-web@2.1.7?classifier=sources
+- pkg:maven/top.yuzhyn/azylee-ext-web@2.1.8?classifier=sources
+- pkg:maven/top.yuzhyn/azylee-ext-web@2.1.9?classifier=sources
+- pkg:maven/top.yuzhyn/azylee-ext-web@3.0.0?classifier=sources
+- pkg:maven/top.yuzhyn/azylee-ext-web@3.0.1?classifier=sources
+- pkg:maven/top.yuzhyn/azylee-ext-web@3.0.2?classifier=sources

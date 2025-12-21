@@ -1,0 +1,5 @@
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-watchossimulatorarm64@0.121.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-watchossimulatorarm64@0.123.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-watchossimulatorarm64@0.124.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-watchossimulatorarm64@0.127.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-watchossimulatorarm64@0.128.0?classifier=sources

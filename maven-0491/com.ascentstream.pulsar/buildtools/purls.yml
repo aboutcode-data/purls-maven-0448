@@ -4,6 +4,8 @@
 - pkg:maven/com.ascentstream.pulsar/buildtools@2.10.7.11?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/buildtools@2.10.7.12
 - pkg:maven/com.ascentstream.pulsar/buildtools@2.10.7.12?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/buildtools@2.10.7.13
+- pkg:maven/com.ascentstream.pulsar/buildtools@2.10.7.13?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/buildtools@2.10.7.8
 - pkg:maven/com.ascentstream.pulsar/buildtools@2.10.7.8?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/buildtools@2.10.7.9
@@ -12,3 +14,5 @@
 - pkg:maven/com.ascentstream.pulsar/buildtools@3.0.10.0?classifier=sources
 - pkg:maven/com.ascentstream.pulsar/buildtools@3.0.11.0
 - pkg:maven/com.ascentstream.pulsar/buildtools@3.0.11.0?classifier=sources
+- pkg:maven/com.ascentstream.pulsar/buildtools@3.0.13.0
+- pkg:maven/com.ascentstream.pulsar/buildtools@3.0.13.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/ch.reportingsoft.birt/jna@5.15.0?classifier=sources
 - pkg:maven/ch.reportingsoft.birt/jna@5.16.0
 - pkg:maven/ch.reportingsoft.birt/jna@5.16.0?classifier=sources
+- pkg:maven/ch.reportingsoft.birt/jna@5.17.0
+- pkg:maven/ch.reportingsoft.birt/jna@5.17.0?classifier=sources

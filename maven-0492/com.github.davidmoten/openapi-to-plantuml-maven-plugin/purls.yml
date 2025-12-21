@@ -1,0 +1,2 @@
+- pkg:maven/com.github.davidmoten/openapi-to-plantuml-maven-plugin@0.1.33?classifier=sources
+- pkg:maven/com.github.davidmoten/openapi-to-plantuml-maven-plugin@0.1.34?classifier=sources

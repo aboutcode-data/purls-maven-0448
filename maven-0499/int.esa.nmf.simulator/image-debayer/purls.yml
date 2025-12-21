@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.nmf.simulator/image-debayer@4.0
+- pkg:maven/int.esa.nmf.simulator/image-debayer@4.0?classifier=sources

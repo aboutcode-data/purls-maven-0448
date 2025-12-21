@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.tylertech/tyler-icons@1.19.0?classifier=sources
 - pkg:maven/org.mvnpm.at.tylertech/tyler-icons@2.0.3
 - pkg:maven/org.mvnpm.at.tylertech/tyler-icons@2.0.3?classifier=sources
+- pkg:maven/org.mvnpm.at.tylertech/tyler-icons@2.0.4
+- pkg:maven/org.mvnpm.at.tylertech/tyler-icons@2.0.4?classifier=sources

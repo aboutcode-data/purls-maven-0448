@@ -21,4 +21,5 @@
 - pkg:maven/org.approvej/core@0.9.1?classifier=sources
 - pkg:maven/org.approvej/core@0.9.2?classifier=sources
 - pkg:maven/org.approvej/core@0.9.3?classifier=sources
+- pkg:maven/org.approvej/core@0.9.4?classifier=sources
 - pkg:maven/org.approvej/core@0.9?classifier=sources

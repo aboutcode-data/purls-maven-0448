@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/big-integer@1.6.52
+- pkg:maven/org.mvnpm/big-integer@1.6.52?classifier=sources

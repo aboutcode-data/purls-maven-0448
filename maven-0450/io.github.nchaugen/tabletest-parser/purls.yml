@@ -4,3 +4,4 @@
 - pkg:maven/io.github.nchaugen/tabletest-parser@0.3.0?classifier=sources
 - pkg:maven/io.github.nchaugen/tabletest-parser@0.3.1?classifier=sources
 - pkg:maven/io.github.nchaugen/tabletest-parser@0.4.0?classifier=sources
+- pkg:maven/io.github.nchaugen/tabletest-parser@0.5.0?classifier=sources

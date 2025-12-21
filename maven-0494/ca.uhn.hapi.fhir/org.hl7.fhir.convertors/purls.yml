@@ -687,6 +687,8 @@
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.25?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.26
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.26?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.27?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.28?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.3
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.3?classifier=sources

@@ -95,6 +95,12 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@60.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@61.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@61.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@61.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@61.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@62.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@62.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@62.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-curations-command@8.0.0?classifier=sources

@@ -51,6 +51,8 @@
 - pkg:maven/com.leanxcale/lxqeapi@2.7.2506061114?classifier=sources
 - pkg:maven/com.leanxcale/lxqeapi@2.7.2506101438
 - pkg:maven/com.leanxcale/lxqeapi@2.7.2506101438?classifier=sources
+- pkg:maven/com.leanxcale/lxqeapi@2.7.2506261212
+- pkg:maven/com.leanxcale/lxqeapi@2.7.2506261212?classifier=sources
 - pkg:maven/com.leanxcale/lxqeapi@3.0.2404181435?classifier=sources
 - pkg:maven/com.leanxcale/lxqeapi@3.0.2404231104?classifier=sources
 - pkg:maven/com.leanxcale/lxqeapi@3.1.2404171604?classifier=sources

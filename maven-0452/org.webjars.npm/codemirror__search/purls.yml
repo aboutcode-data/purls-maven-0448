@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/codemirror__search@6.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror__search@6.4.0
 - pkg:maven/org.webjars.npm/codemirror__search@6.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror__search@6.5.11

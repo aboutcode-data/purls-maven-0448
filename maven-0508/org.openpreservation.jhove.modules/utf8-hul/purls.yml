@@ -8,3 +8,4 @@
 - pkg:maven/org.openpreservation.jhove.modules/utf8-hul@1.7.3?classifier=sources
 - pkg:maven/org.openpreservation.jhove.modules/utf8-hul@1.7.4
 - pkg:maven/org.openpreservation.jhove.modules/utf8-hul@1.7.4?classifier=sources
+- pkg:maven/org.openpreservation.jhove.modules/utf8-hul@1.7.5?classifier=sources

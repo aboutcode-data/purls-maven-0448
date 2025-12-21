@@ -7,3 +7,4 @@
 - pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-sdk@2.0.1?type=aar
 - pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-sdk@2.0.2?type=aar
 - pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-sdk@4.0.0?type=aar
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-sdk@4.0.1?type=aar

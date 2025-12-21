@@ -86,3 +86,5 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner-hibernate-dialect@3.9.3?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner-hibernate-dialect@3.9.4
 - pkg:maven/com.google.cloud/google-cloud-spanner-hibernate-dialect@3.9.4?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner-hibernate-dialect@3.9.6
+- pkg:maven/com.google.cloud/google-cloud-spanner-hibernate-dialect@3.9.6?classifier=sources

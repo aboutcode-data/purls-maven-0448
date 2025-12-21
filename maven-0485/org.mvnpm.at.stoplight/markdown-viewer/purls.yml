@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.stoplight/markdown-viewer@5.7.1
+- pkg:maven/org.mvnpm.at.stoplight/markdown-viewer@5.7.1?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.bitbucket.vahidi/jdd@108
 - pkg:maven/org.bitbucket.vahidi/jdd@108?classifier=sources
+- pkg:maven/org.bitbucket.vahidi/jdd@112?classifier=sources

@@ -13,3 +13,5 @@
 - pkg:maven/com.huawei.dli/huaweicloud-dli-sdk-restapi@1.5.7?classifier=sources
 - pkg:maven/com.huawei.dli/huaweicloud-dli-sdk-restapi@1.5.9
 - pkg:maven/com.huawei.dli/huaweicloud-dli-sdk-restapi@1.5.9?classifier=sources
+- pkg:maven/com.huawei.dli/huaweicloud-dli-sdk-restapi@1.6.0
+- pkg:maven/com.huawei.dli/huaweicloud-dli-sdk-restapi@1.6.0?classifier=sources

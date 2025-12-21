@@ -4,3 +4,4 @@
 - pkg:maven/zone.cogni.lib.vinz-clortho/vinz-clortho@1.0.8?classifier=sources
 - pkg:maven/zone.cogni.lib.vinz-clortho/vinz-clortho@2.0.0?classifier=sources
 - pkg:maven/zone.cogni.lib.vinz-clortho/vinz-clortho@2.0.2?classifier=sources
+- pkg:maven/zone.cogni.lib.vinz-clortho/vinz-clortho@2.0.3?classifier=sources

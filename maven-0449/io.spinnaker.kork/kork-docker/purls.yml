@@ -9,3 +9,10 @@
 - pkg:maven/io.spinnaker.kork/kork-docker@main-22?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-docker@main-23?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-docker@main-24?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-30?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-31?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-32?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-33?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-34?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-35?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-36?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.jitsi/jicoco-mediajson@1.1-159-gf9c2712?classifier=sources
 - pkg:maven/org.jitsi/jicoco-mediajson@1.1-160-g4ad2288
 - pkg:maven/org.jitsi/jicoco-mediajson@1.1-160-g4ad2288?classifier=sources
+- pkg:maven/org.jitsi/jicoco-mediajson@1.1-161-g9e95588
+- pkg:maven/org.jitsi/jicoco-mediajson@1.1-161-g9e95588?classifier=sources

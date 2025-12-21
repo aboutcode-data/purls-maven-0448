@@ -121,6 +121,8 @@
 - pkg:maven/me.proton.core/domain@32.1.0?classifier=sources
 - pkg:maven/me.proton.core/domain@32.2.0?classifier=sources
 - pkg:maven/me.proton.core/domain@33.0.0?classifier=sources
+- pkg:maven/me.proton.core/domain@33.0.2?classifier=sources
+- pkg:maven/me.proton.core/domain@34.0.0?classifier=sources
 - pkg:maven/me.proton.core/domain@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/domain@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/domain@5.0.0?classifier=sources

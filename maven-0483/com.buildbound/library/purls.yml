@@ -2,6 +2,7 @@
 - pkg:maven/com.buildbound/library@1.0.0?classifier=sources
 - pkg:maven/com.buildbound/library@2167092cce?classifier=sources
 - pkg:maven/com.buildbound/library@250c1c873b?classifier=sources
+- pkg:maven/com.buildbound/library@38a427c574?classifier=sources
 - pkg:maven/com.buildbound/library@3cac3ba4a3?classifier=sources
 - pkg:maven/com.buildbound/library@562c1d79ef?classifier=sources
 - pkg:maven/com.buildbound/library@69622e30d5?classifier=sources

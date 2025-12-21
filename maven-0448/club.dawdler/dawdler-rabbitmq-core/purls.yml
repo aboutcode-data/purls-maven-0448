@@ -25,3 +25,9 @@
 - pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.0.9-jdk1.8-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.0.9-jdk17-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.0.9-jdk21-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.1.0-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.1.0-jdk17-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.1.0-jdk21-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.1.1-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.1.1-jdk17-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-rabbitmq-core@0.1.1-jdk21-RELEASES?classifier=sources

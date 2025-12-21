@@ -13,3 +13,6 @@
 - pkg:maven/com.ntt.skyway/room@2.7.0?classifier=sources
 - pkg:maven/com.ntt.skyway/room@2.8.0?classifier=sources
 - pkg:maven/com.ntt.skyway/room@2.9.0?classifier=sources
+- pkg:maven/com.ntt.skyway/room@3.0.0?classifier=sources
+- pkg:maven/com.ntt.skyway/room@3.0.1?classifier=sources
+- pkg:maven/com.ntt.skyway/room@3.0.2?classifier=sources

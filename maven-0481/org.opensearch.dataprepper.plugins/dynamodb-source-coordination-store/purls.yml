@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch.dataprepper.plugins/dynamodb-source-coordination-store@2.12.0?classifier=sources

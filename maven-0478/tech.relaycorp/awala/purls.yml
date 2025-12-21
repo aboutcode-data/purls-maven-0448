@@ -90,6 +90,7 @@
 - pkg:maven/tech.relaycorp/awala@1.69.18?classifier=sources
 - pkg:maven/tech.relaycorp/awala@1.69.19?classifier=sources
 - pkg:maven/tech.relaycorp/awala@1.69.1?classifier=sources
+- pkg:maven/tech.relaycorp/awala@1.69.20?classifier=sources
 - pkg:maven/tech.relaycorp/awala@1.69.2?classifier=sources
 - pkg:maven/tech.relaycorp/awala@1.69.3?classifier=sources
 - pkg:maven/tech.relaycorp/awala@1.69.4?classifier=sources

@@ -60,6 +60,8 @@
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-context@0.12.8?classifier=sources
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-context@0.12.9
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-context@0.12.9?classifier=sources
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-context@0.13.0
+- pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-context@0.13.0?classifier=sources
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-context@0.2.0
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-context@0.2.0?classifier=sources
 - pkg:maven/com.giffing.bucket4j.spring.boot.starter/bucket4j-spring-boot-starter-context@0.3.1

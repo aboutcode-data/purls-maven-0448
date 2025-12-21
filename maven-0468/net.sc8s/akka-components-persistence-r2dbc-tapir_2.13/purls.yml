@@ -1,0 +1,4 @@
+- pkg:maven/net.sc8s/akka-components-persistence-r2dbc-tapir_2.13@0.104.0
+- pkg:maven/net.sc8s/akka-components-persistence-r2dbc-tapir_2.13@0.104.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-r2dbc-tapir_2.13@0.105.0
+- pkg:maven/net.sc8s/akka-components-persistence-r2dbc-tapir_2.13@0.105.0?classifier=sources

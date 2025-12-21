@@ -52,3 +52,6 @@
 - pkg:maven/com.github.veithen.maven/hermetic-maven-plugin@0.8.0
 - pkg:maven/com.github.veithen.maven/hermetic-maven-plugin@0.8.0?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen.maven/hermetic-maven-plugin@0.8.0?classifier=sources
+- pkg:maven/com.github.veithen.maven/hermetic-maven-plugin@0.9.0
+- pkg:maven/com.github.veithen.maven/hermetic-maven-plugin@0.9.0?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen.maven/hermetic-maven-plugin@0.9.0?classifier=sources
