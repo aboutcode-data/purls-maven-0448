@@ -66,5 +66,7 @@
 - pkg:maven/org.bardframework.validator/bard-validator@3.7.5?classifier=sources
 - pkg:maven/org.bardframework.validator/bard-validator@3.8.5
 - pkg:maven/org.bardframework.validator/bard-validator@3.8.5?classifier=sources
+- pkg:maven/org.bardframework.validator/bard-validator@3.9.15
+- pkg:maven/org.bardframework.validator/bard-validator@3.9.15?classifier=sources
 - pkg:maven/org.bardframework.validator/bard-validator@3.9.5
 - pkg:maven/org.bardframework.validator/bard-validator@3.9.5?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@3.0.7?classifier=sources
 - pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@3.0.8?classifier=sources
 - pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@3.0.9?classifier=sources
+- pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@4.0.0?classifier=sources
+- pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@4.0.1?classifier=sources

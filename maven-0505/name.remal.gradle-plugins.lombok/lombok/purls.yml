@@ -27,3 +27,4 @@
 - pkg:maven/name.remal.gradle-plugins.lombok/lombok@2.2.7?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.lombok/lombok@2.2.8?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.lombok/lombok@2.2.9?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.lombok/lombok@3.0.0?classifier=sources

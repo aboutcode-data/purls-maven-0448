@@ -6,3 +6,5 @@
 - pkg:maven/cn.com.jeeweb/common-cert@3.0.2?classifier=sources
 - pkg:maven/cn.com.jeeweb/common-cert@3.0.6
 - pkg:maven/cn.com.jeeweb/common-cert@3.0.6?classifier=sources
+- pkg:maven/cn.com.jeeweb/common-cert@3.0.8
+- pkg:maven/cn.com.jeeweb/common-cert@3.0.8?classifier=sources

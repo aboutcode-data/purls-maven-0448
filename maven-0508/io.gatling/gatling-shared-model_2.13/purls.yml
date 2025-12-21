@@ -1,3 +1,7 @@
+- pkg:maven/io.gatling/gatling-shared-model_2.13@0.0.10
+- pkg:maven/io.gatling/gatling-shared-model_2.13@0.0.10?classifier=sources
+- pkg:maven/io.gatling/gatling-shared-model_2.13@0.0.11
+- pkg:maven/io.gatling/gatling-shared-model_2.13@0.0.11?classifier=sources
 - pkg:maven/io.gatling/gatling-shared-model_2.13@0.0.2
 - pkg:maven/io.gatling/gatling-shared-model_2.13@0.0.2?classifier=sources
 - pkg:maven/io.gatling/gatling-shared-model_2.13@0.0.3

@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.jkube/jkube-kit-microprofile@1.17.0?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-microprofile@1.18.0
 - pkg:maven/org.eclipse.jkube/jkube-kit-microprofile@1.18.0?classifier=sources
+- pkg:maven/org.eclipse.jkube/jkube-kit-microprofile@1.18.1
+- pkg:maven/org.eclipse.jkube/jkube-kit-microprofile@1.18.1?classifier=sources

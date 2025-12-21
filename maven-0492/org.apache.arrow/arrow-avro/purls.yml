@@ -46,6 +46,8 @@
 - pkg:maven/org.apache.arrow/arrow-avro@18.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-avro@18.1.0
 - pkg:maven/org.apache.arrow/arrow-avro@18.1.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-avro@18.2.0
+- pkg:maven/org.apache.arrow/arrow-avro@18.2.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-avro@2.0.0
 - pkg:maven/org.apache.arrow/arrow-avro@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-avro@3.0.0

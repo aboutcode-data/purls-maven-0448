@@ -1,3 +1,4 @@
 - pkg:maven/com.gruelbox/transactionoutbox-acceptance@5.4.421
 - pkg:maven/com.gruelbox/transactionoutbox-acceptance@5.5.447
 - pkg:maven/com.gruelbox/transactionoutbox-acceptance@6.0.535
+- pkg:maven/com.gruelbox/transactionoutbox-acceptance@6.0.553

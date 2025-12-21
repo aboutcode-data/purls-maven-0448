@@ -16,3 +16,5 @@
 - pkg:maven/com.madgag/scala-collection-plus_2.13@0.8?classifier=sources
 - pkg:maven/com.madgag/scala-collection-plus_2.13@0.9
 - pkg:maven/com.madgag/scala-collection-plus_2.13@0.9?classifier=sources
+- pkg:maven/com.madgag/scala-collection-plus_2.13@1.0.0
+- pkg:maven/com.madgag/scala-collection-plus_2.13@1.0.0?classifier=sources

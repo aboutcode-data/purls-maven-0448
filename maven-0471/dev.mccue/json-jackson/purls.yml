@@ -1,3 +1,4 @@
 - pkg:maven/dev.mccue/json-jackson@0.0.1?classifier=sources
 - pkg:maven/dev.mccue/json-jackson@0.1.0?classifier=sources
 - pkg:maven/dev.mccue/json-jackson@2023.12.19?classifier=sources
+- pkg:maven/dev.mccue/json-jackson@2025.02.02?classifier=sources

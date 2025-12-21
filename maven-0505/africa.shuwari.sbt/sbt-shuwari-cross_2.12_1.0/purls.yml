@@ -4,3 +4,5 @@
 - pkg:maven/africa.shuwari.sbt/sbt-shuwari-cross_2.12_1.0@0.12.1?classifier=sources
 - pkg:maven/africa.shuwari.sbt/sbt-shuwari-cross_2.12_1.0@0.12.2
 - pkg:maven/africa.shuwari.sbt/sbt-shuwari-cross_2.12_1.0@0.12.2?classifier=sources
+- pkg:maven/africa.shuwari.sbt/sbt-shuwari-cross_2.12_1.0@0.13.0
+- pkg:maven/africa.shuwari.sbt/sbt-shuwari-cross_2.12_1.0@0.13.0?classifier=sources

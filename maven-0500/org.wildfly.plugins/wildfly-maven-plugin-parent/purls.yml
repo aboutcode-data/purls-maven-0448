@@ -61,3 +61,4 @@
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@5.1.0.Beta2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@5.1.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@5.1.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.plugins/wildfly-maven-plugin-parent@5.1.2.Final?classifier=source-release&type=zip

@@ -42,6 +42,7 @@
 - pkg:maven/org.webjars.npm/vee-validate@4.13.2
 - pkg:maven/org.webjars.npm/vee-validate@4.14.6
 - pkg:maven/org.webjars.npm/vee-validate@4.14.7
+- pkg:maven/org.webjars.npm/vee-validate@4.15.0
 - pkg:maven/org.webjars.npm/vee-validate@4.7.4
 - pkg:maven/org.webjars.npm/vee-validate@4.7.4?classifier=sources
 - pkg:maven/org.webjars.npm/vee-validate@4.8.3

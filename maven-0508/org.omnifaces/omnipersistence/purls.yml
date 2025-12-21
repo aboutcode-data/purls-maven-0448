@@ -35,6 +35,12 @@
 - pkg:maven/org.omnifaces/omnipersistence@0.21.J1?classifier=sources
 - pkg:maven/org.omnifaces/omnipersistence@0.22.J1
 - pkg:maven/org.omnifaces/omnipersistence@0.22.J1?classifier=sources
+- pkg:maven/org.omnifaces/omnipersistence@0.22.J2
+- pkg:maven/org.omnifaces/omnipersistence@0.22.J2?classifier=sources
+- pkg:maven/org.omnifaces/omnipersistence@0.22.J3
+- pkg:maven/org.omnifaces/omnipersistence@0.22.J3?classifier=sources
+- pkg:maven/org.omnifaces/omnipersistence@0.22.J4
+- pkg:maven/org.omnifaces/omnipersistence@0.22.J4?classifier=sources
 - pkg:maven/org.omnifaces/omnipersistence@0.2?classifier=sources
 - pkg:maven/org.omnifaces/omnipersistence@0.3
 - pkg:maven/org.omnifaces/omnipersistence@0.3?classifier=sources

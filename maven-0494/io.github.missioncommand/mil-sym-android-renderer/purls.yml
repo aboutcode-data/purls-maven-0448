@@ -9,3 +9,4 @@
 - pkg:maven/io.github.missioncommand/mil-sym-android-renderer@0.1.58?classifier=sources
 - pkg:maven/io.github.missioncommand/mil-sym-android-renderer@0.1.59?classifier=sources
 - pkg:maven/io.github.missioncommand/mil-sym-android-renderer@0.1.60?classifier=sources
+- pkg:maven/io.github.missioncommand/mil-sym-android-renderer@0.1.61?classifier=sources

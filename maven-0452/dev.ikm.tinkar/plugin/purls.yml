@@ -1,1 +1,2 @@
 - pkg:maven/dev.ikm.tinkar/plugin@1.4.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/plugin@1.5.0?classifier=sources

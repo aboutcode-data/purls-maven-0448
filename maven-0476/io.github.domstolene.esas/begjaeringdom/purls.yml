@@ -10,6 +10,7 @@
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@06092024.59b95e4
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@08012025.fdfbf8d
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@09092024.7aaa4a1
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@10022025.b6cc4e3
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@11092024.006eaf7
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@11092024.15fecc6
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@11092024.5a9c25b
@@ -18,6 +19,9 @@
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@11112024.af01eb6
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@11122024.cb3a97b
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@12082024.bb73262
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@13022025.7ec6ab8
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@13022025.bbbfce8
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@13022025.e4efb2a
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@13082024.149fd3a
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@13092024.20fb337
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@13092024.67e56fa
@@ -27,10 +31,13 @@
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@15102024.ecced1e
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@15112024.e51ff1f
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@16122024.194fdac
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@17022025.01cad54
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@17092024.cdcf544
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@18022025.b9ee7f3
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@18092024.394bb17
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@18092024.cb232df
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@18092024.ed79b9c
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@19022025.3c7654b
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@19092024.0c0807a
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@19112024.98a84a7
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@20112024.ce52f8a
@@ -54,6 +61,8 @@
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@27112024.8017835
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@28102024.cc6a5d3
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@28112024.21bb619
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@29012025.78d08e0
+- pkg:maven/io.github.domstolene.esas/begjaeringdom@29012025.c5d49e7
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@29082024.59a5902
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@29082024.dfc77f5
 - pkg:maven/io.github.domstolene.esas/begjaeringdom@30082024.8401a1b

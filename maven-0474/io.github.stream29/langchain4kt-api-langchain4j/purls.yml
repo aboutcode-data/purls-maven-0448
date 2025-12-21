@@ -8,3 +8,7 @@
 - pkg:maven/io.github.stream29/langchain4kt-api-langchain4j@1.5.1?classifier=sources
 - pkg:maven/io.github.stream29/langchain4kt-api-langchain4j@1.6.0?classifier=sources
 - pkg:maven/io.github.stream29/langchain4kt-api-langchain4j@1.7.0?classifier=sources
+- pkg:maven/io.github.stream29/langchain4kt-api-langchain4j@1.7.1?classifier=sources
+- pkg:maven/io.github.stream29/langchain4kt-api-langchain4j@1.8.0?classifier=sources
+- pkg:maven/io.github.stream29/langchain4kt-api-langchain4j@1.8.1?classifier=sources
+- pkg:maven/io.github.stream29/langchain4kt-api-langchain4j@1.8.2?classifier=sources

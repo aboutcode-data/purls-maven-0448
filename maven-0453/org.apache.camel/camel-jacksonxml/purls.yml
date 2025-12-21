@@ -310,6 +310,8 @@
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.0.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.1.0
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.1.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-jacksonxml@4.10.0
+- pkg:maven/org.apache.camel/camel-jacksonxml@4.10.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.2.0
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.3.0
@@ -324,6 +326,8 @@
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.4.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.4.4
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.4.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-jacksonxml@4.4.5
+- pkg:maven/org.apache.camel/camel-jacksonxml@4.4.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.5.0
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-jacksonxml@4.6.0

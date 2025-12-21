@@ -1,3 +1,4 @@
 - pkg:maven/dev.treset.mcdl/mcdl-minecraft@1.0.0?classifier=sources
 - pkg:maven/dev.treset.mcdl/mcdl-minecraft@2.0.0?classifier=sources
 - pkg:maven/dev.treset.mcdl/mcdl-minecraft@2.1.2?classifier=sources
+- pkg:maven/dev.treset.mcdl/mcdl-minecraft@2.2.0?classifier=sources

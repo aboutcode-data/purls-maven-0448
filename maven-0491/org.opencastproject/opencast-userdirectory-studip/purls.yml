@@ -100,3 +100,7 @@
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@16.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@16.7
 - pkg:maven/org.opencastproject/opencast-userdirectory-studip@16.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@16.8
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@16.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@16.9
+- pkg:maven/org.opencastproject/opencast-userdirectory-studip@16.9?classifier=sources

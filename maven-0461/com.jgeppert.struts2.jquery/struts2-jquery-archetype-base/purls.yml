@@ -44,3 +44,5 @@
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-archetype-base@5.0.7?classifier=sources
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-archetype-base@6.0.0
 - pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-archetype-base@6.0.0?classifier=sources
+- pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-archetype-base@6.0.1
+- pkg:maven/com.jgeppert.struts2.jquery/struts2-jquery-archetype-base@6.0.1?classifier=sources

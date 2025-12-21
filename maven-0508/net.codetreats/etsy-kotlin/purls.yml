@@ -1,1 +1,2 @@
 - pkg:maven/net.codetreats/etsy-kotlin@0.0.2?classifier=sources
+- pkg:maven/net.codetreats/etsy-kotlin@0.0.4?classifier=sources

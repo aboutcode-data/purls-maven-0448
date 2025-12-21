@@ -10,3 +10,5 @@
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-sample@10.2.0?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-sample@10.3.0
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala-sample@10.3.0?classifier=sources
+- pkg:maven/org.wicketstuff.scala/wicketstuff-scala-sample@10.4.0
+- pkg:maven/org.wicketstuff.scala/wicketstuff-scala-sample@10.4.0?classifier=sources

@@ -12,6 +12,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@6.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@6.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@6.11.0
@@ -140,6 +142,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@8.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@8.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@8.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-urlfragment@8.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-urlfragment@8.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@8.3.0
@@ -196,6 +200,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@9.19.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-urlfragment@9.20.0
+- pkg:maven/org.wicketstuff/wicketstuff-urlfragment@9.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@9.4.0

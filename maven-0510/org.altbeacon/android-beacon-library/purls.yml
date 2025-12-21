@@ -59,6 +59,7 @@
 - pkg:maven/org.altbeacon/android-beacon-library@2.21.0-beta4?classifier=sources
 - pkg:maven/org.altbeacon/android-beacon-library@2.21.0-beta5-1-gada2ce6?classifier=sources
 - pkg:maven/org.altbeacon/android-beacon-library@2.21.0-beta5?classifier=sources
+- pkg:maven/org.altbeacon/android-beacon-library@2.21.0?classifier=sources
 - pkg:maven/org.altbeacon/android-beacon-library@2.3.1?type=aar
 - pkg:maven/org.altbeacon/android-beacon-library@2.3.2?type=aar
 - pkg:maven/org.altbeacon/android-beacon-library@2.3.3?type=aar

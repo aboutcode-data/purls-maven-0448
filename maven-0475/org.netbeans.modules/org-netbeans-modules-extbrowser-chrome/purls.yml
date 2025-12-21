@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser-chrome@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser-chrome@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser-chrome@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-extbrowser-chrome@RELEASE250?classifier=sources

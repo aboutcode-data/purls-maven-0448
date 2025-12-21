@@ -10,6 +10,7 @@
 - pkg:maven/com.optimetriks.unio.compose/itemactions@40?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/itemactions@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/itemactions@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/itemactions@68?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/itemactions@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/itemactions@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/itemactions@8?classifier=sources

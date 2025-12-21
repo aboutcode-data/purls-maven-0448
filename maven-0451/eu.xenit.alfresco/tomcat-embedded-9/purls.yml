@@ -1,3 +1,5 @@
 - pkg:maven/eu.xenit.alfresco/tomcat-embedded-9@2.0.2?classifier=sources
 - pkg:maven/eu.xenit.alfresco/tomcat-embedded-9@2.0.4?classifier=sources
 - pkg:maven/eu.xenit.alfresco/tomcat-embedded-9@2.1.0?classifier=sources
+- pkg:maven/eu.xenit.alfresco/tomcat-embedded-9@2.2.0?classifier=sources
+- pkg:maven/eu.xenit.alfresco/tomcat-embedded-9@2.3.0?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.meeuw.i18n/i18n-regions-countries@2.0.0?classifier=sources
 - pkg:maven/org.meeuw.i18n/i18n-regions-countries@2.1.0
 - pkg:maven/org.meeuw.i18n/i18n-regions-countries@2.1.0?classifier=sources
+- pkg:maven/org.meeuw.i18n/i18n-regions-countries@2.2.0
+- pkg:maven/org.meeuw.i18n/i18n-regions-countries@2.2.0?classifier=sources

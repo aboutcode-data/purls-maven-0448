@@ -18,6 +18,7 @@
 - pkg:maven/community.flock.wirespec.compiler/core-js@0.10.7?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/core-js@0.10.8?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/core-js@0.10.9?classifier=sources
+- pkg:maven/community.flock.wirespec.compiler/core-js@0.11.0?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/core-js@0.8.10?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/core-js@0.8.11?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/core-js@0.8.13?classifier=sources

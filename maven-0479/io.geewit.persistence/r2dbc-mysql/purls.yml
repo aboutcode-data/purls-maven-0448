@@ -1,0 +1,2 @@
+- pkg:maven/io.geewit.persistence/r2dbc-mysql@1.0.0?classifier=sources
+- pkg:maven/io.geewit.persistence/r2dbc-mysql@1.0.1?classifier=sources

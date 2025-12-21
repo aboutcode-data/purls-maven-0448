@@ -4,19 +4,24 @@
 - pkg:maven/io.moneyhash/MoneyHashShared-android@0.1.1010?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@0.1.1011?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@078c3c5?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@0d2fb44?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@159994a?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@169df22?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@1956005?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@1c25cc5?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@1c93fac?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@2.0.4?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@2.0.5?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@211ca28?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@2159e27?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@27ba471?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@2c16574?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@2edde9d?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@3134c37?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@3283823?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@32f727c?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@34a933e?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@373b0be?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@3848d15?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@3aa6fcd?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@3c7187b?classifier=sources
@@ -28,6 +33,7 @@
 - pkg:maven/io.moneyhash/MoneyHashShared-android@566be7f?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@5de4945?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@5eb3aa9?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@6050348?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@61d15ab?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@67a7365?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@6843a3d?classifier=sources
@@ -41,6 +47,7 @@
 - pkg:maven/io.moneyhash/MoneyHashShared-android@97e2def?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@a03a28a?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@a6bba6c?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@a870f45?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@aa310da?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@ac37d9a?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@adc5b67?classifier=sources
@@ -56,3 +63,4 @@
 - pkg:maven/io.moneyhash/MoneyHashShared-android@e98317b?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@ea65b2c?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@f43d851?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@f72a2ca?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@3.9.1?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@4.0.0-M2
 - pkg:maven/org.eclipse.californium/element-connector-tcp-netty@4.0.0-M2?classifier=sources
+- pkg:maven/org.eclipse.californium/element-connector-tcp-netty@4.0.0-M3
+- pkg:maven/org.eclipse.californium/element-connector-tcp-netty@4.0.0-M3?classifier=sources

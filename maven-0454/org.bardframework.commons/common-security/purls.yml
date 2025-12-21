@@ -85,4 +85,6 @@
 - pkg:maven/org.bardframework.commons/common-security@3.8.1
 - pkg:maven/org.bardframework.commons/common-security@3.8.1?classifier=sources
 - pkg:maven/org.bardframework.commons/common-security@3.9.1
+- pkg:maven/org.bardframework.commons/common-security@3.9.11
+- pkg:maven/org.bardframework.commons/common-security@3.9.11?classifier=sources
 - pkg:maven/org.bardframework.commons/common-security@3.9.1?classifier=sources

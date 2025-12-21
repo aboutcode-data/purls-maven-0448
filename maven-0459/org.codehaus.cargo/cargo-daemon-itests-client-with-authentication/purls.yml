@@ -4,3 +4,4 @@
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-client-with-authentication@1.10.14
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-client-with-authentication@1.10.15
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-client-with-authentication@1.10.16
+- pkg:maven/org.codehaus.cargo/cargo-daemon-itests-client-with-authentication@1.10.17

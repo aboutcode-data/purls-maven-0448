@@ -1,2 +1,3 @@
+- pkg:maven/org.mvnpm/node-fetch@1.7.3?classifier=sources
 - pkg:maven/org.mvnpm/node-fetch@2.7.0?classifier=sources
 - pkg:maven/org.mvnpm/node-fetch@3.3.2?classifier=sources

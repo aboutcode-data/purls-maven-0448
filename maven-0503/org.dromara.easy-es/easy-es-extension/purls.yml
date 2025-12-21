@@ -14,3 +14,4 @@
 - pkg:maven/org.dromara.easy-es/easy-es-extension@2.0.0-beta8
 - pkg:maven/org.dromara.easy-es/easy-es-extension@2.0.0-beta8?classifier=sources
 - pkg:maven/org.dromara.easy-es/easy-es-extension@2.0.0?classifier=sources
+- pkg:maven/org.dromara.easy-es/easy-es-extension@2.1.0?classifier=sources

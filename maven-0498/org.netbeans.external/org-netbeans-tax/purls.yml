@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE220
 - pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE230
 - pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE240
+- pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE250
 - pkg:maven/org.netbeans.external/org-netbeans-tax@RELEASE90

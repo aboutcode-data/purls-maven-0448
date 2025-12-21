@@ -5,3 +5,4 @@
 - pkg:maven/org.mvnpm/stylis@4.3.3?classifier=sources
 - pkg:maven/org.mvnpm/stylis@4.3.4?classifier=sources
 - pkg:maven/org.mvnpm/stylis@4.3.5?classifier=sources
+- pkg:maven/org.mvnpm/stylis@4.3.6?classifier=sources

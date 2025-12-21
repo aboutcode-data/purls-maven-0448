@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dotty-cps-async/cpsasyncconnect_2.12@1.0.1
+- pkg:maven/io.github.dotty-cps-async/cpsasyncconnect_2.12@1.0.1?classifier=sources

@@ -34,3 +34,7 @@
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.test@1.17.0?classifier=sources
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.test@1.17.1
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.test@1.17.1?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.test@1.18.1
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.test@1.18.1?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.test@2.0.0
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.test@2.0.0?classifier=sources

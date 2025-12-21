@@ -174,3 +174,4 @@
 - pkg:maven/io.grpc/grpc-alts@1.68.3?classifier=sources
 - pkg:maven/io.grpc/grpc-alts@1.69.0?classifier=sources
 - pkg:maven/io.grpc/grpc-alts@1.69.1?classifier=sources
+- pkg:maven/io.grpc/grpc-alts@1.70.0?classifier=sources

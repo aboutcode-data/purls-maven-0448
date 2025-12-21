@@ -9,3 +9,5 @@
 - pkg:maven/money.link/linkaccount@1.0.9?classifier=sources
 - pkg:maven/money.link/linkaccount@1.1.4?classifier=sources
 - pkg:maven/money.link/linkaccount@2.0.0?classifier=sources
+- pkg:maven/money.link/linkaccount@2.0.1-dev.0?classifier=sources
+- pkg:maven/money.link/linkaccount@2.0.1?classifier=sources

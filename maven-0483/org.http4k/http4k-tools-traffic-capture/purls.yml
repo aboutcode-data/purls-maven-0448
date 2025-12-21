@@ -1,3 +1,8 @@
 - pkg:maven/org.http4k/http4k-tools-traffic-capture@5.44.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-tools-traffic-capture@5.45.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-tools-traffic-capture@5.45.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-tools-traffic-capture@5.45.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-tools-traffic-capture@5.46.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-tools-traffic-capture@5.47.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-tools-traffic-capture@6.0.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-tools-traffic-capture@6.0.1.0?classifier=sources
