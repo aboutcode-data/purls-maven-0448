@@ -143,3 +143,4 @@
 - pkg:maven/ru.yoomoney.sdk.auth/auth@4.2.7?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.auth/auth@4.2.8?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.auth/auth@4.2.9?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.auth/auth@5.0.0?classifier=sources

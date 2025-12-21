@@ -1,1 +1,2 @@
 - pkg:maven/io.kroxylicious/kroxylicious-systemtests@0.14.0?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-systemtests@0.15.0?classifier=sources

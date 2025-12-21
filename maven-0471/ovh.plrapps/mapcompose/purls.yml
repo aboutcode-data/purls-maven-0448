@@ -83,3 +83,4 @@
 - pkg:maven/ovh.plrapps/mapcompose@2.9.8?classifier=sources
 - pkg:maven/ovh.plrapps/mapcompose@3.0.0?classifier=sources
 - pkg:maven/ovh.plrapps/mapcompose@3.1.0?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose@3.2.0?classifier=sources

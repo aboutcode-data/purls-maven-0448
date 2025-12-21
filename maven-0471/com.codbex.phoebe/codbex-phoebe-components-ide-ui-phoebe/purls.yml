@@ -73,8 +73,10 @@
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.16.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.17.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.18.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.19.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.2.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.2.0?classifier=sources
+- pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.20.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.3.0
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.3.0?classifier=sources
 - pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ide-ui-phoebe@3.4.0

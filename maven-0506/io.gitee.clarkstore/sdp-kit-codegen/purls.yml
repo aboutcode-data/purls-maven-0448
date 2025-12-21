@@ -1,1 +1,2 @@
 - pkg:maven/io.gitee.clarkstore/sdp-kit-codegen@0.0.8?classifier=sources
+- pkg:maven/io.gitee.clarkstore/sdp-kit-codegen@0.0.9?classifier=sources

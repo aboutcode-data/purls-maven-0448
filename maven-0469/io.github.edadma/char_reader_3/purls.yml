@@ -1,0 +1,2 @@
+- pkg:maven/io.github.edadma/char_reader_3@0.1.23
+- pkg:maven/io.github.edadma/char_reader_3@0.1.23?classifier=sources

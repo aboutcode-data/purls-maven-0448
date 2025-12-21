@@ -1,1 +1,2 @@
+- pkg:maven/io.cloudx/adapter-google@0.0.1.40?classifier=sources
 - pkg:maven/io.cloudx/adapter-google@v0.0.1.14?classifier=sources

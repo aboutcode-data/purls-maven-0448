@@ -44,3 +44,5 @@
 - pkg:maven/org.realityforge.arez/arez-extras-testng@0.220?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-extras-testng@0.221
 - pkg:maven/org.realityforge.arez/arez-extras-testng@0.221?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-extras-testng@0.222
+- pkg:maven/org.realityforge.arez/arez-extras-testng@0.222?classifier=sources

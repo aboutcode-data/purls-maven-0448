@@ -32,3 +32,4 @@
 - pkg:maven/com.cognitect.aws/iotanalytics@847.2.1365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iotanalytics@871.2.29.35
 - pkg:maven/com.cognitect.aws/iotanalytics@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/iotanalytics@871.2.32.30?classifier=sources

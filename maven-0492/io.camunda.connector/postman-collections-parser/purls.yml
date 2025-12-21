@@ -115,3 +115,5 @@
 - pkg:maven/io.camunda.connector/postman-collections-parser@8.8.0-alpha5
 - pkg:maven/io.camunda.connector/postman-collections-parser@8.8.0-alpha5?classifier=sources
 - pkg:maven/io.camunda.connector/postman-collections-parser@8.8.0-alpha6?classifier=sources
+- pkg:maven/io.camunda.connector/postman-collections-parser@8.8.0-alpha7
+- pkg:maven/io.camunda.connector/postman-collections-parser@8.8.0-alpha7?classifier=sources

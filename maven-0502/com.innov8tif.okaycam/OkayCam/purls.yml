@@ -34,3 +34,5 @@
 - pkg:maven/com.innov8tif.okaycam/OkayCam@1.2.7?classifier=sources
 - pkg:maven/com.innov8tif.okaycam/OkayCam@1.2.8?classifier=sources
 - pkg:maven/com.innov8tif.okaycam/OkayCam@1.2.9?classifier=sources
+- pkg:maven/com.innov8tif.okaycam/OkayCam@2.0.4?classifier=sources
+- pkg:maven/com.innov8tif.okaycam/OkayCam@2.0.5?classifier=sources

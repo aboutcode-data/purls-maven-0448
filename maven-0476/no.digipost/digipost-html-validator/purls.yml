@@ -18,3 +18,4 @@
 - pkg:maven/no.digipost/digipost-html-validator@1.0.8?classifier=sources
 - pkg:maven/no.digipost/digipost-html-validator@1.1.0
 - pkg:maven/no.digipost/digipost-html-validator@1.1.0?classifier=sources
+- pkg:maven/no.digipost/digipost-html-validator@1.1.1?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-jvm@0.65.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-jvm@0.70.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-jvm@0.71.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-jvm@0.72.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-postgres-jvm@0.72.1?classifier=sources

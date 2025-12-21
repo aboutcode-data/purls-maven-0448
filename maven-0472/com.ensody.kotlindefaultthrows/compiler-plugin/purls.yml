@@ -9,5 +9,8 @@
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.2.0-plugin.4?classifier=sources
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.2.10-RC-plugin.4?classifier=sources
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.2.10-RC2-plugin.4?classifier=sources
+- pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.2.10-plugin.4?classifier=sources
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.2.20-Beta1-plugin.4?classifier=sources
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.2.20-Beta2-plugin.4?classifier=sources
+- pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.2.20-RC-plugin.4?classifier=sources
+- pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.2.20-RC2-plugin.4?classifier=sources

@@ -64,3 +64,4 @@
 - pkg:maven/org.daisy.pipeline.modules/tts-common@7.3.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/tts-common@8.0.0
 - pkg:maven/org.daisy.pipeline.modules/tts-common@8.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/tts-common@8.0.1?classifier=sources

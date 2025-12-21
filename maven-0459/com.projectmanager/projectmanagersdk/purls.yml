@@ -17,5 +17,6 @@
 - pkg:maven/com.projectmanager/projectmanagersdk@136.0.106?classifier=sources
 - pkg:maven/com.projectmanager/projectmanagersdk@137.0.201?classifier=sources
 - pkg:maven/com.projectmanager/projectmanagersdk@138.1.170?classifier=sources
+- pkg:maven/com.projectmanager/projectmanagersdk@139.0.157?classifier=sources
 - pkg:maven/com.projectmanager/projectmanagersdk@97.0.2178?classifier=sources
 - pkg:maven/com.projectmanager/projectmanagersdk@99.0.2550?classifier=sources

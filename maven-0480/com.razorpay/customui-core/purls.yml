@@ -10,3 +10,7 @@
 - pkg:maven/com.razorpay/customui-core@3.9.27?type=aar
 - pkg:maven/com.razorpay/customui-core@3.9.28?classifier=sources
 - pkg:maven/com.razorpay/customui-core@3.9.28?type=aar
+- pkg:maven/com.razorpay/customui-core@3.9.29?classifier=sources
+- pkg:maven/com.razorpay/customui-core@3.9.29?type=aar
+- pkg:maven/com.razorpay/customui-core@3.9.30?classifier=sources
+- pkg:maven/com.razorpay/customui-core@3.9.30?type=aar

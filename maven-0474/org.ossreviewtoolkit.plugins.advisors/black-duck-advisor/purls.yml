@@ -40,3 +40,5 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@65.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@66.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@66.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@66.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@66.0.3?classifier=sources

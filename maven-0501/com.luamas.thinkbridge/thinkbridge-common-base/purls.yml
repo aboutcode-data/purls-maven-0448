@@ -1,1 +1,2 @@
+- pkg:maven/com.luamas.thinkbridge/thinkbridge-common-base@2025.0.0.1?classifier=sources
 - pkg:maven/com.luamas.thinkbridge/thinkbridge-common-base@2025.0.0?classifier=sources

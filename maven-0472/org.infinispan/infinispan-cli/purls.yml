@@ -1,3 +1,4 @@
+- pkg:maven/org.infinispan/infinispan-cli@14.0.35.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli@7.0.3.Final
 - pkg:maven/org.infinispan/infinispan-cli@7.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cli@7.1.0.Alpha1

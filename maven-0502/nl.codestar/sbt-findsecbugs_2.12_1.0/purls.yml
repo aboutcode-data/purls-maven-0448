@@ -1,0 +1,6 @@
+- pkg:maven/nl.codestar/sbt-findsecbugs_2.12_1.0@0.18
+- pkg:maven/nl.codestar/sbt-findsecbugs_2.12_1.0@0.18?classifier=sources
+- pkg:maven/nl.codestar/sbt-findsecbugs_2.12_1.0@0.19
+- pkg:maven/nl.codestar/sbt-findsecbugs_2.12_1.0@0.19?classifier=sources
+- pkg:maven/nl.codestar/sbt-findsecbugs_2.12_1.0@0.20
+- pkg:maven/nl.codestar/sbt-findsecbugs_2.12_1.0@0.20?classifier=sources

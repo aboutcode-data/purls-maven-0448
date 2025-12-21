@@ -256,6 +256,8 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-box@4.18.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-box@4.19.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-box@4.19.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-box@4.19.1
+- pkg:maven/edu.internet2.middleware.grouper/grouper-box@4.19.1?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-box@4.2.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-box@4.2.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-box@4.2.1

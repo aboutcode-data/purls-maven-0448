@@ -7,6 +7,7 @@
 - pkg:maven/io.smallrye/smallrye-graphql-client-model@2.12.2?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-model@2.13.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-model@2.14.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-client-model@2.14.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-model@2.8.0
 - pkg:maven/io.smallrye/smallrye-graphql-client-model@2.8.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-model@2.8.1

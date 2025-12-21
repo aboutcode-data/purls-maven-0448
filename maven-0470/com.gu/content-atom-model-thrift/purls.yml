@@ -104,6 +104,7 @@
 - pkg:maven/com.gu/content-atom-model-thrift@5.0.0
 - pkg:maven/com.gu/content-atom-model-thrift@5.0.0-PREVIEW.agbump-thrift.2024-07-03T1000.08ee9887
 - pkg:maven/com.gu/content-atom-model-thrift@6.0.0
+- pkg:maven/com.gu/content-atom-model-thrift@6.1.0
 - pkg:maven/com.gu/content-atom-model-thrift@7.0.0-PREVIEW.fpdefine-custom-fields.2024-12-16T1428.3f226654
 - pkg:maven/com.gu/content-atom-model-thrift@7.0.0-PREVIEW.fpdefine-custom-fields.2024-12-16T1443.aee622d0
 - pkg:maven/com.gu/content-atom-model-thrift@7.0.0-PREVIEW.fpdefine-custom-fields.2024-12-16T1530.9082e3ad

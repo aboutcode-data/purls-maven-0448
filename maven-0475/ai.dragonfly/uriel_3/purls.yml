@@ -1,0 +1,2 @@
+- pkg:maven/ai.dragonfly/uriel_3@0.1
+- pkg:maven/ai.dragonfly/uriel_3@0.1?classifier=sources

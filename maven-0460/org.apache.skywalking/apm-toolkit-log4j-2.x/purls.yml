@@ -36,3 +36,4 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-2.x@9.2.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-2.x@9.3.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-2.x@9.4.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-log4j-2.x@9.5.0

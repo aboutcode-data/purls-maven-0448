@@ -34,3 +34,4 @@
 - pkg:maven/io.github.josephlbarnett/config@3.2.804?classifier=sources
 - pkg:maven/io.github.josephlbarnett/config@3.3.815?classifier=sources
 - pkg:maven/io.github.josephlbarnett/config@3.3.841?classifier=sources
+- pkg:maven/io.github.josephlbarnett/config@3.3.878?classifier=sources

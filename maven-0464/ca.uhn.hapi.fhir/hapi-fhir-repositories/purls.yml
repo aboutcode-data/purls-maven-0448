@@ -1,0 +1,1 @@
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-repositories@8.4.0?classifier=sources

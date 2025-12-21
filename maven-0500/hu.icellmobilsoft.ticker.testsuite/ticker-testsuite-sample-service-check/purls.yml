@@ -4,3 +4,4 @@
 - pkg:maven/hu.icellmobilsoft.ticker.testsuite/ticker-testsuite-sample-service-check@1.4.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.ticker.testsuite/ticker-testsuite-sample-service-check@1.5.0
 - pkg:maven/hu.icellmobilsoft.ticker.testsuite/ticker-testsuite-sample-service-check@1.5.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.ticker.testsuite/ticker-testsuite-sample-service-check@1.6.0?classifier=sources

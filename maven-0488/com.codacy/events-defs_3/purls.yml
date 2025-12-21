@@ -40,6 +40,8 @@
 - pkg:maven/com.codacy/events-defs_3@12.10.4_akka_2.6_circe_0.14?classifier=sources
 - pkg:maven/com.codacy/events-defs_3@12.11.0_akka_2.6_circe_0.14
 - pkg:maven/com.codacy/events-defs_3@12.11.0_akka_2.6_circe_0.14?classifier=sources
+- pkg:maven/com.codacy/events-defs_3@12.11.1_akka_2.6_circe_0.14
+- pkg:maven/com.codacy/events-defs_3@12.11.1_akka_2.6_circe_0.14?classifier=sources
 - pkg:maven/com.codacy/events-defs_3@12.2.0_akka_2.6_circe_0.14
 - pkg:maven/com.codacy/events-defs_3@12.2.0_akka_2.6_circe_0.14?classifier=sources
 - pkg:maven/com.codacy/events-defs_3@12.2.1_akka_2.6_circe_0.14

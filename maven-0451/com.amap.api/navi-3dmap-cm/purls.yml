@@ -1,0 +1,2 @@
+- pkg:maven/com.amap.api/navi-3dmap-cm@9.8.4_3dmap9.8.3
+- pkg:maven/com.amap.api/navi-3dmap-cm@9.8.4_3dmap9.8.3?classifier=sources

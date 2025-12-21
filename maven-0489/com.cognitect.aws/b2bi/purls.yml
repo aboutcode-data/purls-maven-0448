@@ -13,3 +13,4 @@
 - pkg:maven/com.cognitect.aws/b2bi@871.2.30.22
 - pkg:maven/com.cognitect.aws/b2bi@871.2.30.22?classifier=sources
 - pkg:maven/com.cognitect.aws/b2bi@871.2.32.2?classifier=sources
+- pkg:maven/com.cognitect.aws/b2bi@871.2.32.30?classifier=sources

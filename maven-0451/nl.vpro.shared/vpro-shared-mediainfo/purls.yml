@@ -1,2 +1,3 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-mediainfo@5.10.0
 - pkg:maven/nl.vpro.shared/vpro-shared-mediainfo@5.10.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-mediainfo@5.11.1?classifier=sources

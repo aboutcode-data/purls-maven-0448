@@ -1,0 +1,2 @@
+- pkg:maven/com.coedotzmagic.levelupdater/CoedotzMagic-LevelUpdater@1.0.1?classifier=sources
+- pkg:maven/com.coedotzmagic.levelupdater/CoedotzMagic-LevelUpdater@1.0?classifier=sources

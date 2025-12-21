@@ -1,0 +1,2 @@
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-client-starter-it@17.43.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-client-starter-it@18.0.0?classifier=sources

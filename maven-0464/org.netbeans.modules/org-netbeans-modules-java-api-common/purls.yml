@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-api-common@RELEASE90?classifier=sources

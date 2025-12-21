@@ -196,6 +196,7 @@
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@15.0.4?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@15.0.5?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@15.0.6?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@15.0.7?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@2.0.0
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@2.0.0.RC
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@2.0.0.RC?classifier=sources

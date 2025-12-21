@@ -110,6 +110,8 @@
 - pkg:maven/com.smartling.api/smartling-issues-api@1.21.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-issues-api@1.22.0
 - pkg:maven/com.smartling.api/smartling-issues-api@1.22.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-issues-api@1.23.0
+- pkg:maven/com.smartling.api/smartling-issues-api@1.23.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-issues-api@1.4.0
 - pkg:maven/com.smartling.api/smartling-issues-api@1.4.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-issues-api@1.5.0

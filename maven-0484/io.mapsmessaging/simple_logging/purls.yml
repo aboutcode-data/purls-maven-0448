@@ -2,3 +2,4 @@
 - pkg:maven/io.mapsmessaging/simple_logging@2.0.11?classifier=sources
 - pkg:maven/io.mapsmessaging/simple_logging@2.0.12
 - pkg:maven/io.mapsmessaging/simple_logging@2.0.12?classifier=sources
+- pkg:maven/io.mapsmessaging/simple_logging@2.1.0?classifier=sources

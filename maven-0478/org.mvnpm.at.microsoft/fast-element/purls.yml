@@ -1,2 +1,6 @@
 - pkg:maven/org.mvnpm.at.microsoft/fast-element@1.12.0?classifier=sources
 - pkg:maven/org.mvnpm.at.microsoft/fast-element@1.13.0?classifier=sources
+- pkg:maven/org.mvnpm.at.microsoft/fast-element@1.14.0
+- pkg:maven/org.mvnpm.at.microsoft/fast-element@1.14.0?classifier=sources
+- pkg:maven/org.mvnpm.at.microsoft/fast-element@2.6.0
+- pkg:maven/org.mvnpm.at.microsoft/fast-element@2.6.0?classifier=sources

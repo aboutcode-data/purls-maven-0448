@@ -5,3 +5,9 @@
 - pkg:maven/com.codestepfish/vline-sql-server-2000@0.0.6?classifier=sources
 - pkg:maven/com.codestepfish/vline-sql-server-2000@0.0.7?classifier=sources
 - pkg:maven/com.codestepfish/vline-sql-server-2000@0.0.8?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2000@0.1.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2000@0.1.2?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2000@1.0.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2000@1.2.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2000@1.5.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2000@2.0.0?classifier=sources

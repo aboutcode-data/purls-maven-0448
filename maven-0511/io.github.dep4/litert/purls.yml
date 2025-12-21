@@ -1,6 +1,7 @@
 - pkg:maven/io.github.dep4/litert@%7B%7Binputs.version%7D%7D?classifier=sources
 - pkg:maven/io.github.dep4/litert@0.0.10?classifier=sources
 - pkg:maven/io.github.dep4/litert@0.0.11?classifier=sources
+- pkg:maven/io.github.dep4/litert@0.0.13?classifier=sources
 - pkg:maven/io.github.dep4/litert@0.0.6?classifier=sources
 - pkg:maven/io.github.dep4/litert@0.0.8?classifier=sources
 - pkg:maven/io.github.dep4/litert@0.0.9?classifier=sources
