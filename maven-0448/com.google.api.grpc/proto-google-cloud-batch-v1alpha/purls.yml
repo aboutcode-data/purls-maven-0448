@@ -142,6 +142,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.76.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.77.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.77.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.78.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.78.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.8.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.8.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-batch-v1alpha@0.9.0

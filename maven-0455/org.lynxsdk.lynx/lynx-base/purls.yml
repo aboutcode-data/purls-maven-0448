@@ -1,0 +1,2 @@
+- pkg:maven/org.lynxsdk.lynx/lynx-base@3.5.0-rc.0-dev?classifier=sources
+- pkg:maven/org.lynxsdk.lynx/lynx-base@3.5.0-rc.0?classifier=sources

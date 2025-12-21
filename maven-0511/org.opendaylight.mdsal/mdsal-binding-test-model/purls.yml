@@ -180,6 +180,8 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-test-model@14.0.9?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-test-model@15.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-test-model@15.0.1?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-test-model@15.0.2
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-test-model@15.0.2?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-test-model@2.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-test-model@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-test-model@2.0.1

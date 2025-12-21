@@ -58,6 +58,8 @@
 - pkg:maven/org.open-metadata/openmetadata-spec@1.10.2?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-spec@1.10.3
 - pkg:maven/org.open-metadata/openmetadata-spec@1.10.3?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-spec@1.10.4
+- pkg:maven/org.open-metadata/openmetadata-spec@1.10.4?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-spec@1.2.0
 - pkg:maven/org.open-metadata/openmetadata-spec@1.2.0-beta
 - pkg:maven/org.open-metadata/openmetadata-spec@1.2.0-beta1
@@ -225,6 +227,8 @@
 - pkg:maven/org.open-metadata/openmetadata-spec@1.8.10?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-spec@1.8.11
 - pkg:maven/org.open-metadata/openmetadata-spec@1.8.11?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-spec@1.8.12
+- pkg:maven/org.open-metadata/openmetadata-spec@1.8.12?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-spec@1.8.1?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-spec@1.8.2
 - pkg:maven/org.open-metadata/openmetadata-spec@1.8.2?classifier=sources

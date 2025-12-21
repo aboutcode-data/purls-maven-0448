@@ -6,3 +6,4 @@
 - pkg:maven/io.quarkiverse.bonjova/bon-jova-rockstar-compiler@0.6.0?classifier=sources
 - pkg:maven/io.quarkiverse.bonjova/bon-jova-rockstar-compiler@0.7.0
 - pkg:maven/io.quarkiverse.bonjova/bon-jova-rockstar-compiler@0.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.bonjova/bon-jova-rockstar-compiler@1.2.0?classifier=sources

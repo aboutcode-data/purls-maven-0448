@@ -41,6 +41,7 @@
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.23.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.24.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.24.1?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.24.2?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.3.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.3.1?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.3.2?classifier=sources
@@ -55,3 +56,6 @@
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@0.9.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@1.0.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@1.0.1?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@1.0.2?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-jdbc-mysql@1.1.0?classifier=sources

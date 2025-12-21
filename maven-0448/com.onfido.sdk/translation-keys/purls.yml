@@ -1,3 +1,6 @@
 - pkg:maven/com.onfido.sdk/translation-keys@0.0.18?classifier=sources
+- pkg:maven/com.onfido.sdk/translation-keys@0.0.20?classifier=sources
 - pkg:maven/com.onfido.sdk/translation-keys@0.1.7?classifier=sources
 - pkg:maven/com.onfido.sdk/translation-keys@0.1.8?classifier=sources
+- pkg:maven/com.onfido.sdk/translation-keys@0.1.9?classifier=sources
+- pkg:maven/com.onfido.sdk/translation-keys@tmp-publish-kotlin-keys-2129041?classifier=sources

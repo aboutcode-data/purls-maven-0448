@@ -22,3 +22,4 @@
 - pkg:maven/com.oracle.database.graph/opg-client@25.1.0?classifier=sources
 - pkg:maven/com.oracle.database.graph/opg-client@25.2.0?classifier=sources
 - pkg:maven/com.oracle.database.graph/opg-client@25.3.0?classifier=sources
+- pkg:maven/com.oracle.database.graph/opg-client@25.4.0?classifier=sources

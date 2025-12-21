@@ -66,3 +66,5 @@
 - pkg:maven/org.mvnpm/memfs@4.48.1?classifier=sources
 - pkg:maven/org.mvnpm/memfs@4.49.0
 - pkg:maven/org.mvnpm/memfs@4.49.0?classifier=sources
+- pkg:maven/org.mvnpm/memfs@4.50.0
+- pkg:maven/org.mvnpm/memfs@4.50.0?classifier=sources

@@ -51,3 +51,5 @@
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.builder@26.1.0.a20250829-01?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.builder@26.1.0.a20250924-01?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model.builder@26.1.0.a20251001-01?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.builder@26.1.0.a20251024-01?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.devtools.model.builder@26.1.0.a20251106-01?classifier=sources

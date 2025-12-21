@@ -7,3 +7,4 @@
 - pkg:maven/dev.g000sha256/tdl-coroutines-android@3.0.0?classifier=sources
 - pkg:maven/dev.g000sha256/tdl-coroutines-android@4.0.0?classifier=sources
 - pkg:maven/dev.g000sha256/tdl-coroutines-android@4.1.0?classifier=sources
+- pkg:maven/dev.g000sha256/tdl-coroutines-android@5.0.0?classifier=sources

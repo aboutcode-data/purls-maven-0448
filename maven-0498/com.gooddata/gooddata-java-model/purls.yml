@@ -50,3 +50,4 @@
 - pkg:maven/com.gooddata/gooddata-java-model@3.8.0?classifier=sources
 - pkg:maven/com.gooddata/gooddata-java-model@3.9.0%2Bapi3
 - pkg:maven/com.gooddata/gooddata-java-model@3.9.0%2Bapi3?classifier=sources
+- pkg:maven/com.gooddata/gooddata-java-model@4.0.3%2Bapi3?classifier=sources

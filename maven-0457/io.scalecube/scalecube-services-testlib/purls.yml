@@ -30,3 +30,6 @@
 - pkg:maven/io.scalecube/scalecube-services-testlib@2.13.5?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-testlib@2.13.6?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-testlib@2.13.7?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-testlib@2.13.8?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-testlib@2.13.9.jjwt.rc1?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-testlib@2.13.9?classifier=sources

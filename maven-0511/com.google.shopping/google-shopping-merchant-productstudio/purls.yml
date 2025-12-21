@@ -16,6 +16,8 @@
 - pkg:maven/com.google.shopping/google-shopping-merchant-productstudio@0.16.0?classifier=sources
 - pkg:maven/com.google.shopping/google-shopping-merchant-productstudio@0.17.0
 - pkg:maven/com.google.shopping/google-shopping-merchant-productstudio@0.17.0?classifier=sources
+- pkg:maven/com.google.shopping/google-shopping-merchant-productstudio@0.18.0
+- pkg:maven/com.google.shopping/google-shopping-merchant-productstudio@0.18.0?classifier=sources
 - pkg:maven/com.google.shopping/google-shopping-merchant-productstudio@0.2.0
 - pkg:maven/com.google.shopping/google-shopping-merchant-productstudio@0.2.0?classifier=sources
 - pkg:maven/com.google.shopping/google-shopping-merchant-productstudio@0.3.0

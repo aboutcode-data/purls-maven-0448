@@ -18,3 +18,4 @@
 - pkg:maven/com.aliyun/alibabacloud-mts20140618@3.0.3?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-mts20140618@4.0.0
 - pkg:maven/com.aliyun/alibabacloud-mts20140618@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-mts20140618@4.0.1?classifier=sources

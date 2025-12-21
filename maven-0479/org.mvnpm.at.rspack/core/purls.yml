@@ -72,3 +72,7 @@
 - pkg:maven/org.mvnpm.at.rspack/core@1.5.7?classifier=sources
 - pkg:maven/org.mvnpm.at.rspack/core@1.5.8
 - pkg:maven/org.mvnpm.at.rspack/core@1.5.8?classifier=sources
+- pkg:maven/org.mvnpm.at.rspack/core@1.6.0
+- pkg:maven/org.mvnpm.at.rspack/core@1.6.0?classifier=sources
+- pkg:maven/org.mvnpm.at.rspack/core@1.6.1
+- pkg:maven/org.mvnpm.at.rspack/core@1.6.1?classifier=sources

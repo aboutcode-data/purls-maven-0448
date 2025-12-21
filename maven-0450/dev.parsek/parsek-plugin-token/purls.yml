@@ -1,0 +1,4 @@
+- pkg:maven/dev.parsek/parsek-plugin-token@1.0.0-dev.4?classifier=sources
+- pkg:maven/dev.parsek/parsek-plugin-token@1.0.0-dev.5?classifier=sources
+- pkg:maven/dev.parsek/parsek-plugin-token@1.0.0-dev.6?classifier=sources
+- pkg:maven/dev.parsek/parsek-plugin-token@1.0.0-dev.7?classifier=sources

@@ -154,3 +154,5 @@
 - pkg:maven/com.yelp.nrtsearch/server@1.1.0?classifier=sources
 - pkg:maven/com.yelp.nrtsearch/server@1.2.4
 - pkg:maven/com.yelp.nrtsearch/server@1.2.4?classifier=sources
+- pkg:maven/com.yelp.nrtsearch/server@1.2.5
+- pkg:maven/com.yelp.nrtsearch/server@1.2.5?classifier=sources

@@ -30,3 +30,4 @@
 - pkg:maven/com.aliyun/edas20170801@1.0.8?classifier=sources
 - pkg:maven/com.aliyun/edas20170801@1.0.9
 - pkg:maven/com.aliyun/edas20170801@1.0.9?classifier=sources
+- pkg:maven/com.aliyun/edas20170801@2.0.0?classifier=sources

@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-bloom-filter@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-bloom-filter@34.0.0
 - pkg:maven/org.apache.druid.extensions/druid-bloom-filter@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-bloom-filter@35.0.0
+- pkg:maven/org.apache.druid.extensions/druid-bloom-filter@35.0.0?classifier=sources

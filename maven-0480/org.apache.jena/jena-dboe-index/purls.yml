@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.jena/jena-dboe-index@5.4.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-dboe-index@5.5.0
 - pkg:maven/org.apache.jena/jena-dboe-index@5.5.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-dboe-index@5.6.0
+- pkg:maven/org.apache.jena/jena-dboe-index@5.6.0?classifier=sources

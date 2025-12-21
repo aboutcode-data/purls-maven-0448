@@ -10,3 +10,5 @@
 - pkg:maven/org.jgroups.aws/jgroups-aws@3.0.2.CR1?classifier=sources
 - pkg:maven/org.jgroups.aws/jgroups-aws@3.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jgroups.aws/jgroups-aws@3.0.2.Final?classifier=sources
+- pkg:maven/org.jgroups.aws/jgroups-aws@3.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jgroups.aws/jgroups-aws@3.1.0.Final?classifier=sources

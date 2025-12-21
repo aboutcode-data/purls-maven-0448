@@ -101,3 +101,4 @@
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@15.0.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@15.1.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@15.2.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-gsuite@15.3.0?classifier=sources

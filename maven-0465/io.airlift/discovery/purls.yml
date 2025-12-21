@@ -473,3 +473,13 @@
 - pkg:maven/io.airlift/discovery@364?classifier=sources
 - pkg:maven/io.airlift/discovery@365?classifier=sources
 - pkg:maven/io.airlift/discovery@366?classifier=sources
+- pkg:maven/io.airlift/discovery@367?classifier=sources
+- pkg:maven/io.airlift/discovery@368?classifier=sources
+- pkg:maven/io.airlift/discovery@369?classifier=sources
+- pkg:maven/io.airlift/discovery@370?classifier=sources
+- pkg:maven/io.airlift/discovery@371?classifier=sources
+- pkg:maven/io.airlift/discovery@372?classifier=sources
+- pkg:maven/io.airlift/discovery@373?classifier=sources
+- pkg:maven/io.airlift/discovery@374?classifier=sources
+- pkg:maven/io.airlift/discovery@375?classifier=sources
+- pkg:maven/io.airlift/discovery@376?classifier=sources

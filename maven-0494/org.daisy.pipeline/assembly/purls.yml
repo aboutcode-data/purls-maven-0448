@@ -12,3 +12,4 @@
 - pkg:maven/org.daisy.pipeline/assembly@1.15.1
 - pkg:maven/org.daisy.pipeline/assembly@1.15.1?classifier=sources
 - pkg:maven/org.daisy.pipeline/assembly@1.15.2?classifier=sources
+- pkg:maven/org.daisy.pipeline/assembly@1.15.3?classifier=sources

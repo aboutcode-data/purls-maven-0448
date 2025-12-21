@@ -172,3 +172,5 @@
 - pkg:maven/org.springframework.batch/spring-batch-test@6.0.0-M4?classifier=sources
 - pkg:maven/org.springframework.batch/spring-batch-test@6.0.0-RC1
 - pkg:maven/org.springframework.batch/spring-batch-test@6.0.0-RC1?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-test@6.0.0-RC2
+- pkg:maven/org.springframework.batch/spring-batch-test@6.0.0-RC2?classifier=sources

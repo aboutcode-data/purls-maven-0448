@@ -9,3 +9,5 @@
 - pkg:maven/com.digitalsanctuary/ds-spring-user-framework@3.3.0?classifier=sources
 - pkg:maven/com.digitalsanctuary/ds-spring-user-framework@3.4.0?classifier=sources
 - pkg:maven/com.digitalsanctuary/ds-spring-user-framework@3.4.1?classifier=sources
+- pkg:maven/com.digitalsanctuary/ds-spring-user-framework@3.5.0?classifier=sources
+- pkg:maven/com.digitalsanctuary/ds-spring-user-framework@3.5.1?classifier=sources

@@ -81,3 +81,4 @@
 - pkg:maven/uk.gov.account/cri-common-lib@6.6.0?classifier=sources
 - pkg:maven/uk.gov.account/cri-common-lib@7.0.0?classifier=sources
 - pkg:maven/uk.gov.account/cri-common-lib@7.1.0?classifier=sources
+- pkg:maven/uk.gov.account/cri-common-lib@7.2.0?classifier=sources

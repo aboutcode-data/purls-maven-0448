@@ -1,2 +1,3 @@
 - pkg:maven/jakarta.validation/validation-tck-tests@3.1.1
 - pkg:maven/jakarta.validation/validation-tck-tests@3.1.1?classifier=sources
+- pkg:maven/jakarta.validation/validation-tck-tests@4.0.0-M1?classifier=sources

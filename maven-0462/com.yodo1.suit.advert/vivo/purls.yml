@@ -5,3 +5,4 @@
 - pkg:maven/com.yodo1.suit.advert/vivo@5.7.2.0.7?classifier=sources
 - pkg:maven/com.yodo1.suit.advert/vivo@5.7.2.0.8?classifier=sources
 - pkg:maven/com.yodo1.suit.advert/vivo@6.2.5.0.0?classifier=sources
+- pkg:maven/com.yodo1.suit.advert/vivo@6.2.7.4.0?classifier=sources

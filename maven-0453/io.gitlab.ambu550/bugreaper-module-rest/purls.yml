@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-rest@0.0.1-rc2?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-rest@0.0.1-rc?classifier=sources

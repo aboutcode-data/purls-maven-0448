@@ -28,3 +28,5 @@
 - pkg:maven/no.ks.fiks/feign-interceptors@1.2.0?classifier=sources
 - pkg:maven/no.ks.fiks/feign-interceptors@1.2.1?classifier=sources
 - pkg:maven/no.ks.fiks/feign-interceptors@1.2.2?classifier=sources
+- pkg:maven/no.ks.fiks/feign-interceptors@1.2.3?classifier=sources
+- pkg:maven/no.ks.fiks/feign-interceptors@1.2.4?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/com.github.gestalt-config/gestalt-validator-hibernate@0.35.7?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-validator-hibernate@0.35.8?classifier=sources
 - pkg:maven/com.github.gestalt-config/gestalt-validator-hibernate@0.36.0?classifier=sources
+- pkg:maven/com.github.gestalt-config/gestalt-validator-hibernate@0.36.1?classifier=sources

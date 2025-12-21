@@ -1,1 +1,2 @@
 - pkg:maven/dev.mokksy/mokksy-jvm@0.6.0?classifier=sources
+- pkg:maven/dev.mokksy/mokksy-jvm@0.6.1?classifier=sources

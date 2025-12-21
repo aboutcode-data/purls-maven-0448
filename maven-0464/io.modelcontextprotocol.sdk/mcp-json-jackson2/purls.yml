@@ -2,3 +2,4 @@
 - pkg:maven/io.modelcontextprotocol.sdk/mcp-json-jackson2@0.13.1?classifier=sources
 - pkg:maven/io.modelcontextprotocol.sdk/mcp-json-jackson2@0.14.0?classifier=sources
 - pkg:maven/io.modelcontextprotocol.sdk/mcp-json-jackson2@0.14.1?classifier=sources
+- pkg:maven/io.modelcontextprotocol.sdk/mcp-json-jackson2@0.15.0?classifier=sources

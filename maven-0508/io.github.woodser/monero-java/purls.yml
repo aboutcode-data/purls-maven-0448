@@ -56,3 +56,5 @@
 - pkg:maven/io.github.woodser/monero-java@0.8.37?classifier=sources
 - pkg:maven/io.github.woodser/monero-java@0.8.38
 - pkg:maven/io.github.woodser/monero-java@0.8.38?classifier=sources
+- pkg:maven/io.github.woodser/monero-java@0.8.39
+- pkg:maven/io.github.woodser/monero-java@0.8.39?classifier=sources

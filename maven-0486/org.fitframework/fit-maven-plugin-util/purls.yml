@@ -9,3 +9,4 @@
 - pkg:maven/org.fitframework/fit-maven-plugin-util@3.5.2?classifier=sources
 - pkg:maven/org.fitframework/fit-maven-plugin-util@3.5.3?classifier=sources
 - pkg:maven/org.fitframework/fit-maven-plugin-util@3.5.4?classifier=sources
+- pkg:maven/org.fitframework/fit-maven-plugin-util@3.5.5?classifier=sources

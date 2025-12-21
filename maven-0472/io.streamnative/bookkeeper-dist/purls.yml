@@ -25,4 +25,5 @@
 - pkg:maven/io.streamnative/bookkeeper-dist@4.17.2.1?classifier=src&type=tar.gz
 - pkg:maven/io.streamnative/bookkeeper-dist@4.17.2.2?classifier=src&type=tar.gz
 - pkg:maven/io.streamnative/bookkeeper-dist@4.17.2.3?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/bookkeeper-dist@4.17.2.4?classifier=src&type=tar.gz
 - pkg:maven/io.streamnative/bookkeeper-dist@branch-4.14.7.1_d4?classifier=src&type=tar.gz

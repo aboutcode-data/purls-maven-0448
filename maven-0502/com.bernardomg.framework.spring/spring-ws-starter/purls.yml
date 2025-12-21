@@ -21,3 +21,4 @@
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-starter@0.4.1?classifier=sources
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-starter@0.4.2?classifier=sources
 - pkg:maven/com.bernardomg.framework.spring/spring-ws-starter@0.4.3?classifier=sources
+- pkg:maven/com.bernardomg.framework.spring/spring-ws-starter@0.4.4?classifier=sources

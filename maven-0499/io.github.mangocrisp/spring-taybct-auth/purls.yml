@@ -5,3 +5,4 @@
 - pkg:maven/io.github.mangocrisp/spring-taybct-auth@3.2.2?classifier=sources
 - pkg:maven/io.github.mangocrisp/spring-taybct-auth@3.2.3?classifier=sources
 - pkg:maven/io.github.mangocrisp/spring-taybct-auth@3.2.4?classifier=sources
+- pkg:maven/io.github.mangocrisp/spring-taybct-auth@3.5.0-final?classifier=sources

@@ -80,6 +80,10 @@
 - pkg:maven/org.apache.activemq/artemis-console@2.41.0?type=war
 - pkg:maven/org.apache.activemq/artemis-console@2.42.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-console@2.42.0?type=war
+- pkg:maven/org.apache.activemq/artemis-console@2.43.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-console@2.43.0?type=war
+- pkg:maven/org.apache.activemq/artemis-console@2.44.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-console@2.44.0?type=war
 - pkg:maven/org.apache.activemq/artemis-console@2.5.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-console@2.5.0?type=war
 - pkg:maven/org.apache.activemq/artemis-console@2.6.0?classifier=sources

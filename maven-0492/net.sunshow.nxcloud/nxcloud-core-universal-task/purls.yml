@@ -1,0 +1,2 @@
+- pkg:maven/net.sunshow.nxcloud/nxcloud-core-universal-task@0.8.6?classifier=sources
+- pkg:maven/net.sunshow.nxcloud/nxcloud-core-universal-task@0.8.7?classifier=sources

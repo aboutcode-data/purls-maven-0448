@@ -201,3 +201,4 @@
 - pkg:maven/com.google.appengine/appengine-remote-api@2.0.9
 - pkg:maven/com.google.appengine/appengine-remote-api@2.0.9?classifier=sources
 - pkg:maven/com.google.appengine/appengine-remote-api@3.0.0-beta?classifier=sources
+- pkg:maven/com.google.appengine/appengine-remote-api@3.0.1?classifier=sources

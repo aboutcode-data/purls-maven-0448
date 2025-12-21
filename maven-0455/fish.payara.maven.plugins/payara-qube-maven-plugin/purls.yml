@@ -1,0 +1,2 @@
+- pkg:maven/fish.payara.maven.plugins/payara-qube-maven-plugin@2.0.0
+- pkg:maven/fish.payara.maven.plugins/payara-qube-maven-plugin@2.0.0?classifier=sources

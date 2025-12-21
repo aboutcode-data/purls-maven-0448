@@ -1,0 +1,2 @@
+- pkg:maven/dev.getelements.elements/web-ui-react-jetty@3.4.11?classifier=sources
+- pkg:maven/dev.getelements.elements/web-ui-react-jetty@3.4.12?classifier=sources

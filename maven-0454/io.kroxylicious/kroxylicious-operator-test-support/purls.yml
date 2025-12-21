@@ -5,3 +5,5 @@
 - pkg:maven/io.kroxylicious/kroxylicious-operator-test-support@0.14.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-operator-test-support@0.15.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-operator-test-support@0.16.0?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-operator-test-support@0.17.0?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-operator-test-support@0.17.1?classifier=sources

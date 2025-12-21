@@ -1,3 +1,4 @@
 - pkg:maven/edu.stanford.protege/github-commit-navigator@2.0.2?classifier=sources
 - pkg:maven/edu.stanford.protege/github-commit-navigator@2.0.3?classifier=sources
 - pkg:maven/edu.stanford.protege/github-commit-navigator@2.1.1?classifier=sources
+- pkg:maven/edu.stanford.protege/github-commit-navigator@2.1.2?classifier=sources

@@ -80,5 +80,6 @@
 - pkg:maven/com.mmorrell/solanaj@1.26.0?classifier=sources
 - pkg:maven/com.mmorrell/solanaj@1.27.0?classifier=sources
 - pkg:maven/com.mmorrell/solanaj@1.27.2?classifier=sources
+- pkg:maven/com.mmorrell/solanaj@1.27.3?classifier=sources
 - pkg:maven/com.mmorrell/solanaj@1.9
 - pkg:maven/com.mmorrell/solanaj@1.9?classifier=sources

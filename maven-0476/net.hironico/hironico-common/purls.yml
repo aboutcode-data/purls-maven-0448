@@ -1,2 +1,4 @@
 - pkg:maven/net.hironico/hironico-common@2.27.1?classifier=sources
 - pkg:maven/net.hironico/hironico-common@2.28.2?classifier=sources
+- pkg:maven/net.hironico/hironico-common@2.29.2?classifier=sources
+- pkg:maven/net.hironico/hironico-common@2.30.0?classifier=sources

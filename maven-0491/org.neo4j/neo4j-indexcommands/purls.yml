@@ -6,3 +6,5 @@
 - pkg:maven/org.neo4j/neo4j-indexcommands@2025.08.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-indexcommands@2025.09.0
 - pkg:maven/org.neo4j/neo4j-indexcommands@2025.09.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-indexcommands@2025.10.1
+- pkg:maven/org.neo4j/neo4j-indexcommands@2025.10.1?classifier=sources

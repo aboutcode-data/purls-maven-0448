@@ -1,0 +1,2 @@
+- pkg:maven/de.brudaswen.kotlinx.serialization/kotlinx-serialization-csv-wasm-js@3.1.0?classifier=sources
+- pkg:maven/de.brudaswen.kotlinx.serialization/kotlinx-serialization-csv-wasm-js@3.2.0?classifier=sources

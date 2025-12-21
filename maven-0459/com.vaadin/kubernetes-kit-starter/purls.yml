@@ -37,3 +37,4 @@
 - pkg:maven/com.vaadin/kubernetes-kit-starter@2.5.0-rc1?classifier=sources
 - pkg:maven/com.vaadin/kubernetes-kit-starter@2.5.0?classifier=sources
 - pkg:maven/com.vaadin/kubernetes-kit-starter@2.5.1?classifier=sources
+- pkg:maven/com.vaadin/kubernetes-kit-starter@3.0.0-beta1?classifier=sources

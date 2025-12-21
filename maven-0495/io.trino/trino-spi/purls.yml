@@ -249,3 +249,4 @@
 - pkg:maven/io.trino/trino-spi@476
 - pkg:maven/io.trino/trino-spi@476?classifier=sources
 - pkg:maven/io.trino/trino-spi@477?classifier=sources
+- pkg:maven/io.trino/trino-spi@478?classifier=sources

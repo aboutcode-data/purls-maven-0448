@@ -18,3 +18,5 @@
 - pkg:maven/org.mvnpm.at.inquirer/checkbox@4.2.4?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/checkbox@4.3.0
 - pkg:maven/org.mvnpm.at.inquirer/checkbox@4.3.0?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/checkbox@4.3.1
+- pkg:maven/org.mvnpm.at.inquirer/checkbox@4.3.1?classifier=sources

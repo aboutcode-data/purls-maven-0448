@@ -383,6 +383,7 @@
 - pkg:maven/com.51degrees/device-detection.shared@4.4.268?classifier=sources
 - pkg:maven/com.51degrees/device-detection.shared@4.4.269?classifier=sources
 - pkg:maven/com.51degrees/device-detection.shared@4.4.27
+- pkg:maven/com.51degrees/device-detection.shared@4.4.270?classifier=sources
 - pkg:maven/com.51degrees/device-detection.shared@4.4.27?classifier=sources
 - pkg:maven/com.51degrees/device-detection.shared@4.4.28
 - pkg:maven/com.51degrees/device-detection.shared@4.4.28?classifier=sources
@@ -668,3 +669,5 @@
 - pkg:maven/com.51degrees/device-detection.shared@4.5.0-alpha.397?classifier=sources
 - pkg:maven/com.51degrees/device-detection.shared@4.5.0-alpha.398?classifier=sources
 - pkg:maven/com.51degrees/device-detection.shared@4.5.0-alpha.399?classifier=sources
+- pkg:maven/com.51degrees/device-detection.shared@4.5.0-alpha.400?classifier=sources
+- pkg:maven/com.51degrees/device-detection.shared@4.5.0-alpha.401?classifier=sources

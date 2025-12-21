@@ -11,3 +11,4 @@
 - pkg:maven/com.powsybl/powsybl-dynawo-dsl@2.8.2
 - pkg:maven/com.powsybl/powsybl-dynawo-dsl@2.8.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-dynawo-dsl@2.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-dynawo-dsl@3.0.0?classifier=sources

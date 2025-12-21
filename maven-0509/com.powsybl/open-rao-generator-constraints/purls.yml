@@ -7,3 +7,4 @@
 - pkg:maven/com.powsybl/open-rao-generator-constraints@6.5.1
 - pkg:maven/com.powsybl/open-rao-generator-constraints@6.5.1?classifier=sources
 - pkg:maven/com.powsybl/open-rao-generator-constraints@6.6.0?classifier=sources
+- pkg:maven/com.powsybl/open-rao-generator-constraints@7.0.0?classifier=sources

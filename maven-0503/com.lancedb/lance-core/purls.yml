@@ -23,3 +23,12 @@
 - pkg:maven/com.lancedb/lance-core@0.35.0?classifier=sources
 - pkg:maven/com.lancedb/lance-core@0.37.0?classifier=sources
 - pkg:maven/com.lancedb/lance-core@0.38.0?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.10?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.11?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.3?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.4?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.5?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.6?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.7?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.8?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.38.3-beta.9?classifier=sources
