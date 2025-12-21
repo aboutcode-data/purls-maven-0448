@@ -17,3 +17,5 @@
 - pkg:maven/io.openlineage/spark-extension-interfaces@1.30.1?classifier=sources
 - pkg:maven/io.openlineage/spark-extension-interfaces@1.31.0?classifier=sources
 - pkg:maven/io.openlineage/spark-extension-interfaces@1.32.0?classifier=sources
+- pkg:maven/io.openlineage/spark-extension-interfaces@1.32.1?classifier=sources
+- pkg:maven/io.openlineage/spark-extension-interfaces@1.33.0?classifier=sources

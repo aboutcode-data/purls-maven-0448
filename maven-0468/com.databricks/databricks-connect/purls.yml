@@ -78,3 +78,5 @@
 - pkg:maven/com.databricks/databricks-connect@16.2.0?classifier=sources
 - pkg:maven/com.databricks/databricks-connect@16.3.0
 - pkg:maven/com.databricks/databricks-connect@16.3.0?classifier=sources
+- pkg:maven/com.databricks/databricks-connect@16.4.0
+- pkg:maven/com.databricks/databricks-connect@16.4.0?classifier=sources

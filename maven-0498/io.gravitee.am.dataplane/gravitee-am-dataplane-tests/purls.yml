@@ -5,3 +5,5 @@
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-tests@4.7.0-alpha.4
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-tests@4.7.1
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-tests@4.7.2
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-tests@4.7.3
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-tests@4.7.4

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.headlessui/vue@1.7.23
+- pkg:maven/org.mvnpm.at.headlessui/vue@1.7.23?classifier=sources

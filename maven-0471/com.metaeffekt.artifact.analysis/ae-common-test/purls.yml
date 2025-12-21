@@ -1,0 +1,2 @@
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-test@0.137.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-common-test@0.137.0?classifier=sources

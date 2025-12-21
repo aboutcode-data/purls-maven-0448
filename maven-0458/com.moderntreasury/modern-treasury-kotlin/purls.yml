@@ -39,3 +39,4 @@
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@6.0.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@6.1.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-kotlin@6.2.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-kotlin@7.0.0?classifier=sources

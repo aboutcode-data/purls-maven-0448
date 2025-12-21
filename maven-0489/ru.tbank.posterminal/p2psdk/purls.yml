@@ -1,1 +1,2 @@
 - pkg:maven/ru.tbank.posterminal/p2psdk@1.0.2?classifier=sources
+- pkg:maven/ru.tbank.posterminal/p2psdk@1.0.3?classifier=sources

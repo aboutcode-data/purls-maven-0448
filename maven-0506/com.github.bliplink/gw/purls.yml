@@ -8,5 +8,7 @@
 - pkg:maven/com.github.bliplink/gw@1.0.17?classifier=sources
 - pkg:maven/com.github.bliplink/gw@1.0.19
 - pkg:maven/com.github.bliplink/gw@1.0.19?classifier=sources
+- pkg:maven/com.github.bliplink/gw@1.0.20
+- pkg:maven/com.github.bliplink/gw@1.0.20?classifier=sources
 - pkg:maven/com.github.bliplink/gw@1.0.6
 - pkg:maven/com.github.bliplink/gw@1.0.6?classifier=sources

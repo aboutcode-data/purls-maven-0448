@@ -579,6 +579,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.150?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.151?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.152?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.153?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.15?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.definitions.web@7.0.16

@@ -20,3 +20,7 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/s3@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/s3@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.storage/s3@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/s3@0.5.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/s3@0.6.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/s3@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.storage/s3@0.8.0?classifier=sources

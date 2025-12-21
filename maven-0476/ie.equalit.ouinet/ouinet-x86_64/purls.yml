@@ -25,3 +25,6 @@
 - pkg:maven/ie.equalit.ouinet/ouinet-x86_64@0.31.0?classifier=sources
 - pkg:maven/ie.equalit.ouinet/ouinet-x86_64@0.31.1?classifier=sources
 - pkg:maven/ie.equalit.ouinet/ouinet-x86_64@1.0.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-x86_64@1.1.1?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-x86_64@1.1.2?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-x86_64@1.2.0?classifier=sources

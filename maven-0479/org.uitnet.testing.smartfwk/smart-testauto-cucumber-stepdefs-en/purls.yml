@@ -48,3 +48,4 @@
 - pkg:maven/org.uitnet.testing.smartfwk/smart-testauto-cucumber-stepdefs-en@6.1.4?classifier=sources
 - pkg:maven/org.uitnet.testing.smartfwk/smart-testauto-cucumber-stepdefs-en@7.0.0
 - pkg:maven/org.uitnet.testing.smartfwk/smart-testauto-cucumber-stepdefs-en@7.0.0?classifier=sources
+- pkg:maven/org.uitnet.testing.smartfwk/smart-testauto-cucumber-stepdefs-en@7.0.1?classifier=sources

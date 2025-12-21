@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/jsonpath-plus@10.3.0
+- pkg:maven/org.mvnpm/jsonpath-plus@10.3.0?classifier=sources

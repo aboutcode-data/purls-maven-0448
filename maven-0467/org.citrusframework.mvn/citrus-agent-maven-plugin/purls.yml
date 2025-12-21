@@ -1,0 +1,2 @@
+- pkg:maven/org.citrusframework.mvn/citrus-agent-maven-plugin@4.6.0
+- pkg:maven/org.citrusframework.mvn/citrus-agent-maven-plugin@4.6.0?classifier=sources

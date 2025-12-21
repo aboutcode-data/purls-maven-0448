@@ -1,3 +1,4 @@
 - pkg:maven/dev.galasa/dev.galasa.wrapping.httpclient-osgi@0.38.0
 - pkg:maven/dev.galasa/dev.galasa.wrapping.httpclient-osgi@0.39.0
 - pkg:maven/dev.galasa/dev.galasa.wrapping.httpclient-osgi@0.40.0
+- pkg:maven/dev.galasa/dev.galasa.wrapping.httpclient-osgi@0.41.0

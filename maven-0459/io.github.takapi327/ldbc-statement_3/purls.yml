@@ -1,3 +1,4 @@
+- pkg:maven/io.github.takapi327/ldbc-statement_3@0.3.0
 - pkg:maven/io.github.takapi327/ldbc-statement_3@0.3.0-RC1
 - pkg:maven/io.github.takapi327/ldbc-statement_3@0.3.0-RC1?classifier=sources
 - pkg:maven/io.github.takapi327/ldbc-statement_3@0.3.0-RC2
@@ -8,3 +9,4 @@
 - pkg:maven/io.github.takapi327/ldbc-statement_3@0.3.0-beta11?classifier=sources
 - pkg:maven/io.github.takapi327/ldbc-statement_3@0.3.0-beta9
 - pkg:maven/io.github.takapi327/ldbc-statement_3@0.3.0-beta9?classifier=sources
+- pkg:maven/io.github.takapi327/ldbc-statement_3@0.3.0?classifier=sources

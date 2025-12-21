@@ -1,1 +1,2 @@
 - pkg:maven/fr.skytasul/accountshook@1.4.0?classifier=sources
+- pkg:maven/fr.skytasul/accountshook@2.0.0?classifier=sources

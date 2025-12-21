@@ -14,3 +14,4 @@
 - pkg:maven/com.tencent.bk.devops.ci.common/common-stream@3.0.0?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/common-stream@3.0.12?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/common-stream@3.0.13?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.common/common-stream@4.0.0-rc.1?classifier=sources

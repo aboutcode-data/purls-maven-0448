@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-genericserver@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-genericserver@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-genericserver@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-genericserver@RELEASE260?classifier=sources

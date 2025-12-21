@@ -112,3 +112,7 @@
 - pkg:maven/org.oxerr.viagogo/gogokit-model@6.6.3?classifier=sources
 - pkg:maven/org.oxerr.viagogo/gogokit-model@6.6.4
 - pkg:maven/org.oxerr.viagogo/gogokit-model@6.6.4?classifier=sources
+- pkg:maven/org.oxerr.viagogo/gogokit-model@6.6.5
+- pkg:maven/org.oxerr.viagogo/gogokit-model@6.6.5?classifier=sources
+- pkg:maven/org.oxerr.viagogo/gogokit-model@7.0.0
+- pkg:maven/org.oxerr.viagogo/gogokit-model@7.0.0?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/com.almis.awe/awe-boot-angular-archetype@4.10.10?classifier=sources
 - pkg:maven/com.almis.awe/awe-boot-angular-archetype@4.10.11?classifier=sources
+- pkg:maven/com.almis.awe/awe-boot-angular-archetype@4.10.12?classifier=sources
 - pkg:maven/com.almis.awe/awe-boot-angular-archetype@4.10.7?classifier=sources
 - pkg:maven/com.almis.awe/awe-boot-angular-archetype@4.10.8?classifier=sources
 - pkg:maven/com.almis.awe/awe-boot-angular-archetype@4.10.9?classifier=sources

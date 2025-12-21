@@ -32,3 +32,5 @@
 - pkg:maven/cn.bee-cloud/beecloud-parser@6.2.05?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-parser@6.2.06
 - pkg:maven/cn.bee-cloud/beecloud-parser@6.2.06?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-parser@6.2.07
+- pkg:maven/cn.bee-cloud/beecloud-parser@6.2.07?classifier=sources

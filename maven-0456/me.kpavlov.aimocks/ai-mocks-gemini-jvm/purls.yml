@@ -1,0 +1,2 @@
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-gemini-jvm@0.4.0?classifier=sources
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-gemini-jvm@0.4.1?classifier=sources

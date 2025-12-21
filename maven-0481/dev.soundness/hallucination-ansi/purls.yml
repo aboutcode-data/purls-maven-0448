@@ -1,0 +1,2 @@
+- pkg:maven/dev.soundness/hallucination-ansi@0.30.0
+- pkg:maven/dev.soundness/hallucination-ansi@0.30.0?classifier=sources

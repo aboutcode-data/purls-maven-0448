@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/chevrotain@11.0.3
+- pkg:maven/org.mvnpm/chevrotain@11.0.3?classifier=sources

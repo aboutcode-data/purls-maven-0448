@@ -104,5 +104,7 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-overview-html-report@0.135.9?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-overview-html-report@0.136.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-overview-html-report@0.136.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-overview-html-report@0.137.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-overview-html-report@0.137.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-overview-html-report@0.99.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-overview-html-report@0.99.0?classifier=sources

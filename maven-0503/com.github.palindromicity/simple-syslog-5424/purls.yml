@@ -1,3 +1,4 @@
 - pkg:maven/com.github.palindromicity/simple-syslog-5424@0.0.16
 - pkg:maven/com.github.palindromicity/simple-syslog-5424@0.0.16?classifier=sources
 - pkg:maven/com.github.palindromicity/simple-syslog-5424@0.0.18?classifier=sources
+- pkg:maven/com.github.palindromicity/simple-syslog-5424@0.0.19?classifier=sources

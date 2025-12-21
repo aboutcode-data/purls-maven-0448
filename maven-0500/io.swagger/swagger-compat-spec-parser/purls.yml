@@ -143,6 +143,7 @@
 - pkg:maven/io.swagger/swagger-compat-spec-parser@1.0.73?classifier=sources
 - pkg:maven/io.swagger/swagger-compat-spec-parser@1.0.74
 - pkg:maven/io.swagger/swagger-compat-spec-parser@1.0.74?classifier=sources
+- pkg:maven/io.swagger/swagger-compat-spec-parser@1.0.75?classifier=sources
 - pkg:maven/io.swagger/swagger-compat-spec-parser@1.0.7?classifier=sources
 - pkg:maven/io.swagger/swagger-compat-spec-parser@1.0.8
 - pkg:maven/io.swagger/swagger-compat-spec-parser@1.0.8?classifier=sources

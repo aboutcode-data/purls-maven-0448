@@ -26,3 +26,4 @@
 - pkg:maven/com.gushangjie/gu-base@v2024.12.06d?classifier=sources
 - pkg:maven/com.gushangjie/gu-base@v2024.12.08a
 - pkg:maven/com.gushangjie/gu-base@v2024.12.08a?classifier=sources
+- pkg:maven/com.gushangjie/gu-base@v2025.05.12a?classifier=sources

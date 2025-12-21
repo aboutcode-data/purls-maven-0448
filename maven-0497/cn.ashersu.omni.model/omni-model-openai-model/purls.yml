@@ -1,0 +1,4 @@
+- pkg:maven/cn.ashersu.omni.model/omni-model-openai-model@1.0.1?classifier=sources
+- pkg:maven/cn.ashersu.omni.model/omni-model-openai-model@1.0.2?classifier=sources
+- pkg:maven/cn.ashersu.omni.model/omni-model-openai-model@1.0.3?classifier=sources
+- pkg:maven/cn.ashersu.omni.model/omni-model-openai-model@1.0.4?classifier=sources

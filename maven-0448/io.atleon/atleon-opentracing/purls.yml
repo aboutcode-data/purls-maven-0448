@@ -116,3 +116,4 @@
 - pkg:maven/io.atleon/atleon-opentracing@0.31.2?classifier=sources
 - pkg:maven/io.atleon/atleon-opentracing@0.31.3
 - pkg:maven/io.atleon/atleon-opentracing@0.31.3?classifier=sources
+- pkg:maven/io.atleon/atleon-opentracing@0.31.4?classifier=sources

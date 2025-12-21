@@ -18,3 +18,5 @@
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-testtest@7.6.1.7?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-testtest@7.6.1.8?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-testtest@7.6.1.9?classifier=sources
+- pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-testtest@7.6.4?classifier=sources
+- pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Map-testtest@7.6.4?type=aar

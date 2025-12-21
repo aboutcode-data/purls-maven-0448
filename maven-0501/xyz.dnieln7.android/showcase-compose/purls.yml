@@ -1,1 +1,2 @@
 - pkg:maven/xyz.dnieln7.android/showcase-compose@1.0.0?classifier=sources
+- pkg:maven/xyz.dnieln7.android/showcase-compose@1.0.1?classifier=sources

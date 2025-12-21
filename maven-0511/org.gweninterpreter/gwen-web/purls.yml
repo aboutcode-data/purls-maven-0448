@@ -892,3 +892,15 @@
 - pkg:maven/org.gweninterpreter/gwen-web@4.7.4?type=zip
 - pkg:maven/org.gweninterpreter/gwen-web@4.7.5?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen-web@4.7.5?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@4.8.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@4.8.0?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.0?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.1?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.1?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.2?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.2?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.3?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.3?type=zip
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.4?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen-web@4.9.4?type=zip

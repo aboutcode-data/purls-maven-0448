@@ -45,6 +45,8 @@
 - pkg:maven/io.stargate.db.cassandra/persistence-dse-next@2.1.0-BETA-23?classifier=sources
 - pkg:maven/io.stargate.db.cassandra/persistence-dse-next@2.1.0-BETA-24
 - pkg:maven/io.stargate.db.cassandra/persistence-dse-next@2.1.0-BETA-24?classifier=sources
+- pkg:maven/io.stargate.db.cassandra/persistence-dse-next@2.1.0-BETA-25
+- pkg:maven/io.stargate.db.cassandra/persistence-dse-next@2.1.0-BETA-25?classifier=sources
 - pkg:maven/io.stargate.db.cassandra/persistence-dse-next@2.1.0-BETA-2?classifier=sources
 - pkg:maven/io.stargate.db.cassandra/persistence-dse-next@2.1.0-BETA-3
 - pkg:maven/io.stargate.db.cassandra/persistence-dse-next@2.1.0-BETA-3?classifier=sources

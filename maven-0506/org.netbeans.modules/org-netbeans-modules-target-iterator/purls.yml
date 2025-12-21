@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-target-iterator@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-target-iterator@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-target-iterator@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-target-iterator@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-target-iterator@RELEASE90?classifier=sources

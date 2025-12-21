@@ -1,0 +1,4 @@
+- pkg:maven/io.mateu/mvc-core@3.0-alpha.98
+- pkg:maven/io.mateu/mvc-core@3.0-alpha.98?classifier=sources
+- pkg:maven/io.mateu/mvc-core@3.0-alpha.99
+- pkg:maven/io.mateu/mvc-core@3.0-alpha.99?classifier=sources

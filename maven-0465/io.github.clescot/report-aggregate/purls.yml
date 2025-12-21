@@ -24,7 +24,14 @@
 - pkg:maven/io.github.clescot/report-aggregate@0.8.21
 - pkg:maven/io.github.clescot/report-aggregate@0.8.22
 - pkg:maven/io.github.clescot/report-aggregate@0.8.23
+- pkg:maven/io.github.clescot/report-aggregate@0.8.24
+- pkg:maven/io.github.clescot/report-aggregate@0.8.25
+- pkg:maven/io.github.clescot/report-aggregate@0.8.26
+- pkg:maven/io.github.clescot/report-aggregate@0.8.27
+- pkg:maven/io.github.clescot/report-aggregate@0.8.28
+- pkg:maven/io.github.clescot/report-aggregate@0.8.29
 - pkg:maven/io.github.clescot/report-aggregate@0.8.3
+- pkg:maven/io.github.clescot/report-aggregate@0.8.30
 - pkg:maven/io.github.clescot/report-aggregate@0.8.4
 - pkg:maven/io.github.clescot/report-aggregate@0.8.5
 - pkg:maven/io.github.clescot/report-aggregate@0.8.6

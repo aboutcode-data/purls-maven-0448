@@ -1,6 +1,9 @@
 - pkg:maven/io.element.android/element-call-embedded@0.10.0-hugh.1?classifier=sources
 - pkg:maven/io.element.android/element-call-embedded@0.10.0-hugh.2?classifier=sources
 - pkg:maven/io.element.android/element-call-embedded@0.10.0-rc.1?classifier=sources
+- pkg:maven/io.element.android/element-call-embedded@0.10.0?classifier=sources
+- pkg:maven/io.element.android/element-call-embedded@0.11.0?classifier=sources
+- pkg:maven/io.element.android/element-call-embedded@0.11.1?classifier=sources
 - pkg:maven/io.element.android/element-call-embedded@0.9.0-rc.1?classifier=sources
 - pkg:maven/io.element.android/element-call-embedded@0.9.0-rc.2?classifier=sources
 - pkg:maven/io.element.android/element-call-embedded@0.9.0-rc.4?classifier=sources

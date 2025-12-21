@@ -1,0 +1,1 @@
+- pkg:maven/com.arcmutate.gradle/aggregate-plugin@2.2.2?classifier=sources

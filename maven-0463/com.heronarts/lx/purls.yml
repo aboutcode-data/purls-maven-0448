@@ -10,3 +10,4 @@
 - pkg:maven/com.heronarts/lx@0.4.2?classifier=sources
 - pkg:maven/com.heronarts/lx@1.0.0
 - pkg:maven/com.heronarts/lx@1.0.0?classifier=sources
+- pkg:maven/com.heronarts/lx@1.1.0?classifier=sources

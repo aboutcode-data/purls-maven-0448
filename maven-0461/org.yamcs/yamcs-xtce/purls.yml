@@ -153,6 +153,8 @@
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.0
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.0?classifier=sources
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.1
+- pkg:maven/org.yamcs/yamcs-xtce@5.11.10
+- pkg:maven/org.yamcs/yamcs-xtce@5.11.10?classifier=sources
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.1?classifier=sources
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.2
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.2?classifier=sources
@@ -168,6 +170,8 @@
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.7?classifier=sources
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.8
 - pkg:maven/org.yamcs/yamcs-xtce@5.11.8?classifier=sources
+- pkg:maven/org.yamcs/yamcs-xtce@5.11.9
+- pkg:maven/org.yamcs/yamcs-xtce@5.11.9?classifier=sources
 - pkg:maven/org.yamcs/yamcs-xtce@5.2.0
 - pkg:maven/org.yamcs/yamcs-xtce@5.2.0?classifier=sources
 - pkg:maven/org.yamcs/yamcs-xtce@5.2.1

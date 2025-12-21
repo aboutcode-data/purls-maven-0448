@@ -1,0 +1,2 @@
+- pkg:maven/com.affise/module-meta@1.6.57?classifier=sources
+- pkg:maven/com.affise/module-meta@1.6.58?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.devonfw.tools.IDEasy/ide-gui@2025.04.001?classifier=sources
 - pkg:maven/com.devonfw.tools.IDEasy/ide-gui@2025.04.002
 - pkg:maven/com.devonfw.tools.IDEasy/ide-gui@2025.04.002?classifier=sources
+- pkg:maven/com.devonfw.tools.IDEasy/ide-gui@2025.05.001
+- pkg:maven/com.devonfw.tools.IDEasy/ide-gui@2025.05.001?classifier=sources

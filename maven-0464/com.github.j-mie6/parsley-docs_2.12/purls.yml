@@ -8,5 +8,7 @@
 - pkg:maven/com.github.j-mie6/parsley-docs_2.12@5.0.0-M13?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley-docs_2.12@5.0.0-M14
 - pkg:maven/com.github.j-mie6/parsley-docs_2.12@5.0.0-M14?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley-docs_2.12@5.0.0-M15
+- pkg:maven/com.github.j-mie6/parsley-docs_2.12@5.0.0-M15?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley-docs_2.12@5.0.0-M9
 - pkg:maven/com.github.j-mie6/parsley-docs_2.12@5.0.0-M9?classifier=sources

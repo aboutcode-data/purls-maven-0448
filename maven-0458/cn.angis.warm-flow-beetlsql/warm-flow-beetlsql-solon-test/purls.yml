@@ -3,3 +3,4 @@
 - pkg:maven/cn.angis.warm-flow-beetlsql/warm-flow-beetlsql-solon-test@1.6.8.1?classifier=sources
 - pkg:maven/cn.angis.warm-flow-beetlsql/warm-flow-beetlsql-solon-test@1.6.9.1?classifier=sources
 - pkg:maven/cn.angis.warm-flow-beetlsql/warm-flow-beetlsql-solon-test@1.7.0?classifier=sources
+- pkg:maven/cn.angis.warm-flow-beetlsql/warm-flow-beetlsql-solon-test@1.7.2?classifier=sources

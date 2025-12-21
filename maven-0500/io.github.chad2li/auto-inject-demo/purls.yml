@@ -1,2 +1,3 @@
 - pkg:maven/io.github.chad2li/auto-inject-demo@1.0.2
 - pkg:maven/io.github.chad2li/auto-inject-demo@1.0.2?classifier=sources
+- pkg:maven/io.github.chad2li/auto-inject-demo@2.0.0?classifier=sources

@@ -5,6 +5,7 @@
 - pkg:maven/com.bitorbits.bridge/tools@4.0.15?classifier=sources
 - pkg:maven/com.bitorbits.bridge/tools@4.0.16?classifier=sources
 - pkg:maven/com.bitorbits.bridge/tools@4.0.17?classifier=sources
+- pkg:maven/com.bitorbits.bridge/tools@4.0.18?classifier=sources
 - pkg:maven/com.bitorbits.bridge/tools@4.0.2?classifier=sources
 - pkg:maven/com.bitorbits.bridge/tools@4.0.3?classifier=sources
 - pkg:maven/com.bitorbits.bridge/tools@4.0.4?classifier=sources

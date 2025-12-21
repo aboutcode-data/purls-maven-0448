@@ -114,3 +114,4 @@
 - pkg:maven/org.webjars.npm/react-router@6.30.0
 - pkg:maven/org.webjars.npm/react-router@6.4.1
 - pkg:maven/org.webjars.npm/react-router@6.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-router@7.5.2

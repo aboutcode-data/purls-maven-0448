@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-win@RELEASE260?classifier=sources

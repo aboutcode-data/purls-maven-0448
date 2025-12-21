@@ -90,6 +90,10 @@
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.135.9?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.136.0
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.136.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.137.0
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.137.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.138.0
+- pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.138.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.48.0
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.48.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-inspect-reader@0.49.0

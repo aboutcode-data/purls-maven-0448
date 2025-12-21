@@ -1,1 +1,5 @@
 - pkg:maven/org.mvnpm/choices.js@11.0.2?classifier=sources
+- pkg:maven/org.mvnpm/choices.js@11.0.6
+- pkg:maven/org.mvnpm/choices.js@11.0.6?classifier=sources
+- pkg:maven/org.mvnpm/choices.js@11.1.0
+- pkg:maven/org.mvnpm/choices.js@11.1.0?classifier=sources
