@@ -35,3 +35,5 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.8.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.9.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@1.0.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-jackson@1.1.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-jackson@1.1.1?classifier=sources

@@ -56,3 +56,7 @@
 - pkg:maven/ba.sake/squery_3@0.6.6?classifier=sources
 - pkg:maven/ba.sake/squery_3@0.7.0
 - pkg:maven/ba.sake/squery_3@0.7.0?classifier=sources
+- pkg:maven/ba.sake/squery_3@0.8.0
+- pkg:maven/ba.sake/squery_3@0.8.0?classifier=sources
+- pkg:maven/ba.sake/squery_3@0.8.1
+- pkg:maven/ba.sake/squery_3@0.8.1?classifier=sources

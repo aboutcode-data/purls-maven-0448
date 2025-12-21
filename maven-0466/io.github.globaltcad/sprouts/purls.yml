@@ -36,3 +36,4 @@
 - pkg:maven/io.github.globaltcad/sprouts@2.0.0-M7?classifier=sources
 - pkg:maven/io.github.globaltcad/sprouts@2.0.0-M8?classifier=sources
 - pkg:maven/io.github.globaltcad/sprouts@2.0.0-M9?classifier=sources
+- pkg:maven/io.github.globaltcad/sprouts@2.0.0?classifier=sources

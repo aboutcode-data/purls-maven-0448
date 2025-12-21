@@ -704,3 +704,6 @@
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.8?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.9
 - pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.5.9?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.6.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.6.1?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/org.hl7.fhir.convertors@6.6.2?classifier=sources

@@ -38,6 +38,8 @@
 - pkg:maven/com.infomaximum/network@1.1.3p9?classifier=sources
 - pkg:maven/com.infomaximum/network@1.2.10?classifier=sources
 - pkg:maven/com.infomaximum/network@1.2.11?classifier=sources
+- pkg:maven/com.infomaximum/network@1.2.12?classifier=sources
+- pkg:maven/com.infomaximum/network@1.2.13?classifier=sources
 - pkg:maven/com.infomaximum/network@1.2.3?classifier=sources
 - pkg:maven/com.infomaximum/network@1.2.4?classifier=sources
 - pkg:maven/com.infomaximum/network@1.2.4p1?classifier=sources

@@ -33,3 +33,5 @@
 - pkg:maven/io.avaje/avaje-logback-encoder@0.9.1-java8
 - pkg:maven/io.avaje/avaje-logback-encoder@0.9.1-java8?classifier=sources
 - pkg:maven/io.avaje/avaje-logback-encoder@0.9?classifier=sources
+- pkg:maven/io.avaje/avaje-logback-encoder@1.0-java8?classifier=sources
+- pkg:maven/io.avaje/avaje-logback-encoder@1.0?classifier=sources

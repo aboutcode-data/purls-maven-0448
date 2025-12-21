@@ -40,3 +40,5 @@
 - pkg:maven/io.digiexpress/eveli-integration-suomifi-rest@5.1.84?classifier=sources
 - pkg:maven/io.digiexpress/eveli-integration-suomifi-rest@5.1.85?classifier=sources
 - pkg:maven/io.digiexpress/eveli-integration-suomifi-rest@5.1.86?classifier=sources
+- pkg:maven/io.digiexpress/eveli-integration-suomifi-rest@5.1.87?classifier=sources
+- pkg:maven/io.digiexpress/eveli-integration-suomifi-rest@5.1.88?classifier=sources

@@ -383,3 +383,4 @@
 - pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20250704103631?classifier=sources
 - pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20250704114608?classifier=sources
 - pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20250714094859?classifier=sources
+- pkg:maven/com.commercetools.rmf/codegen-core@1.0.0-20250715115518?classifier=sources

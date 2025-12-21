@@ -1,4 +1,5 @@
 - pkg:maven/net.neoforged.installertools/problems-api@3.0.10?classifier=sources
+- pkg:maven/net.neoforged.installertools/problems-api@3.0.13?classifier=sources
 - pkg:maven/net.neoforged.installertools/problems-api@3.0.3?classifier=sources
 - pkg:maven/net.neoforged.installertools/problems-api@3.0.4?classifier=sources
 - pkg:maven/net.neoforged.installertools/problems-api@3.0.5?classifier=sources

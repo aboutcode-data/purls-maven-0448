@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/eslint-plugin-import@2.31.0
 - pkg:maven/org.mvnpm/eslint-plugin-import@2.31.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint-plugin-import@2.32.0
+- pkg:maven/org.mvnpm/eslint-plugin-import@2.32.0?classifier=sources

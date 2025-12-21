@@ -3,3 +3,7 @@
 - pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.39.7?classifier=sources
 - pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.39.8
 - pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.39.8?classifier=sources
+- pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.40.0
+- pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.40.0?classifier=sources
+- pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.40.1
+- pkg:maven/org.mvnpm/babel-plugin-jsx-dom-expressions@0.40.1?classifier=sources

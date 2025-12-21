@@ -15,3 +15,4 @@
 - pkg:maven/io.vertx/vertx-launcher-application@5.0.0.CR8?classifier=sources
 - pkg:maven/io.vertx/vertx-launcher-application@5.0.0?classifier=sources
 - pkg:maven/io.vertx/vertx-launcher-application@5.0.1?classifier=sources
+- pkg:maven/io.vertx/vertx-launcher-application@5.0.2?classifier=sources

@@ -122,6 +122,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-discovery-disabled@3.23.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-discovery-disabled@3.24.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-discovery-disabled@3.24.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-discovery-disabled@3.25.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-discovery-disabled@3.25.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-discovery-disabled@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-discovery-disabled@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-discovery-disabled@3.5.0

@@ -171,3 +171,5 @@
 - pkg:maven/com.netflix.genie/genie-agent@5.0.7?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent@5.0.8?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent@5.0.9?classifier=sources
+- pkg:maven/com.netflix.genie/genie-agent@5.1.0?classifier=sources
+- pkg:maven/com.netflix.genie/genie-agent@5.1.1?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/ch.furthermore.parnoid/parnoidsdk@0.0.10?classifier=sources
 - pkg:maven/ch.furthermore.parnoid/parnoidsdk@0.0.3?classifier=sources
 - pkg:maven/ch.furthermore.parnoid/parnoidsdk@0.0.4?classifier=sources
 - pkg:maven/ch.furthermore.parnoid/parnoidsdk@0.0.5?classifier=sources
@@ -5,3 +6,4 @@
 - pkg:maven/ch.furthermore.parnoid/parnoidsdk@0.0.7?classifier=sources
 - pkg:maven/ch.furthermore.parnoid/parnoidsdk@0.0.8?classifier=sources
 - pkg:maven/ch.furthermore.parnoid/parnoidsdk@0.0.9?classifier=sources
+- pkg:maven/ch.furthermore.parnoid/parnoidsdk@0.1.0?classifier=sources

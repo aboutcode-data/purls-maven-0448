@@ -62,3 +62,11 @@
 - pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.47?classifier=sources
 - pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.49?classifier=sources
 - pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.50?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.51?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.52?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.53?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.54?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.55?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.56?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.57?classifier=sources
+- pkg:maven/com.fluxtion/serverlibrary-pnl@0.1.58?classifier=sources

@@ -79,6 +79,9 @@
 - pkg:maven/com.palantir.conjure.java.api/service-config@2.6.1
 - pkg:maven/com.palantir.conjure.java.api/service-config@2.6.1?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/service-config@2.60.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/service-config@2.61.0-rc1?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/service-config@2.61.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.api/service-config@2.62.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/service-config@2.7.0
 - pkg:maven/com.palantir.conjure.java.api/service-config@2.7.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.api/service-config@2.8.1

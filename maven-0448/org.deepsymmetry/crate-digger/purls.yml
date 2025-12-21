@@ -14,3 +14,4 @@
 - pkg:maven/org.deepsymmetry/crate-digger@0.1.6?classifier=sources
 - pkg:maven/org.deepsymmetry/crate-digger@0.2.0
 - pkg:maven/org.deepsymmetry/crate-digger@0.2.0?classifier=sources
+- pkg:maven/org.deepsymmetry/crate-digger@0.2.1?classifier=sources

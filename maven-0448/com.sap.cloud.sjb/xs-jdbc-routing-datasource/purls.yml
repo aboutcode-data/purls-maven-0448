@@ -64,6 +64,8 @@
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@1.52.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@1.53.0
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@1.53.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@1.54.0
+- pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@1.54.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.10.0
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.10.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.11.0
@@ -76,6 +78,8 @@
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.14.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.15.0
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.15.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.16.0
+- pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.16.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.2.0
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-jdbc-routing-datasource@2.3.0

@@ -4,6 +4,7 @@
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.11.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.110.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.111.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-engine@0.120?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.20.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.30.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.50.0?classifier=sources
@@ -39,3 +40,6 @@
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.91.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.95.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-engine@0.96.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-engine@1.0.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-engine@1.1.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-engine@1.1.1?classifier=sources

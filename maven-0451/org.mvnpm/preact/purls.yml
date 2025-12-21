@@ -11,3 +11,5 @@
 - pkg:maven/org.mvnpm/preact@10.26.8?classifier=sources
 - pkg:maven/org.mvnpm/preact@10.26.9
 - pkg:maven/org.mvnpm/preact@10.26.9?classifier=sources
+- pkg:maven/org.mvnpm/preact@10.27.0
+- pkg:maven/org.mvnpm/preact@10.27.0?classifier=sources

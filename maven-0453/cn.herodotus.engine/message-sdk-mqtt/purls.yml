@@ -210,3 +210,6 @@
 - pkg:maven/cn.herodotus.engine/message-sdk-mqtt@3.5.2.0?classifier=sources
 - pkg:maven/cn.herodotus.engine/message-sdk-mqtt@3.5.3.0?classifier=sources
 - pkg:maven/cn.herodotus.engine/message-sdk-mqtt@3.5.3.1?classifier=sources
+- pkg:maven/cn.herodotus.engine/message-sdk-mqtt@3.5.3.2?classifier=sources
+- pkg:maven/cn.herodotus.engine/message-sdk-mqtt@3.5.4.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/message-sdk-mqtt@3.5.4.1?classifier=sources

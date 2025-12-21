@@ -99,3 +99,4 @@
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.9.0
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@14.9.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-gsuite@15.0.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-gsuite@15.1.0?classifier=sources

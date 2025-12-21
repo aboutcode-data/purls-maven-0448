@@ -22,3 +22,4 @@
 - pkg:maven/org.openidentityplatform.openidm.tools/custom-scripted-connector-bundler@6.2.4?classifier=sources
 - pkg:maven/org.openidentityplatform.openidm.tools/custom-scripted-connector-bundler@6.2.5
 - pkg:maven/org.openidentityplatform.openidm.tools/custom-scripted-connector-bundler@6.2.5?classifier=sources
+- pkg:maven/org.openidentityplatform.openidm.tools/custom-scripted-connector-bundler@6.3.0?classifier=sources

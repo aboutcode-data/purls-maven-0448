@@ -74,3 +74,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-parquet-extensions@32.0.1?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-parquet-extensions@33.0.0
 - pkg:maven/org.apache.druid.extensions/druid-parquet-extensions@33.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-parquet-extensions@34.0.0
+- pkg:maven/org.apache.druid.extensions/druid-parquet-extensions@34.0.0?classifier=sources

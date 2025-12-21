@@ -179,6 +179,8 @@
 - pkg:maven/org.entur.gbfs/gbfs-loader-java@4.0.40?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-loader-java@4.0.41
 - pkg:maven/org.entur.gbfs/gbfs-loader-java@4.0.41?classifier=sources
+- pkg:maven/org.entur.gbfs/gbfs-loader-java@4.0.42?classifier=sources
+- pkg:maven/org.entur.gbfs/gbfs-loader-java@4.0.43?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-loader-java@4.0.4?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-loader-java@4.0.5
 - pkg:maven/org.entur.gbfs/gbfs-loader-java@4.0.5?classifier=sources

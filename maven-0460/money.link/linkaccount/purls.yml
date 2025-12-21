@@ -16,3 +16,13 @@
 - pkg:maven/money.link/linkaccount@2.0.3-dev.0?classifier=sources
 - pkg:maven/money.link/linkaccount@2.0.3-dev.1?classifier=sources
 - pkg:maven/money.link/linkaccount@2.0.3?classifier=sources
+- pkg:maven/money.link/linkaccount@2.0.4-dev.5?classifier=sources
+- pkg:maven/money.link/linkaccount@2.0.4-dev.6?classifier=sources
+- pkg:maven/money.link/linkaccount@2.0.4-dev.7?classifier=sources
+- pkg:maven/money.link/linkaccount@3.0.0?classifier=sources
+- pkg:maven/money.link/linkaccount@3.0.1?classifier=sources
+- pkg:maven/money.link/linkaccount@3.0.2-dev.0?classifier=sources
+- pkg:maven/money.link/linkaccount@3.0.2?classifier=sources
+- pkg:maven/money.link/linkaccount@3.0.3-dev.0?classifier=sources
+- pkg:maven/money.link/linkaccount@3.0.3?classifier=sources
+- pkg:maven/money.link/linkaccount@3.0.4?classifier=sources

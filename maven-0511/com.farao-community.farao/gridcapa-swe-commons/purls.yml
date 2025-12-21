@@ -91,5 +91,6 @@
 - pkg:maven/com.farao-community.farao/gridcapa-swe-commons@1.37.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-swe-commons@1.38.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-swe-commons@1.39.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-swe-commons@1.40.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-swe-commons@v1.27.3
 - pkg:maven/com.farao-community.farao/gridcapa-swe-commons@v1.27.3?classifier=sources

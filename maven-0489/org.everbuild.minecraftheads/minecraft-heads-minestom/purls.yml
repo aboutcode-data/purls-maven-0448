@@ -1,0 +1,2 @@
+- pkg:maven/org.everbuild.minecraftheads/minecraft-heads-minestom@1.0.0?classifier=sources
+- pkg:maven/org.everbuild.minecraftheads/minecraft-heads-minestom@1.1.0?classifier=sources

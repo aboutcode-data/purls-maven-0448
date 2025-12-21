@@ -15,3 +15,4 @@
 - pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@21.2.1?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@21.2.2
 - pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@21.2.2?classifier=sources
+- pkg:maven/org.opendaylight.transportpce.models/openconfig-240119@22.0.0?classifier=sources

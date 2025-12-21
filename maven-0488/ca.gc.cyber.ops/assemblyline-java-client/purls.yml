@@ -19,3 +19,4 @@
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@2.0
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@2.0?classifier=sources
 - pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@2.1?classifier=sources
+- pkg:maven/ca.gc.cyber.ops/assemblyline-java-client@2.2?classifier=sources

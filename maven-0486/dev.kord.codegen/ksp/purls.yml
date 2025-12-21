@@ -1,0 +1,2 @@
+- pkg:maven/dev.kord.codegen/ksp@0.0.1?classifier=sources
+- pkg:maven/dev.kord.codegen/ksp@1.0.0?classifier=sources

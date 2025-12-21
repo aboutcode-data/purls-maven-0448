@@ -9,3 +9,4 @@
 - pkg:maven/org.gretty/gretty-runner-tomcat10@4.1.4?classifier=sources
 - pkg:maven/org.gretty/gretty-runner-tomcat10@4.1.5?classifier=sources
 - pkg:maven/org.gretty/gretty-runner-tomcat10@4.1.6?classifier=sources
+- pkg:maven/org.gretty/gretty-runner-tomcat10@4.1.7?classifier=sources

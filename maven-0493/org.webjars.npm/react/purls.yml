@@ -208,4 +208,5 @@
 - pkg:maven/org.webjars.npm/react@19.0.0
 - pkg:maven/org.webjars.npm/react@19.0.0-canary-fd0da3eef-20240404
 - pkg:maven/org.webjars.npm/react@19.1.0
+- pkg:maven/org.webjars.npm/react@19.1.1
 - pkg:maven/org.webjars.npm/react@19.2.0-canary-ea05b750-20250408

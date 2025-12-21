@@ -49,6 +49,7 @@
 - pkg:maven/com.noenv/vertx-jsonpath@4.5.14?classifier=sources
 - pkg:maven/com.noenv/vertx-jsonpath@4.5.15?classifier=sources
 - pkg:maven/com.noenv/vertx-jsonpath@4.5.16?classifier=sources
+- pkg:maven/com.noenv/vertx-jsonpath@4.5.17?classifier=sources
 - pkg:maven/com.noenv/vertx-jsonpath@4.5.1?classifier=sources
 - pkg:maven/com.noenv/vertx-jsonpath@4.5.2
 - pkg:maven/com.noenv/vertx-jsonpath@4.5.2?classifier=sources
@@ -71,3 +72,4 @@
 - pkg:maven/com.noenv/vertx-jsonpath@5.0.0.CR8?classifier=sources
 - pkg:maven/com.noenv/vertx-jsonpath@5.0.0?classifier=sources
 - pkg:maven/com.noenv/vertx-jsonpath@5.0.1?classifier=sources
+- pkg:maven/com.noenv/vertx-jsonpath@5.0.2?classifier=sources

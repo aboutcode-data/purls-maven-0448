@@ -39,3 +39,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.611.1481?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.640.1510?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.640.1510?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.642.1512?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.third/gdt@4.642.1512?type=aar

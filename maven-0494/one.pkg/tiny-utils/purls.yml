@@ -1,1 +1,2 @@
 - pkg:maven/one.pkg/tiny-utils@1.4.0?classifier=sources
+- pkg:maven/one.pkg/tiny-utils@1.5.0?classifier=sources

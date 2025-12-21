@@ -1,0 +1,4 @@
+- pkg:maven/io.github.aqapplepie/ddd-scaffold-lite-v2@1.0
+- pkg:maven/io.github.aqapplepie/ddd-scaffold-lite-v2@1.0?classifier=sources
+- pkg:maven/io.github.aqapplepie/ddd-scaffold-lite-v2@2.4
+- pkg:maven/io.github.aqapplepie/ddd-scaffold-lite-v2@2.4?classifier=sources

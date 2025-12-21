@@ -226,3 +226,4 @@
 - pkg:maven/de.otto.edison/edison-validation@3.4.2?classifier=sources
 - pkg:maven/de.otto.edison/edison-validation@3.4.3?classifier=sources
 - pkg:maven/de.otto.edison/edison-validation@3.4.4?classifier=sources
+- pkg:maven/de.otto.edison/edison-validation@3.5.0?classifier=sources

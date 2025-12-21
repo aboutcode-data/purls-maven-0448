@@ -18,3 +18,4 @@
 - pkg:maven/com.evervault.sdk/evervault-cages@1.7.0?classifier=sources
 - pkg:maven/com.evervault.sdk/evervault-cages@1.8.0?classifier=sources
 - pkg:maven/com.evervault.sdk/evervault-cages@1.9.0?classifier=sources
+- pkg:maven/com.evervault.sdk/evervault-cages@2.0.0?classifier=sources

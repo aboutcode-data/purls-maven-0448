@@ -96,3 +96,5 @@
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.3
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.3?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.4
+- pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.4?classifier=sources

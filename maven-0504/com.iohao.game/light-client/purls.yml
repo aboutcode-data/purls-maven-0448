@@ -73,8 +73,10 @@
 - pkg:maven/com.iohao.game/light-client@21.27?classifier=sources
 - pkg:maven/com.iohao.game/light-client@21.28
 - pkg:maven/com.iohao.game/light-client@21.28?classifier=sources
+- pkg:maven/com.iohao.game/light-client@21.29?classifier=sources
 - pkg:maven/com.iohao.game/light-client@21.2?classifier=sources
 - pkg:maven/com.iohao.game/light-client@21.3
+- pkg:maven/com.iohao.game/light-client@21.30?classifier=sources
 - pkg:maven/com.iohao.game/light-client@21.3?classifier=sources
 - pkg:maven/com.iohao.game/light-client@21.4
 - pkg:maven/com.iohao.game/light-client@21.4?classifier=sources

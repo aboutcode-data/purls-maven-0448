@@ -1,1 +1,2 @@
 - pkg:maven/com.install4j/install4j-jdk-provider@11.0.4?classifier=sources
+- pkg:maven/com.install4j/install4j-jdk-provider@11.0.5?classifier=sources

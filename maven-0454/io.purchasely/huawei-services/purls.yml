@@ -1,3 +1,7 @@
+- pkg:maven/io.purchasely/huawei-services@1.0.0-beta.3?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@1.0.0-beta.4?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@1.0.0-beta.5?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@1.1.0-alpha03?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@2.3.2?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@2.3.4-alpha01?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@2.4.3?classifier=sources
@@ -49,3 +53,6 @@
 - pkg:maven/io.purchasely/huawei-services@3.7.3?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@3.7.4?classifier=sources
 - pkg:maven/io.purchasely/huawei-services@3.7.5?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@5.3.1?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@5.3.2?classifier=sources
+- pkg:maven/io.purchasely/huawei-services@5.3.3?classifier=sources

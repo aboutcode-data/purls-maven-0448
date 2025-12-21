@@ -834,6 +834,7 @@
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.7.1
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.7.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.7.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-testbench@24.7.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.7.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.7.2
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.7.2?classifier=sources
@@ -850,6 +851,9 @@
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.8.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.8.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@24.8.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-testbench@24.8.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-testbench@24.8.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-text-field-testbench@24.8.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-text-field-testbench@3.0.1

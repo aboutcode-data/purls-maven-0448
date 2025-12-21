@@ -28,4 +28,9 @@
 - pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.41.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.42.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.43.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.44.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.45.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.46.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.47.0?classifier=sources
+- pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.48.0?classifier=sources
 - pkg:maven/io.github.turchenkoalex/kotlet-tracing@0.9.0?classifier=sources

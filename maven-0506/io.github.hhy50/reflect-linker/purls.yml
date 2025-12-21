@@ -10,3 +10,4 @@
 - pkg:maven/io.github.hhy50/reflect-linker@1.0.8?classifier=sources
 - pkg:maven/io.github.hhy50/reflect-linker@1.0.9?classifier=sources
 - pkg:maven/io.github.hhy50/reflect-linker@1.1.0?classifier=sources
+- pkg:maven/io.github.hhy50/reflect-linker@1.2.0?classifier=sources

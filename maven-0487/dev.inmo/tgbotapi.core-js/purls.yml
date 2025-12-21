@@ -116,6 +116,10 @@
 - pkg:maven/dev.inmo/tgbotapi.core-js@25.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.core-js@26.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.core-js@26.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.core-js@27.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.core-js@27.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.core-js@27.1.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.core-js@27.1.2?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.core-js@3.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.core-js@3.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.core-js@3.0.2?classifier=sources
