@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cds/cds-feature-advanced-event-mesh@0.1.0
+- pkg:maven/com.sap.cds/cds-feature-advanced-event-mesh@0.1.0?classifier=sources

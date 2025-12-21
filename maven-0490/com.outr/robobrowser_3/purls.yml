@@ -14,3 +14,5 @@
 - pkg:maven/com.outr/robobrowser_3@1.7.2?classifier=sources
 - pkg:maven/com.outr/robobrowser_3@1.7.3
 - pkg:maven/com.outr/robobrowser_3@1.7.3?classifier=sources
+- pkg:maven/com.outr/robobrowser_3@2.1.0
+- pkg:maven/com.outr/robobrowser_3@2.1.0?classifier=sources

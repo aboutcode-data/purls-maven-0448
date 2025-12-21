@@ -1,0 +1,2 @@
+- pkg:maven/tech.kotlinlang/camera.qr-iossimulatorarm64@0.5.0?classifier=sources
+- pkg:maven/tech.kotlinlang/camera.qr-iossimulatorarm64@0.6.0?classifier=sources

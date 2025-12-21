@@ -54,3 +54,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-control-v2@2.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-control-v2@2.50.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-control-v2@2.50.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-control-v2@2.51.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-control-v2@2.51.0?classifier=sources

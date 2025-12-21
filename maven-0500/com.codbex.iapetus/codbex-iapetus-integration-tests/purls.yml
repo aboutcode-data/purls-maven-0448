@@ -1,2 +1,6 @@
 - pkg:maven/com.codbex.iapetus/codbex-iapetus-integration-tests@2.11.0
 - pkg:maven/com.codbex.iapetus/codbex-iapetus-integration-tests@2.12.0
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-integration-tests@2.13.0
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-integration-tests@2.33.0
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-integration-tests@2.34.0
+- pkg:maven/com.codbex.iapetus/codbex-iapetus-integration-tests@2.35.0

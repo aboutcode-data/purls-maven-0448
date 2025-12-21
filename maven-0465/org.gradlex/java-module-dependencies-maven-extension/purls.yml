@@ -1,0 +1,1 @@
+- pkg:maven/org.gradlex/java-module-dependencies-maven-extension@0.1?classifier=sources

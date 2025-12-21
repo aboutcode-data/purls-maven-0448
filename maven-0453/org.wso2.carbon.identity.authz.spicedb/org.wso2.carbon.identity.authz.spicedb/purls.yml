@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.authz.spicedb/org.wso2.carbon.identity.authz.spicedb@0.1.0
+- pkg:maven/org.wso2.carbon.identity.authz.spicedb/org.wso2.carbon.identity.authz.spicedb@0.1.0?classifier=sources

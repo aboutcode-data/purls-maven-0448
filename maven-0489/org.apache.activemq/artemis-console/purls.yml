@@ -76,6 +76,8 @@
 - pkg:maven/org.apache.activemq/artemis-console@2.4.0?type=war
 - pkg:maven/org.apache.activemq/artemis-console@2.40.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-console@2.40.0?type=war
+- pkg:maven/org.apache.activemq/artemis-console@2.41.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-console@2.41.0?type=war
 - pkg:maven/org.apache.activemq/artemis-console@2.5.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-console@2.5.0?type=war
 - pkg:maven/org.apache.activemq/artemis-console@2.6.0?classifier=sources

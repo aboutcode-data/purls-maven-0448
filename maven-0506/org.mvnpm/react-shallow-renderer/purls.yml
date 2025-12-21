@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/react-shallow-renderer@16.15.0
+- pkg:maven/org.mvnpm/react-shallow-renderer@16.15.0?classifier=sources

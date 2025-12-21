@@ -5,3 +5,4 @@
 - pkg:maven/org.keycloak/keycloak-client-parent@26.0.2?classifier=source-release&type=zip
 - pkg:maven/org.keycloak/keycloak-client-parent@26.0.3?classifier=source-release&type=zip
 - pkg:maven/org.keycloak/keycloak-client-parent@26.0.4?classifier=source-release&type=zip
+- pkg:maven/org.keycloak/keycloak-client-parent@26.0.5?classifier=source-release&type=zip

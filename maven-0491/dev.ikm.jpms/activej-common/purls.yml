@@ -12,3 +12,5 @@
 - pkg:maven/dev.ikm.jpms/activej-common@4.3-r8?classifier=sources
 - pkg:maven/dev.ikm.jpms/activej-common@6.0-rc2-r1
 - pkg:maven/dev.ikm.jpms/activej-common@6.0-rc2-r1?classifier=sources
+- pkg:maven/dev.ikm.jpms/activej-common@6.0-rc2-r2
+- pkg:maven/dev.ikm.jpms/activej-common@6.0-rc2-r2?classifier=sources

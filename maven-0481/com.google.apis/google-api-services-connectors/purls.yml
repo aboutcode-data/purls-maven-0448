@@ -142,6 +142,8 @@
 - pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20250218-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20250304-2.0.0
 - pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20250304-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20250415-2.0.0
+- pkg:maven/com.google.apis/google-api-services-connectors@v1-rev20250415-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20220808-2.0.0
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20220808-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20230621-2.0.0
@@ -172,3 +174,5 @@
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20241015-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250304-2.0.0
 - pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250304-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250327-2.0.0
+- pkg:maven/com.google.apis/google-api-services-connectors@v2-rev20250327-2.0.0?classifier=sources

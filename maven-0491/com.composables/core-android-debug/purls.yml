@@ -16,6 +16,15 @@
 - pkg:maven/com.composables/core-android-debug@1.19.1?classifier=sources
 - pkg:maven/com.composables/core-android-debug@1.20.0?classifier=sources
 - pkg:maven/com.composables/core-android-debug@1.20.1?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.21.0?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.22.0?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.23.0?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.23.1?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.24.0?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.25.0?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.26.0?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.27.1?classifier=sources
+- pkg:maven/com.composables/core-android-debug@1.28.0?classifier=sources
 - pkg:maven/com.composables/core-android-debug@1.5.0?classifier=sources
 - pkg:maven/com.composables/core-android-debug@1.6.0?classifier=sources
 - pkg:maven/com.composables/core-android-debug@1.7.0?classifier=sources

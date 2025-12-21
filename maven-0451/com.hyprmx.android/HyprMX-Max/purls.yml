@@ -1,0 +1,2 @@
+- pkg:maven/com.hyprmx.android/HyprMX-Max@1.0.0.0?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-Max@6.4.2.0?classifier=sources

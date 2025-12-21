@@ -54,6 +54,9 @@
 - pkg:maven/com.yandex.div/coil@30.9.0?classifier=sources
 - pkg:maven/com.yandex.div/coil@31.0.0?classifier=sources
 - pkg:maven/com.yandex.div/coil@31.1.0?classifier=sources
+- pkg:maven/com.yandex.div/coil@31.10.0?classifier=sources
+- pkg:maven/com.yandex.div/coil@31.11.0?classifier=sources
+- pkg:maven/com.yandex.div/coil@31.12.0?classifier=sources
 - pkg:maven/com.yandex.div/coil@31.2.0?classifier=sources
 - pkg:maven/com.yandex.div/coil@31.3.0?classifier=sources
 - pkg:maven/com.yandex.div/coil@31.4.0?classifier=sources

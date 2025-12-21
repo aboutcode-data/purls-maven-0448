@@ -1,0 +1,2 @@
+- pkg:maven/dev.spght/encryptedprefs-ktx@1.0.0?classifier=sources
+- pkg:maven/dev.spght/encryptedprefs-ktx@1.0.1?classifier=sources

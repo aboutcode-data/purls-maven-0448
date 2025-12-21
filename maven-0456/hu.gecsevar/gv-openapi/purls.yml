@@ -1,0 +1,4 @@
+- pkg:maven/hu.gecsevar/gv-openapi@1.5.7?classifier=sources
+- pkg:maven/hu.gecsevar/gv-openapi@1.6.0?classifier=sources
+- pkg:maven/hu.gecsevar/gv-openapi@1.7.0?classifier=sources
+- pkg:maven/hu.gecsevar/gv-openapi@1.8.0?classifier=sources

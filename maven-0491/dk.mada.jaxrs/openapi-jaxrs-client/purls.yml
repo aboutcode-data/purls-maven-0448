@@ -26,6 +26,9 @@
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.11.9?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.12.0?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.12.1?classifier=sources
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.12.2?classifier=sources
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.12.3?classifier=sources
+- pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.12.4?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.9.10?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.9.11?classifier=sources
 - pkg:maven/dk.mada.jaxrs/openapi-jaxrs-client@0.9.12?classifier=sources

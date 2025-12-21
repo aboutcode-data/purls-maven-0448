@@ -131,3 +131,4 @@
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.1.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.1.7?classifier=sources
 - pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.2.0?classifier=sources
+- pkg:maven/io.helidon.microprofile.bundles/bundles-project@4.2.1?classifier=sources

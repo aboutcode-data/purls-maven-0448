@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/istanbul-lib-instrument@3.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/istanbul-lib-instrument@4.0.3
 - pkg:maven/org.webjars.npm/istanbul-lib-instrument@4.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/istanbul-lib-instrument@5.2.1

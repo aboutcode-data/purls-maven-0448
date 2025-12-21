@@ -10,6 +10,8 @@
 - pkg:maven/dev.kilua/kilua-core-modules@0.0.19?classifier=sources
 - pkg:maven/dev.kilua/kilua-core-modules@0.0.20?classifier=sources
 - pkg:maven/dev.kilua/kilua-core-modules@0.0.21?classifier=sources
+- pkg:maven/dev.kilua/kilua-core-modules@0.0.22?classifier=sources
+- pkg:maven/dev.kilua/kilua-core-modules@0.0.23?classifier=sources
 - pkg:maven/dev.kilua/kilua-core-modules@0.0.7?classifier=sources
 - pkg:maven/dev.kilua/kilua-core-modules@0.0.8?classifier=sources
 - pkg:maven/dev.kilua/kilua-core-modules@0.0.9?classifier=sources

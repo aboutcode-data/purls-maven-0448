@@ -3,3 +3,4 @@
 - pkg:maven/io.github.danbeldev/alice-ktx@0.0.4?classifier=sources
 - pkg:maven/io.github.danbeldev/alice-ktx@0.1.0?classifier=sources
 - pkg:maven/io.github.danbeldev/alice-ktx@1.0.0?classifier=sources
+- pkg:maven/io.github.danbeldev/alice-ktx@1.0.1?classifier=sources

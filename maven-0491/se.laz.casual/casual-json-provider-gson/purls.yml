@@ -2,3 +2,4 @@
 - pkg:maven/se.laz.casual/casual-json-provider-gson@3.2.50?classifier=sources
 - pkg:maven/se.laz.casual/casual-json-provider-gson@3.3.0?classifier=sources
 - pkg:maven/se.laz.casual/casual-json-provider-gson@3.3.1?classifier=sources
+- pkg:maven/se.laz.casual/casual-json-provider-gson@3.3.4?classifier=sources

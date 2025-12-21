@@ -29,3 +29,4 @@
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.7?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.8?classifier=sources
 - pkg:maven/io.github.nasmedia-tech/nstationsdk@0.5.9?classifier=sources
+- pkg:maven/io.github.nasmedia-tech/nstationsdk@1.6.5?classifier=sources

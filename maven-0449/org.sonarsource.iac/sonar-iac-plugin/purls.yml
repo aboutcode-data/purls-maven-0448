@@ -37,6 +37,8 @@
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.42.0.14460?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.43.0.14517?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.44.0.14670?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.45.0.14930?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.46.0.15097?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.5.0.1600?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.6.0.1852?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.7.0.2012?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/net.alphatab/alphaSkia@2.0.120?classifier=sources
 - pkg:maven/net.alphatab/alphaSkia@2.1.120?classifier=sources
 - pkg:maven/net.alphatab/alphaSkia@2.3.120?classifier=sources
+- pkg:maven/net.alphatab/alphaSkia@3.0.135?classifier=sources

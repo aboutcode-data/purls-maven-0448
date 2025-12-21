@@ -1,0 +1,2 @@
+- pkg:maven/cn.scbsi/chainmaker-java-sdk-btsi-rpc@2.3.63
+- pkg:maven/cn.scbsi/chainmaker-java-sdk-btsi-rpc@2.3.63?classifier=sources

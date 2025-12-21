@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars.npm/radix-ui__react-dropdown-menu@2.0.6-rc.8?classifier=sources
 - pkg:maven/org.webjars.npm/radix-ui__react-dropdown-menu@2.0.6?classifier=sources
 - pkg:maven/org.webjars.npm/radix-ui__react-dropdown-menu@2.1.1
+- pkg:maven/org.webjars.npm/radix-ui__react-dropdown-menu@2.1.6

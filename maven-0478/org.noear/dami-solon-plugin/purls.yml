@@ -84,5 +84,7 @@
 - pkg:maven/org.noear/dami-solon-plugin@1.0.2?classifier=sources
 - pkg:maven/org.noear/dami-solon-plugin@1.0.3
 - pkg:maven/org.noear/dami-solon-plugin@1.0.3?classifier=sources
+- pkg:maven/org.noear/dami-solon-plugin@1.0.4?classifier=sources
+- pkg:maven/org.noear/dami-solon-plugin@1.0.5?classifier=sources
 - pkg:maven/org.noear/dami-solon-plugin@2.5.4-M1
 - pkg:maven/org.noear/dami-solon-plugin@2.5.4-M1?classifier=sources

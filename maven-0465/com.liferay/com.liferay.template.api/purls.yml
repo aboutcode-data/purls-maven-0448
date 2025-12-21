@@ -56,3 +56,4 @@
 - pkg:maven/com.liferay/com.liferay.template.api@4.4.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.template.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.template.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.template.api@6.1.0?classifier=sources

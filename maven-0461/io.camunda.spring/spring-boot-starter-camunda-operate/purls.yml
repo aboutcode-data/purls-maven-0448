@@ -34,3 +34,5 @@
 - pkg:maven/io.camunda.spring/spring-boot-starter-camunda-operate@8.6.4?classifier=sources
 - pkg:maven/io.camunda.spring/spring-boot-starter-camunda-operate@8.6.5
 - pkg:maven/io.camunda.spring/spring-boot-starter-camunda-operate@8.6.5?classifier=sources
+- pkg:maven/io.camunda.spring/spring-boot-starter-camunda-operate@8.7.0
+- pkg:maven/io.camunda.spring/spring-boot-starter-camunda-operate@8.7.0?classifier=sources

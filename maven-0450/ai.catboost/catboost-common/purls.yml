@@ -61,4 +61,6 @@
 - pkg:maven/ai.catboost/catboost-common@1.2.6?classifier=sources
 - pkg:maven/ai.catboost/catboost-common@1.2.7
 - pkg:maven/ai.catboost/catboost-common@1.2.7?classifier=sources
+- pkg:maven/ai.catboost/catboost-common@1.2.8
+- pkg:maven/ai.catboost/catboost-common@1.2.8?classifier=sources
 - pkg:maven/ai.catboost/catboost-common@1.2?classifier=sources

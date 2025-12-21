@@ -120,3 +120,4 @@
 - pkg:maven/com.azure/azure-security-keyvault-certificates@4.7.2?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-certificates@4.7.3?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-certificates@4.7.4?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-certificates@4.8.0-beta.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.lancedb/lance-core@0.23.3?classifier=sources
 - pkg:maven/com.lancedb/lance-core@0.23.4?classifier=sources
 - pkg:maven/com.lancedb/lance-core@0.25.1?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.25.2?classifier=sources
+- pkg:maven/com.lancedb/lance-core@0.26.0?classifier=sources

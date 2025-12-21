@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/tsx@4.19.1?classifier=sources
 - pkg:maven/org.mvnpm/tsx@4.19.2?classifier=sources
 - pkg:maven/org.mvnpm/tsx@4.19.3?classifier=sources
+- pkg:maven/org.mvnpm/tsx@4.19.4
+- pkg:maven/org.mvnpm/tsx@4.19.4?classifier=sources

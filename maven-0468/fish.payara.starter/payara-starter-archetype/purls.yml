@@ -10,3 +10,4 @@
 - pkg:maven/fish.payara.starter/payara-starter-archetype@1.0-beta7?classifier=sources
 - pkg:maven/fish.payara.starter/payara-starter-archetype@1.0-beta8?classifier=sources
 - pkg:maven/fish.payara.starter/payara-starter-archetype@1.0-beta9?classifier=sources
+- pkg:maven/fish.payara.starter/payara-starter-archetype@1.0.0-beta13?classifier=sources

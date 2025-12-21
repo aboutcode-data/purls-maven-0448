@@ -33,4 +33,5 @@
 - pkg:maven/org.noear/mybatis-solon@3.1.1-M4
 - pkg:maven/org.noear/mybatis-solon@3.1.1-M5
 - pkg:maven/org.noear/mybatis-solon@3.1.1-RC
+- pkg:maven/org.noear/mybatis-solon@3.1.2
 - pkg:maven/org.noear/mybatis-solon@3.1.2-M2

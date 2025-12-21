@@ -113,6 +113,10 @@
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.14?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.15
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.15?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.16
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.16?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.17
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.17?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.1?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.2
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@13.0.2?classifier=sources
@@ -145,6 +149,10 @@
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.12?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.13
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.13?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.14
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.14?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.15
+- pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.15?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.1?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.2
 - pkg:maven/org.primefaces.extensions/primefaces-extensions@14.0.2?classifier=sources

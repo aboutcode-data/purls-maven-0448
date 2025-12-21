@@ -136,3 +136,5 @@
 - pkg:maven/com.applitools/eyes-playwright-java5@5.79.0?classifier=sources
 - pkg:maven/com.applitools/eyes-playwright-java5@5.80.0
 - pkg:maven/com.applitools/eyes-playwright-java5@5.80.0?classifier=sources
+- pkg:maven/com.applitools/eyes-playwright-java5@5.81.0
+- pkg:maven/com.applitools/eyes-playwright-java5@5.81.0?classifier=sources

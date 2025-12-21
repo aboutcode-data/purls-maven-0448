@@ -22,3 +22,5 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotation-processor@8.31.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotation-processor@8.31.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotation-processor@8.31.2?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotation-processor@8.32.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-contract-annotation-processor@8.33.0?classifier=sources

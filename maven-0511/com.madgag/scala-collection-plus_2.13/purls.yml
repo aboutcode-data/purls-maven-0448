@@ -18,3 +18,7 @@
 - pkg:maven/com.madgag/scala-collection-plus_2.13@0.9?classifier=sources
 - pkg:maven/com.madgag/scala-collection-plus_2.13@1.0.0
 - pkg:maven/com.madgag/scala-collection-plus_2.13@1.0.0?classifier=sources
+- pkg:maven/com.madgag/scala-collection-plus_2.13@1.0.1-PREVIEW.try-out-central-portal-publishing.2025-04-24T0935.db7fbbef
+- pkg:maven/com.madgag/scala-collection-plus_2.13@1.0.1-PREVIEW.try-out-central-portal-publishing.2025-04-24T0935.db7fbbef?classifier=sources
+- pkg:maven/com.madgag/scala-collection-plus_2.13@1.0.1-PREVIEW.try-out-central-portal-publishing.2025-04-24T1007.db7fbbef
+- pkg:maven/com.madgag/scala-collection-plus_2.13@1.0.1-PREVIEW.try-out-central-portal-publishing.2025-04-24T1007.db7fbbef?classifier=sources

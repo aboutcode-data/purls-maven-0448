@@ -1,3 +1,6 @@
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@2025.0-1?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.74.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.74.2?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.74.3?classifier=sources
@@ -77,4 +80,12 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.91.3?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.91.4?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.91.5?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.91.6?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.92.0?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.93.0?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.94.0?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@5.95.0?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@main-5?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@main-6?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@main-7?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-api-tck@main-8?classifier=sources
