@@ -46,6 +46,7 @@
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.0?classifier=sources
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.1
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.10?classifier=sources
+- pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.11?classifier=sources
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.1?classifier=sources
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.2?classifier=sources
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.3?classifier=sources
@@ -55,3 +56,4 @@
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.7?classifier=sources
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.8?classifier=sources
 - pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.6.9?classifier=sources
+- pkg:maven/com.jd.easyflow/easyflow-flow-extension@1.7.0?classifier=sources

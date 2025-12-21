@@ -3,3 +3,13 @@
 - pkg:maven/com.chrt/java-sdk@1.303.0?classifier=sources
 - pkg:maven/com.chrt/java-sdk@1.304.0?classifier=sources
 - pkg:maven/com.chrt/java-sdk@1.305.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.306.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.308.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.309.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.311.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.312.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.314.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.315.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.318.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.319.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.320.0?classifier=sources

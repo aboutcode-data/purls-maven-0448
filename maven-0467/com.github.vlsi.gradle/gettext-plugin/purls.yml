@@ -57,3 +57,5 @@
 - pkg:maven/com.github.vlsi.gradle/gettext-plugin@1.90
 - pkg:maven/com.github.vlsi.gradle/gettext-plugin@1.90?classifier=sources
 - pkg:maven/com.github.vlsi.gradle/gettext-plugin@2.0.0?classifier=sources
+- pkg:maven/com.github.vlsi.gradle/gettext-plugin@3.0.0?classifier=sources
+- pkg:maven/com.github.vlsi.gradle/gettext-plugin@3.0.1?classifier=sources

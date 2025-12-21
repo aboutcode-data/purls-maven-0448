@@ -140,6 +140,16 @@
 - pkg:maven/com.codacy/events-core_3@14.1.0_akka_2.6_circe_0.14?classifier=sources
 - pkg:maven/com.codacy/events-core_3@14.2.0_akka_2.6_circe_0.14
 - pkg:maven/com.codacy/events-core_3@14.2.0_akka_2.6_circe_0.14?classifier=sources
+- pkg:maven/com.codacy/events-core_3@14.3.0_akka_2.6_circe_0.14
+- pkg:maven/com.codacy/events-core_3@14.3.0_akka_2.6_circe_0.14?classifier=sources
+- pkg:maven/com.codacy/events-core_3@14.4.0_akka_2.6_circe_0.14
+- pkg:maven/com.codacy/events-core_3@14.4.0_akka_2.6_circe_0.14?classifier=sources
+- pkg:maven/com.codacy/events-core_3@14.5.0_akka_2.6_circe_0.14
+- pkg:maven/com.codacy/events-core_3@14.5.0_akka_2.6_circe_0.14?classifier=sources
+- pkg:maven/com.codacy/events-core_3@14.6.0_akka_2.6_circe_0.14
+- pkg:maven/com.codacy/events-core_3@14.6.0_akka_2.6_circe_0.14?classifier=sources
+- pkg:maven/com.codacy/events-core_3@14.7.0_akka_2.6_circe_0.14
+- pkg:maven/com.codacy/events-core_3@14.7.0_akka_2.6_circe_0.14?classifier=sources
 - pkg:maven/com.codacy/events-core_3@9.10.0_akka_2.6_circe_0.14
 - pkg:maven/com.codacy/events-core_3@9.10.0_akka_2.6_circe_0.14?classifier=sources
 - pkg:maven/com.codacy/events-core_3@9.3.0_akka_2.6_circe_0.14

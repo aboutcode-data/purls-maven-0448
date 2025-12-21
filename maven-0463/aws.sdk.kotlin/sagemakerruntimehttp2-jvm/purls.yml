@@ -1,0 +1,6 @@
+- pkg:maven/aws.sdk.kotlin/sagemakerruntimehttp2-jvm@1.5.89?classifier=sources
+- pkg:maven/aws.sdk.kotlin/sagemakerruntimehttp2-jvm@1.5.90?classifier=sources
+- pkg:maven/aws.sdk.kotlin/sagemakerruntimehttp2-jvm@1.5.91?classifier=sources
+- pkg:maven/aws.sdk.kotlin/sagemakerruntimehttp2-jvm@1.5.92?classifier=sources
+- pkg:maven/aws.sdk.kotlin/sagemakerruntimehttp2-jvm@1.5.93?classifier=sources
+- pkg:maven/aws.sdk.kotlin/sagemakerruntimehttp2-jvm@1.5.94?classifier=sources

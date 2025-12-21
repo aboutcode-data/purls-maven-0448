@@ -106,3 +106,4 @@
 - pkg:maven/com.applovin.mediation/google-ad-manager-adapter@24.5.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/google-ad-manager-adapter@24.6.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/google-ad-manager-adapter@24.7.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/google-ad-manager-adapter@24.8.0.0?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-newrelicobservability@1.0.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-newrelicobservability@1.1.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-newrelicobservability@1.2.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-newrelicobservability@1.3.0-beta.1?classifier=sources

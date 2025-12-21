@@ -11,3 +11,4 @@
 - pkg:maven/bi.deep/druid-encrypting-password-provider@32.0.1
 - pkg:maven/bi.deep/druid-encrypting-password-provider@32.0.1?classifier=sources
 - pkg:maven/bi.deep/druid-encrypting-password-provider@33.0.0?classifier=sources
+- pkg:maven/bi.deep/druid-encrypting-password-provider@34.0.0?classifier=sources

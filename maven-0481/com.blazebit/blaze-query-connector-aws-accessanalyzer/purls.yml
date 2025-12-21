@@ -1,0 +1,2 @@
+- pkg:maven/com.blazebit/blaze-query-connector-aws-accessanalyzer@1.0.23?classifier=sources
+- pkg:maven/com.blazebit/blaze-query-connector-aws-accessanalyzer@1.0.24?classifier=sources
