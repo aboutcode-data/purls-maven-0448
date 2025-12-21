@@ -6,3 +6,5 @@
 - pkg:maven/io.peernova.maven/quantlib@1.35?classifier=sources
 - pkg:maven/io.peernova.maven/quantlib@1.36
 - pkg:maven/io.peernova.maven/quantlib@1.36?classifier=sources
+- pkg:maven/io.peernova.maven/quantlib@1.37
+- pkg:maven/io.peernova.maven/quantlib@1.37?classifier=sources

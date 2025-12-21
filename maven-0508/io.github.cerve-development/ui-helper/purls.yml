@@ -42,3 +42,4 @@
 - pkg:maven/io.github.cerve-development/ui-helper@0.4.3?classifier=sources
 - pkg:maven/io.github.cerve-development/ui-helper@0.4.4?classifier=sources
 - pkg:maven/io.github.cerve-development/ui-helper@0.4.51?classifier=sources
+- pkg:maven/io.github.cerve-development/ui-helper@0.5.0?classifier=sources

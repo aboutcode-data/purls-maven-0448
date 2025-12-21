@@ -1,0 +1,2 @@
+- pkg:maven/io.liftwizard/liftwizard-bundle-assets-cache@2.1.25
+- pkg:maven/io.liftwizard/liftwizard-bundle-assets-cache@2.1.25?classifier=sources

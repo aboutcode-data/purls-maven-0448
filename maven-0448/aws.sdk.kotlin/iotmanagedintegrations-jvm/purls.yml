@@ -1,0 +1,5 @@
+- pkg:maven/aws.sdk.kotlin/iotmanagedintegrations-jvm@1.4.34?classifier=sources
+- pkg:maven/aws.sdk.kotlin/iotmanagedintegrations-jvm@1.4.35?classifier=sources
+- pkg:maven/aws.sdk.kotlin/iotmanagedintegrations-jvm@1.4.36?classifier=sources
+- pkg:maven/aws.sdk.kotlin/iotmanagedintegrations-jvm@1.4.37?classifier=sources
+- pkg:maven/aws.sdk.kotlin/iotmanagedintegrations-jvm@1.4.38?classifier=sources

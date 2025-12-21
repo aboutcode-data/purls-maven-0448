@@ -8,3 +8,5 @@
 - pkg:maven/vip.justlive/easy-rabbitmq@1.0.3?classifier=sources
 - pkg:maven/vip.justlive/easy-rabbitmq@1.1.0
 - pkg:maven/vip.justlive/easy-rabbitmq@1.1.0?classifier=sources
+- pkg:maven/vip.justlive/easy-rabbitmq@2.0.0
+- pkg:maven/vip.justlive/easy-rabbitmq@2.0.0?classifier=sources

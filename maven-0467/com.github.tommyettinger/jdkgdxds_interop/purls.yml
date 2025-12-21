@@ -58,3 +58,4 @@
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@1.7.1.0?classifier=sources
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@1.7.2.0?classifier=sources
 - pkg:maven/com.github.tommyettinger/jdkgdxds_interop@1.8.0.0?classifier=sources
+- pkg:maven/com.github.tommyettinger/jdkgdxds_interop@1.8.0.1?classifier=sources

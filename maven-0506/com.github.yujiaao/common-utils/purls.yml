@@ -85,4 +85,8 @@
 - pkg:maven/com.github.yujiaao/common-utils@1.15.9
 - pkg:maven/com.github.yujiaao/common-utils@1.15.9.2
 - pkg:maven/com.github.yujiaao/common-utils@1.15.9.2?classifier=sources
+- pkg:maven/com.github.yujiaao/common-utils@1.15.9.3
+- pkg:maven/com.github.yujiaao/common-utils@1.15.9.3?classifier=sources
+- pkg:maven/com.github.yujiaao/common-utils@1.15.9.5
+- pkg:maven/com.github.yujiaao/common-utils@1.15.9.5?classifier=sources
 - pkg:maven/com.github.yujiaao/common-utils@1.15.9?classifier=sources

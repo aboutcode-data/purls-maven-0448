@@ -22,6 +22,13 @@
 - pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.28.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.29.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.3.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.30.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.31.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.32.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.33.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.34.0?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.34.1?classifier=sources
+- pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.35.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.4.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.5.0?classifier=sources
 - pkg:maven/com.microsoft.graph/microsoft-graph-beta@6.5.1?classifier=sources

@@ -210,3 +210,5 @@
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_3@0.41.8?classifier=sources
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_3@0.41.9
 - pkg:maven/io.github.ahjohannessen/sec-fs2-client_3@0.41.9?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3@0.42.0
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3@0.42.0?classifier=sources

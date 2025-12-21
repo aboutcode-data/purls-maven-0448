@@ -10,3 +10,5 @@
 - pkg:maven/com.thousandeyes.sdk/emulation@2.4.0?classifier=sources
 - pkg:maven/com.thousandeyes.sdk/emulation@2.5.0?classifier=sources
 - pkg:maven/com.thousandeyes.sdk/emulation@2.6.0?classifier=sources
+- pkg:maven/com.thousandeyes.sdk/emulation@2.7.0?classifier=sources
+- pkg:maven/com.thousandeyes.sdk/emulation@2.8.0?classifier=sources

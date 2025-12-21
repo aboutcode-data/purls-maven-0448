@@ -30,3 +30,7 @@
 - pkg:maven/dev.vality/swag-disputes@1.18-fc22f97-client?classifier=sources
 - pkg:maven/dev.vality/swag-disputes@1.18-fc22f97-server
 - pkg:maven/dev.vality/swag-disputes@1.18-fc22f97-server?classifier=sources
+- pkg:maven/dev.vality/swag-disputes@1.19-8c4c6d9-client
+- pkg:maven/dev.vality/swag-disputes@1.19-8c4c6d9-client?classifier=sources
+- pkg:maven/dev.vality/swag-disputes@1.19-8c4c6d9-server
+- pkg:maven/dev.vality/swag-disputes@1.19-8c4c6d9-server?classifier=sources

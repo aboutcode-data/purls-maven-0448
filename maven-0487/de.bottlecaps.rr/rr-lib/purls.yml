@@ -1,3 +1,5 @@
 - pkg:maven/de.bottlecaps.rr/rr-lib@1.67?classifier=sources
 - pkg:maven/de.bottlecaps.rr/rr-lib@2.0?classifier=sources
 - pkg:maven/de.bottlecaps.rr/rr-lib@2.1?classifier=sources
+- pkg:maven/de.bottlecaps.rr/rr-lib@2.2?classifier=sources
+- pkg:maven/de.bottlecaps.rr/rr-lib@2.3?classifier=sources

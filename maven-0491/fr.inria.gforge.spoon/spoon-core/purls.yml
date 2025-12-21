@@ -239,6 +239,8 @@
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@11.2.1-beta-3?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@11.2.1-beta-4?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@11.2.1-beta-5?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-core@11.2.1-beta-6?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon/spoon-core@11.2.1-beta-7?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@2.3
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@2.3.1
 - pkg:maven/fr.inria.gforge.spoon/spoon-core@2.3.1?classifier=sources

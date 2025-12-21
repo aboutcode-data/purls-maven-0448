@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.doris/spark-doris-connector-spark-3.4@24.0.0
 - pkg:maven/org.apache.doris/spark-doris-connector-spark-3.4@24.0.0?classifier=sources
+- pkg:maven/org.apache.doris/spark-doris-connector-spark-3.4@25.0.0
+- pkg:maven/org.apache.doris/spark-doris-connector-spark-3.4@25.0.0?classifier=sources
+- pkg:maven/org.apache.doris/spark-doris-connector-spark-3.4@25.0.1
+- pkg:maven/org.apache.doris/spark-doris-connector-spark-3.4@25.0.1?classifier=sources

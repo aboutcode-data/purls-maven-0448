@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zeotuan/spark-fast-tests_2.12@1.4.0
+- pkg:maven/io.github.zeotuan/spark-fast-tests_2.12@1.4.0?classifier=sources

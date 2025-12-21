@@ -1,0 +1,2 @@
+- pkg:maven/com.contentgrid.spring/contentgrid-spring-content-encryption@0.18.0?classifier=sources
+- pkg:maven/com.contentgrid.spring/contentgrid-spring-content-encryption@0.18.1?classifier=sources

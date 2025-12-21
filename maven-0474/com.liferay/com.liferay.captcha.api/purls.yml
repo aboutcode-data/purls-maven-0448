@@ -502,3 +502,4 @@
 - pkg:maven/com.liferay/com.liferay.captcha.api@6.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@6.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.captcha.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.captcha.api@8.0.0?classifier=sources

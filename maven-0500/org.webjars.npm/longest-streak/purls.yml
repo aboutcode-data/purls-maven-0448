@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/longest-streak@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/longest-streak@2.0.4
 - pkg:maven/org.webjars.npm/longest-streak@2.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/longest-streak@3.1.0

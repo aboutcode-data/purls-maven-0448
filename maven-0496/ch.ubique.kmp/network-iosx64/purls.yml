@@ -1,0 +1,2 @@
+- pkg:maven/ch.ubique.kmp/network-iosx64@1.0.0-mc03?classifier=sources
+- pkg:maven/ch.ubique.kmp/network-iosx64@1.0.0?classifier=sources

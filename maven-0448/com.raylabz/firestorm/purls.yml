@@ -12,3 +12,4 @@
 - pkg:maven/com.raylabz/firestorm@1.4.0?classifier=sources
 - pkg:maven/com.raylabz/firestorm@2.0.0-alpha
 - pkg:maven/com.raylabz/firestorm@2.0.0-alpha?classifier=sources
+- pkg:maven/com.raylabz/firestorm@2.0.0?classifier=sources

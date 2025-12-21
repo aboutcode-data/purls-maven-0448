@@ -6,3 +6,5 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-metrics-test@2.39.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-metrics-test@2.40.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-metrics-test@2.40.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-metrics-test@2.41.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-metrics-test@2.41.0?classifier=sources

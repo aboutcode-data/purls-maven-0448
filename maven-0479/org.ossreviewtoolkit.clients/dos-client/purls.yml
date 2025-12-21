@@ -35,3 +35,6 @@
 - pkg:maven/org.ossreviewtoolkit.clients/dos-client@51.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/dos-client@51.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/dos-client@52.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/dos-client@52.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/dos-client@52.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/dos-client@53.0.0?classifier=sources

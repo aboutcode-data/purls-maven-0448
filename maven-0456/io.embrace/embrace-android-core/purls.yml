@@ -7,3 +7,4 @@
 - pkg:maven/io.embrace/embrace-android-core@6.14.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-core@7.0.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-core@7.1.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-core@7.2.0?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/toys.timberix/lexerix@0.2.3?classifier=sources
 - pkg:maven/toys.timberix/lexerix@0.2.4?classifier=sources
 - pkg:maven/toys.timberix/lexerix@0.2.6?classifier=sources
+- pkg:maven/toys.timberix/lexerix@0.3.0?classifier=sources

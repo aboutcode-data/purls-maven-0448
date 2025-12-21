@@ -1,1 +1,2 @@
 - pkg:maven/io.github.jorgericovivas/rust_essentials@0.9.0?classifier=sources
+- pkg:maven/io.github.jorgericovivas/rust_essentials@1.0.0?classifier=sources

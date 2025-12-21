@@ -13,3 +13,7 @@
 - pkg:maven/dev.mccue/jdbc@2024.12.14?classifier=sources
 - pkg:maven/dev.mccue/jdbc@2024.12.15?classifier=sources
 - pkg:maven/dev.mccue/jdbc@2024.12.20?classifier=sources
+- pkg:maven/dev.mccue/jdbc@2025.02.27?classifier=sources
+- pkg:maven/dev.mccue/jdbc@2025.03.06?classifier=sources
+- pkg:maven/dev.mccue/jdbc@2025.03.08?classifier=sources
+- pkg:maven/dev.mccue/jdbc@2025.03.09?classifier=sources

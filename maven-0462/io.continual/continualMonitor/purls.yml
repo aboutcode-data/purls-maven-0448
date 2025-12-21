@@ -56,6 +56,8 @@
 - pkg:maven/io.continual/continualMonitor@0.2.53?classifier=sources
 - pkg:maven/io.continual/continualMonitor@0.2.54
 - pkg:maven/io.continual/continualMonitor@0.2.54?classifier=sources
+- pkg:maven/io.continual/continualMonitor@0.2.55
+- pkg:maven/io.continual/continualMonitor@0.2.55?classifier=sources
 - pkg:maven/io.continual/continualMonitor@0.3.0
 - pkg:maven/io.continual/continualMonitor@0.3.0?classifier=sources
 - pkg:maven/io.continual/continualMonitor@0.3.1

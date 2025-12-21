@@ -1,0 +1,3 @@
+- pkg:maven/ch.admin.bit.jeap/jeap-bptestagent-api@2.20.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptestagent-api@2.21.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptestagent-api@2.22.0?classifier=sources

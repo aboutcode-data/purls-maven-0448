@@ -24,6 +24,8 @@
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.15.1
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.15.2
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.15.3
+- pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.15.3.1
+- pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.15.4
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.16.0
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.16.0.CR1
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.16.1
@@ -48,3 +50,8 @@
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.18.4
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.19.0
 - pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.19.0.CR1
+- pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.19.1
+- pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.19.2
+- pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.19.3
+- pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.20.0.CR1
+- pkg:maven/io.quarkus/quarkus-observability-devservices-lgtm@3.21.0.CR1

@@ -70,3 +70,9 @@
 - pkg:maven/com.arcadedb/arcadedb-mongodbw@24.5.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-mongodbw@24.6.1
 - pkg:maven/com.arcadedb/arcadedb-mongodbw@24.6.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-mongodbw@25.1.1
+- pkg:maven/com.arcadedb/arcadedb-mongodbw@25.1.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-mongodbw@25.2.1
+- pkg:maven/com.arcadedb/arcadedb-mongodbw@25.2.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-mongodbw@25.3.1
+- pkg:maven/com.arcadedb/arcadedb-mongodbw@25.3.1?classifier=sources

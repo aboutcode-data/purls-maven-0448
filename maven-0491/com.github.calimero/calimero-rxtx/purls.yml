@@ -23,3 +23,4 @@
 - pkg:maven/com.github.calimero/calimero-rxtx@2.5.1?classifier=sources
 - pkg:maven/com.github.calimero/calimero-rxtx@2.5?classifier=sources
 - pkg:maven/com.github.calimero/calimero-rxtx@2.6-rc1?classifier=sources
+- pkg:maven/com.github.calimero/calimero-rxtx@2.6-rc2?classifier=sources

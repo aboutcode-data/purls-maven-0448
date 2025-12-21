@@ -54,3 +54,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.108.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.108.600
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.108.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.108.700
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.examples@3.108.700?classifier=sources

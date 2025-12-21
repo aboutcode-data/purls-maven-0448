@@ -102,6 +102,8 @@
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.0.1.7?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.0.1.8
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.0.1.8?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.0.10.1
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.0.10.1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.0.2.1
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.0.2.1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.0.2.2
@@ -298,6 +300,8 @@
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.3.3.2?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.3.3.3
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.3.3.3?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.3.3.4
+- pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@3.3.3.4?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@4.0.0.0
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@4.0.0.0?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/oauth-client-shaded-test@4.0.0.1

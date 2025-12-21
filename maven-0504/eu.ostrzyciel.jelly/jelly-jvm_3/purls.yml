@@ -108,3 +108,7 @@
 - pkg:maven/eu.ostrzyciel.jelly/jelly-jvm_3@2.6.3?classifier=sources
 - pkg:maven/eu.ostrzyciel.jelly/jelly-jvm_3@2.6.4
 - pkg:maven/eu.ostrzyciel.jelly/jelly-jvm_3@2.6.4?classifier=sources
+- pkg:maven/eu.ostrzyciel.jelly/jelly-jvm_3@2.7.0
+- pkg:maven/eu.ostrzyciel.jelly/jelly-jvm_3@2.7.0?classifier=sources
+- pkg:maven/eu.ostrzyciel.jelly/jelly-jvm_3@2.7.1
+- pkg:maven/eu.ostrzyciel.jelly/jelly-jvm_3@2.7.1?classifier=sources

@@ -36,6 +36,10 @@
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-20250125?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-20250212
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-20250225
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-20250225?classifier=sources
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-20250312
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk11-20241015
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk11-20241015?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk11-20241022
@@ -50,6 +54,8 @@
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk11-20250108?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk11-20250212
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk11-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk11-20250312
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk11-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk17-20240930
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk17-20240930?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk17-20241015
@@ -70,6 +76,8 @@
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk17-20250109?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk17-20250212
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk17-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk17-20250312
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk17-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20240930
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20240930?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20241009
@@ -104,3 +112,7 @@
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20250211?classifier=sources
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20250212
 - pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20250225
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20250225?classifier=sources
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20250312
+- pkg:maven/org.anyline/anyline-data-easysearch@8.7.2-jdk21-20250312?classifier=sources

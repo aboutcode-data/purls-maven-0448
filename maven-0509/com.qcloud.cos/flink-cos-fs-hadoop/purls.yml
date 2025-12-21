@@ -1,2 +1,4 @@
 - pkg:maven/com.qcloud.cos/flink-cos-fs-hadoop@1.10.0-0.1.10
 - pkg:maven/com.qcloud.cos/flink-cos-fs-hadoop@1.10.0-0.1.10?classifier=sources
+- pkg:maven/com.qcloud.cos/flink-cos-fs-hadoop@1.10.0-0.2.3
+- pkg:maven/com.qcloud.cos/flink-cos-fs-hadoop@1.10.0-0.2.3?classifier=sources

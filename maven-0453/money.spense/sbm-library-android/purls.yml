@@ -8,3 +8,4 @@
 - pkg:maven/money.spense/sbm-library-android@0.2.4?classifier=sources
 - pkg:maven/money.spense/sbm-library-android@1.0.0?classifier=sources
 - pkg:maven/money.spense/sbm-library-android@1.0.1?classifier=sources
+- pkg:maven/money.spense/sbm-library-android@1.0.2?classifier=sources

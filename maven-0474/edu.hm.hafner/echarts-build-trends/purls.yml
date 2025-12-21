@@ -60,3 +60,7 @@
 - pkg:maven/edu.hm.hafner/echarts-build-trends@4.5.0?classifier=sources
 - pkg:maven/edu.hm.hafner/echarts-build-trends@4.6.0
 - pkg:maven/edu.hm.hafner/echarts-build-trends@4.6.0?classifier=sources
+- pkg:maven/edu.hm.hafner/echarts-build-trends@5.0.0
+- pkg:maven/edu.hm.hafner/echarts-build-trends@5.0.0?classifier=sources
+- pkg:maven/edu.hm.hafner/echarts-build-trends@5.1.0
+- pkg:maven/edu.hm.hafner/echarts-build-trends@5.1.0?classifier=sources

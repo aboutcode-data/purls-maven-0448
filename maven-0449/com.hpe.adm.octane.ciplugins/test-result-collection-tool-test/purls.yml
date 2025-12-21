@@ -1,5 +1,6 @@
 - pkg:maven/com.hpe.adm.octane.ciplugins/test-result-collection-tool-test@1.0
 - pkg:maven/com.hpe.adm.octane.ciplugins/test-result-collection-tool-test@1.0.1
+- pkg:maven/com.hpe.adm.octane.ciplugins/test-result-collection-tool-test@1.0.15
 - pkg:maven/com.hpe.adm.octane.ciplugins/test-result-collection-tool-test@1.0.2
 - pkg:maven/com.hpe.adm.octane.ciplugins/test-result-collection-tool-test@1.0.6
 - pkg:maven/com.hpe.adm.octane.ciplugins/test-result-collection-tool-test@1.0.9

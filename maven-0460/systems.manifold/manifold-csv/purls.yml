@@ -422,3 +422,9 @@
 - pkg:maven/systems.manifold/manifold-csv@2024.1.8?classifier=sources
 - pkg:maven/systems.manifold/manifold-csv@2024.1.9
 - pkg:maven/systems.manifold/manifold-csv@2024.1.9?classifier=sources
+- pkg:maven/systems.manifold/manifold-csv@2025.1.0
+- pkg:maven/systems.manifold/manifold-csv@2025.1.0?classifier=sources
+- pkg:maven/systems.manifold/manifold-csv@2025.1.1
+- pkg:maven/systems.manifold/manifold-csv@2025.1.1?classifier=sources
+- pkg:maven/systems.manifold/manifold-csv@2025.1.2
+- pkg:maven/systems.manifold/manifold-csv@2025.1.2?classifier=sources

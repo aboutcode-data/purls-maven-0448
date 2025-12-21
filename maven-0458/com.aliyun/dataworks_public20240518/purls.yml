@@ -20,3 +20,5 @@
 - pkg:maven/com.aliyun/dataworks_public20240518@5.0.0?classifier=sources
 - pkg:maven/com.aliyun/dataworks_public20240518@6.0.0
 - pkg:maven/com.aliyun/dataworks_public20240518@6.0.0?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20240518@6.0.1
+- pkg:maven/com.aliyun/dataworks_public20240518@6.0.1?classifier=sources

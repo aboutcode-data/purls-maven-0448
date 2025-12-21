@@ -26,3 +26,6 @@
 - pkg:maven/io.github.smiley4/schema-kenerator-reflection@1.6.5?classifier=sources
 - pkg:maven/io.github.smiley4/schema-kenerator-reflection@2.0.0-beta.1?classifier=sources
 - pkg:maven/io.github.smiley4/schema-kenerator-reflection@2.0.0-beta.2?classifier=sources
+- pkg:maven/io.github.smiley4/schema-kenerator-reflection@2.0.0?classifier=sources
+- pkg:maven/io.github.smiley4/schema-kenerator-reflection@2.1.0?classifier=sources
+- pkg:maven/io.github.smiley4/schema-kenerator-reflection@2.1.1?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/io.trino/trino-loki@470?classifier=sources
 - pkg:maven/io.trino/trino-loki@471?classifier=sources
+- pkg:maven/io.trino/trino-loki@472?classifier=sources

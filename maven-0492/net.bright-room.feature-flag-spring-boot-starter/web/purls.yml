@@ -1,0 +1,4 @@
+- pkg:maven/net.bright-room.feature-flag-spring-boot-starter/web@0.0.3?classifier=sources
+- pkg:maven/net.bright-room.feature-flag-spring-boot-starter/web@0.0.4?classifier=sources
+- pkg:maven/net.bright-room.feature-flag-spring-boot-starter/web@1.0.0?classifier=sources
+- pkg:maven/net.bright-room.feature-flag-spring-boot-starter/web@1.0.1?classifier=sources

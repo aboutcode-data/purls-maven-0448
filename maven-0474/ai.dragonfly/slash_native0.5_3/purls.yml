@@ -1,2 +1,4 @@
 - pkg:maven/ai.dragonfly/slash_native0.5_3@0.3.2
+- pkg:maven/ai.dragonfly/slash_native0.5_3@0.3.21
+- pkg:maven/ai.dragonfly/slash_native0.5_3@0.3.21?classifier=sources
 - pkg:maven/ai.dragonfly/slash_native0.5_3@0.3.2?classifier=sources

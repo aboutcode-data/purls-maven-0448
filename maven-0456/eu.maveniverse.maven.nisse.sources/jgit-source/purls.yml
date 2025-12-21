@@ -16,3 +16,5 @@
 - pkg:maven/eu.maveniverse.maven.nisse.sources/jgit-source@0.3.3?classifier=sources
 - pkg:maven/eu.maveniverse.maven.nisse.sources/jgit-source@0.3.4
 - pkg:maven/eu.maveniverse.maven.nisse.sources/jgit-source@0.3.4?classifier=sources
+- pkg:maven/eu.maveniverse.maven.nisse.sources/jgit-source@0.4.0
+- pkg:maven/eu.maveniverse.maven.nisse.sources/jgit-source@0.4.0?classifier=sources
