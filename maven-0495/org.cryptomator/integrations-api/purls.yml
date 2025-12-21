@@ -59,5 +59,6 @@
 - pkg:maven/org.cryptomator/integrations-api@1.5.1?classifier=sources
 - pkg:maven/org.cryptomator/integrations-api@1.6.0?classifier=sources
 - pkg:maven/org.cryptomator/integrations-api@1.7.0?classifier=sources
+- pkg:maven/org.cryptomator/integrations-api@1.8.0-beta1?classifier=sources
 - pkg:maven/org.cryptomator/integrations-api@2.0.0-alpha1
 - pkg:maven/org.cryptomator/integrations-api@2.0.0-alpha1?classifier=sources

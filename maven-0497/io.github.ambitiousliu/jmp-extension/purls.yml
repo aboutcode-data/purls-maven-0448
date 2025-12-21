@@ -17,3 +17,4 @@
 - pkg:maven/io.github.ambitiousliu/jmp-extension@3.5.2.003?classifier=sources
 - pkg:maven/io.github.ambitiousliu/jmp-extension@3.5.2.004?classifier=sources
 - pkg:maven/io.github.ambitiousliu/jmp-extension@3.5.2.005?classifier=sources
+- pkg:maven/io.github.ambitiousliu/jmp-extension@3.5.2.006?classifier=sources

@@ -106,3 +106,4 @@
 - pkg:maven/org.wildfly.core/wildfly-service@30.0.0.Beta4?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-service@30.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-service@31.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-service@31.0.0.Beta2?classifier=sources

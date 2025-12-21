@@ -1,1 +1,2 @@
 - pkg:maven/tw.teddysoft.ezddd-gateway/ez-message@1.0.0?classifier=sources
+- pkg:maven/tw.teddysoft.ezddd-gateway/ez-message@2.0.0?classifier=sources

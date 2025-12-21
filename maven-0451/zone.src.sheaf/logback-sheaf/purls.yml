@@ -22,3 +22,5 @@
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.4.11?classifier=sources
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.5.16
 - pkg:maven/zone.src.sheaf/logback-sheaf@1.5.16?classifier=sources
+- pkg:maven/zone.src.sheaf/logback-sheaf@1.5.21
+- pkg:maven/zone.src.sheaf/logback-sheaf@1.5.21?classifier=sources

@@ -22,4 +22,5 @@
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.3.0-Beta1-plugin.4?classifier=sources
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.3.0-Beta1.0?classifier=sources
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.3.0-Beta2.0?classifier=sources
+- pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@2.3.0-RC.0?classifier=sources
 - pkg:maven/com.ensody.kotlindefaultthrows/compiler-plugin@999999.0.0-HEAD.1?classifier=sources

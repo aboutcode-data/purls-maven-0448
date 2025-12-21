@@ -11,6 +11,7 @@
 - pkg:maven/com.threerings/narya@1.14?classifier=sources
 - pkg:maven/com.threerings/narya@1.15
 - pkg:maven/com.threerings/narya@1.15?classifier=sources
+- pkg:maven/com.threerings/narya@1.17.1?classifier=sources
 - pkg:maven/com.threerings/narya@1.17?classifier=sources
 - pkg:maven/com.threerings/narya@1.1?classifier=sources
 - pkg:maven/com.threerings/narya@1.2

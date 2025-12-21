@@ -11,6 +11,11 @@
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.18?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.19?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.1?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.20?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.21?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.22?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.23?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.24?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.2?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.3?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api@5.4?classifier=sources

@@ -55,3 +55,4 @@
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.9.1.2264?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@1.9.2.2279?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-plugin@2.0.0.17067?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-plugin@2.1.0.17131?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/no.solibo.oss/solibo-vertx-aws-sdk@1.0.0?classifier=sources
 - pkg:maven/no.solibo.oss/solibo-vertx-aws-sdk@1.0.1?classifier=sources
 - pkg:maven/no.solibo.oss/solibo-vertx-aws-sdk@1.0.2?classifier=sources
+- pkg:maven/no.solibo.oss/solibo-vertx-aws-sdk@1.0.3?classifier=sources

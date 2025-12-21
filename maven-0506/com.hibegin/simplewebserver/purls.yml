@@ -586,6 +586,7 @@
 - pkg:maven/com.hibegin/simplewebserver@4.0.114?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver@4.0.115?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver@4.0.116?classifier=sources
+- pkg:maven/com.hibegin/simplewebserver@4.0.117?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver@4.0.1?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver@4.0.2
 - pkg:maven/com.hibegin/simplewebserver@4.0.2?classifier=sources

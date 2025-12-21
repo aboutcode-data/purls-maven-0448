@@ -66,6 +66,8 @@
 - pkg:maven/com.applovin.mediation/inmobi-adapter@10.8.6.0?classifier=sources
 - pkg:maven/com.applovin.mediation/inmobi-adapter@10.8.7.0?classifier=sources
 - pkg:maven/com.applovin.mediation/inmobi-adapter@10.8.8.0?classifier=sources
+- pkg:maven/com.applovin.mediation/inmobi-adapter@11.0.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/inmobi-adapter@11.1.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/inmobi-adapter@9.1.1.4?classifier=sources
 - pkg:maven/com.applovin.mediation/inmobi-adapter@9.1.1.4?type=aar
 - pkg:maven/com.applovin.mediation/inmobi-adapter@9.1.6.0?classifier=sources

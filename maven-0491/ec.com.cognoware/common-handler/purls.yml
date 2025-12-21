@@ -1,2 +1,5 @@
 - pkg:maven/ec.com.cognoware/common-handler@1.0.22?classifier=sources
 - pkg:maven/ec.com.cognoware/common-handler@1.0.23?classifier=sources
+- pkg:maven/ec.com.cognoware/common-handler@1.0.24?classifier=sources
+- pkg:maven/ec.com.cognoware/common-handler@1.0.25?classifier=sources
+- pkg:maven/ec.com.cognoware/common-handler@1.0.26?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.eminbustun/logback-kafka-appender@1.0.0?classifier=sources
+- pkg:maven/io.github.eminbustun/logback-kafka-appender@1.0.1?classifier=sources

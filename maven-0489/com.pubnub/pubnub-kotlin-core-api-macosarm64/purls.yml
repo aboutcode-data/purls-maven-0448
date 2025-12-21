@@ -23,3 +23,5 @@
 - pkg:maven/com.pubnub/pubnub-kotlin-core-api-macosarm64@10.5.8?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin-core-api-macosarm64@10.6.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin-core-api-macosarm64@11.0.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-kotlin-core-api-macosarm64@12.0.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-kotlin-core-api-macosarm64@12.0.1?classifier=sources

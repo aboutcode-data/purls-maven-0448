@@ -4,3 +4,4 @@
 - pkg:maven/org.coderu.aspectlog/aspectlog@0.7.1?classifier=sources
 - pkg:maven/org.coderu.aspectlog/aspectlog@0.7.2
 - pkg:maven/org.coderu.aspectlog/aspectlog@0.7.2?classifier=sources
+- pkg:maven/org.coderu.aspectlog/aspectlog@0.7.3?classifier=sources

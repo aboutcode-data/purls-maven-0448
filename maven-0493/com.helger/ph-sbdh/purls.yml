@@ -33,3 +33,4 @@
 - pkg:maven/com.helger/ph-sbdh@5.0.2
 - pkg:maven/com.helger/ph-sbdh@5.0.2?classifier=sources
 - pkg:maven/com.helger/ph-sbdh@6.0.0?classifier=sources
+- pkg:maven/com.helger/ph-sbdh@6.1.0?classifier=sources

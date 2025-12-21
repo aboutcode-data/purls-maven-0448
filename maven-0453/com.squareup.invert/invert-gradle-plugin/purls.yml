@@ -2,3 +2,7 @@
 - pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.2-dev?classifier=sources
 - pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.3-dev?classifier=sources
 - pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.4-dev?classifier=sources
+- pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.5-dev?classifier=sources
+- pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.6-dev?classifier=sources
+- pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.7-dev?classifier=sources
+- pkg:maven/com.squareup.invert/invert-gradle-plugin@0.0.8?classifier=sources

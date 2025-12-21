@@ -158,6 +158,10 @@
 - pkg:maven/io.hippochat/hippo@3.0.21.1?type=aar
 - pkg:maven/io.hippochat/hippo@3.0.21.2?classifier=sources
 - pkg:maven/io.hippochat/hippo@3.0.21.2?type=aar
+- pkg:maven/io.hippochat/hippo@3.0.21.3?classifier=sources
+- pkg:maven/io.hippochat/hippo@3.0.21.3?type=aar
+- pkg:maven/io.hippochat/hippo@3.0.21.4?classifier=sources
+- pkg:maven/io.hippochat/hippo@3.0.21.4?type=aar
 - pkg:maven/io.hippochat/hippo@3.0.2?classifier=sources
 - pkg:maven/io.hippochat/hippo@3.0.2?type=aar
 - pkg:maven/io.hippochat/hippo@3.0.3?classifier=sources

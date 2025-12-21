@@ -1,5 +1,6 @@
 - pkg:maven/com.thetradedesk/workflows@0.10.0?classifier=sources
 - pkg:maven/com.thetradedesk/workflows@0.11.0?classifier=sources
+- pkg:maven/com.thetradedesk/workflows@0.12.0?classifier=sources
 - pkg:maven/com.thetradedesk/workflows@0.2.0?classifier=sources
 - pkg:maven/com.thetradedesk/workflows@0.2.3?classifier=sources
 - pkg:maven/com.thetradedesk/workflows@0.3.0?classifier=sources

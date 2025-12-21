@@ -1,1 +1,2 @@
 - pkg:maven/net.hasor/jdbc-redis@6.1.0?classifier=sources
+- pkg:maven/net.hasor/jdbc-redis@6.2.0?classifier=sources

@@ -89,3 +89,9 @@
 - pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251020124635?classifier=sources
 - pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251027095318?classifier=sources
 - pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251103093849?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251110092241?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251117094522?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251117100312?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251117111825?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251124094650?classifier=sources
+- pkg:maven/uk.gov.service.payments/testing-dropwizard-4@1.0.20251127162743?classifier=sources

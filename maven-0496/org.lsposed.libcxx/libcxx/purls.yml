@@ -3,3 +3,4 @@
 - pkg:maven/org.lsposed.libcxx/libcxx@28.1.13356709?classifier=sources
 - pkg:maven/org.lsposed.libcxx/libcxx@29.0.13113456-beta1?classifier=sources
 - pkg:maven/org.lsposed.libcxx/libcxx@29.0.13599879-beta2?classifier=sources
+- pkg:maven/org.lsposed.libcxx/libcxx@29.0.14206865?classifier=sources

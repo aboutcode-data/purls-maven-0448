@@ -1,1 +1,6 @@
 - pkg:maven/site.addzero/tool-mybatis@0.0.673?classifier=sources
+- pkg:maven/site.addzero/tool-mybatis@2025.11.26?classifier=sources
+- pkg:maven/site.addzero/tool-mybatis@2025.11.27?classifier=sources
+- pkg:maven/site.addzero/tool-mybatis@2025.11.30?classifier=sources
+- pkg:maven/site.addzero/tool-mybatis@2025.11.31?classifier=sources
+- pkg:maven/site.addzero/tool-mybatis@2025.11.32?classifier=sources

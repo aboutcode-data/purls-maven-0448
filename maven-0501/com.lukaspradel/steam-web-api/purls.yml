@@ -6,6 +6,7 @@
 - pkg:maven/com.lukaspradel/steam-web-api@1.11.0
 - pkg:maven/com.lukaspradel/steam-web-api@1.11.0?classifier=sources
 - pkg:maven/com.lukaspradel/steam-web-api@1.12.0?classifier=sources
+- pkg:maven/com.lukaspradel/steam-web-api@1.12.1?classifier=sources
 - pkg:maven/com.lukaspradel/steam-web-api@1.1?classifier=sources
 - pkg:maven/com.lukaspradel/steam-web-api@1.2
 - pkg:maven/com.lukaspradel/steam-web-api@1.2?classifier=sources

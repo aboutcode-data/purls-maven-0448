@@ -1,3 +1,5 @@
+- pkg:maven/org.finos.vuu/vuu-java@0.9.100?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-java@0.9.101?classifier=sources
 - pkg:maven/org.finos.vuu/vuu-java@0.9.72
 - pkg:maven/org.finos.vuu/vuu-java@0.9.72?classifier=sources
 - pkg:maven/org.finos.vuu/vuu-java@0.9.75?classifier=sources
@@ -24,3 +26,4 @@
 - pkg:maven/org.finos.vuu/vuu-java@0.9.96?classifier=sources
 - pkg:maven/org.finos.vuu/vuu-java@0.9.97?classifier=sources
 - pkg:maven/org.finos.vuu/vuu-java@0.9.98?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-java@0.9.99?classifier=sources

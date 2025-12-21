@@ -1,1 +1,2 @@
 - pkg:maven/org.metricshub/ipmi-java@1.2.01?classifier=sources
+- pkg:maven/org.metricshub/ipmi-java@1.2.02?classifier=sources

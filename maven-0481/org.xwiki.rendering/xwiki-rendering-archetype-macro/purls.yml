@@ -262,6 +262,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.10.12?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.10.13?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.10.14?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.10.15?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.10.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.10.2?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@16.10.3?classifier=sources
@@ -300,6 +301,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@17.0.0?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@17.1.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@17.1.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@17.10.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@17.10.0?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@17.2.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@17.2.0?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-archetype-macro@17.2.1?classifier=sources

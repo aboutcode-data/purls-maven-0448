@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-optional-chaining@7.23.0?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-optional-chaining@7.27.1
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-optional-chaining@7.27.1?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-optional-chaining@7.28.5
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-optional-chaining@7.28.5?classifier=sources

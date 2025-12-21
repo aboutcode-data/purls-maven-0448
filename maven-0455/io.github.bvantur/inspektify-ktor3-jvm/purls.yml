@@ -5,3 +5,4 @@
 - pkg:maven/io.github.bvantur/inspektify-ktor3-jvm@1.0.0-beta07?classifier=sources
 - pkg:maven/io.github.bvantur/inspektify-ktor3-jvm@1.0.0-beta08?classifier=sources
 - pkg:maven/io.github.bvantur/inspektify-ktor3-jvm@1.0.0-beta09?classifier=sources
+- pkg:maven/io.github.bvantur/inspektify-ktor3-jvm@1.0.0-beta10?classifier=sources

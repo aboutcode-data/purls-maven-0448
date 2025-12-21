@@ -10,3 +10,5 @@
 - pkg:maven/com.simplito.java/privmx-endpoint@2.5.0-rc1?classifier=sources
 - pkg:maven/com.simplito.java/privmx-endpoint@2.5.0?classifier=sources
 - pkg:maven/com.simplito.java/privmx-endpoint@2.6.0-rc1?classifier=sources
+- pkg:maven/com.simplito.java/privmx-endpoint@2.6.0-rc2?classifier=sources
+- pkg:maven/com.simplito.java/privmx-endpoint@2.6.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.jhaprashant1108/switchboard-sdk@0.0.2?classifier=sources
+- pkg:maven/com.jhaprashant1108/switchboard-sdk@0.0.3?classifier=sources
+- pkg:maven/com.jhaprashant1108/switchboard-sdk@0.0.4?classifier=sources

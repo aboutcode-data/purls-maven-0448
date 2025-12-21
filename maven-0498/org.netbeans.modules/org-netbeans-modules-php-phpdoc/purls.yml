@@ -27,3 +27,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpdoc@RELEASE280?classifier=sources

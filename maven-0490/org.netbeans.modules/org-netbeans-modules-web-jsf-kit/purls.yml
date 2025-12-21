@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-kit@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-kit@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-kit@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf-kit@RELEASE280?classifier=sources

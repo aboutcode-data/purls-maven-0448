@@ -42,6 +42,7 @@
 - pkg:maven/com.asemicanalytics/asemic-sql@1.48?classifier=sources
 - pkg:maven/com.asemicanalytics/asemic-sql@1.49?classifier=sources
 - pkg:maven/com.asemicanalytics/asemic-sql@1.4?classifier=sources
+- pkg:maven/com.asemicanalytics/asemic-sql@1.50?classifier=sources
 - pkg:maven/com.asemicanalytics/asemic-sql@1.5?classifier=sources
 - pkg:maven/com.asemicanalytics/asemic-sql@1.6?classifier=sources
 - pkg:maven/com.asemicanalytics/asemic-sql@1.7?classifier=sources

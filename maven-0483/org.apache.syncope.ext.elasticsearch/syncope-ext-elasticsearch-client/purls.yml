@@ -73,6 +73,8 @@
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@3.0.13?classifier=sources
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@3.0.14
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@3.0.14?classifier=sources
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@3.0.15
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@3.0.15?classifier=sources
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@3.0.1?classifier=sources
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@3.0.2
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@3.0.2?classifier=sources
@@ -100,3 +102,5 @@
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@4.0.1?classifier=sources
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@4.0.2
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@4.0.2?classifier=sources
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@4.0.3
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-client@4.0.3?classifier=sources

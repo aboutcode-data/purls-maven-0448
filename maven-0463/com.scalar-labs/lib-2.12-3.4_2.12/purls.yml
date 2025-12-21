@@ -1,0 +1,2 @@
+- pkg:maven/com.scalar-labs/lib-2.12-3.4_2.12@3.17.0
+- pkg:maven/com.scalar-labs/lib-2.12-3.4_2.12@3.17.0?classifier=sources

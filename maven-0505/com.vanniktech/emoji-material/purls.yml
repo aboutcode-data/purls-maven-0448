@@ -11,6 +11,7 @@
 - pkg:maven/com.vanniktech/emoji-material@0.20.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji-material@0.21.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji-material@0.22.0?classifier=sources
+- pkg:maven/com.vanniktech/emoji-material@0.23.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji-material@0.7.0?classifier=sources
 - pkg:maven/com.vanniktech/emoji-material@0.7.0?type=aar
 - pkg:maven/com.vanniktech/emoji-material@0.8.0?classifier=sources

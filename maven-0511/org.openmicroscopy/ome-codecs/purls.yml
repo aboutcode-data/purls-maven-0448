@@ -41,3 +41,4 @@
 - pkg:maven/org.openmicroscopy/ome-codecs@1.1.0
 - pkg:maven/org.openmicroscopy/ome-codecs@1.1.0?classifier=sources
 - pkg:maven/org.openmicroscopy/ome-codecs@1.1.1?classifier=sources
+- pkg:maven/org.openmicroscopy/ome-codecs@1.1.2?classifier=sources

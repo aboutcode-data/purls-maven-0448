@@ -607,6 +607,16 @@
 - pkg:maven/com.palantir.baseline/gradle-baseline-java@6.64.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-baseline-java@6.65.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-baseline-java@6.66.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.67.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.68.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.69.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-baseline-java@6.7.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.70.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.71.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.72.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.73.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.74.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.75.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java@6.76.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-baseline-java@6.8.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-baseline-java@6.9.0?classifier=sources

@@ -318,6 +318,8 @@
 - pkg:maven/com.google.apis/google-api-services-gmail@v1-rev20250616-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gmail@v1-rev20250630-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gmail@v1-rev20250630-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gmail@v1-rev20251110-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gmail@v1-rev20251110-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gmail@v1-rev21-1.15.0-rc
 - pkg:maven/com.google.apis/google-api-services-gmail@v1-rev21-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gmail@v1-rev21-1.16.0-rc

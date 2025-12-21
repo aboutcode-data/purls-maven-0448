@@ -403,6 +403,7 @@
 - pkg:maven/org.infinispan/infinispan-api@16.0.0.Dev08?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@16.0.0?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@16.0.1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-api@16.0.2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@5.1.0.BETA4
 - pkg:maven/org.infinispan/infinispan-api@5.1.0.BETA4?classifier=sources
 - pkg:maven/org.infinispan/infinispan-api@5.1.0.BETA5

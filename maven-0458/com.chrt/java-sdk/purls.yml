@@ -1,0 +1,5 @@
+- pkg:maven/com.chrt/java-sdk@1.299.6?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.302.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.303.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.304.0?classifier=sources
+- pkg:maven/com.chrt/java-sdk@1.305.0?classifier=sources

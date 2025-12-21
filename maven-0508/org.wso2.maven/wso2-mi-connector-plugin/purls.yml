@@ -6,3 +6,5 @@
 - pkg:maven/org.wso2.maven/wso2-mi-connector-plugin@5.2.98?classifier=sources
 - pkg:maven/org.wso2.maven/wso2-mi-connector-plugin@5.2.99
 - pkg:maven/org.wso2.maven/wso2-mi-connector-plugin@5.2.99?classifier=sources
+- pkg:maven/org.wso2.maven/wso2-mi-connector-plugin@5.4.12
+- pkg:maven/org.wso2.maven/wso2-mi-connector-plugin@5.4.12?classifier=sources

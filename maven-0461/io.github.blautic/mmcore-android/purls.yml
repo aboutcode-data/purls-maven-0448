@@ -30,3 +30,4 @@
 - pkg:maven/io.github.blautic/mmcore-android@1.1.44?classifier=sources
 - pkg:maven/io.github.blautic/mmcore-android@1.1.46?classifier=sources
 - pkg:maven/io.github.blautic/mmcore-android@1.1.48?classifier=sources
+- pkg:maven/io.github.blautic/mmcore-android@1.1.51?classifier=sources

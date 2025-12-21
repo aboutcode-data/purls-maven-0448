@@ -91,6 +91,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-webhook-deployment@3.27.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-webhook-deployment@3.27.1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-webhook-deployment@3.29.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-webhook-deployment@3.30.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-webhook-deployment@3.4.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-webhook-deployment@3.5.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-webhook-deployment@3.6.0

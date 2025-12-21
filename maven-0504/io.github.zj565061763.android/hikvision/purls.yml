@@ -8,3 +8,4 @@
 - pkg:maven/io.github.zj565061763.android/hikvision@1.0.0-alpha09?classifier=sources
 - pkg:maven/io.github.zj565061763.android/hikvision@1.0.0-alpha10?classifier=sources
 - pkg:maven/io.github.zj565061763.android/hikvision@1.0.0-alpha11?classifier=sources
+- pkg:maven/io.github.zj565061763.android/hikvision@1.0.0-beta01?classifier=sources

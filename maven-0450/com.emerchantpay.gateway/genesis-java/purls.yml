@@ -66,6 +66,8 @@
 - pkg:maven/com.emerchantpay.gateway/genesis-java@1.18.7?classifier=sources
 - pkg:maven/com.emerchantpay.gateway/genesis-java@1.18.8
 - pkg:maven/com.emerchantpay.gateway/genesis-java@1.18.8?classifier=sources
+- pkg:maven/com.emerchantpay.gateway/genesis-java@1.18.9
+- pkg:maven/com.emerchantpay.gateway/genesis-java@1.18.9?classifier=sources
 - pkg:maven/com.emerchantpay.gateway/genesis-java@1.2.0
 - pkg:maven/com.emerchantpay.gateway/genesis-java@1.2.0?classifier=sources
 - pkg:maven/com.emerchantpay.gateway/genesis-java@1.2.1

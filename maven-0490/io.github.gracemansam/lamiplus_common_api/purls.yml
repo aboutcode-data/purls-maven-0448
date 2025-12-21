@@ -9,3 +9,4 @@
 - pkg:maven/io.github.gracemansam/lamiplus_common_api@1.0.9?classifier=sources
 - pkg:maven/io.github.gracemansam/lamiplus_common_api@1.1.9?classifier=sources
 - pkg:maven/io.github.gracemansam/lamiplus_common_api@1.2.9?classifier=sources
+- pkg:maven/io.github.gracemansam/lamiplus_common_api@1.3.9?classifier=sources

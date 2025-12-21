@@ -27,3 +27,13 @@
 - pkg:maven/io.moov/sdk-spring-boot-starter@0.31.1?classifier=sources
 - pkg:maven/io.moov/sdk-spring-boot-starter@0.32.0?classifier=sources
 - pkg:maven/io.moov/sdk-spring-boot-starter@0.32.1?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.0?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.1?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.2?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.3?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.4?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.5?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.6?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.7?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.8?classifier=sources
+- pkg:maven/io.moov/sdk-spring-boot-starter@0.33.9?classifier=sources

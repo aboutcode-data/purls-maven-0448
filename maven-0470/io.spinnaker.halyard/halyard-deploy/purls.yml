@@ -131,6 +131,8 @@
 - pkg:maven/io.spinnaker.halyard/halyard-deploy@main-120?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-deploy@main-121?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-deploy@main-122?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-deploy@main-123?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-deploy@main-124?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-deploy@main-12?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-deploy@main-13?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-deploy@main-14?classifier=sources

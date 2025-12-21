@@ -121,3 +121,7 @@
 - pkg:maven/com.gu/content-atom-model-thrift@7.0.4
 - pkg:maven/com.gu/content-atom-model-thrift@7.0.5
 - pkg:maven/com.gu/content-atom-model-thrift@7.0.6
+- pkg:maven/com.gu/content-atom-model-thrift@7.0.7
+- pkg:maven/com.gu/content-atom-model-thrift@8.0.0
+- pkg:maven/com.gu/content-atom-model-thrift@8.0.0-PREVIEW.pficonik-data.2025-10-31T0908.09341485
+- pkg:maven/com.gu/content-atom-model-thrift@9.0.0

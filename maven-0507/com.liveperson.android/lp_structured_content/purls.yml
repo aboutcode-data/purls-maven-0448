@@ -23,3 +23,4 @@
 - pkg:maven/com.liveperson.android/lp_structured_content@2.6.8?classifier=sources
 - pkg:maven/com.liveperson.android/lp_structured_content@2.6.9-beta.1?classifier=sources
 - pkg:maven/com.liveperson.android/lp_structured_content@2.6.9?classifier=sources
+- pkg:maven/com.liveperson.android/lp_structured_content@2.7.0?classifier=sources

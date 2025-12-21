@@ -76,3 +76,4 @@
 - pkg:maven/com.github.dasniko/testcontainers-keycloak@3.7.0?classifier=sources
 - pkg:maven/com.github.dasniko/testcontainers-keycloak@3.8.0?classifier=sources
 - pkg:maven/com.github.dasniko/testcontainers-keycloak@3.9.0?classifier=sources
+- pkg:maven/com.github.dasniko/testcontainers-keycloak@4.0.0?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@4.26.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@5.0.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-service@5.1.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-service@5.2.0?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/com.webauthn4j/webauthn4j-appattest@0.29.6.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-appattest@0.29.7.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-appattest@0.30.0.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-appattest@0.30.1.RELEASE?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/minipass@3.3.6?classifier=sources
+- pkg:maven/org.mvnpm/minipass@4.2.8
+- pkg:maven/org.mvnpm/minipass@4.2.8?classifier=sources
 - pkg:maven/org.mvnpm/minipass@5.0.0?classifier=sources
 - pkg:maven/org.mvnpm/minipass@6.0.2?classifier=sources
 - pkg:maven/org.mvnpm/minipass@7.0.0?classifier=sources

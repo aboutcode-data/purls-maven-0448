@@ -11,3 +11,4 @@
 - pkg:maven/com.xeonyu/logger@1.1.0?classifier=sources
 - pkg:maven/com.xeonyu/logger@1.2.0?classifier=sources
 - pkg:maven/com.xeonyu/logger@1.2.1?classifier=sources
+- pkg:maven/com.xeonyu/logger@1.2.2?classifier=sources

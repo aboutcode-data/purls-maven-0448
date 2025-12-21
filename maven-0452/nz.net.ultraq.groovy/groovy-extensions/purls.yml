@@ -7,3 +7,5 @@
 - pkg:maven/nz.net.ultraq.groovy/groovy-extensions@2.3.3?classifier=sources
 - pkg:maven/nz.net.ultraq.groovy/groovy-extensions@3.0.0?classifier=sources
 - pkg:maven/nz.net.ultraq.groovy/groovy-extensions@3.1.0?classifier=sources
+- pkg:maven/nz.net.ultraq.groovy/groovy-extensions@3.2.0?classifier=sources
+- pkg:maven/nz.net.ultraq.groovy/groovy-extensions@3.2.1?classifier=sources
