@@ -134,3 +134,5 @@
 - pkg:maven/net.mingsoft/ms-base@2.2.8
 - pkg:maven/net.mingsoft/ms-base@2.2.8?classifier=sources
 - pkg:maven/net.mingsoft/ms-base@2.2.9?classifier=sources
+- pkg:maven/net.mingsoft/ms-base@3.0.0.3?classifier=sources
+- pkg:maven/net.mingsoft/ms-base@3.0.0?classifier=sources

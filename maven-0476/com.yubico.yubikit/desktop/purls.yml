@@ -1,1 +1,2 @@
 - pkg:maven/com.yubico.yubikit/desktop@2.8.0?classifier=sources
+- pkg:maven/com.yubico.yubikit/desktop@2.8.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/scalar__types@0.0.34
 - pkg:maven/org.webjars.npm/scalar__types@0.1.8
+- pkg:maven/org.webjars.npm/scalar__types@0.2.1
+- pkg:maven/org.webjars.npm/scalar__types@0.2.2

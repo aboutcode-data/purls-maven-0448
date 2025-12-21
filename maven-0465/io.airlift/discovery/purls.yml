@@ -442,3 +442,6 @@
 - pkg:maven/io.airlift/discovery@333?classifier=sources
 - pkg:maven/io.airlift/discovery@334?classifier=sources
 - pkg:maven/io.airlift/discovery@335?classifier=sources
+- pkg:maven/io.airlift/discovery@336?classifier=sources
+- pkg:maven/io.airlift/discovery@337?classifier=sources
+- pkg:maven/io.airlift/discovery@338?classifier=sources

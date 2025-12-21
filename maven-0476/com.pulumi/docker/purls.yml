@@ -297,3 +297,4 @@
 - pkg:maven/com.pulumi/docker@4.7.0-alpha.1705097497%2B5c1ded4a?classifier=sources
 - pkg:maven/com.pulumi/docker@4.7.0-alpha.1705203994%2Bb15ffd41?classifier=sources
 - pkg:maven/com.pulumi/docker@4.7.0-alpha.1705607229%2B34a07055?classifier=sources
+- pkg:maven/com.pulumi/docker@4.7.0?classifier=sources

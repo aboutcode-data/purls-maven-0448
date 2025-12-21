@@ -3,6 +3,8 @@
 - pkg:maven/com.ritense.valtimo/process-link-url@12.10.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link-url@12.11.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link-url@12.12.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-link-url@12.13.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/process-link-url@12.13.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link-url@12.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link-url@12.4.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/process-link-url@12.5.0.RELEASE?classifier=sources

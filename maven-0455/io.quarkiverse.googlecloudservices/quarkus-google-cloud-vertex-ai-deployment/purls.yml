@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-vertex-ai-deployment@2.17.1?classifier=sources

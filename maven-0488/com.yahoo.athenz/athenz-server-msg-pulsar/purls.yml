@@ -14,6 +14,10 @@
 - pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.16?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.17
 - pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.17?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.18
+- pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.18?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.19
+- pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.19?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.6
 - pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.6?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-server-msg-pulsar@1.12.7

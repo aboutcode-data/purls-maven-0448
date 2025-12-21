@@ -17,6 +17,7 @@
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@0.9?classifier=sources
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@1.0?classifier=sources
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@2.0?classifier=sources
+- pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@2.10?classifier=sources
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@2.1?classifier=sources
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@2.2?classifier=sources
 - pkg:maven/com.gitlab.mvysny.jdbiorm/jdbi-orm@2.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-maven-serialization-for-jps-avoid-using-this@2.2.0-Beta2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-serialization-for-jps-avoid-using-this@2.2.0-RC2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-maven-serialization-for-jps-avoid-using-this@2.2.0-RC3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-maven-serialization-for-jps-avoid-using-this@2.2.0-RC?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/dev.arbjerg.lavalink/protocol-js@4.0.6?classifier=sources
 - pkg:maven/dev.arbjerg.lavalink/protocol-js@4.0.7?classifier=sources
 - pkg:maven/dev.arbjerg.lavalink/protocol-js@4.0.8?classifier=sources
+- pkg:maven/dev.arbjerg.lavalink/protocol-js@4.1.0?classifier=sources
+- pkg:maven/dev.arbjerg.lavalink/protocol-js@4.1.1?classifier=sources

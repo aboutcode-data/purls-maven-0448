@@ -46,3 +46,5 @@
 - pkg:maven/com.github.vhall.sdk.standard_sdk/xyzq@5.0.7?type=aar
 - pkg:maven/com.github.vhall.sdk.standard_sdk/xyzq@5.0.8?classifier=sources
 - pkg:maven/com.github.vhall.sdk.standard_sdk/xyzq@5.0.8?type=aar
+- pkg:maven/com.github.vhall.sdk.standard_sdk/xyzq@5.0.9?classifier=sources
+- pkg:maven/com.github.vhall.sdk.standard_sdk/xyzq@5.0.9?type=aar

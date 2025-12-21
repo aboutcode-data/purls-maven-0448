@@ -68,6 +68,8 @@
 - pkg:maven/io.github.mivek/metarParser-entities@2.17.1?classifier=sources
 - pkg:maven/io.github.mivek/metarParser-entities@2.17.2
 - pkg:maven/io.github.mivek/metarParser-entities@2.17.2?classifier=sources
+- pkg:maven/io.github.mivek/metarParser-entities@2.18.0
+- pkg:maven/io.github.mivek/metarParser-entities@2.18.0?classifier=sources
 - pkg:maven/io.github.mivek/metarParser-entities@2.2.0
 - pkg:maven/io.github.mivek/metarParser-entities@2.2.0?classifier=sources
 - pkg:maven/io.github.mivek/metarParser-entities@2.2.1

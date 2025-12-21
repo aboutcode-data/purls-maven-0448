@@ -6,3 +6,5 @@
 - pkg:maven/ai.starlake/starlake-core_2.13@1.3.3?classifier=sources
 - pkg:maven/ai.starlake/starlake-core_2.13@1.4.0
 - pkg:maven/ai.starlake/starlake-core_2.13@1.4.0?classifier=sources
+- pkg:maven/ai.starlake/starlake-core_2.13@1.5.0
+- pkg:maven/ai.starlake/starlake-core_2.13@1.5.0?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/org.opennms.features.provisioning/org.opennms.features.provisioning.api@33.1.4
 - pkg:maven/org.opennms.features.provisioning/org.opennms.features.provisioning.api@33.1.5
 - pkg:maven/org.opennms.features.provisioning/org.opennms.features.provisioning.api@33.1.6
+- pkg:maven/org.opennms.features.provisioning/org.opennms.features.provisioning.api@33.1.7

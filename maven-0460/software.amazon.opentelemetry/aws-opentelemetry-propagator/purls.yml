@@ -47,3 +47,5 @@
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@2.0.0?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@2.0.1?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@2.10.0?classifier=sources
+- pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@2.11.0?classifier=sources
+- pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-propagator@2.11.1?classifier=sources

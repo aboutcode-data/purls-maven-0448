@@ -1,3 +1,7 @@
+- pkg:maven/io.mateu/annotation-processor-micronaut@3.0-alpha.0100
+- pkg:maven/io.mateu/annotation-processor-micronaut@3.0-alpha.0100?classifier=sources
+- pkg:maven/io.mateu/annotation-processor-micronaut@3.0-alpha.101
+- pkg:maven/io.mateu/annotation-processor-micronaut@3.0-alpha.101?classifier=sources
 - pkg:maven/io.mateu/annotation-processor-micronaut@3.0-alpha.98
 - pkg:maven/io.mateu/annotation-processor-micronaut@3.0-alpha.98?classifier=sources
 - pkg:maven/io.mateu/annotation-processor-micronaut@3.0-alpha.99

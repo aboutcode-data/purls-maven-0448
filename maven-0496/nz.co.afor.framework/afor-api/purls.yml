@@ -88,3 +88,5 @@
 - pkg:maven/nz.co.afor.framework/afor-api@1.4.59?classifier=sources
 - pkg:maven/nz.co.afor.framework/afor-api@1.4.60
 - pkg:maven/nz.co.afor.framework/afor-api@1.4.60?classifier=sources
+- pkg:maven/nz.co.afor.framework/afor-api@1.4.61
+- pkg:maven/nz.co.afor.framework/afor-api@1.4.61?classifier=sources

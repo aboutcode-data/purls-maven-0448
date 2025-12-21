@@ -31,3 +31,4 @@
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform@1.9.6?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform@1.9.7?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform@1.9.8?classifier=sources
+- pkg:maven/io.github.kevinnzou/compose-webview-multiplatform@2.0.0?classifier=sources

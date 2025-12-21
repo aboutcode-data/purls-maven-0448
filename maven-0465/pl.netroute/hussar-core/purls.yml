@@ -15,3 +15,8 @@
 - pkg:maven/pl.netroute/hussar-core@2.1.0?classifier=sources
 - pkg:maven/pl.netroute/hussar-core@2.2.0?classifier=sources
 - pkg:maven/pl.netroute/hussar-core@2.3.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-core@2.4.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-core@2.5.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-core@3.0.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-core@3.1.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-core@3.2.0?classifier=sources

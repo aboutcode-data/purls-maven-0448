@@ -1,0 +1,2 @@
+- pkg:maven/io.github.arthurosncf/micrometer-registry-statsd-nofastretry@1.15.0-fork?classifier=sources
+- pkg:maven/io.github.arthurosncf/micrometer-registry-statsd-nofastretry@1.15.0?classifier=sources

@@ -66,6 +66,7 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.0.Final?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.1.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.1.Final?type=zip
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.11.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.2.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.2.Final?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.3.Final?classifier=sources
@@ -80,6 +81,8 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.7.Final?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.8.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.8.Final?type=zip
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.9.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@2.6.9.Final?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.0.M1?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.0.M1?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.0.M2?classifier=sources
@@ -106,3 +109,6 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.6?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.7?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.7?type=zip
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.8?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.8?type=zip
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.9?classifier=sources

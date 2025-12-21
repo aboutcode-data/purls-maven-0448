@@ -149,6 +149,8 @@
 - pkg:maven/org.apache.servicecomb/handler-bizkeeper@2.8.23?classifier=sources
 - pkg:maven/org.apache.servicecomb/handler-bizkeeper@2.8.24
 - pkg:maven/org.apache.servicecomb/handler-bizkeeper@2.8.24?classifier=sources
+- pkg:maven/org.apache.servicecomb/handler-bizkeeper@2.8.25
+- pkg:maven/org.apache.servicecomb/handler-bizkeeper@2.8.25?classifier=sources
 - pkg:maven/org.apache.servicecomb/handler-bizkeeper@2.8.2?classifier=sources
 - pkg:maven/org.apache.servicecomb/handler-bizkeeper@2.8.3
 - pkg:maven/org.apache.servicecomb/handler-bizkeeper@2.8.3?classifier=sources

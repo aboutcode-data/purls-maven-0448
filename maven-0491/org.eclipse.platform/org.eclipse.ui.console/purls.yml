@@ -24,6 +24,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.console@3.14.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.console@3.14.200
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.console@3.14.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.console@3.14.300
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.console@3.14.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.console@3.6.201
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.console@3.6.201?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.console@3.7.0

@@ -1,5 +1,6 @@
 - pkg:maven/fr.ird.observe/toolkit-i18n@10.0.7
 - pkg:maven/fr.ird.observe/toolkit-i18n@10.0.7?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-i18n@10.0.8?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-i18n@10.1.0
 - pkg:maven/fr.ird.observe/toolkit-i18n@10.1.0?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-i18n@5.0.0

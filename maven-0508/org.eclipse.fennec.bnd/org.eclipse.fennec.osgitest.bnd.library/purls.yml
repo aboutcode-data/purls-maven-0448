@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.fennec.bnd/org.eclipse.fennec.osgitest.bnd.library@0.0.1
+- pkg:maven/org.eclipse.fennec.bnd/org.eclipse.fennec.osgitest.bnd.library@0.0.1?classifier=sources

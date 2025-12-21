@@ -76,6 +76,7 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.2.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.20.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.20.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.20.1?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.3.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.3.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.packageresolver@4.3.1

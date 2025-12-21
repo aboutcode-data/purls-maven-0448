@@ -1,3 +1,4 @@
+- pkg:maven/com.palantir.tritium/tritium-ids@0.100.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-ids@0.76.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-ids@0.77.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-ids@0.78.0?classifier=sources

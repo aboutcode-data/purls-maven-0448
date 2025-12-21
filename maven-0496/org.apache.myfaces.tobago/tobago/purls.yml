@@ -131,3 +131,4 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago@6.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@6.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.tobago/tobago@6.7.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.tobago/tobago@6.8.0?classifier=source-release&type=zip

@@ -10,3 +10,4 @@
 - pkg:maven/org.eclipse.ecsp/association-common@0.1.4?classifier=sources
 - pkg:maven/org.eclipse.ecsp/association-common@1.0.0
 - pkg:maven/org.eclipse.ecsp/association-common@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/association-common@1.0.3?classifier=sources

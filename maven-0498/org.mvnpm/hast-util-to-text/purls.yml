@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/hast-util-to-text@4.0.2
+- pkg:maven/org.mvnpm/hast-util-to-text@4.0.2?classifier=sources

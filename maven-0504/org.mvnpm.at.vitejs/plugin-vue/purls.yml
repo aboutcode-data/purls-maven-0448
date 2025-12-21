@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm.at.vitejs/plugin-vue@5.1.4?classifier=sources
+- pkg:maven/org.mvnpm.at.vitejs/plugin-vue@5.2.4
+- pkg:maven/org.mvnpm.at.vitejs/plugin-vue@5.2.4?classifier=sources

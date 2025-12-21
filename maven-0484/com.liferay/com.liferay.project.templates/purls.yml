@@ -706,3 +706,5 @@
 - pkg:maven/com.liferay/com.liferay.project.templates@5.1.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates@5.1.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates@6.0.1?classifier=sources

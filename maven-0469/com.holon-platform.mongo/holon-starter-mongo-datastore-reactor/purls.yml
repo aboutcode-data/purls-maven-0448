@@ -10,3 +10,4 @@
 - pkg:maven/com.holon-platform.mongo/holon-starter-mongo-datastore-reactor@5.4.0
 - pkg:maven/com.holon-platform.mongo/holon-starter-mongo-datastore-reactor@5.5.0
 - pkg:maven/com.holon-platform.mongo/holon-starter-mongo-datastore-reactor@5.7.0
+- pkg:maven/com.holon-platform.mongo/holon-starter-mongo-datastore-reactor@6.0.0

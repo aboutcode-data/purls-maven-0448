@@ -1,0 +1,1 @@
+- pkg:maven/com.sonatype.central.testing.amazon/aws-swf-build-tools@2.0.0?classifier=sources

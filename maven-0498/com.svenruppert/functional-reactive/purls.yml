@@ -1,3 +1,5 @@
 - pkg:maven/com.svenruppert/functional-reactive@03.00.00?classifier=sources
 - pkg:maven/com.svenruppert/functional-reactive@06.00.06?classifier=sources
 - pkg:maven/com.svenruppert/functional-reactive@06.00.07?classifier=sources
+- pkg:maven/com.svenruppert/functional-reactive@06.00.08?classifier=sources
+- pkg:maven/com.svenruppert/functional-reactive@06.00.09?classifier=sources

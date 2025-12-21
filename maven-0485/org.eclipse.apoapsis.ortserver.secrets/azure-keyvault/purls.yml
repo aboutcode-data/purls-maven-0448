@@ -11,6 +11,9 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.1.0-RC8?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.1.0-RC9?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.1.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.10.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.11.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.12.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.4.0?classifier=sources
@@ -18,3 +21,4 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.6.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.7.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.8.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.secrets/azure-keyvault@0.9.0?classifier=sources

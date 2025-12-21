@@ -296,3 +296,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.api@8.2.6?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.api@8.2.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.api@8.2.8?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.api@9.0.0?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/io.opengood.extensions/kotest-extensions@2.5.0?classifier=sources
 - pkg:maven/io.opengood.extensions/kotest-extensions@2.6.0?classifier=sources
 - pkg:maven/io.opengood.extensions/kotest-extensions@2.7.0?classifier=sources
+- pkg:maven/io.opengood.extensions/kotest-extensions@2.8.0?classifier=sources

@@ -3,3 +3,7 @@
 - pkg:maven/org.rdlinux/ez-mybatis-java-demo@0.0.1.SNAPSHOTS
 - pkg:maven/org.rdlinux/ez-mybatis-java-demo@0.0.1.SNAPSHOTS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-java-demo@0.9.5.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-java-demo@0.9.5.plus352?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-java-demo@0.9.6.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-java-demo@0.9.6.plus352?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-java-demo@0.9.7.RS?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate-cli@6.1.1?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate-cli@6.1.2?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate-cli@7.0.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate-cli@7.0.1?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate-cli@7.0.3?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate-cli@7.0.4?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate-cli@8.0.0?classifier=sources

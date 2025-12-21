@@ -1,1 +1,11 @@
 - pkg:maven/io.spinnaker.kork/kork-docker@main-14?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-15?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-16?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-17?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-18?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-19?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-20?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-21?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-22?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-23?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-docker@main-24?classifier=sources

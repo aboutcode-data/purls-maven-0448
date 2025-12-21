@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/scalar__oas-utils@0.2.107
 - pkg:maven/org.webjars.npm/scalar__oas-utils@0.2.133
+- pkg:maven/org.webjars.npm/scalar__oas-utils@0.4.2
+- pkg:maven/org.webjars.npm/scalar__oas-utils@0.4.4

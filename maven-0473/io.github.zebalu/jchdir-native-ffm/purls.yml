@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zebalu/jchdir-native-ffm@0.0.2-RELEASE?classifier=sources
+- pkg:maven/io.github.zebalu/jchdir-native-ffm@1.0.0?classifier=sources

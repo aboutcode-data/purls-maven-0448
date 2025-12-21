@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/micromark@2.11.4?classifier=sources
+- pkg:maven/org.mvnpm/micromark@3.2.0
+- pkg:maven/org.mvnpm/micromark@3.2.0?classifier=sources
 - pkg:maven/org.mvnpm/micromark@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/micromark@4.0.2?classifier=sources

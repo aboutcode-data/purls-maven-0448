@@ -1,2 +1,3 @@
+- pkg:maven/build.linea/blob-shnarf-calculator@0.0.1-v20250610200556?classifier=sources
 - pkg:maven/build.linea/blob-shnarf-calculator@0.0.4?classifier=sources
 - pkg:maven/build.linea/blob-shnarf-calculator@1.2.0?classifier=sources

@@ -1,3 +1,9 @@
+- pkg:maven/com.github.javaclub/system-base@1.0.10
+- pkg:maven/com.github.javaclub/system-base@1.0.10-BEAUTY
+- pkg:maven/com.github.javaclub/system-base@1.0.10-BEAUTY?classifier=sources
+- pkg:maven/com.github.javaclub/system-base@1.0.10?classifier=sources
+- pkg:maven/com.github.javaclub/system-base@1.0.11
+- pkg:maven/com.github.javaclub/system-base@1.0.11?classifier=sources
 - pkg:maven/com.github.javaclub/system-base@1.0.2
 - pkg:maven/com.github.javaclub/system-base@1.0.2?classifier=sources
 - pkg:maven/com.github.javaclub/system-base@1.0.3

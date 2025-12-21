@@ -44,3 +44,5 @@
 - pkg:maven/com.holon-platform.jaxrs/documentation-jaxrs@5.5.0?classifier=sources
 - pkg:maven/com.holon-platform.jaxrs/documentation-jaxrs@5.7.0
 - pkg:maven/com.holon-platform.jaxrs/documentation-jaxrs@5.7.0?classifier=sources
+- pkg:maven/com.holon-platform.jaxrs/documentation-jaxrs@6.0.0
+- pkg:maven/com.holon-platform.jaxrs/documentation-jaxrs@6.0.0?classifier=sources

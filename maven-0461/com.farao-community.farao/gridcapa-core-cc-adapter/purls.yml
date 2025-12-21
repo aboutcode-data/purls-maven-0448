@@ -2,6 +2,7 @@
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.0.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.1.0
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.1.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.10.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.2.0
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.2.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.3.0
@@ -18,3 +19,4 @@
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.8.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.8.1
 - pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.8.1?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-core-cc-adapter@2.9.0?classifier=sources

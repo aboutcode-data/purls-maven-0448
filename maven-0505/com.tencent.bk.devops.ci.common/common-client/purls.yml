@@ -1,3 +1,4 @@
+- pkg:maven/com.tencent.bk.devops.ci.common/common-client@0.0.98?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/common-client@1.1.10-RELEASE
 - pkg:maven/com.tencent.bk.devops.ci.common/common-client@1.1.10-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/common-client@1.1.2-RELEASE
@@ -71,3 +72,4 @@
 - pkg:maven/com.tencent.bk.devops.ci.common/common-client@3.2.0-rc.4?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/common-client@3.2.0?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.common/common-client@4.0.0-rc.1?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.common/common-client@4.0.0-rc.2?classifier=sources
