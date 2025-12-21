@@ -65,6 +65,8 @@
 - pkg:maven/org.jboss.gm/analyzer@3.21?classifier=sources
 - pkg:maven/org.jboss.gm/analyzer@3.22
 - pkg:maven/org.jboss.gm/analyzer@3.22?classifier=sources
+- pkg:maven/org.jboss.gm/analyzer@3.23
+- pkg:maven/org.jboss.gm/analyzer@3.23?classifier=sources
 - pkg:maven/org.jboss.gm/analyzer@3.2?classifier=sources
 - pkg:maven/org.jboss.gm/analyzer@3.3
 - pkg:maven/org.jboss.gm/analyzer@3.3?classifier=sources

@@ -13,4 +13,6 @@
 - pkg:maven/com.leandronunes85.lfe/log-format-enforcer-generator@1.7
 - pkg:maven/com.leandronunes85.lfe/log-format-enforcer-generator@1.7.1
 - pkg:maven/com.leandronunes85.lfe/log-format-enforcer-generator@1.7.1?classifier=sources
+- pkg:maven/com.leandronunes85.lfe/log-format-enforcer-generator@1.7.2
+- pkg:maven/com.leandronunes85.lfe/log-format-enforcer-generator@1.7.2?classifier=sources
 - pkg:maven/com.leandronunes85.lfe/log-format-enforcer-generator@1.7?classifier=sources

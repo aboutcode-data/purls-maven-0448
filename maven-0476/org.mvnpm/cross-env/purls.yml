@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/cross-env@5.2.1?classifier=sources
+- pkg:maven/org.mvnpm/cross-env@7.0.3?classifier=sources

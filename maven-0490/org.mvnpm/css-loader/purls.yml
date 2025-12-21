@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/css-loader@0.26.4?classifier=sources
+- pkg:maven/org.mvnpm/css-loader@7.1.2?classifier=sources

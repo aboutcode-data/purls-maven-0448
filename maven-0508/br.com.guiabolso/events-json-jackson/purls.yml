@@ -6,3 +6,4 @@
 - pkg:maven/br.com.guiabolso/events-json-jackson@8.0.2?classifier=sources
 - pkg:maven/br.com.guiabolso/events-json-jackson@8.0.3?classifier=sources
 - pkg:maven/br.com.guiabolso/events-json-jackson@8.0.4?classifier=sources
+- pkg:maven/br.com.guiabolso/events-json-jackson@8.0.5?classifier=sources

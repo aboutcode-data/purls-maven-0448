@@ -1,0 +1,2 @@
+- pkg:maven/org.hjug.refactorfirst.dsm/dsm@0.7.0
+- pkg:maven/org.hjug.refactorfirst.dsm/dsm@0.7.0?classifier=sources

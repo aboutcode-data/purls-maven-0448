@@ -1,1 +1,2 @@
 - pkg:maven/com.ntt.skyway/libwebrtc@1.120.2?classifier=sources
+- pkg:maven/com.ntt.skyway/libwebrtc@1.120.3?classifier=sources

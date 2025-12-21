@@ -43,6 +43,9 @@
 - pkg:maven/org.maplibre.gl/android-sdk@11.8.0?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk@11.8.1?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk@11.8.2?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk@11.8.3?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk@11.8.4?classifier=sources
+- pkg:maven/org.maplibre.gl/android-sdk@11.8.5?classifier=sources
 - pkg:maven/org.maplibre.gl/android-sdk@9.2.1?type=aar
 - pkg:maven/org.maplibre.gl/android-sdk@9.3.0?type=aar
 - pkg:maven/org.maplibre.gl/android-sdk@9.4.0?type=aar

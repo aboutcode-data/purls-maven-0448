@@ -1,0 +1,2 @@
+- pkg:maven/org.danilopianini/npm-publish-gradle-plugin@4.0.0?classifier=sources
+- pkg:maven/org.danilopianini/npm-publish-gradle-plugin@4.0.1?classifier=sources

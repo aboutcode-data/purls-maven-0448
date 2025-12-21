@@ -16,3 +16,4 @@
 - pkg:maven/io.bidapp.networks/liftoff@2.3.0?classifier=sources
 - pkg:maven/io.bidapp.networks/liftoff@2.3.5?classifier=sources
 - pkg:maven/io.bidapp.networks/liftoff@2.4.0?classifier=sources
+- pkg:maven/io.bidapp.networks/liftoff@2.4.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/at.asitplus.wallet/healthid@2.0.0?classifier=sources
+- pkg:maven/at.asitplus.wallet/healthid@2.1.0?classifier=sources

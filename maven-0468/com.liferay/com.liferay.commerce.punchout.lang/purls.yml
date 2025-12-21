@@ -64,6 +64,7 @@
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@2.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@2.0.2
@@ -136,6 +137,7 @@
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@3.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@3.0.7
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.lang@3.0.7?classifier=sources-commercial

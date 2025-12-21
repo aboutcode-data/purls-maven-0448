@@ -97,3 +97,7 @@
 - pkg:maven/com.yandex.div/div-size-provider@31.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-size-provider@31.5.0?classifier=sources
 - pkg:maven/com.yandex.div/div-size-provider@31.5.1?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@31.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@31.7.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@31.8.0?classifier=sources
+- pkg:maven/com.yandex.div/div-size-provider@31.9.0?classifier=sources

@@ -89,6 +89,8 @@
 - pkg:maven/org.coldis.library/test@2.0.42?classifier=sources
 - pkg:maven/org.coldis.library/test@2.0.43
 - pkg:maven/org.coldis.library/test@2.0.43?classifier=sources
+- pkg:maven/org.coldis.library/test@2.0.44
+- pkg:maven/org.coldis.library/test@2.0.44?classifier=sources
 - pkg:maven/org.coldis.library/test@2.0.4?classifier=sources
 - pkg:maven/org.coldis.library/test@2.0.6
 - pkg:maven/org.coldis.library/test@2.0.6?classifier=sources

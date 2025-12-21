@@ -36,3 +36,7 @@
 - pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.401?classifier=sources
 - pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.402
 - pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.402?classifier=sources
+- pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.500
+- pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.500?classifier=sources
+- pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.501
+- pkg:maven/io.gatling/gatling-postman-jvm-to-js-adapter@3.13.501?classifier=sources

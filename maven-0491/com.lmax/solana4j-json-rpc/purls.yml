@@ -1,1 +1,2 @@
 - pkg:maven/com.lmax/solana4j-json-rpc@1.1.0?classifier=sources
+- pkg:maven/com.lmax/solana4j-json-rpc@1.1.1?classifier=sources

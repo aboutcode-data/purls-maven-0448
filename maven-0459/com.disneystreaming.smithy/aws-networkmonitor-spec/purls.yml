@@ -1,0 +1,2 @@
+- pkg:maven/com.disneystreaming.smithy/aws-networkmonitor-spec@2025.03.31
+- pkg:maven/com.disneystreaming.smithy/aws-networkmonitor-spec@2025.03.31?classifier=sources

@@ -120,3 +120,4 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-dotnet@3.297?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-dotnet@3.298?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-dotnet@3.299?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-dotnet@3.300?classifier=sources

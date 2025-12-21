@@ -1,0 +1,4 @@
+- pkg:maven/uk.gov.service.payments/model-dropwizard-4@1.0.20250331150304
+- pkg:maven/uk.gov.service.payments/model-dropwizard-4@1.0.20250331150304?classifier=sources
+- pkg:maven/uk.gov.service.payments/model-dropwizard-4@1.0.20250331151154
+- pkg:maven/uk.gov.service.payments/model-dropwizard-4@1.0.20250331151154?classifier=sources

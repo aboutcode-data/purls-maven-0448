@@ -2,3 +2,4 @@
 - pkg:maven/org.keycloak/keycloak-themes-vendor@26.1.1
 - pkg:maven/org.keycloak/keycloak-themes-vendor@26.1.2
 - pkg:maven/org.keycloak/keycloak-themes-vendor@26.1.3
+- pkg:maven/org.keycloak/keycloak-themes-vendor@26.1.4

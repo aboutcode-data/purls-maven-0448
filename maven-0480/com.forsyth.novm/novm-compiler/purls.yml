@@ -1,0 +1,4 @@
+- pkg:maven/com.forsyth.novm/novm-compiler@0.8.0?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-compiler@0.9.0?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-compiler@1.0.0?classifier=sources
+- pkg:maven/com.forsyth.novm/novm-compiler@1.0.2?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/io.spinnaker.echo/echo-notifications@2.44.2?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-notifications@2.44.3?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-notifications@2.44.4?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-notifications@2.44.5?classifier=sources

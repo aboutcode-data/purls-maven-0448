@@ -54,3 +54,5 @@
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-core@7.3.9?classifier=sources
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-core@8.0.2
 - pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-core@8.0.2?classifier=sources
+- pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-core@8.1.0
+- pkg:maven/com.expediagroup.apiary/apiary-privileges-grantor-core@8.1.0?classifier=sources

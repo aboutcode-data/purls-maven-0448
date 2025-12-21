@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/compression@1.7.3?classifier=sources
+- pkg:maven/org.mvnpm/compression@1.7.4?classifier=sources
+- pkg:maven/org.mvnpm/compression@1.8.0?classifier=sources

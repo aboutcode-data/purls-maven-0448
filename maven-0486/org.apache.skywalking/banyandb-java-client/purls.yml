@@ -49,6 +49,7 @@
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.7.0-rc4?classifier=sources
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.7.0?classifier=sources
+- pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc0
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc0?classifier=source-release&type=zip
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc0?classifier=sources
@@ -58,3 +59,8 @@
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc2
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc2?classifier=source-release&type=zip
 - pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc2?classifier=sources
+- pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc3
+- pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc3?classifier=source-release&type=zip
+- pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0-rc3?classifier=sources
+- pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.skywalking/banyandb-java-client@0.8.0?classifier=sources

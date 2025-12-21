@@ -10,3 +10,4 @@
 - pkg:maven/org.mvnpm/keycloak-js@26.0.7?classifier=sources
 - pkg:maven/org.mvnpm/keycloak-js@26.0.8?classifier=sources
 - pkg:maven/org.mvnpm/keycloak-js@26.1.0?classifier=sources
+- pkg:maven/org.mvnpm/keycloak-js@26.1.4?classifier=sources

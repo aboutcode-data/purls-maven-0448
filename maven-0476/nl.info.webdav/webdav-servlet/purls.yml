@@ -36,7 +36,13 @@
 - pkg:maven/nl.info.webdav/webdav-servlet@1.2.136?classifier=sources
 - pkg:maven/nl.info.webdav/webdav-servlet@1.2.137?classifier=sources
 - pkg:maven/nl.info.webdav/webdav-servlet@1.2.138?classifier=sources
+- pkg:maven/nl.info.webdav/webdav-servlet@1.2.139?classifier=sources
 - pkg:maven/nl.info.webdav/webdav-servlet@1.2.13?classifier=sources
+- pkg:maven/nl.info.webdav/webdav-servlet@1.2.140?classifier=sources
+- pkg:maven/nl.info.webdav/webdav-servlet@1.2.141?classifier=sources
+- pkg:maven/nl.info.webdav/webdav-servlet@1.2.142?classifier=sources
+- pkg:maven/nl.info.webdav/webdav-servlet@1.2.143?classifier=sources
+- pkg:maven/nl.info.webdav/webdav-servlet@1.2.144?classifier=sources
 - pkg:maven/nl.info.webdav/webdav-servlet@1.2.15?classifier=sources
 - pkg:maven/nl.info.webdav/webdav-servlet@1.2.16?classifier=sources
 - pkg:maven/nl.info.webdav/webdav-servlet@1.2.18?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/merge-options@1.0.1?classifier=sources
+- pkg:maven/org.mvnpm/merge-options@3.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/acorn-globals@1.0.9?classifier=sources
+- pkg:maven/org.mvnpm/acorn-globals@7.0.1?classifier=sources

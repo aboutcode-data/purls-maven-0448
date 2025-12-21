@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm/preact@10.12.1?classifier=sources
 - pkg:maven/org.mvnpm/preact@10.19.6?classifier=sources
 - pkg:maven/org.mvnpm/preact@10.23.2?classifier=sources
+- pkg:maven/org.mvnpm/preact@10.26.4?classifier=sources

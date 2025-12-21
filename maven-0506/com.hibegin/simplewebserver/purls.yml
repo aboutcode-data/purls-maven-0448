@@ -304,6 +304,12 @@
 - pkg:maven/com.hibegin/simplewebserver@0.3.171?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver@0.3.172
 - pkg:maven/com.hibegin/simplewebserver@0.3.172?classifier=sources
+- pkg:maven/com.hibegin/simplewebserver@0.3.173
+- pkg:maven/com.hibegin/simplewebserver@0.3.173?classifier=sources
+- pkg:maven/com.hibegin/simplewebserver@0.3.174
+- pkg:maven/com.hibegin/simplewebserver@0.3.174?classifier=sources
+- pkg:maven/com.hibegin/simplewebserver@0.3.175
+- pkg:maven/com.hibegin/simplewebserver@0.3.175?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver@0.3.18
 - pkg:maven/com.hibegin/simplewebserver@0.3.18?classifier=sources
 - pkg:maven/com.hibegin/simplewebserver@0.3.19

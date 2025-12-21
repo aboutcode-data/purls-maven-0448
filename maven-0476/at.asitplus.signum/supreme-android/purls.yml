@@ -12,3 +12,4 @@
 - pkg:maven/at.asitplus.signum/supreme-android@0.6.3?classifier=sources
 - pkg:maven/at.asitplus.signum/supreme-android@0.6.4?classifier=sources
 - pkg:maven/at.asitplus.signum/supreme-android@0.7.0?classifier=sources
+- pkg:maven/at.asitplus.signum/supreme-android@0.7.2?classifier=sources

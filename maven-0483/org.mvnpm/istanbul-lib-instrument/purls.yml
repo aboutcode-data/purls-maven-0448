@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/istanbul-lib-instrument@4.0.3?classifier=sources
+- pkg:maven/org.mvnpm/istanbul-lib-instrument@6.0.3?classifier=sources

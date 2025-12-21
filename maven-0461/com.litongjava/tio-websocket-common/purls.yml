@@ -70,3 +70,5 @@
 - pkg:maven/com.litongjava/tio-websocket-common@3.7.3.v20250101-RELEASE?classifier=sources
 - pkg:maven/com.litongjava/tio-websocket-common@3.7.3.v20250301-RELEASE
 - pkg:maven/com.litongjava/tio-websocket-common@3.7.3.v20250301-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-websocket-common@3.7.3.v20250401-RELEASE
+- pkg:maven/com.litongjava/tio-websocket-common@3.7.3.v20250401-RELEASE?classifier=sources

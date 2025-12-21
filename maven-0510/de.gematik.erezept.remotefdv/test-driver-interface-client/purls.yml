@@ -1,0 +1,6 @@
+- pkg:maven/de.gematik.erezept.remotefdv/test-driver-interface-client@0.16.0
+- pkg:maven/de.gematik.erezept.remotefdv/test-driver-interface-client@0.16.0?classifier=sources
+- pkg:maven/de.gematik.erezept.remotefdv/test-driver-interface-client@1.0.0
+- pkg:maven/de.gematik.erezept.remotefdv/test-driver-interface-client@1.0.0?classifier=sources
+- pkg:maven/de.gematik.erezept.remotefdv/test-driver-interface-client@1.0.1
+- pkg:maven/de.gematik.erezept.remotefdv/test-driver-interface-client@1.0.1?classifier=sources

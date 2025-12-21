@@ -96,6 +96,8 @@
 - pkg:maven/org.apache.activemq/activemq-leveldb-store@5.16.6?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-leveldb-store@5.16.7
 - pkg:maven/org.apache.activemq/activemq-leveldb-store@5.16.7?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-leveldb-store@5.16.8
+- pkg:maven/org.apache.activemq/activemq-leveldb-store@5.16.8?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-leveldb-store@5.8.0
 - pkg:maven/org.apache.activemq/activemq-leveldb-store@5.8.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-leveldb-store@5.9.0

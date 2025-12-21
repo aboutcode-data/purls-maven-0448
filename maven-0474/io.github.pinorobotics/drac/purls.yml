@@ -1,1 +1,2 @@
 - pkg:maven/io.github.pinorobotics/drac@1.0?classifier=sources
+- pkg:maven/io.github.pinorobotics/drac@2.0?classifier=sources

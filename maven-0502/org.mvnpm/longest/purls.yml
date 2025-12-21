@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/longest@1.0.1?classifier=sources
+- pkg:maven/org.mvnpm/longest@2.0.1?classifier=sources

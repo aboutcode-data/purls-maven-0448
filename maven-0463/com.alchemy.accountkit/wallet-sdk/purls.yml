@@ -1,0 +1,2 @@
+- pkg:maven/com.alchemy.accountkit/wallet-sdk@0.1.1-alpha?classifier=sources
+- pkg:maven/com.alchemy.accountkit/wallet-sdk@0.1.2-alpha.0?classifier=sources

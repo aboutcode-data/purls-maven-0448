@@ -10,3 +10,4 @@
 - pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@3.0.9?classifier=sources
 - pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@4.0.0?classifier=sources
 - pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@4.0.1?classifier=sources
+- pkg:maven/name.remal.idea-settings/name.remal.idea-settings.gradle.plugin@4.0.2?classifier=sources

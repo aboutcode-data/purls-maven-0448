@@ -1,3 +1,4 @@
 - pkg:maven/com.gruelbox/transactionoutbox-virtthreads@5.5.447
 - pkg:maven/com.gruelbox/transactionoutbox-virtthreads@6.0.535
 - pkg:maven/com.gruelbox/transactionoutbox-virtthreads@6.0.553
+- pkg:maven/com.gruelbox/transactionoutbox-virtthreads@6.0.585

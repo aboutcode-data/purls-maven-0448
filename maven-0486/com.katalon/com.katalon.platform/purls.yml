@@ -27,6 +27,12 @@
 - pkg:maven/com.katalon/com.katalon.platform@1.0.20?classifier=sources
 - pkg:maven/com.katalon/com.katalon.platform@1.0.21
 - pkg:maven/com.katalon/com.katalon.platform@1.0.21?classifier=sources
+- pkg:maven/com.katalon/com.katalon.platform@1.0.22
+- pkg:maven/com.katalon/com.katalon.platform@1.0.22-beta.1
+- pkg:maven/com.katalon/com.katalon.platform@1.0.22-beta.1?classifier=sources
+- pkg:maven/com.katalon/com.katalon.platform@1.0.22.beta1
+- pkg:maven/com.katalon/com.katalon.platform@1.0.22.beta1?classifier=sources
+- pkg:maven/com.katalon/com.katalon.platform@1.0.22?classifier=sources
 - pkg:maven/com.katalon/com.katalon.platform@1.0.2?classifier=sources
 - pkg:maven/com.katalon/com.katalon.platform@1.0.4
 - pkg:maven/com.katalon/com.katalon.platform@1.0.4?classifier=sources

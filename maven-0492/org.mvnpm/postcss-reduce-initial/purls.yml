@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/postcss-reduce-initial@1.0.1?classifier=sources
+- pkg:maven/org.mvnpm/postcss-reduce-initial@7.0.2?classifier=sources

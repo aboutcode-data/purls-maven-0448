@@ -24,3 +24,6 @@
 - pkg:maven/com.revenuecat.purchases/purchases-kmp-ui-iosarm64@1.6.0%2B13.19.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-kmp-ui-iosarm64@1.6.1%2B13.21.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-kmp-ui-iosarm64@1.6.2%2B13.22.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-kmp-ui-iosarm64@1.7.0%2B13.24.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-kmp-ui-iosarm64@1.7.1%2B13.25.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-kmp-ui-iosarm64@1.7.2%2B13.26.0?classifier=sources

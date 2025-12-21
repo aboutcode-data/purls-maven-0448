@@ -13,6 +13,8 @@
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@2.6.0
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@2.7.0
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@2.8.0
+- pkg:maven/io.github.ableron/ableron-spring-boot-starter@2.9.0
+- pkg:maven/io.github.ableron/ableron-spring-boot-starter@2.9.0?classifier=sources
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@3.0.0
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@3.0.1
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@3.0.2
@@ -27,3 +29,5 @@
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@3.6.0
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@3.7.0
 - pkg:maven/io.github.ableron/ableron-spring-boot-starter@3.8.0
+- pkg:maven/io.github.ableron/ableron-spring-boot-starter@3.9.0
+- pkg:maven/io.github.ableron/ableron-spring-boot-starter@3.9.0?classifier=sources

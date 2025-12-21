@@ -62,6 +62,10 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-api-java@13.5.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-api-java@13.6.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-api-java@13.7.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-api-java@13.8.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-api-java@13.9.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-api-java@13.9.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-api-java@13.9.2?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-api-java@2.2.1
 - pkg:maven/com.infobip/infobip-mobile-messaging-api-java@2.2.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-api-java@2.3.0

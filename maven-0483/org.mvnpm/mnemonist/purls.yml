@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/mnemonist@0.39.8?classifier=sources
+- pkg:maven/org.mvnpm/mnemonist@0.40.3?classifier=sources

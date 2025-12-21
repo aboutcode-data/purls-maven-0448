@@ -55,3 +55,7 @@
 - pkg:maven/org.mvnpm.at.angular/compiler@19.1.8?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/compiler@19.2.0?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/compiler@19.2.1?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/compiler@19.2.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/compiler@19.2.3?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/compiler@19.2.4?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/compiler@2.4.10?classifier=sources

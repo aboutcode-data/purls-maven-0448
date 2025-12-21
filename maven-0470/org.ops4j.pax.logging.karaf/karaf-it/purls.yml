@@ -20,6 +20,7 @@
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@1.12.1
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@1.12.10
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@1.12.11
+- pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@1.12.12
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@1.12.2
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@1.12.3
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@1.12.4
@@ -62,3 +63,5 @@
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@2.2.6
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@2.2.7
 - pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@2.2.8
+- pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@2.2.9
+- pkg:maven/org.ops4j.pax.logging.karaf/karaf-it@2.3.0

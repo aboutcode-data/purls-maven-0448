@@ -21,3 +21,4 @@
 - pkg:maven/com.xtdb/xtdb-google-cloud-storage@1.24.2
 - pkg:maven/com.xtdb/xtdb-google-cloud-storage@1.24.3
 - pkg:maven/com.xtdb/xtdb-google-cloud-storage@1.24.4
+- pkg:maven/com.xtdb/xtdb-google-cloud-storage@1.24.5

@@ -1,3 +1,6 @@
 - pkg:maven/com.clean-arch-enablers/cae-http-client@1.0.0?classifier=sources
 - pkg:maven/com.clean-arch-enablers/cae-http-client@1.1.0?classifier=sources
 - pkg:maven/com.clean-arch-enablers/cae-http-client@2.0.0?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-http-client@2.1.0?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-http-client@2.2.0?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-http-client@2.2.1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/top.rwocj/wxpay-okhttp-common@0.16-javax
 - pkg:maven/top.rwocj/wxpay-okhttp-common@0.16-javax?classifier=sources
 - pkg:maven/top.rwocj/wxpay-okhttp-common@0.16?classifier=sources
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.17-javax
+- pkg:maven/top.rwocj/wxpay-okhttp-common@0.17-javax?classifier=sources

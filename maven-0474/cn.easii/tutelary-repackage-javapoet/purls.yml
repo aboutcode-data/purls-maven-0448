@@ -1,0 +1,2 @@
+- pkg:maven/cn.easii/tutelary-repackage-javapoet@1.0.5
+- pkg:maven/cn.easii/tutelary-repackage-javapoet@1.0.5?classifier=sources

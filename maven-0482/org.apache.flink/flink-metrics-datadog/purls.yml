@@ -164,3 +164,5 @@
 - pkg:maven/org.apache.flink/flink-metrics-datadog@1.9.3?classifier=sources
 - pkg:maven/org.apache.flink/flink-metrics-datadog@2.0-preview1
 - pkg:maven/org.apache.flink/flink-metrics-datadog@2.0-preview1?classifier=sources
+- pkg:maven/org.apache.flink/flink-metrics-datadog@2.0.0
+- pkg:maven/org.apache.flink/flink-metrics-datadog@2.0.0?classifier=sources

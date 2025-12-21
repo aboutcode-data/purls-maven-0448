@@ -10,6 +10,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.13.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.14.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.15.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.16.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.2.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jackson@0.3.0?classifier=sources

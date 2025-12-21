@@ -1,1 +1,2 @@
 - pkg:maven/io.github.igor-g-f/dep-bundler@1.0.0?classifier=sources
+- pkg:maven/io.github.igor-g-f/dep-bundler@2.0.0?classifier=sources
