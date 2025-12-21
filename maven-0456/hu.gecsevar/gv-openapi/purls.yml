@@ -6,3 +6,4 @@
 - pkg:maven/hu.gecsevar/gv-openapi@1.8.2?classifier=sources
 - pkg:maven/hu.gecsevar/gv-openapi@2.0.0?classifier=sources
 - pkg:maven/hu.gecsevar/gv-openapi@2.1.0?classifier=sources
+- pkg:maven/hu.gecsevar/gv-openapi@2.3.0?classifier=sources

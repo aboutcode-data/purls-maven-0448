@@ -180,3 +180,4 @@
 - pkg:maven/io.grpc/grpc-alts@1.73.0?classifier=sources
 - pkg:maven/io.grpc/grpc-alts@1.74.0?classifier=sources
 - pkg:maven/io.grpc/grpc-alts@1.75.0?classifier=sources
+- pkg:maven/io.grpc/grpc-alts@1.76.0?classifier=sources

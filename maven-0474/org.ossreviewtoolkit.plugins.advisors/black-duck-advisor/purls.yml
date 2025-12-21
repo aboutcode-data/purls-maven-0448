@@ -49,3 +49,7 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@68.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@68.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@69.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@69.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor@70.1.0?classifier=sources

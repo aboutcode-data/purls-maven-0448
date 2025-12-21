@@ -1,1 +1,2 @@
 - pkg:maven/org.noear.water/water.utils@2.17.0?classifier=sources
+- pkg:maven/org.noear.water/water.utils@2.18.0?classifier=sources

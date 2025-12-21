@@ -21,3 +21,4 @@
 - pkg:maven/com.marklogic/ml-app-deployer@5.0.0?classifier=sources
 - pkg:maven/com.marklogic/ml-app-deployer@6.0.0
 - pkg:maven/com.marklogic/ml-app-deployer@6.0.0?classifier=sources
+- pkg:maven/com.marklogic/ml-app-deployer@6.0.1?classifier=sources

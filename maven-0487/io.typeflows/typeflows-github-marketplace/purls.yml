@@ -11,3 +11,8 @@
 - pkg:maven/io.typeflows/typeflows-github-marketplace@0.22.0-beta?classifier=sources
 - pkg:maven/io.typeflows/typeflows-github-marketplace@0.23.0-beta?classifier=sources
 - pkg:maven/io.typeflows/typeflows-github-marketplace@0.24.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-github-marketplace@0.25.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-github-marketplace@0.26.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-github-marketplace@0.27.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-github-marketplace@0.28.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-github-marketplace@0.29.0-beta?classifier=sources

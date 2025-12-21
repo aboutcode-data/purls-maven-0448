@@ -1,5 +1,7 @@
+- pkg:maven/net.thingsthinking/tt-platform-server-dtos@10.0.0?classifier=sources
 - pkg:maven/net.thingsthinking/tt-platform-server-dtos@9.10.0?classifier=sources
 - pkg:maven/net.thingsthinking/tt-platform-server-dtos@9.11.0?classifier=sources
+- pkg:maven/net.thingsthinking/tt-platform-server-dtos@9.12.0?classifier=sources
 - pkg:maven/net.thingsthinking/tt-platform-server-dtos@9.6.1?classifier=sources
 - pkg:maven/net.thingsthinking/tt-platform-server-dtos@9.6.2?classifier=sources
 - pkg:maven/net.thingsthinking/tt-platform-server-dtos@9.7.1?classifier=sources

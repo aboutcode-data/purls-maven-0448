@@ -7,3 +7,4 @@
 - pkg:maven/com.ustermetrics/clarabel4j@1.0.2
 - pkg:maven/com.ustermetrics/clarabel4j@1.0.2?classifier=sources
 - pkg:maven/com.ustermetrics/clarabel4j@2.0.0?classifier=sources
+- pkg:maven/com.ustermetrics/clarabel4j@3.0.0?classifier=sources

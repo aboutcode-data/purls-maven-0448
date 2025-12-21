@@ -135,3 +135,8 @@
 - pkg:maven/org.signal/libsignal-client@0.81.0?classifier=sources
 - pkg:maven/org.signal/libsignal-client@0.81.1?classifier=sources
 - pkg:maven/org.signal/libsignal-client@0.82.0?classifier=sources
+- pkg:maven/org.signal/libsignal-client@0.82.1?classifier=sources
+- pkg:maven/org.signal/libsignal-client@0.83.0?classifier=sources
+- pkg:maven/org.signal/libsignal-client@0.84.0?classifier=sources
+- pkg:maven/org.signal/libsignal-client@0.85.0?classifier=sources
+- pkg:maven/org.signal/libsignal-client@0.85.1?classifier=sources

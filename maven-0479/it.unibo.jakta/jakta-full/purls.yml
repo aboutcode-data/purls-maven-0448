@@ -4,8 +4,11 @@
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B314bf92?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B4f34599?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B541ae01?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B56e3e77?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B59dcabe?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B5ddc92e?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B67bd1ed?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B799362c?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B7a6c2da?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B88bba12?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2B8a6ec5e?classifier=sources
@@ -18,6 +21,7 @@
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2Bb201164?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2Bb69f92f?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2Bce36e18?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2Bcfafb15?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2Bd48620c?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2Bd70e72e?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-full@0.1.0-archeo%2Bdf41e8f?classifier=sources

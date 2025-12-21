@@ -2,3 +2,4 @@
 - pkg:maven/com.pierfrancescosoffritti.androidyoutubeplayer/custom-ui@12.1.0?classifier=sources
 - pkg:maven/com.pierfrancescosoffritti.androidyoutubeplayer/custom-ui@12.1.1?classifier=sources
 - pkg:maven/com.pierfrancescosoffritti.androidyoutubeplayer/custom-ui@12.1.2?classifier=sources
+- pkg:maven/com.pierfrancescosoffritti.androidyoutubeplayer/custom-ui@13.0.0?classifier=sources

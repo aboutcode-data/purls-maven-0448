@@ -1,0 +1,2 @@
+- pkg:maven/org.v2u/stupidql@1.2.1?classifier=sources
+- pkg:maven/org.v2u/stupidql@1.2.2?classifier=sources

@@ -17,6 +17,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-urlfragment@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@6.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@6.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-urlfragment@6.11.0

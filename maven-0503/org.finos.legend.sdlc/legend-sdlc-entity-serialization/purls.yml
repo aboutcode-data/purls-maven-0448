@@ -403,6 +403,8 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.204.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.205.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.206.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.207.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.207.1?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.21.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.21.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-entity-serialization@0.22.0

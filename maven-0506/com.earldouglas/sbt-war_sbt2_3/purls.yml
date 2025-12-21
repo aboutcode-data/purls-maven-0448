@@ -1,2 +1,4 @@
 - pkg:maven/com.earldouglas/sbt-war_sbt2_3@5.1.0
 - pkg:maven/com.earldouglas/sbt-war_sbt2_3@5.1.0?classifier=sources
+- pkg:maven/com.earldouglas/sbt-war_sbt2_3@5.1.1
+- pkg:maven/com.earldouglas/sbt-war_sbt2_3@5.1.1?classifier=sources

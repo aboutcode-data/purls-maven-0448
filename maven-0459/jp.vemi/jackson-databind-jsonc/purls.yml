@@ -1,0 +1,2 @@
+- pkg:maven/jp.vemi/jackson-databind-jsonc@1.0.4?classifier=sources
+- pkg:maven/jp.vemi/jackson-databind-jsonc@1.0.5?classifier=sources

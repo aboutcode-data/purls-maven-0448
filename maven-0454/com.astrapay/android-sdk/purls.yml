@@ -49,3 +49,5 @@
 - pkg:maven/com.astrapay/android-sdk@3.2.7?classifier=sources
 - pkg:maven/com.astrapay/android-sdk@3.2.8?classifier=sources
 - pkg:maven/com.astrapay/android-sdk@3.2.9?classifier=sources
+- pkg:maven/com.astrapay/android-sdk@3.3.0?classifier=sources
+- pkg:maven/com.astrapay/android-sdk@3.3.1?classifier=sources

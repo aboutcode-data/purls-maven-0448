@@ -1,2 +1,4 @@
+- pkg:maven/io.camunda.connector/connector-object-mapper@8.8.0
 - pkg:maven/io.camunda.connector/connector-object-mapper@8.8.0-alpha8
 - pkg:maven/io.camunda.connector/connector-object-mapper@8.8.0-alpha8?classifier=sources
+- pkg:maven/io.camunda.connector/connector-object-mapper@8.8.0?classifier=sources

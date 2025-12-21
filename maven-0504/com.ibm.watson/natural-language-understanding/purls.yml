@@ -21,6 +21,7 @@
 - pkg:maven/com.ibm.watson/natural-language-understanding@14.0.2
 - pkg:maven/com.ibm.watson/natural-language-understanding@14.0.2?classifier=sources
 - pkg:maven/com.ibm.watson/natural-language-understanding@15.0.0?classifier=sources
+- pkg:maven/com.ibm.watson/natural-language-understanding@16.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/natural-language-understanding@7.0.0
 - pkg:maven/com.ibm.watson/natural-language-understanding@7.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/natural-language-understanding@7.1.0

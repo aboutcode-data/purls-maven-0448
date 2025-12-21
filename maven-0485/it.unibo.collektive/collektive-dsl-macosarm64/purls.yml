@@ -82,3 +82,10 @@
 - pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.1.0?classifier=sources
 - pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.1.1-dev01%2B21773745?classifier=sources
 - pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.1.1-dev04%2B52051a35?classifier=sources
+- pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.1.1-dev0a%2B85cce718?classifier=sources
+- pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.1.1-dev0c%2B990f4a97?classifier=sources
+- pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.1.1-dev0f%2B9f769de4?classifier=sources
+- pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.1.1-dev0g%2B60710eff?classifier=sources
+- pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.1.1-dev0s%2Bc5deb93b?classifier=sources
+- pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.2.0?classifier=sources
+- pkg:maven/it.unibo.collektive/collektive-dsl-macosarm64@27.3.0?classifier=sources

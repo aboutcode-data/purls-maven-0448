@@ -112,3 +112,5 @@
 - pkg:maven/berlin.yuna/csv-streamer@2025.08.2421323?classifier=sources
 - pkg:maven/berlin.yuna/csv-streamer@2025.09.2551327?classifier=sources
 - pkg:maven/berlin.yuna/csv-streamer@2025.09.2561321?classifier=sources
+- pkg:maven/berlin.yuna/csv-streamer@2025.09.2651330?classifier=sources
+- pkg:maven/berlin.yuna/csv-streamer@2025.10.2851323?classifier=sources

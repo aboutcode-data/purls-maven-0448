@@ -1,0 +1,2 @@
+- pkg:maven/org.opensearch/example-system-search-processor@3.3.0?classifier=sources
+- pkg:maven/org.opensearch/example-system-search-processor@3.3.1?classifier=sources

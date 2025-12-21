@@ -32,6 +32,9 @@
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1-0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1-10?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1-11?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@2025.1-12?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@2025.1-13?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@2025.1-14?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1-1?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1-2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1-3?classifier=sources
@@ -46,9 +49,13 @@
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1.3?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.1.4?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@2025.1.5?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.2-0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.2-1?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.2-2?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@2025.2-3?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@2025.2-4?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@2025.2-5?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.2.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.2.1?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@2025.2.2?classifier=sources
@@ -306,5 +313,10 @@
 - pkg:maven/io.spinnaker.kork/kork-proto@main-85?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@main-86?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@main-87?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@main-88?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@main-89?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@main-8?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@main-90?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@main-91?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-proto@main-92?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-proto@main-9?classifier=sources

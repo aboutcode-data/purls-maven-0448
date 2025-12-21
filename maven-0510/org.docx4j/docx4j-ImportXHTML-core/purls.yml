@@ -8,3 +8,5 @@
 - pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.5.4?classifier=sources
 - pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.5.5
 - pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.5.5?classifier=sources
+- pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.5.6
+- pkg:maven/org.docx4j/docx4j-ImportXHTML-core@11.5.6?classifier=sources

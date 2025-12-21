@@ -45,6 +45,7 @@
 - pkg:maven/io.moneyhash/MoneyHashShared-android@55a4a48?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@566be7f?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@5699502?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared-android@5a13d14?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@5de4945?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@5eb3aa9?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared-android@5fb29f3?classifier=sources

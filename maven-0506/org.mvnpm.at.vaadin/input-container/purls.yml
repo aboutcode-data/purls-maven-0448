@@ -12,6 +12,8 @@
 - pkg:maven/org.mvnpm.at.vaadin/input-container@23.6.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/input-container@23.6.1
 - pkg:maven/org.mvnpm.at.vaadin/input-container@23.6.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/input-container@23.6.2
+- pkg:maven/org.mvnpm.at.vaadin/input-container@23.6.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.0.14?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.0.2?classifier=sources
@@ -106,7 +108,11 @@
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.6?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.7
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.7?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.9
+- pkg:maven/org.mvnpm.at.vaadin/input-container@24.8.9?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.9.0
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.9.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.9.1
 - pkg:maven/org.mvnpm.at.vaadin/input-container@24.9.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/input-container@24.9.2
+- pkg:maven/org.mvnpm.at.vaadin/input-container@24.9.2?classifier=sources

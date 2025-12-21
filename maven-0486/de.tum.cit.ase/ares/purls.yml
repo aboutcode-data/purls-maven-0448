@@ -3,3 +3,5 @@
 - pkg:maven/de.tum.cit.ase/ares@2.0.0-Beta-3?classifier=sources
 - pkg:maven/de.tum.cit.ase/ares@2.0.0-Beta-4?classifier=sources
 - pkg:maven/de.tum.cit.ase/ares@2.0.0?classifier=sources
+- pkg:maven/de.tum.cit.ase/ares@2.0.1-Beta3?classifier=sources
+- pkg:maven/de.tum.cit.ase/ares@2.0.1-Beta?classifier=sources

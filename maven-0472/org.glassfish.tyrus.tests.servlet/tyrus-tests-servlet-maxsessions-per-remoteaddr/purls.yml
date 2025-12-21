@@ -64,6 +64,7 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.0.6?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.0.7?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.0.7?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.0.8?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.1.0-M1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.1.0-M1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.1.0-M2?classifier=sources
@@ -82,6 +83,7 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.1.4?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.1.5?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.1.5?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.1.6?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.2.0-M1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.2.0-M1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-maxsessions-per-remoteaddr@2.2.0?classifier=sources

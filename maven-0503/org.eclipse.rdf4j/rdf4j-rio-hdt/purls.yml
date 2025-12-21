@@ -171,3 +171,4 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-rio-hdt@5.1.4?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-rio-hdt@5.1.5?classifier=sources
 - pkg:maven/org.eclipse.rdf4j/rdf4j-rio-hdt@5.1.6?classifier=sources
+- pkg:maven/org.eclipse.rdf4j/rdf4j-rio-hdt@5.2.0?classifier=sources

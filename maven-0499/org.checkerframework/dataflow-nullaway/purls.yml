@@ -52,3 +52,4 @@
 - pkg:maven/org.checkerframework/dataflow-nullaway@3.49.5?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-nullaway@3.50.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-nullaway@3.51.0?classifier=sources
+- pkg:maven/org.checkerframework/dataflow-nullaway@3.51.1?classifier=sources

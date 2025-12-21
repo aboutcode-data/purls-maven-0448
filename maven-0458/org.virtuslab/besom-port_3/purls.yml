@@ -4,6 +4,8 @@
 - pkg:maven/org.virtuslab/besom-port_3@1.10.5-core.0.3?classifier=sources
 - pkg:maven/org.virtuslab/besom-port_3@1.10.6-core.0.3
 - pkg:maven/org.virtuslab/besom-port_3@1.10.6-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-port_3@1.10.6-core.0.5
+- pkg:maven/org.virtuslab/besom-port_3@1.10.6-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-port_3@1.6.0-core.0.1.0
 - pkg:maven/org.virtuslab/besom-port_3@1.6.0-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-port_3@2.13.4-core.0.5

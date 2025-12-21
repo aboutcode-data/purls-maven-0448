@@ -53,3 +53,4 @@
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@4.0?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@4.1.1?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@4.1?classifier=sources
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier-nodep@4.2?classifier=sources

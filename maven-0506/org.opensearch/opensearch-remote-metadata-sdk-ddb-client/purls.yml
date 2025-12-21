@@ -7,3 +7,5 @@
 - pkg:maven/org.opensearch/opensearch-remote-metadata-sdk-ddb-client@3.0.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-remote-metadata-sdk-ddb-client@3.1.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-remote-metadata-sdk-ddb-client@3.2.0.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-remote-metadata-sdk-ddb-client@3.3.0.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-remote-metadata-sdk-ddb-client@3.3.1.0?classifier=sources

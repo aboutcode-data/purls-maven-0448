@@ -13,3 +13,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@1.6.3.6.05131?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@1.6.3.8.06191?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@1.6.3.8.06192?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@2.5.10.5.10141?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/octopus@2.5.9.23.09241?classifier=sources

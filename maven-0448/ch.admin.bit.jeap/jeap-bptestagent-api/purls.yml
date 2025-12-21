@@ -14,3 +14,5 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-bptestagent-api@2.34.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-bptestagent-api@2.35.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-bptestagent-api@2.36.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptestagent-api@2.37.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptestagent-api@2.38.0?classifier=sources

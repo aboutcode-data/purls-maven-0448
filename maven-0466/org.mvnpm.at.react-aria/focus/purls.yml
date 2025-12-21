@@ -10,3 +10,5 @@
 - pkg:maven/org.mvnpm.at.react-aria/focus@3.21.0?classifier=sources
 - pkg:maven/org.mvnpm.at.react-aria/focus@3.21.1
 - pkg:maven/org.mvnpm.at.react-aria/focus@3.21.1?classifier=sources
+- pkg:maven/org.mvnpm.at.react-aria/focus@3.21.2
+- pkg:maven/org.mvnpm.at.react-aria/focus@3.21.2?classifier=sources

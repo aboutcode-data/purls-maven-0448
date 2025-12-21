@@ -1,1 +1,2 @@
 - pkg:maven/de.vwsoft/barcodelib4j@2.0.2?classifier=sources
+- pkg:maven/de.vwsoft/barcodelib4j@3.0.0?classifier=sources

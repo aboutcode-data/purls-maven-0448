@@ -48,6 +48,8 @@
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@10.5.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@10.6.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@10.6.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-native-websocket-core@10.7.0
+- pkg:maven/org.apache.wicket/wicket-native-websocket-core@10.7.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@6.14.0
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@6.14.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-native-websocket-core@6.15.0

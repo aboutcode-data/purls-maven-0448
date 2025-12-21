@@ -58,3 +58,4 @@
 - pkg:maven/org.webjars.npm/diff2html@3.4.45?classifier=sources
 - pkg:maven/org.webjars.npm/diff2html@3.4.48
 - pkg:maven/org.webjars.npm/diff2html@3.4.51
+- pkg:maven/org.webjars.npm/diff2html@3.4.52

@@ -5,3 +5,4 @@
 - pkg:maven/io.joern/eclipse-cdt-core@8.5.0.202410191453%2B2?classifier=sources
 - pkg:maven/io.joern/eclipse-cdt-core@8.5.0.202410191453%2B3?classifier=sources
 - pkg:maven/io.joern/eclipse-cdt-core@8.5.0.202410191453?classifier=sources
+- pkg:maven/io.joern/eclipse-cdt-core@9.2.100.202507101054%2B1?classifier=sources

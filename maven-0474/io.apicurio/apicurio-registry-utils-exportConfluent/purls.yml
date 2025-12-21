@@ -102,6 +102,7 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.12?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.13?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.14?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.15?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.1?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.1?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.2?classifier=sources
@@ -119,3 +120,4 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.8?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.8?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.0.9?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportConfluent@3.1.0?classifier=sources

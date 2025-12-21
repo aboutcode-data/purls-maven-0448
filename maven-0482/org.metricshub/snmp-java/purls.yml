@@ -1,3 +1,4 @@
 - pkg:maven/org.metricshub/snmp-java@2.0.01?classifier=sources
 - pkg:maven/org.metricshub/snmp-java@2.1.00?classifier=sources
 - pkg:maven/org.metricshub/snmp-java@2.1.01?classifier=sources
+- pkg:maven/org.metricshub/snmp-java@2.1.02?classifier=sources

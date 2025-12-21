@@ -1,3 +1,4 @@
+- pkg:maven/de.wps.common/common-contracts@0.10?classifier=sources
 - pkg:maven/de.wps.common/common-contracts@0.2?classifier=sources
 - pkg:maven/de.wps.common/common-contracts@0.3?classifier=sources
 - pkg:maven/de.wps.common/common-contracts@0.4?classifier=sources
@@ -5,3 +6,4 @@
 - pkg:maven/de.wps.common/common-contracts@0.6?classifier=sources
 - pkg:maven/de.wps.common/common-contracts@0.7?classifier=sources
 - pkg:maven/de.wps.common/common-contracts@0.8?classifier=sources
+- pkg:maven/de.wps.common/common-contracts@0.9?classifier=sources

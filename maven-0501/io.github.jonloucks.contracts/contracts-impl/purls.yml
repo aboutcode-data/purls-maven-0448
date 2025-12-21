@@ -1,2 +1,13 @@
 - pkg:maven/io.github.jonloucks.contracts/contracts-impl@0.0.0?classifier=sources
 - pkg:maven/io.github.jonloucks.contracts/contracts-impl@0.0.1?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@0.0.4?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@1.0.0?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@1.1.0?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@2.0.0?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@2.0.1?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@2.0.3?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@2.1.0?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@2.2.1?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@2.3.0?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@2.3.1?classifier=sources
+- pkg:maven/io.github.jonloucks.contracts/contracts-impl@2.4.0?classifier=sources
